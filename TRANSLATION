@@ -18,13 +18,13 @@
 00:01:57 Jettisoning booster unit, stage 2
 00:02:00 Deceleration complete
 00:02:02 Preparing to enter final operational orbit. Flipping unit  head. Commencing rotation. 
-00:02:09 Descent angle confirmed to be within an acceptable range of error.
+00:02:09 Descent angle confirmed to be within an acceptable margin of error.
 00:02:10 Recalculating relative velocity
 ??:??:?? No problems
 00:02:16 Final orbit corrections complete
 00:02:18 180-degree rotation complete
 00:02:20 Roger. Unit 02-Dash will transition to the intersection orbit. Now commencing the operation
-00:02:26 All remote guiding will now be cut. Unit will be controlled locally
+00:02:26 All remote guiding will now be cut. Unit will be controlled manually
 00:02:30 Good luck
 00:02:33 Unit is on course to intersect with the target. Eight miles until contact
 00:02:38 Confirming target
@@ -50,7 +50,7 @@
 ??:??:?? It's called adapting to the situation. Keep up with me!
 ??:??:?? As you wish,
 ??:??:?? Princess!
-??:??:?? Got through the Fraury Shift
+??:??:?? [It/I] Got through the Fraury Shift
 ??:??:?? I'll break into Final Defense Area 89
 ??:??:?? The target is moving!
 ??:??:?? No time to correct my orbit!
@@ -100,7 +100,7 @@
 07:42 Cardiopulmonary function is nominal. No discernible paralysis of the extremities. Yes. His eyes are opening.
 07:51 Can you understand me?
 07:56 What is this place?
-07:58 He is speaking. He seems to have returned to a conscious state.
+07:58 He's responsive. He seems to have returned to a conscious state.
 08:03 I'm sure I saved Ayanami...
 08:07 Yes, continuity of memory also appears acceptable.
 08:11 Um, where's Ayanami...?
@@ -116,7 +116,7 @@
 08:57 了解、拘束を解いて。
 09:02 下がっていいわ。
 09:16 <Piano starts playing>
-09:26 ミサトさん
+09:26 Misato-san
 09:28 碇シンジ君、でいいのよね
 09:31 そうね、物理的情報ではコード第三の少年と完全に一致。生後の歯の治療痕など身体組織は、ニアサージを100%再現している。 <needs more work on the translation on this part>
 09:43 なお、深層シンクロテストの結果は分析中。
@@ -207,11 +207,11 @@
 15:59 了解、全ベント、チェック。
 16:00 艦の主制御アンカリードプラグへ集中。
 16:03 了解。ディセント準備。インダクター確認。カウント入ります。
-16:10 Misato-san! Unit 01 is here, right!? I will pilot it! I will help Asuka!
+16:10 Misato-san! Unit 01 is here, right!? I'll pilot it! I'll help Asuka!
 16:20 Are you saying I don't have to pilot!? Misato-san!
 16:26 That's right, there is no need for you to pilot an Eva.
 16:32 現在、指揮系統を戦闘艦橋へ移行中、繰り返す、指揮系統を戦闘艦橋へ移行中
-16:36 There's no need, um, then what should I be doing? Misato-san!
+16:36 If there's no need, um, then what should I be doing? Misato-san!
 16:47 Ikari Shinji-kun. You no longer need to do anything.
 17:05 LCL充満、添加密度クリア
 17:10 エントリースタート
@@ -288,9 +288,9 @@
 25:00 検体 DM03、仮称 碇シンジさん、副長から説明があるそうです。
 25:07 これが初号機
 25:08 ええ、初号機は現在、本艦の主機として使用中。ゆえにパイロットは不要です。
-25:17 Ah, so you I'm really not needed.
-25:19 Also, your synchro test results have come back. The synchro rate is 0.00%.
-25:26 Even if you were to board Eva, it would not start up.
+25:17 Ah, so I'm really not needed. 
+25:19 Also, your synch test results have come back. The synch rate is 0.00%.
+25:26 Even if you were to board the Eva, it wouldn't activate.
 25:31 Is that so? Isn't that good news, Ikari-san?
 25:33 とはいえ、先に突如12秒間も、覚醒状態と化した事実は看過できない。
 25:40 ゆえにあなたには、DSSチョーカーを装着させてあります。
@@ -301,10 +301,10 @@
 26:10 Does that mean... I will die?
 26:14 I will not deny that.
 26:17 No way...
-26:19 Misato-san, what is this about dying? This is weird Misato-san! Suddenly it's all like this, I don't understand anything!
+26:19 Misato-san, what is this about dying? This is weird Misato-san! Suddenly it's all so confusing and I don't understand anything!
 26:27 It can't be helped that you're confused. Second Lt.
 26:29 Yes!
-26:31 彼に官姓名を。
+26:31 Introduce yourself.
 26:31 Right. Um, it's late, but I'm the medical officer in charge(? 管理担当医官). Second Lt Suzuhara Sakura. Nice to meet you. 
 26:43 Ah, y-yes.
 26:47 But, Suzuhara... Touji's? 
@@ -521,7 +521,7 @@ There is always hope. Always.
 
 
 01:04:38 Evangelion 13, start up! 
-01:04:44 Signal coming in! [?] Activation of a new type of Eva confirmed. 
+01:04:44 Signal incoming! [?] Activation of a new type of Eva confirmed. 
 01:05:06 We're not alone. 
 01:05:10 You mean the Mark.09? It's here as our backup. It will warn us to any Wille activity. 
 01:05:15 [???] just us should be enough. It isn't even Ayanami... 
@@ -536,7 +536,7 @@ There is always hope. Always.
 01:06:48 We did it! 
 01:07:07 We've arrived. The deepest part of Central Dogma. The epicenter of Third Impact. 
 01:07:21 Is this Lilith? 
-01:07:23 What had once been. It is her corpse. 
+01:07:23 It once was. It is her corpse. 
 01:07:27 Misato-san.. Eventhough we tried to protect it with our lives... Uh.... That's an Eva? 
 01:07:35 Yes, the Eva Mark.06. Remodeled into an independent type, exploitation by the Lilin brought the unit to a state of ruin. 
 
@@ -557,9 +557,9 @@ That is the reason we came here in this Eva.
 What is happening?
 No 2? Asuka!
 What are you doing Asuka?
-Baka-shinji? I can't believe it, you are riding an Eva!?
-That is right, riding this Eva, I'm going to change the world!
-You little brat, if that's the real case, don't ride it again!
+Stupid Shinji? I can't believe it, you are piloting an Eva!?
+That is right, I'm piloting this Eva, I'm going to change the world!
+You little brat, if that's the case, don't pilot it again!
 Support fire, you're late again!
 Sorry sorry~ 
 Adam's vessel-san.. 
@@ -573,9 +573,9 @@ You really are a little brat.
   (01:10:20) 
 
 [???]
-Kaoru, why are you not helping?
-Longinus and Cassius, both of the spear is needed...
-But there is two of the same spear here...
+Kaoru, why aren't you helping?
+Longinus and Cassius, both of the spears are needed...
+But these are the same...
 Kaoru!
 That's it.. Now I understand..!
 Lilith!
@@ -594,7 +594,7 @@ Kaoru? What is wrong?
 I'm going to get you, gaki-Shinji! [??]
 Of all times! Hey glasses! Spare!
 Now is the time! The spear!
-To raise a hand against a girl.. The worst...
+You'd raise a hand against a girl.. You're the worst...
 Spare, incoming!
 Let's stop Shinji... I have a bad feeling about this...
 We can't do that Kaoru! Then what did we came here for?
@@ -604,12 +604,12 @@ You are the one who said we need the spears..
 That is why, I got into this Eva...
 The control system..?
 For the sake of Kaoru, for everyone I will get the spears..
-Only then the world will recover..
+Only then will the world be saved..
 If I were able to do that...
 Even Misato will...
 Damn!
 Glasses! The hindrance has been taken care of.  
-Take out both of the Eva's shoulder!
+Take out both of the Eva's shoulders!
 I have been waiting for this!
 
   (01:13:22)
@@ -625,7 +625,7 @@ Stop it!
 Let's begin, Fuyutsuki.
 Eva Mark 06?
 Pattern blue? What is the meaning of this?
-This is bad, the 12th angle is still alive!
+This is bad, the 12th angel is still alive!
 
   (01:14:36)
 
@@ -637,7 +637,7 @@ Alriight~
 [????]. Before [???], I will take care of this!
 This is the order I received.
 An Angel!?
-I advice you to stop doing that,it's pointless, the whole thing is a core.
+I advise you to stop doing that, it's pointless, the whole thing is a core.
 With just us, it is impossible to hurt that thing.
 Besides that, by defeating the last angel
 We don't know what kind of evil will come out.
@@ -658,9 +658,9 @@ Shinji's father!
 DSS choker pattern blue?
 The 13th angel that is not supposed to exist?
 So this is what Gendo is aiming for.
-It is time for the revision of the Dead Sea Scrolls contract.
+It is time for the revision of the Dead Sea Scrolls.
 This is goodbye.
-Eventhough all of you have changed the (shape) of your souls,
+Even though all of you have changed the (shape) of your souls,
 You are still lifeforms that was blessed with the fruit of knowledge.
 You were able to live for eternity,
 But same as us, you still cannot escape the fate of death.
@@ -674,10 +674,10 @@ As the representative of humanity, I say thank you.
   (01:17:05) 
 
 [???]By death, we will return you to were they belong
-The long desired Humanity Completion Project(?), and the arrival of the god as foretold, 
+The long desired Human Instrumentality Project, and the arrival of the god as foretold, 
 Will be completed by me.
 Rest assured.
 Our wishes had already been granted. Good.
 
 
-01:17:27 Everything is good. I wish for the Humanity Completion, the peaceful sleep of all souls.
+01:17:27 Everything is good. I wish for the Humanity Instrumentality, the peaceful sleep of all souls.
