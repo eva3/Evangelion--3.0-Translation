@@ -1,27 +1,27 @@
-00:00:45 Tracking team, report the current positions of Units 02-Dash and 08.
+00:00:45 Tracking team, report the current positions of Evas 02-Dash and 08.
 00:00:56 Unit 02-Dash has achieved operational altitude. It is now within range of the targeted orbit. 
 00:01:01 Eva-08 was unable to breach target orbital range due to insufficient altitude. 
 00:01:05 Copy that.
 00:01:06 02-Dash will conduct a solo operation. 
-00:01:11 Roger. Unit 08 will act as support. Transition shift to 7
-00:01:09 Unit 02-Dash is beyond the point of recovery. It is breaching Area 88. 
-00:01:16 Roger. Commence Operation UA
+00:01:11 Roger. Unit 08 will act as support. Transition shift to 7.
+00:01:09 Eva 02-Dash is beyond the point of recovery. It is breaching Area 88. 
+00:01:16 Roger. Commence Operation UA.
 00:01:24 Roger. Unit 02-Dash will enter the final operational orbit. Deceleration in progress. 
 00:01:27 Inducing a Stage 1 spark within all engines. Combustion imminent. 
-00:01:34 S1C combustion complete. Deceleration confirmed
+00:01:34 S1C combustion complete. Deceleration confirmed.
 00:01:41 Jettisoning booster unit, stage 1.
 00:01:43 Confirmed, ascertaining visual status. We're all clear. 
-00:01:47 Roger. Automating ignition timing. Igniting all engines, stage 2
-00:01:56 S1C combustion complete. Closing pressure valves
-00:01:57 Jettisoning booster unit, stage 2
-00:02:00 Deceleration complete
+00:01:47 Roger. Automating ignition timing. Igniting all engines, stage 2.
+00:01:56 S1C combustion complete. Closing pressure valves.
+00:01:57 Jettisoning booster unit, stage 2.
+00:02:00 Deceleration complete.
 00:02:02 Preparing to enter final operational orbit. Flipping unit  head. Commencing rotation. 
 00:02:09 Descent angle confirmed to be within an acceptable margin of error.
 00:02:10 Recalculating relative velocity. No problems.
 00:02:16 Final orbit corrections complete.
 00:02:18 180-degree rotation complete.
-00:02:20 Roger. Unit 02-Dash will transition to the intersection orbit. Now commencing the operation
-00:02:26 All remote guiding will now be cut. Unit will be controlled manually
+00:02:20 Roger. Unit 02-Dash will transition to the intersection orbit. Now commencing the operation.
+00:02:26 All remote guiding will now be cut. Unit will be controlled manually.
 00:02:30 Good luck.
 00:02:33 Unit is on course to intersect with the target. Eight miles until contact.
 00:02:38 Confirming target.
@@ -30,7 +30,7 @@
 00:02:43 02-Dash, prepare to rendezvous. Eva-08 is lacking altitude, so it can only assist you in the 96 seconds until re-entry
 00:02:50 Finish this by then
 00:02:54 Reflective waves detected in target space. It's jamming us!
-00:02:57 It's just the auto-defense system's mass weapon. No need to worry
+00:02:57 It's just the auto-defense system's mass weapon. No need to worry.
 00:03:02 Burst flows generated!
 00:03:04 Incoming in 3... 2... 1...
 00:03:10 Second wave incoming. Blood type: blue.
@@ -64,7 +64,7 @@
 00:05:04 02-Dash has jettisoned the last boosters.
 00:05:06 Ensuring safe distance for re-entry.
 00:05:10 Successfully seized the target. Returning.
-00:05:13 Roger
+00:05:13 Roger.
 00:05:14 We'll be waiting at the retrieval point.
 00:05:16 The join code is Saturn 5.
 00:05:17 Roger.
@@ -147,7 +147,7 @@
 00:11:19 Abandon any leftover cargo. Migration of crew takes top priority. 
 00:11:31 Remote control and Interlock Systems, activate. 
 00:11:35 Initiate main power system injection. Hurry. 
-00:11:39 L2 Reactor operating at 99% 
+00:11:39 N2 Reactor operating at 99%.
 00:11:43 Initiating main power system injection. Opening valves up to number 90. 
 00:11:46 Transmission pipe connected. 
 00:11:49 No problems detected in the port, and 3rd and 4th cargo cage. 
@@ -164,7 +164,7 @@
 00:12:37 That's your post! Of course!
 00:12:38 Whaat? For real?
 00:12:43 Activation is dangerous. Let's stay here! 
-00:12:50 Having battle stations on the bridge... It makes me nervous~ 
+00:12:50 Having battle stations on the bridge... It makes me nervous.
 00:12:52 Roger, activate all anti-air systems. Safeguarding Eva-01 is top priority. 
 00:12:57 Eva-01? 
 00:13:07 It's here. Confirming the target's mass of light. Ummm. Some numbers are increasing. 
@@ -185,11 +185,11 @@
 00:14:21 Wah... Elders should be more careful! 
 00:14:25 I am aware of the recklessness. We will use this ship as decoy and fish it out to the surface! 
 00:14:30 The power to kill god. I will see it through to the end. 
-00:14:34 But the most important ignition system has not been installed. Don't tell me, you're going to use EVA? 
+00:14:34 But the most important ignition system has not been installed. Don't tell me, you're going to use Eva? 
 00:14:40 Mari! 
 00:14:40 Eva-08 can't do it yet. 
-00:14:42 Asuka, 
-00:14:43 Asuka? (Doesn't she say "ほしこ？”?)
+00:14:42 Asuka!
+00:14:43 ...Asuka? 
 00:14:46 I'm already doing it! I just have to shove the ignition engine in, right? 
 00:14:49 I'm counting on you. 
 00:14:51 But there is a problem with the barrier density around the ship. Plus, isn't there work being done on the bridge? 
@@ -392,7 +392,7 @@
 00:31:55 Hey, come on!
 00:32:02 Alright!
 00:32:09 I knew it! An Adams' vessel? 
-00:32:18 挨拶くらいしてけよこなろー！
+00:32:18 Now that's a fine how-do-you-do! {挨拶くらいしてけよこなろー！}
 00:32:23 The fact he was taken in priority over Eva-01 means he still has potential as a trigger! 
 00:32:27 Misato! Use the DSS choker! 
 00:32:45 Mission directive from Executive Officer. Pursuit unnecessary. All personnel, resume emergency damage control and camouflage operation.
@@ -555,9 +555,9 @@
 00:53:53 What is...
 00:53:56 What am I supposed...
 00:54:03 Right... I saved Ayanami.
-00:54:06 Wasn't that good...
+00:54:06 Wasn't that the right thing?
 00:54:33 There is no book. She hasn't read one yet.
-00:54:39 What's going on... What's wrong with Ayanami...?
+00:54:39 What's going on...? What's wrong with Ayanami...?
 00:54:53 Third Boy, do you play shogi? 
 00:54:57 Eh... I only sort of know the rules. 
 00:55:00 That's fine. Pick a side.
@@ -605,22 +605,41 @@
 00:59:04 Ikari-kun...?
 00:59:11 So I didn't actually save you...
 00:59:15 Ayanami...
-00:59:18 Pointless...
-00:59:21 (Shinji's head: Asuka)
+00:59:18 Don't do anything. 
+00:59:21 あんたも知らない。（？）
+00:59:22 None of your business.
+00:59:23 ＃＃＃エヴァ。（？）
 00:59:23 Get in the Eva!
-00:59:27 (Shinji's head: Asuka)
-00:59:30 (Shinji's head: ???)
-00:59:32 (Shinji's head: Asuka)
-00:59:34 Get in the Eva!
-00:59:37 (Shinji's head: Asuka)
-00:59:40 Father...
+00:59:25 Get in the Eva!
+00:59:26 None of your business.
+00:59:27 Whatever you do, don't pilot an Eva!
+00:59:29 Don't do anything. 
+00:59:32 None of your business.
+00:59:33 Get in the Eva!
+00:59:34 None of your business.
+00:59:36 Whatever you do, don't pilot an Eva!
+00:59:39 Father...
+00:59:40 I don't know.
+00:59:41 Don't do anything. 
 00:59:42 Get in the Eva!
+00:59:43 None of your business.
+00:59:44 Whatever you do, don't pilot an Eva!
+00:59:45 Don't do anything. 
 00:59:46 Get in the Eva!
-(etc.)
+00:59:46 None of your business.
+00:59:48 Don't do anything. 
+00:59:48 I don't know.
+00:59:49 None of your business.
+00:59:51 Get in the Eva!
+00:59:52 Don't do anything. 
+00:59:53 I don't know.
+00:59:53 ...your business.
+00:59:54 I don't know.
+00:59:55 None of your business.
 01:00:00 Get in the Eva!
 01:00:08 What did I do?
 01:00:47 最後の執行者がついに完全していたか。
-01:00:50 ああ、これで道具を全て＃った。
+01:00:50 ああ、これで道具を全て揃った。
 01:00:57 The time has come, Ikari Shinji-kun. 
 01:01:02 No! 
 01:01:05 I don't want to pilot Eva anymore. 
@@ -710,7 +729,7 @@
 01:09:06 I can't believe it, you're piloting an Eva!?
 01:09:09 That's right. I'm going to change the world with this Eva!
 01:09:14 You little brat...
-01:09:15 Up to me, as usual!
+01:09:15 Up to me, as usual! {だったら、乗るなァ！}
 01:09:25 Support fire, you're always late!
 01:09:27 Sorry, sorry!
 01:09:28 Adams' Vessel-san,
@@ -824,7 +843,7 @@
 01:20:02 Contain the Eva in its present state!
 01:20:03 Preparing a volley from the main battery! ???? charged!
 01:20:06 Do whatever it takes to keep Fourth Impact in check!
-01:20:08 # "Attack!" or "That's an order" #
+01:20:08 # "Attack!" or "That's an order" # {撃てー！！ or 令！}
 01:20:17 Damage received! Direct hit to main armament!
 01:20:19 An Adams' Vessel?!
 01:20:26 Shots received on midsection! Damage unknown!
@@ -850,7 +869,7 @@
 01:22:05 Who the hell are YOU?!
 01:22:24 Report from lower bridge. Eva-02' has engaged (? - 会敵) the Adams' Vessel!
 01:22:27 We're counting on you, Asuka.
-01:22:48 "What would Ayanami Rei do at a time like this?" or "What would Wonder Girl do?"
+01:22:48 If I were Ayanami Rei, what would I do at a time like this? {こんな時、アヤナミレイならどうするの・・・？}
 01:22:51 Hell if I know!
 01:22:58 Do whatever you want!
 01:23:09 Geez! The whole thing's a core?
@@ -892,25 +911,26 @@
 01:27:38 But the removal of Seele's boy led to Eva-13 also awakening. 
 01:27:46 Captain Katsuragi's actions are within predications, as well.
 01:27:49 This will do for now. 
-001:27:53 電化（？）第二＃＃＃＃＃てを離陸（？）。（BGの日向)
-01:27:55 Unable to confirm(?) pattern blue.
+01:27:53 電化（？）第二＃＃＃＃＃てを離陸（？）。（BGの日向)
+01:27:55 Unable to confirm(?) pattern blue. {パターン青、反訴（？）ない。}
 01:27:57 限界＃＃を＃＃めず。（BGの女オペレター）
 01:27:59 Geofront かしろう（？）、target 処置（承知？）completed.
-01:28:01 "Fourth Impact stopped, but we don't know whom to thank." or "Target signatures are being blocked by an unidentified force" [Does her sentence really start with 誰の ? I'm not hearing it? T_T ] 
+01:28:01 Target signatures are being blocked by an unidentified force. {JP =? 誰のお陰か知らなけれど、フォースは止まった・・・。}
 01:28:04 ＃＃＃＃＃＃＃＃＃（BGの男オペレター）
 01:28:07 Misato, let's leave it for now...
 01:29:01 You brat, Shinji. 
-01:29:04 助けてくれないんだ？私を。
-01:29:10 And again, it's all about you. You think you can just escape what's happened by not saying a thing. {また自分の事ばっかり。黙ってりゃ済むと思ってる}
+01:29:04 You didn't come to help me? {助けてくれないんだ？私を。}
+01:29:10 Yet again, it's all about you. {また自分の事ばっかり。}
+01:29:12 You think you can just get with what's happened by not saying a thing. {黙ってりゃ済むと思ってる}
 01:29:40 You still need pampering? {まだ甘えてる。}
-01:29:43 いつまで立っても手間のかかるガキね！
-01:29:47 ほら、これ付けて。
-01:29:50 もー！立ってる位自分で出来るでしょ！
+01:29:43 How long will it take for the brat to try standing up?  {いつまで立っても手間のかかるガキね！}
+01:29:47 Here, hang onto me. {ほら、これ付けて。}
+01:29:50  Jeez! You can stand on your own, can't you?! {もー！立ってる位自分で出来るでしょ！}
 01:29:58 The pilot from earlier.
 01:30:02 From an early lot of Ayanami Types? 
-01:30:11 ここじゃエル結界密度が強すぎて、助けに来れないわ
-01:30:16 リリンが近づける所まで移動するわよ。
-01:30:23 Look!
+01:30:11 The density of the L Barrier is too strong, so don't come to help. {ここじゃエル結界密度が強すぎて、助けに来れないわ}
+01:30:16 We're going to where the Lilin are. {リリンが近づける所まで移動するわよ。}
+01:30:23 Come on!
 01:35:?? PREVIEW
 01:35:12 Shinji Ikari continues to wander, still lacking the will to live. 
 01:35:16 He comes upon a place that teaches him hope. 
