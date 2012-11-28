@@ -81,7 +81,7 @@
 00:05:44 Damn, this thing is stubborn!
 00:05:46 Nobody told me about this!
 00:05:59 What's with this light?!
-00:06:01 It's ignoring the A.T. Field!
+00:06:01 The A.T. Field isn't neutralizing it!
 00:06:03 Gotta do a core block!
 00:06:06 You're not getting away!
 00:06:10 Crap! I can't maintain my descent angle!
@@ -134,16 +134,22 @@
 00:10:28 Decoys 01 and 05 destroyed.
 00:10:30 Wavelength also insufficient.
 00:10:32 The hell's this? 
-00:10:34 It's Pattern Blue. Target identified. Altitude 4C. It's the Nemesis Series. 
-00:10:39 So they come again. 
+00:10:34 Pattern Blue. Target identified. 
+00:10:36 Code 4C. It's the Nemesis Series. 
+00:10:39 They're back...
 00:10:40 It is advancing 3-dimensionally. It's trying to seal us in. 
-00:10:45 We cannot afford to move from here yet. Continue cooling the main engines, drop everything else. {Carry out the connection procedures. (I have no context due to not listening to the rip. It might mean connection procedure for the EVA units, or the ships of the fleet. Please feel free to edit this. ) }
-00:10:51 All fleets. Second battle stations. Target: All Nemesis Series. 
+00:10:43 ＃＃マル二。＃＃＃消滅確認。
+00:10:45 We cannot afford to move from here yet. 
+00:10:48 Continue cooling the main engines, drop everything else. {JP =? 主機関連作業のみ続行。}
+00:10:51 All fleets to second battle stations. 
+00:10:53 Target: All Nemesis Series. 
 00:10:55 Roger. Second battle stations. 
-00:10:59 Prepare for Anti-air, Anti-water, and underwater battle. 
-00:11:02 Abandon stock transfer. Prioritise the transferring all personel to another vessel. 
-00:11:05 All fleets, abandoning stock transfer. All personel, transferring vessels is top priority! 
-00:11:13 All aircrafts are to withdraw from our current air space. Quickly, move to Meeting Point 2. 
+00:10:58 Prepare for anti-air, anti-water, and underwater battle. 
+00:11:02 Abandon stock transfer. Prioritize the transferring of all personnel to another vessel. 
+00:11:05 All fleets, abandoning stock transfer. 
+00:11:07 All personnel, transferring vessels is top priority!
+00:11:13 All aircraft are to withdraw from our current air space. 
+00:11:17 Hurry to Meeting Point 2. 
 00:11:19 Abandon any leftover cargo. Migration of crew takes top priority. 
 00:11:31 Remote control and Interlock Systems, activate. 
 00:11:35 Initiate main power system injection. Hurry. 
@@ -151,30 +157,50 @@
 00:11:43 Initiating main power system injection. Opening valves up to number 90. 
 00:11:46 Transmission pipe connected. 
 00:11:49 No problems detected in the port, and 3rd and 4th cargo cage. 
-00:11:51 Roger. Opening all valves up to 90. Begin energy injection. 
-00:11:56 Injecting power to reactor L2. All nominal. 
+00:11:51 Roger. Opening all valves up to 90. 
+00:11:54 Begin energy injection. 
+00:11:56 Injecting power to N2 reactor. All nominal.
 00:11:58 Checking LCL unit 13. Filtering system is go.
-00:12:03 Battle stations! Get back to your departments. Hey, you there! Don't stand around! 
-00:12:08 It's impossible, Ma'am (head of mechanics/maintence department). I mean, we're a ragtag group with civilians in the mix! 
-00:12:14 No excuses! Get your hands moving! Ugh, young men are so spineless.
-00:12:21 Ummm、they said to stop transfer procedures now, and commence locking down the barrier walls... with this? 
-00:12:28 So I should put the AA bow as the deck, and this is the sonar's direction. (対空艦首を舷として、ソナーの方位はこれ。) 
+00:12:03 Battle stations! 
+00:12:04 Get back to your departments. 
+00:12:06 You there! No idling! 
+00:12:08 It's impossible, Ma'am (head of mechanics/maintence department). 
+00:12:10 I mean, we're a ragtag group with civilians in the mix! {なんせ民間人も混じってる寄せ集め集団ですよ。}
+00:12:13 No excuses! 
+00:12:15 Get your hands moving! {さっさと手を動かせ！}et your hands moving! 
+00:12:17 “This is why I hate younger men.” or “Ugh, young men are so spineless.”
+00:12:21 Sooo、they said to stop transfer procedures here, {えーっと、移送作業はここで中断。}
+00:12:24 and commence locking down the wall barrier...here? {隔壁の閉鎖を開始って・・・これか・・・？}
+00:12:28 So I should put the AA bow as the deck, and this is the sonar's direction. {対空艦首を舷として、ソナーの方位はこれ。}
+00:12:28 ＃＃兵装＃＃、＃＃＃＃＃＃＃。（BGの男オペレーター）
 00:12:31 Kitakami! What's the status of the procedures on deck? 
 00:12:34 Am I in charge of that?
-00:12:37 That's your post! Of course!
+00:12:36 That's your post! Of course!
 00:12:38 Whaat? For real?
 00:12:43 Activation is dangerous. Let's stay here! 
+00:12:47 全館、滞空報道＃＃＃＃＃＃完了。
 00:12:50 Having battle stations on the bridge... It makes me nervous.
-00:12:52 Roger, activate all anti-air systems. Safeguarding Eva-01 is top priority. 
+00:12:52 Roger. Activate all anti-air systems. 
+00:12:55 Safeguarding Eva-01 is top priority. 
 00:12:57 Eva-01? 
-00:13:07 It's here. Confirming the target's mass of light. Ummm. Some numbers are increasing. 
-00:13:13 We can't grasp the target's core block. It is probably ### concealed in the air space outside. (incomplete transcript here) 
-00:13:19 This is bad. At this rate, we'll be on the recieving end of a saturation attack. (transcript) 
+00:13:07 It's here! 
+00:13:08 Confirming the target's mass of light. 
+00:13:11 It's... numbers are increasing somehow! 
+00:13:13 We can't grasp the target's core block. It is probably ### concealed in the air space outside. 00:13:13 We can't grasp the target's core block. 
+00:13:15 It is probably being concealed on the outside of a phased cocoon. 
+00:13:18 This is bad. 
+00:13:20 At this rate, we'll be on the receiving end of a saturated attack. ｛このままだと、飽和攻撃を＃＃｝
 00:13:22 600 seconds until contact. 
-00:13:24 Captain Katsuragi. I propose an immediate dispersal of the fleets. In our current state #### and ####. Additionally, this main ship's comouflage equipment is incomplete. 
-00:13:35 On top of that, we cannot grasp the target's core block. In other words, our chance of winning is zero. 
-00:13:42 We should retreat from here, as usual. There is no way. Captain Katsuragi! 
-00:13:48 Precisely because of that, I will change our current situation and put an end to this. Vice captain, we're going to fly. 
+00:13:24 Captain Katsuragi,
+00:13:25 I propose an immediate dispersal of the fleets. 
+00:13:29 乗員の定数および限度不足。 
+00:13:32 Compounding the problem, this main ship's camouflage equipment is incomplete. 
+00:13:34 On top of that, we cannot grasp the target's core block. 
+00:13:38 In other words, our chance of winning is zero. 
+00:13:42 At this point, we should retreat like we usually do. There is no way. 
+00:13:45 Captain Katsuragi!
+00:13:47 And that's precisely why I will change the status quo and cut off any anxiety. {だからこそ、現状を変えて後顧の憂いを断つ。}
+00:13:52 Vice Captain, we're going to fly.
 00:13:54 Fly?! You can't be thinking of using the main unit? 
 00:13:58 All fleet, prepare for launch! Prepare for ignition of the main engines!
 00:14:03 It's too reckless to use the main ship all of a sudden, Captain Katsuragi! 
