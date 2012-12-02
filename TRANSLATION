@@ -107,11 +107,11 @@
 00:08:24 What is this?
 00:08:29 Installation list for refill operations cleared up to 86%.
 00:08:31 Online N2 reactor maintaining output of 90%
-00:08:34 / Nothing visible within a perimeter of 1200. No unidentified flying objects can be confirmed, either.{半径1200以内に艦影なし。未確認飛行物体も認められず(not sure what exactly is meant by 艦影)}
-00:08:38 / Prioritize ships in the D block for the transferral of crew.{乗員の移乗はDブロックの船を最優先}
+00:08:34 No ships visible within a perimeter of 1200. No unidentified flying objects can be confirmed, either.
+00:08:38 Prioritize ships in the D block for the transferral of crew.
 00:08:40 / We don't have enough personnel for the transfer operation!{＃＃転入作業の人手がまるで足りない (日向の台詞)}
 00:08:43 / ＃＃＃＃＃にずれがあり (女のオペレーター)
-00:08:46 Checking the roadmap for the camouflage operation. {偽装作業、ロードマップをチェック。}
+00:08:46 Checking the roadmap for the camouflage operation.
 00:08:53 Specimen DM03 is in our custody.
 00:08:56 Understood. Release the restraints.
 00:09:02 You can step down.
@@ -140,7 +140,7 @@
 00:10:40 It is advancing 3-dimensionally. It's trying to seal us in. 
 00:10:43 / ＃＃マル二。＃＃＃消滅確認。
 00:10:45 We cannot afford to move from here yet. 
-00:10:48 / Continue cooling the main engines, drop everything else. {JP =? 主機関連作業のみ続行。}
+00:10:48 Continue only with main engine's operations.
 00:10:51 All fleets to second battle stations. 
 00:10:53 Target: All Nemesis Series. 
 00:10:55 Roger. Second battle stations. 
@@ -165,13 +165,13 @@
 00:12:04 Get back to your departments. 
 00:12:06 You there! No idling! 
 00:12:08 / It's impossible, Ma'am (head of mechanics/maintence department). 
-00:12:10 / I mean, we're a ragtag group with civilians in the mix! {なんせ民間人も混じってる寄せ集め集団ですよ。}
+00:12:10 We are something of a mixed group with civilians amongst us, after all.
 00:12:13 No excuses! 
 00:12:15 / Get to work! {さっさと手を動かせ！}
 00:12:17 / “This is why I hate younger men.” or “Ugh, young men are so spineless.”
-00:12:21 / Sooo, they said to stop transfer procedures here, {えーっと、移送作業はここで中断。}
-00:12:24 / and commence locking down the barrier wall...here? {隔壁の閉鎖を開始って・・・これか・・・？}
-00:12:28 / So I should put the AA bow as the deck, and this is the sonar's direction. {対空艦首を舷として、ソナーの方位はこれ。}
+00:12:21 Umm... interrupting the transfer here.
+00:12:24 Commencing lockdown of barrier walls... is this it?
+00:12:28 The sonar is in this direction with the bow of the anti-air ship as reference.
 00:12:28 / ＃＃兵装＃＃、＃＃＃＃＃＃＃。（BGの男オペレーター）
 00:12:31 Kitakami! What's the status of the procedures on deck? 
 00:12:34 Am I in charge of that?
@@ -189,7 +189,7 @@
 00:13:13 / We can't grasp the target's core block. It is probably ### concealed in the air space outside. 00:13:13 We can't grasp the target's core block. 
 00:13:15 It is probably being concealed on the outside of a phased cocoon. 
 00:13:18 This is bad. 
-00:13:20 / At this rate, we'll be on the receiving end of a saturated attack. ｛このままだと、飽和攻撃を＃＃｝
+00:13:20 At this rate, we'll be on the receiving end of a saturation bombing.
 00:13:22 600 seconds until contact. 
 00:13:24 Captain Katsuragi,
 00:13:25 I propose an immediate dispersal of the fleets. 
@@ -199,7 +199,7 @@
 00:13:38 In other words, our chance of winning is zero. 
 00:13:42 At this point, we should retreat like we usually do. There is no way. 
 00:13:45 Captain Katsuragi!
-00:13:47 / And that's precisely why I will change the status quo and cut off any anxiety. {だからこそ、現状を変えて後顧の憂いを断つ。}
+00:13:47 This is why I will change the current situation to neutralize any possibly anxiety.
 00:13:52 Vice Captain, we're going to fly.
 00:13:54 Fly?! You can't be thinking of using the main unit? 
 00:13:58 All fleet, prepare for launch! Prepare for ignition of the main engines!
@@ -289,7 +289,7 @@
 00:21:34 / Invert the ship! {艦を倒立！}
 00:21:35 Go astern!
 00:21:36 Go astern! Forward, ho!
-00:21:44 / Pull out the remains of the core block from the phased cocoon. {このままコアブロックを、位相コクーンから引きずり出す。}
+00:21:44 Pull out the remains of the core block from the phased cocoon.
 00:21:53 A crack has been sustained on the end of the main wing. 
 00:21:55 Evasive maneuvers at full capacity. 
 00:21:59 Full power on both sides.
@@ -381,10 +381,10 @@
 00:29:17 Of course, I'm right on top of it.
 00:29:20 By the way, how was Puppy Boy? 
 00:29:22 Is he obediently staying put?
-00:29:25 / Nothing's changed. I got tired of looking at his stupid face. {何も変わらず、＃＃＃で馬鹿な顔してた。}
-00:29:28 / Oh, so you went to go see his face, did you？ {その顔、見に行ったんじゃないの～？}
-00:29:32 / No! It's awful. I hit him. {違う！まずい。たたけ。}
-00:29:34 / I feel much better now. {これでスッキリした。}
+00:29:25 Nothing's changed. I got tired of looking at his stupid face.
+00:29:28 Oh, so you went to go see his face, did you？
+00:29:32 No! It's awful. I hit him.
+00:29:34 I feel much better now.
 00:29:35 Misato-san, Ritsuko-san! Just who is coming? 
 00:29:39 Is it a new Angel?!
 00:29:41 Ikari-kun, where are you?
@@ -583,8 +583,8 @@
 00:53:30 Was his reaction as you anticipated?
 00:53:33 Are you okay with all of this, Ikari?
 00:53:35 Seele's scenario is being rewritten by us.
-00:53:39 / All existence follows the tools for that purpose. {あらゆる存在は、そのための道具に過ぎん。}
-00:53:42 / You've made that clear, but does Shinji feel the same? {おまえの生き様を見せても、息子の為にはならんとするんか？}
+00:53:39 All existance is nothing more than a tool for that purpose.
+00:53:42 / Even if he sees you, won't you do something for your son? {おまえの生き様を見せても、息子の為にはならんとするんか？}
 00:53:48 I don't think so.
 00:53:53 What is...
 00:53:56 What am I supposed--
@@ -618,7 +618,7 @@
 00:57:08 She is preserved within Eva-01, the same as your mother.
 00:57:13 All of it is Ikari's plan.
 00:57:17 No way...
-00:57:20 / Breaking the world is not difficult. {世界を崩す事は造作もない。}
+00:57:20 Breaking the world is not difficult.
 00:57:24 But rebuilding it, that isn't so easy. 
 00:57:28 The world can be reversed no more than time. Nor even the human heart...
 00:57:35 And thus, so that his wish might be granted, Ikari is paying every price there is. 
@@ -671,8 +671,8 @@
 00:59:55 None of your business.
 01:00:00 Get in the Eva!
 01:00:08 What did I do?
-01:00:47 / Is the final executor ready at last? (最後の執行者がついに完全していたか)
-01:00:50 / Yes, Everything we need is right here. {ああ、これで道具を全て揃った。}
+01:00:47 Has the final executor been completed?
+01:00:50 Yes, Everything we need is right here.
 01:00:57 The time has come, Ikari Shinji-kun. 
 01:01:02 No! 
 01:01:05 I don't want to pilot Eva anymore. 
@@ -902,7 +902,7 @@
 01:22:05 Who the hell are YOU?!
 01:22:24 / Report from lower bridge. Eva-02' has engaged (? - 会敵) the Adams' Vessel!
 01:22:27 We're counting on you, Asuka.
-01:22:48 / If I were Ayanami Rei, what would I do at a time like this? {こんな時、アヤナミレイならどうするの・・・？}
+01:22:48 If I were Ayanami Rei, what would I do at a time like this?
 01:22:51 Hell if I know!
 01:22:58 Do whatever you want!
 01:23:09 Geez! The whole thing's a core?
@@ -945,24 +945,24 @@
 01:27:46 Captain Katsuragi's actions are within predications, as well.
 01:27:49 This will do for now. 
 01:27:53 / 電化（？）第二＃＃＃＃＃てを離陸（？）。（BGの日向)
-01:27:55 / Unable to confirm(?) pattern blue. {パターン青、反訴（？）ない。}
+01:27:55 Unmistakenly, parttern blue.
 01:27:57 / 限界＃＃を＃＃めず。（BGの女オペレター）
 01:27:59 / Geofront かしろう（？）、target 処置（承知？）completed.
 01:28:01 / # "Fourth Impact was stopped, but we don't know whom to thank." or "Target signatures are being blocked by an unidentified force." {JP =? 誰のお陰か知らなけれど、フォースは止まった・・・。}
 01:28:04 / ＃＃＃＃＃＃＃＃＃（BGの男オペレター）
 01:28:07 Misato, let's leave it for now...
 01:29:01 You brat, Shinji. 
-01:29:04 / You didn't come to help me? {助けてくれないんだ？私を。}
-01:29:10 / Yet again, it's all about you. {また自分の事ばっかり。}
-01:29:12 / You think you can just get away with what's happened by not saying a thing. {黙ってりゃ済むと思ってる}
-01:29:40 / You still need pampering? {まだ甘えてる。}
-01:29:43 / How long will it take for the brat to try standing up? {いつまで立っても手間のかかるガキね！}
-01:29:47 / Here, hang onto me. {ほら、これ付けて。}
-01:29:50 / Jeez! You can stand on your own, can't you?! {もー！立ってる位自分で出来るでしょ！}
+01:29:04 You didn't come to help me?
+01:29:10 Yet again, it's all about you.
+01:29:12 You think you can just get away with what's happened by not saying a thing.
+01:29:40 You still need pampering?
+01:29:43 You're always such a time-wasting brat.
+01:29:47 / Here, put this on. {ほら、これ付けて。}
+01:29:50 Jeez! You can stand on your own, can't you?!
 01:29:58 The pilot from earlier.
 01:30:02 From an early lot of Ayanami Types? 
 01:30:11 The L Barrier's density is too strong here, so they won't come to help us. 
-01:30:16 / We're going to where the Lilin are. {リリンが近づける所まで移動するわよ。}
+01:30:16 We're going to where the Lilin are.
 01:30:23 Come on!
 01:35:?? PREVIEW
 01:35:12 Shinji Ikari continues to wander, still lacking the will to live. 
