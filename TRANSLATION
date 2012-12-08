@@ -1,41 +1,67 @@
-00:00:45 Tracking team, report the current positions of Evas 02-Dash and 08.
-00:00:56 Unit 02-Dash has achieved operational altitude. It is now within range of the targeted orbit.
-00:01:01 Eva-08 was unable to breach target orbital range due to insufficient altitude.
-00:01:05 Copy that.
+00:00:52 Tracking team, report on both units' current positions.
+00:00:55 Pod 02-Dash has achieved operational altitude. 
+00:00:58 It has settled into the targeted orbit.
+00:01:00 Pod 08 was unable to breach target orbital range due to insufficient altitude.
+00:01:04 Copy that.
 00:01:06 02-Dash will conduct a solo operation.
-00:01:11 Roger. Eva-08 will act as support. Transition shift to 7.
-00:01:09 Eva 02-Dash is beyond the point of recovery. It is breaching Area 88.
-00:01:16 Roger. Commence Operation UA.
-00:01:24 Roger. Eva 02-Dash will enter the final operational orbit. Deceleration in progress.
-00:01:27 Inducing a Stage 1 spark within all engines. Combustion imminent.
-00:01:34 S1C combustion complete. Deceleration confirmed.
-00:01:41 Jettisoning booster unit, stage 1.
-00:01:43 Confirmed, ascertaining visual status. We're all clear.
-00:01:47 Roger. Automating ignition timing. Igniting all engines, stage 2.
-00:01:56 S1C combustion complete. Closing pressure valves.
+00:01:08 Roger. 
+00:01:09 Pod 08 will act as support. 
+00:01:11 / Transition shift to 7. {シフトをセブンに移行}
+00:01:12 Pod 02-Dash is beyond the point of recovery. 
+00:01:15 Breaching Area 88.
+00:01:17 Roger. 
+00:01:18 Commence Operation US.
+00:01:20 Roger. 
+00:01:21 Pod 02-Dash will enter the final operational orbit. 
+00:01:25 Deceleration in progress.
+00:01:26 / Inducing a Stage 1 spark within all engines. {第一弾、全エンジンを点火。}
+00:01:29 Combustion imminent.
+00:01:34 S1C combustion complete. 
+00:01:36 Deceleration confirmed.
+00:01:37 Jettisoning booster unit, stage 1.
+00:01:41 Separation confirmed. 
+00:01:43 Combustion systems cleared. No problems detected. 
+00:01:45 Roger. 
+00:01:46 Automating ignition timing. 
+00:01:48 Igniting all engines, stage 2.
+00:01:53 S1C combustion complete. 
+00:01:56 Closing pressure valves.
 00:01:57 Jettisoning booster unit, stage 2.
 00:02:00 Deceleration complete.
-00:02:02 Preparing to enter final operational orbit. Flipping unit head. Commencing rotation.
-00:02:09 Descent angle confirmed to be within an acceptable margin of error.
-00:02:10 Recalculating relative velocity. No problems.
+00:02:02 Preparing to enter final operational orbit. 
+00:02:05 Flipping unit head. 
+00:02:06 Commencing rotation.
+00:02:07 Descent angle confirmed. 
+00:02:09 Within an acceptable margin of error.
+00:02:10 Recalculating relative velocity. 
+00:02:12 Reconfirming coordinate altitude. 
+00:02:14 No problems.
 00:02:16 Final orbit corrections complete.
 00:02:18 180-degree rotation complete.
-00:02:20 Roger. Unit 02-Dash will transition to the intersection orbit. Now commencing the operation.
-00:02:26 All remote guiding will now be cut. Unit will be controlled manually.
+00:02:20 Roger. 
+00:02:21 Pod 02-Dash will transition to the intersection orbit. 
+00:02:24 Now commencing the operation.
+00:02:26 All remote guiding will now be cut. 
+00:02:28 Unit will be controlled manually.
 00:02:30 Good luck.
-00:02:33 Unit is on course to intersect with the target. Eight miles until contact.
-00:02:38 Confirming target.
-00:02:39 Contact point is unchanged.
+00:02:32 Unit is on course to intersect with the target. 
+00:02:34 80 remaining until contact.
+00:02:37 Confirming target.
+00:02:38 Contact point is unchanged.
 00:02:40 Maintaining Shift-M. No problems.
-00:02:43 02-Dash, prepare to rendezvous. Eva-08 is lacking altitude, so it can only assist you in the 96 seconds until re-entry.
+00:02:43 02-Dash, prepare to rendezvous. 
+00:02:45 08 is lacking altitude, so it can only assist you in the 96 seconds until re-entry.
 00:02:50 Finish this by then.
-00:02:54 Reflective waves detected in target space. It's jamming us!
-00:02:57 It's just the auto-defense system's mass weapon. No need to worry.
-00:03:02 Burst flows generated!
-00:03:04 Incoming in 3... 2... 1...
-00:03:10 Second wave incoming. Blood type: blue.
-00:03:13 They're a pesky bunch.
-00:03:14 Identifying approaching body...
+00:02:53 Reflective waves detected in target space. 
+00:02:55 It's jamming us!
+00:02:56 It's just the auto-defense system's mass weapon. 
+00:02:58 No need to worry.
+00:03:01 Burst flows generated!
+00:03:03 Incoming in 3... 2... 1...
+00:03:10 Second wave incoming. 
+00:03:11 Blood type: blue.
+00:03:12 They're a pesky bunch.
+00:03:13 Identifying approaching body...
 00:03:15 Confirmed to be Code 04A.
 00:03:25 An Anti-A.T. Field!
 00:03:32 This sucks!
