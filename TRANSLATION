@@ -10,7 +10,7 @@
 00:01:12 {Ritsuko} Pod 02-Dash is beyond the point of recovery. 
 00:01:15 {Ritsuko} Breaching Area 88.
 00:01:17 {Misato} Roger. 
-00:01:18 {Misato} Commence Operation US.
+00:01:18 {Misato} Commence Operation Spacewalk.
 00:01:20 {Woman} Roger. 
 00:01:21 {Woman} Pod 02-Dash will enter the final operational orbit. 
 00:01:25 {Woman} Deceleration in progress.
@@ -99,7 +99,7 @@
 00:05:20 {Asuka} Where?!
 00:05:25 {Woman} The triggering object is Code 04B.
 00:05:27 {Woman} It's deploying indo-hashamas.
-00:05:29 {Asuka} What nerve!
+00:05:29 {Asuka} The nerve!
 00:05:30 {Asuka} Right before re-entry, too.
 00:05:33 {Asuka} Glasses, back-up!
 00:05:36 {Mari} Sorry!
@@ -125,7 +125,8 @@
 00:07:46 {Sakura} Yes. His eyes are opening.
 00:07:50 {Sakura} Can you understand me?
 00:07:55 {Shinji} What is this place?
-00:07:58 {Sakura} He's responsive. He seems to have returned to a conscious state.
+00:07:58 {Sakura} He's responsive. 
+00:07:59 {Sakura} He seems to have returned to a conscious state.
 00:08:03 {Shinji} I'm sure I saved Ayanami...
 00:08:06 {Sakura} Yes, continuity of memory also seems acceptable.
 00:08:10 {Shinji} Um, where's Ayanami...?
@@ -197,71 +198,88 @@
 00:11:33 {Woman} /＃＃＃＃＃＃＃
 00:11:35 {Koji} Initiate main power system injection. 
 00:11:38 {Koji} Hurry.
-00:11:39 N2 Reactor operating at 99%.
-00:11:43 Initiating main power system injection. Opening valves up to number 90.
-00:11:46 Transmission pipe connected.
-00:11:49 No problems detected in the port, and 3rd and 4th cargo cage.
-00:11:51 Roger. Opening all valves up to 90.
-00:11:54 Begin energy injection.
-00:11:56 Injecting power to N2 reactor. All nominal.
-00:11:58 Checking LCL unit 13. Filtering system is go.
-00:12:03 Battle stations!
-00:12:04 Get back to your departments.
-00:12:06 You there! No idling!
-00:12:08 You are asking for the impossible, Ma'am!
-00:12:10 We are something of a mixed group with civilians amongst us, after all.
-00:12:13 No excuses!
-00:12:15 Get to work!
-00:12:17 / “This is why I hate younger men.” or “Ugh, young men are so spineless.” or "Bleh! This is why you're still a boy."
-00:12:21 Umm... interrupting the transfer here.
-00:12:24 Commencing lockdown of barrier walls... is this it?
-00:12:28 The sonar is in this direction with the bow of the anti-air ship as reference.
-00:12:28 / ＃＃兵装＃＃、＃＃＃＃＃＃＃。（BGの男オペレーター）
-00:12:31 Kitakami! What's the status of the procedures on deck?
-00:12:34 Am I in charge of that?
-00:12:36 That's your post! Of course!
-00:12:38 Whaat? For real?
-00:12:43 Activation is dangerous. Let's stay here!
-00:12:47 / 全館、滞空報道＃＃＃＃＃＃完了。
-00:12:50 Having battle stations on the bridge... It makes me nervous.
-00:12:52 Roger. Activate all anti-air systems.
-00:12:55 Safeguarding Eva-01 is top priority.
-00:12:57 Eva-01?
-00:13:07 It's here!
-00:13:08 Confirming the target's mass of light.
-00:13:11 It's... numbers are increasing somehow!
-00:13:13 We can't grasp the target's core block.
-00:13:15 It is probably being concealed on the outside of a phased cocoon.
-00:13:18 This is bad.
-00:13:20 At this rate, we'll be on the receiving end of a saturation bombing.
-00:13:22 600 seconds until contact.
-00:13:24 Captain Katsuragi,
-00:13:25 I propose an immediate dispersal of the fleets.
-00:13:29 We have insufficient crew and limited resources.
-00:13:32 Compounding the problem, this main ship's camouflage equipment is incomplete.
-00:13:34 On top of that, we cannot grasp the target's core block.
-00:13:38 In other words, our chance of winning is zero.
-00:13:42 At this point, we should retreat like we usually do. There is no way.
-00:13:45 Captain Katsuragi!
-00:13:47 This is why I will change the current situation to neutralize any possibly anxiety.
-00:13:52 Vice Captain, we're going to fly.
-00:13:54 Fly?! You can't be thinking of using the main unit?
-00:13:58 All fleet, prepare for launch! Prepare for ignition of the main engines!
-00:14:03 It's too reckless to use the main ship all of a sudden, Captain Katsuragi!
-00:14:06 I agree. We haven't even run a test flight. It's too dangerous.
-00:14:11 Anti-gravity also hasn't been tested. I don't have confidence in it.
-00:14:14 I don't want to fight battles that can't be won. I don't want to die yet.
-00:14:17 We die when we die. That is all there is. Quit complaining, younglings.
-00:14:21 Wah... Elders should be more careful!
-00:14:25 I am aware of the recklessness. We will use this ship as decoy and fish it out to the surface!
-00:14:30 The power to kill god. I will see it through to the end.
-00:14:34 But the most important ignition system has not been installed. Don't tell me, you're going to use Eva?
-00:14:40 Mari!
-00:14:40 Eva-08 can't do it yet.
-00:14:42 Asuka!
-00:14:43 ...Asuka?
-00:14:46 I'm already doing it! I just have to shove the ignition engine in, right?
-00:14:49 I'm counting on you.
+00:11:39 {Man} N2 Reactor operating at 99%.
+00:11:43 {Woman} Initiating main power system injection. 
+00:11:44 {Woman} Opening valves up to number 90.
+00:11:46 {Woman} Transmission pipe connected.
+00:11:48 {Woman} No problems detected in the port, and 3rd and 4th cargo cage.
+00:11:51 {Man} Roger. 
+00:11:52 {Man} Opening all valves up to 90.
+00:11:54 {Man} Begin energy injection.
+00:11:56 {Woman} Injecting power to N2 reactor. 
+00:11:58 {Woman} All nominal.
+00:11:58 {Woman} / Checking LCL unit 13. {ＬＣＬ13ボーン（？）の電源中。}
+00:12:01 {Woman} Filtration system is go.
+00:12:03 {Maya} Battle stations!
+00:12:04 {Maya} Get back to your departments.
+00:12:06 {Maya} You there! No idling!
+00:12:08 {Worker} You're asking for the impossible, Ma'am!
+00:12:10 {Worker} We are something of a mixed group with civilians amongst us, after all.
+00:12:13 {Maya} No excuses!
+00:12:15 {Maya} Get to work!
+00:12:17 {Maya} Ugh, this is why I can't stand younger men.
+00:12:21 {Tama} Umm... interrupting the transfer here.
+00:12:24 {Tama} Commencing lockdown of barrier walls... is this it?
+00:12:27 {Midori} The sonar is in this direction with the bow of the anti-air ship as reference.
+00:12:31 {Aoba} Kitakami! 
+00:12:32 {Aoba} What's the status of the procedures on deck?
+00:12:34 {Midori} Am I in charge of that?
+00:12:36 {Aoba} That's your post! Of course!
+00:12:38 {Midori} Whaat? For real?
+00:12:43 {Sakura} The start-up is dangerous. 
+00:12:45 {Sakura} Let's stay here!
+00:12:47 {Woman (BG)} / 全館、たい空ほうどう及び＃＃＃ゆうどう＃＃完了。
+00:12:49 {Sakura} Having battle stations on the bridge... 
+00:12:52 {Misato} Roger.
+00:12:52 {Sakura} It's so nerve-wracking!
+00:12:53 {Misato} Activate all anti-air systems.
+00:12:55 {Misato} Safeguarding Eva-01 is our number-one priority.
+00:12:57 {Shinji} ...Eva-01?
+00:13:07 {Midori} It's here!
+00:13:08 {Midori} Confirming the target's pillar of light.
+00:13:10 {Midori} Its... numbers are increasing somehow!
+00:13:13 {Aoba} We can't grasp the target's core block.
+00:13:15 {Aoba} It is probably being concealed on the outside of a phased cocoon.
+00:13:18 {Ritsuko} This is bad.
+00:13:20 {Ritsuko} At this rate, we'll be on the receiving end of a saturation bombing.
+00:13:22 {Midori} 600 seconds until contact.
+00:13:24 {Ritsuko} Captain Katsuragi,
+00:13:25 {Ritsuko} I propose an immediate dispersal of the fleets.
+00:13:29 {Ritsuko} We have insufficient crew and limited resources.
+00:13:32 {Ritsuko} Compounding the problem, this main ship's camouflage equipment is incomplete.
+00:13:34 {Ritsuko} On top of that, we cannot grasp the target's core block.
+00:13:38 {Ritsuko} In other words, our chance of winning is zero.
+00:13:41 {Ritsuko} At this point, we should retreat like we usually do. 
+00:13:43 {Ritsuko} There is no way.
+00:13:45 {Ritsuko} Captain Katsuragi!
+00:13:47 {Misato} This is why I will change the current situation to neutralize any possibly anxiety.
+00:13:52 {Misato} Vice Captain, we're going to fly.
+00:13:54 {Ritsuko} Fly?! 
+00:13:55 {Ritsuko} You can't be thinking of using the main ship?
+00:13:57 {Misato} All hands, prepare for launch! 
+00:14:00 {Misato} Prepare for ignition of the main engines!
+00:14:03 {Ritsuko} It's too reckless to use the main ship all of a sudden, Captain Katsuragi!
+00:14:06 {Tama} I agree! 
+00:14:07 {Tama} We haven't even run a test flight. It's too dangerous.
+00:14:09 {Sumire} Anti-gravity also hasn't been tested. 
+00:14:11 {Sumire} I don't have confidence in it.
+00:14:13 {Midori} I don't want to fight battles that can't be won. 
+00:14:15 {Midori} I don't want to die just yet.
+00:14:17 {Koji} You die when you die. That's all there is to it. 
+00:14:19 {Koji} Quit complaining, younglings.
+00:14:21 {Midori} Wah... Elders should be more careful!
+00:14:25 {Misato} I am aware of the recklessness. 
+00:14:27 {Misato} We will use this ship as decoy and fish it out to the surface!
+00:14:30 {Misato} The power to kill gods. I will see it through to the end.
+00:14:33 {Ritsuko} But the most important ignition system has not been installed. 
+00:14:36 {Ritsuko} Don't tell me you're going to use the Evas?
+00:14:39 {Misato} Mari!
+00:14:40 {Mari} Eva-08 isn't ready yet.
+00:14:41 {Misato} Asuka!
+00:14:42 {Shinji} ...Asuka?
+00:14:46 {Asuka} I'm already on it! 
+00:14:47 {Asuka} I just have to shove the ignition engine in, right?
+00:14:49 {Misato} I'm counting on you.
 00:14:51 But there is a problem with the barrier density around the ship. Plus, isn't there work being done on the bridge?
 00:14:56 Well, the mission gets top priority. After all, you go into battle expecting to neglect life. I'm going all out! EVA Unit 02', activate!
 00:15:06 Take off.
