@@ -397,7 +397,7 @@
 00:20:36 {Ritsuko} Consort ships have all retreated.
 00:20:38 {Misato} Here we go. 
 00:20:39 {Misato} Wunder, launch!
-00:21:30 {Tama} Main wing penetrated! Damage unknown!
+00:21:30 {Tama} Main wings penetrated! Damage unknown!
 00:21:32 {Misato} Don't sweat it!
 00:21:33 {Misato} Prepare for a full-scale counterattack.
 00:21:34 {Misato} / Capsize the ship! {艦を倒立！}
@@ -427,92 +427,123 @@
 00:23:27 {Hyuga} Direct aim and manual pursuit, good to go on all cannons. 
 00:23:30 {Misato} Then we're all set.
 00:23:31 {Misato} FIRE!
-00:23:57 Target destroyed.
-00:23:58 All fleets, second alert. Section staff, prepare to retrieve Eva-02. Hurry with emergency procedures for the main wing.
-00:24:06 Amazing!
-00:24:08 We really won.
-00:24:10 How totally reckless. Well, she's an even more interesting captain than Kaji said.
-00:24:15 So this is the power to kill gods. This really is the ship of hope.
-00:25:00 Specimen DM03, a.k.a. Ikari Shinji. The vice chief will have a word with you.
-00:25:07 This is Eva-01.
-00:25:08 Eva-01 is being used as the main engine of this ship. You being a pilot is unnecessary.
-00:25:17 Ah, so I'm really not needed.
-00:25:19 Also, your sync test results have come back. The sync rate is 0.00%.
-00:25:26 Even if you were to board the Eva, it wouldn't activate.
-00:25:31 Is that so? Isn't that good news, Ikari-san?
-00:25:33 Even so, we cannot overlook the fact that, earlier, Eva-01 suddenly entered an Awakened state for 12 seconds.
-00:25:40 As a result, the DSS choker has been installed on you.
-00:25:45 What is this?
-00:25:46 Safety for us. It's a physical safety device to avoid awakening.
-00:25:51 And it is also a symbol of your punishment.
-00:25:55 What does it do?
-00:25:57 If you lose control of your emotions while piloting an Eva and become unable to suppress the risk of Awakening,
-00:26:04 this will intervene by terminating your life.
-00:26:10 Does that mean... I will die?
-00:26:14 I will not deny that.
-00:26:17 No way...
-00:26:19 Misato-san, what is this about dying?
-00:26:22 This is weird, Misato-san! Suddenly it's all so confusing and I don't understand anything!
-00:26:27 It can't be helped that you're confused. Second Lieutant.
-00:26:29 Yes!
-00:26:31 Introduce yourself.
-00:26:31 Right. Um, it's late, but I'm the medical officer in charge, 2nd Lt. Suzuhara Sakura. Nice to meet you.
-00:26:43 Ah, s-same.
-00:26:47 But, Suzuhara... Toji's?
-00:26:51 Ah, yes. You've helped my big brother. I'm his little sister Sakura.
-00:26:54 Little sister? Don't you mean big sister?
-00:26:58 Yes, his little sister.
-00:27:00 L-little sister...? How?
-00:27:05 14 years have passed since then. Stupid Shinji.
-00:27:09 Huh? Ah, Asuka!
-00:27:14 Thank god. You're safe, Asuka!
-00:27:20 I can't stand this. I've been holding this in.
-00:27:35 What was that about...
-00:27:36 Built up anger and grief.
-00:27:40 What do you mean...? Ah, Asuka, your left eye...
-00:27:44 None of your business.
-00:27:46 Asuka, you said it's been 14 years,
-00:27:49 but the only thing that's changed about you is that eyepatch.
-00:27:52 Right. It's the Eva's Curse.
-00:27:56 Curse?
-00:28:00 Wait! Asuka, maybe you know! Where's Ayanami?!
-00:28:06 Dunno.
-00:28:07 You don't know...? But I saved her!
-00:28:10 All this fuss over just one person.
-00:28:12 This world doesn't have time to cater to your ego.
-00:28:16 Isn't that right, Captain Katsuragi?
-00:28:23 Asuka!
-00:28:24 Misato-san, where's Ayanami?! Please, tell me!
-00:28:27 Shinji-kun, Ayanami Rei no longer exists.
-00:28:31 No, I saved her, I know I did.
-00:28:34 She must still be in Eva-01's plug.
-00:28:37 Please, search for her!
-00:28:38 We've already conducted a thorough sweep of Eva-01.
-00:28:42 We only found you.
-00:28:45 And for some reason, this was restored.
-00:28:49 The inspection yielded no problems. We'll return it.
-00:28:52 My father's...
-00:28:55 Ayanami was holding it then.
-00:28:58 So I saved her, didn't I?
-00:29:02 What?!
-00:29:05 It's me!
-00:29:07 Target is on the rear deck! It suddenly closed in on us!
-00:29:09 The favorite has appeared, huh!
-00:29:11 All fleets to First battle stations. Safeguarding Eva-01 is top priority!
-00:29:15 Eva-08 is ready to go, right?
-00:29:17 Of course, I'm right on top of it.
-00:29:20 By the way, how was Puppy Boy?
-00:29:22 Is he obediently staying put?
-00:29:25 Nothing's changed about his stupid lowly face.
-00:29:28 Oh, so you went to go see his face, did you?
-00:29:32 No! It's awful. I hit him.
-00:29:34 I feel much better now.
-00:29:35 Misato-san, Ritsuko-san! Just who is coming?
-00:29:39 Is it a new Angel?!
-00:29:41 Ikari-kun, where are you?
-00:29:44 Ayanami.
-00:29:46 That was Ayanami's voice just now, wasn't it!?
-00:29:49 Misa-
+00:23:56 {Aoba} Target destroyed!
+00:23:58 {Misato} All fleets, go to secondary state of alert. 
+00:24:00 {Misato} Prepare to retrieve Eva-02'. 
+00:24:02 {Misato} Hurry with emergency procedures for the main wings.
+00:24:06 {Tama} Amazing!
+00:24:07 {Midori} We really won.
+00:24:09 {Koji} How totally reckless. 
+00:24:12 {Koji} Well, she's an even more interesting captain than Kaji said.
+00:24:15 {Ritsuko} So this is the power to kill gods. 
+00:24:17 {Ritsuko} Wunder really is the ship of hope.
+00:25:00 {Sakura} Specimen DM03, Tentative Name Ikari Shinji-san... 
+00:25:03 {Sakura} The executive officer will have a word with you.
+00:25:06 {Shinji} This is Eva-01...?
+00:25:08 {Ritsuko} Yes. Eva-01 is being used as the main engine of this ship. 
+00:25:13 {Ritsuko} Consequently, you serve no use as a pilot. 
+00:25:16 {Shinji} Ah, so I really am not needed. 
+00:25:19 {Ritsuko} Also, your sync test results have come back. 
+00:25:23 {Ritsuko} The sync rate is 0.00%.
+00:25:26 {Ritsuko} Even if you were to get in the Eva, it wouldn't activate.
+00:25:30 {Sakura} Really?
+00:25:31 {Sakura} Isn't that great news, Ikari-san? 
+00:25:33 {Ritsuko} Even so, we cannot overlook the fact that, earlier, Eva-01 suddenly entered an Awakened state for 12 seconds.
+00:25:39 {Ritsuko} As a result, the DSS Choker has been installed on you.
+00:25:44 {Shinji} What is this?
+00:25:45 {Ritsuko} Safety for us. 
+00:25:48 {Ritsuko} It's a physical safety device to circumvent Awakenings. 
+00:25:51 {Ritsuko} And it is also a symbol of your punishment.
+00:25:55 {Shinji} What does it do?
+00:25:56 {Ritsuko} If you lose control of your emotions while piloting an Eva and become unable to suppress the risk of Awakening,
+00:26:04 {Ritsuko} this will intervene by terminating your life.
+00:26:08 {Shinji} Does that mean... I will die?
+00:26:13 {Ritsuko} I will not deny that.
+00:26:16 {Shinji} No way...
+00:26:18 {Shinji} Misato-san, what is all this about dying?
+00:26:22 {Shinji} This is weird, Misato-san! 
+00:26:24 {Shinji} Suddenly it's all so confusing, and I don't understand anything!
+00:26:27 {Ritsuko} It can't be helped that you're confused.
+00:26:28 {Ritsuko} Second Lieutenant!
+00:26:29 {Sakura} Yes, ma'am!
+00:26:30 {Ritsuko} Introduce yourself.
+00:26:31 {Sakura} Yes, ma'am!
+00:26:33 {Sakura} Um, it's late, but I'm the medical officer in charge,
+00:26:38 {Sakura} 2nd Lt. Suzuhara Sakura.
+00:26:41 {Sakura} Nice to meet you.
+00:26:43 {Shinji} Ah, s-same.
+00:26:46 {Shinji} But, "Suzuhara"...
+00:26:48 {Shinji} Are you Toji's...?
+00:26:50 {Sakura} Ah, yes.
+00:26:51 {Sakura} I owe everything to my big brother. 
+00:26:53 {Sakura} I'm his little sister Sakura.
+00:26:55 {Shinji} Little sister?
+00:26:56 {Shinji} Don't you mean big sister?
+00:26:57 {Sakura} No, little sister.
+00:27:01 {Shinji} Little sister...? How?
+00:27:04 {Asuka} Fourteen years have passed since then. 
+00:27:07 {Asuka} Stupid Shinji.
+00:27:09 {Shinji} Huh? Ah, Asuka!
+00:27:15 {Shinji} Thank god. 
+00:27:16 {Shinji} You really are safe, Asuka!
+00:27:23 {Asuka} I can't stand this. 
+00:27:25 {Asuka} I've been holding this in.
+00:27:34 {Shinji} What was that all about...?
+00:27:36 {Asuka} Built up anger and grief.
+00:27:39 {Shinji} What do you mean...? 
+00:27:41 {Shinji} Uh, Asuka, your left eye...
+00:27:44 {Asuka} None of your business.
+00:27:46 {Shinji} Asuka, you said it's been fourteen years,
+00:27:49 {Asuka} but the only thing that's changed about you is that eyepatch.
+00:27:52 {Asuka} Right. It's the Curse of Eva.
+00:27:55 {Shinji} A curse?
+00:27:59 {Shinji} Wait! 
+00:28:00 {Shinji} Asuka, maybe you know! 
+00:28:02 {Shinji} Where's Ayanami?!
+00:28:05 {Asuka} Dunno.
+00:28:06 {Shinji} You don't know...? 
+00:28:08 {Shinji} But I saved her!
+00:28:10 {Asuka} All this fuss over just one person.
+00:28:12 {Asuka} This world doesn't have time to cater to your ego.
+00:28:16 {Asuka} Isn't that right, Captain Katsuragi?
+00:28:22 {Shinji} Asuka!
+00:28:23 {Shinji} Misato-san, where's Ayanami?! 
+00:28:26 {Shinji} You've got to tell me!
+00:28:27 {Misato} Shinji-kun, Ayanami Rei no longer exists.
+00:28:31 {Shinji} No, I saved her, I know I did.
+00:28:34 {Shinji} She must still be in Eva-01's plug.
+00:28:37 {Shinji} Please, search for her!
+00:28:38 {Ritsuko} We've already conducted a thorough sweep of Eva-01.
+00:28:42 {Ritsuko} We only found you.
+00:28:45 {Ritsuko} And for some reason, this was restored.
+00:28:48 {Ritsuko} The inspection yielded no problems. We'll return it.
+00:28:52 {Shinji} My father's...。
+00:28:55 {Shinji} Ayanami was holding it then.
+00:28:58 {Shinji} So I saved her, didn't I?
+00:29:01 {Shinji} What?!
+00:29:04 {Misato} It's me.
+00:29:06 {Hyuga (Phone)} Target is on the rear deck! 
+00:29:07 {Hyuga (Phone)} It suddenly closed in on us!
+00:29:09 {Misato} So the champion is on the scene... 
+00:29:10 {Misato} All fleets to Primary Battle Stations. 
+00:29:12 {Misato} Safeguarding Eva-01 is top priority!
+00:29:14 {Asuka} Eva-08, you're ready to go, right?
+00:29:16 {Mari} But of course.
+00:29:18 {Mari} I'm right on top of it, Princess. 
+00:29:19 {Mari} By the way, how was Puppy Boy?
+00:29:22 {Mari} Is he obediently staying put?
+00:29:24 {Asuka (Phone)} Nothing's changed about his stupid lowly face.
+00:29:28 {Mari} Oh, so you went to go see his face, did you?
+00:29:31 {Asuka (Phone)} No! 
+00:29:32 {Asuka (Phone)} It was awful. I hit him.
+00:29:34 {Asuka} I feel much better now.
+00:29:35 {Shinji} Misato-san, Ritsuko-san! 
+00:29:37 {Shinji} Just who is coming?
+00:29:39 {Shinji} Is it a new Angel?!
+00:29:41 {Rei} Ikari-kun, where are you?
+00:29:44 {Shinji} Ayanami?
+00:29:46 {Shinji} That was Ayanami's voice just now, wasn't it!?
+00:29:49 {Shinji} Misa-
 00:29:53 What is going on here!?
 00:29:55 Preparations complete! Ikari-san, this way!
 00:29:58 Ikari-kun, where are you?
