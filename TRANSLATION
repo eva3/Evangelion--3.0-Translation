@@ -6,7 +6,7 @@
 00:01:06 {Aoba}        02-Dash will conduct a solo operation.
 00:01:08 {Man}         Roger. 
 00:01:09 {Man}         Pod 08 will act as support. 
-00:01:11 {Man}         / Transition shift to 7. {シフトをセブンに移行}
+00:01:11 {Man}         Transition shift to 7.
 00:01:12 {Ritsuko}     Pod 02-Dash is beyond the point of recovery. 
 00:01:15 {Ritsuko}     Breaching Area 88.
 00:01:17 {Misato}      Roger. 
@@ -14,7 +14,7 @@
 00:01:20 {Woman}       Roger. 
 00:01:21 {Woman}       Pod 02-Dash will enter the final operational orbit. 
 00:01:25 {Woman}       Deceleration in progress.
-00:01:26 {Man}         / Inducing a Stage 1 spark within all engines. {第一弾、全エンジンを点火。}
+00:01:26 {Man}         Stage 1, ignite all engines.
 00:01:29 {Man}         Combustion imminent.
 00:01:34 {Woman}       S1C combustion complete. 
 00:01:36 {Woman}       Deceleration confirmed.
@@ -166,7 +166,7 @@
 00:10:22 {Misato}      Interview complete.
 00:10:24 {Misato}      Take him to quarantine.
 00:10:28 {Midori}      Decoys 01 and 05 destroyed.
-00:10:30 {Midori}      / Wavelength is also absent. {波長も不足。}
+00:10:30 {Midori}      / Wavelength is also insufficient. {波長も不足。}
 00:10:31 {Misato}      The hell's this?
 00:10:33 {Hyuga}       It's Pattern Blue. 
 00:10:34 {Hyuga}       Target identified.
@@ -177,7 +177,7 @@
 00:10:40 {Ritsuko}     They're advancing on all sides. 
 00:10:42 {Ritsuko}     They intend to cordon us here, to start with.
 00:10:43 {Midori (BG)} / ＃＃マル二。＃＃＃消滅確認。
-00:10:45 {Misato}      We cannot afford to move from here yet.
+00:10:45 {Misato}      We can't afford to move from here yet.
 00:10:48 {Misato}      Continue only with main engine's operations.
 00:10:50 {Misato}      All fleets to Second Battle Stations.
 00:10:53 {Misato}      Target: All Nemesis Series.
@@ -192,11 +192,11 @@
 00:11:16 {Woman}       Hurry to Meeting Point 2.
 00:11:18 {Man}         Abandon any leftover cargo. 
 00:11:20 {Man}         Migration of crew takes top priority.
-00:11:22 {Man}         /＃＃＃＃＃ゼロ、＃てきギリギリまで＃＃たのむ。
-00:11:26 {Man}         /最優先つたえものは、＃＃＃＃してくれ。
-00:11:28 {Woman}       /＃＃ごと、＃＃＃発射準備。
+00:11:22 {Man}         / ＃＃＃＃＃ゼロ、＃てきギリギリまで＃＃たのむ。
+00:11:26 {Man}         / 最優先つたえものは、＃＃＃＃してくれ。
+00:11:28 {Woman}       / ＃＃ごと、＃＃＃発射準備。
 00:11:30 {Woman}       Remote control and interlock systems, activating.
-00:11:33 {Woman}       /＃＃＃＃＃＃＃
+00:11:33 {Woman}       / ＃＃＃＃＃＃＃
 00:11:35 {Koji}        Initiate main power system injection. 
 00:11:38 {Koji}        Hurry.
 00:11:39 {Man}         N2 Reactor operating at 99%.
@@ -302,7 +302,7 @@
 00:15:56 {Misato}      Prepare gravity ballast.
 00:15:57 {Sumire}      Roger. 
 00:15:58 {Sumire}      All vents, check.
-00:16:00 {Misato}      / Main control unit concentrated in anchor lead plug. {艦の主制御アンカーリードプラグへ集中。}
+00:16:00 {Misato}      / Concentrating on anchor lead plug of ship's main control unit. {艦の主制御アンカーリードプラグへ集中。}
 00:16:02 {Koji}        Roger. 
 00:16:03 {Koji}        Prepare for descent. 
 00:16:04 {Koji}        Inductor, confirmed. 
@@ -315,7 +315,7 @@
 00:16:23 {Shinji}      Misato-san?!
 00:16:26 {Ritsuko}     That's correct. 
 00:16:27 {Ritsuko}     There's no need for you to pilot the Eva.
-00:16:29 {Woman}       /＃＃＃は、起動開始。
+00:16:29 {Woman}       / ＃＃＃は、起動開始。
 00:16:32 {Woman}       Command system is currently being transferred to the battle ship bridge. 
 00:16:36 {Woman}       Repeat, command system is currently being transferred to the battle ship bridge.
 00:16:36 {Shinji}      No need? 
@@ -358,11 +358,11 @@
 00:18:24 {Midori (BG)} Another 360 seconds until contact!
 00:18:34 {Asuka}       Here we go!
 00:18:38 {Aoba}        Eva-02' has commenced operations. 
-00:18:40 {Man (BG)}    /＃＃＃＃＃＃300%!
+00:18:40 {Man (BG)}    / ＃＃＃＃＃＃300%!
 00:18:42 {Koji}        No matter! 
 00:18:43 {Koji}        Transfer all energy to the flywheel! 
 00:18:45 {Koji}        Give that top priority!
-00:18:57 {Woman (BG)}  /第８０＃＃＃炎上中、＃＃出来ません！
+00:18:57 {Woman (BG)}  / 第８０＃＃＃炎上中、＃＃出来ません！
 00:18:57 {Tama}        Converter Group No. 7 has exploded!
 00:18:59 {Koji}        Disregard the downed lines! 
 00:19:01 {Koji}        Continue the forced injection! 
@@ -388,26 +388,26 @@
 00:20:04 {Tama}        Rotation rate 36000. All green.
 00:20:07 {Koji}        Coming into contact!
 00:20:09 {Misato}      Omit countdown. 
-00:20:10 {Misato}      / Main contact. {メイン接続！}
+00:20:10 {Misato}      Main contact.
 00:20:11 {Koji}        Contact!
 00:20:16 {Misato}      Ignite!
 00:20:34 {Midori}      Obstacles cleared.
 00:20:35 {Ritsuko}     Confirming all divisions. 
-00:20:36 {Misato}      /１６番＃＃＃。
+00:20:36 {Misato}      / １６番＃＃＃。
 00:20:36 {Ritsuko}     Consort ships have all retreated.
 00:20:38 {Misato}      Here we go. 
 00:20:39 {Misato}      Wunder, launch!
 00:21:30 {Tama}        Main wings penetrated! Damage unknown!
 00:21:32 {Misato}      Don't sweat it!
 00:21:33 {Misato}      Prepare for a full-scale counterattack.
-00:21:34 {Misato}      / Capsize the ship! {艦を倒立！}
+00:21:34 {Misato}      Upend the ship!
 00:21:35 {Misato}      Go astern!
 00:21:36 {Sumire}      Go astern! Forward, ho!
 00:21:44 {Misato}      Pull out the remains of the core block from the phased cocoon.
 00:21:53 {Tama}        A crack has been sustained on the end of the main wing!
 00:21:55 {Misato}      Keep the rudder steady!
-00:21:56 {Misato}      / 主機、全力運転！
-00:21:58 {Koji}        Full power on both sides!
+00:21:56 {Misato}      Run main engines at full power!
+00:21:58 {Koji}        Full power to both sides!
 00:22:00 {Sumire}      Full throttle!
 00:22:28 {Midori}      The core block is out!
 00:22:30 {Misato}      Now! 
@@ -423,7 +423,7 @@
 00:23:19 {Misato}      Open ammunition supplying circuits!
 00:23:20 {Koji}        Roger. Opening circuits.
 00:23:23 {Midori}      Now conductng last-minute corrections for hostile search error!
-00:23:25 {Woman (BG)}  /Firing bank equipment interlock. {射撃バンク、連動設備。}
+00:23:25 {Woman (BG)}  Artillery systems are interlocked.
 00:23:27 {Hyuga}       Direct aim and manual pursuit, good to go on all cannons. 
 00:23:30 {Misato}      Then we're all set.
 00:23:31 {Misato}      FIRE!
@@ -578,7 +578,7 @@
 00:31:18 {Shinji}      You're just daft, Misato-san! 
 00:31:20 {Shinji}      I've had enough!
 00:31:24 {Sakura}      Ikari-san!
-00:31:27 {Sakura}      / Even if you leave, {帰ってもいいですけど、}
+00:31:27 {Sakura}      / It's fine if you leave, {帰ってもいいですけど、}
 00:31:29 {Sakura}      Please just don't pilot an Eva!
 00:31:31 {Sakura}      I really do want you to forgive me...
 00:31:43 {Asuka}       Glasses, don't let it get away!
@@ -624,7 +624,7 @@
 00:35:53 {Shinji}      Father!
 00:36:04 {Shinji}      There's no dial tone, 
 00:36:06 {Shinji}      so I can't reach anyone from here.
-00:36:29 {Shinji}      /I really should get going. {やっぱり、お礼言っとかなきゃ。}
+00:36:29 {Shinji}      / I really should get going. {やっぱり、お礼言っとかなきゃ。}
 00:36:42 {Shinji}      Ayanami!
 00:36:46 {Shinji}      Ayanami, where are you?
 00:36:50 {Shinji}      Ayanami!
@@ -648,7 +648,7 @@
 00:38:38 {Shinji}      Hey, Ayanami, do you know anything?
 00:38:42 {Rei}         I do not.
 00:38:43 {Shinji}      I see... 
-00:38:46 {Shinji}      /うん、そうかもな。
+00:38:46 {Shinji}      / Yeah, you may be right.
 00:38:49 {Shinji}      Say, when did you return from Eva-01?
 00:38:59 {Shinji}      This place isn't much of a room.
 00:39:03 {Shinji}      You could say it's just your style, 
@@ -716,7 +716,7 @@
 00:45:23 {Kaworu}      Doing it over and over until it feels good enough to you.
 00:45:30 {Kaworu}      That's the only way.
 00:46:02 {Kaworu}      It's okay, leave it to me. 
-00:46:03 {Kaworu}      /Just move along. {動くようにすればいいんだね。}
+00:46:03 {Kaworu}      Just move along.
 00:46:05 {Shinji}      Hm, thank you. 
 00:46:07 {Shinji}      I feel bad for making you do so much for me.
 00:46:10 {Kaworu}      You don't need to worry about that. 
@@ -818,7 +818,7 @@
 00:53:30 {Fuyutsuki}   Was his reaction as you anticipated?
 00:53:33 {Fuyutsuki}   Are you okay with all of this, Ikari?
 00:53:35 {Gendo}       Seele's scenario is being rewritten by us.
-00:53:39 {Gendo}       All existence is nothing more than a tool to that ends.
+00:53:39 {Gendo}       All existence is nothing more than a tool to that end.
 00:53:42 {Fuyutsuki}   You assume that your son wouldn't benefit even from seeing how you live?
 00:53:48 {Fuyutsuki}   I don't agree with that.
 00:53:53 {Shinji}      What is...
@@ -937,15 +937,15 @@
 01:01:46 {Shinji}      I can't!
 01:01:49 {Shinji}      Misato-san put this thing on me!
 01:01:53 {Shinji}      They said to never pilot Eva again.
-01:01:55 {Shinji}      They said if I pilot, I will die.
+01:01:55 {Shinji}      They said if I pilot, I'll die.
 01:01:59 {Shinji}      I don't care about Eva anymore.
 01:02:09 {Kaworu}      I know.
-01:02:10 {Kaworu}      I will shoulder the burden of the Lilin's curse and the risk of Eva's Awakening for you.
+01:02:10 {Kaworu}      I will shoulder the burden of the Lilin's curse, and the risk of Eva's Awakening, for you.
 01:02:21 {Shinji}      Kaworu-kun...
 01:02:24 {Kaworu}      You don't have to worry. 
 01:02:26 {Kaworu}      Because I was originally something created by the very Lilin who fear me.
 01:02:29 {Kaworu}      I had intended to do this at some stage.
-01:02:34 {Kaworu}      Ikari Shinji-kun. Your only hope lies with the two Spears left at the Impact epicenter in Dogma.
+01:02:34 {Kaworu}      Ikari Shinji-kun, your only hope lies with the two Spears left at the Impact epicenter in Dogma.
 01:02:41 {Kaworu}      They are the key to activating Instrumentality.
 01:02:45 {Kaworu}      All we have to do is obtain those Spears.
 01:02:48 {Kaworu}      If we do that, Nerv will not be able to cause Fourth Impact.
@@ -955,7 +955,7 @@
 01:03:05 {Kaworu}      It is possible WITH you.
 01:03:07 {Kaworu}      Eva-13 uses a double entry system.
 01:03:11 {Kaworu}      Let the two of us become the hope of the Lilin.
-01:03:15 {Kaworu}      Because the things that you need the most right now are hope,
+01:03:15 {Kaworu}      Because what you need the most right now is hope,
 01:03:19 {Kaworu}      along with atonement and an open heart.
 01:03:25 {Shinji}      You're amazing. You know everything.
 01:03:30 {Kaworu}      That's because I am always thinking about you.
@@ -1073,8 +1073,8 @@
 01:12:50 {Shinji}      That's why I got into this Eva!
 01:12:57 {Kaworu}      The control system...?
 01:13:02 {Shinji}      For Kaworu-kun, 
-01:13:05 {Shinji}      For everyone, I will get the Spears!
-01:13:07 {Shinji}      Only then will the world go back to how it should be.
+01:13:05 {Shinji}      for everyone, I will get the Spears!
+01:13:07 {Shinji}      Only then will the world go back to the way it should be.
 01:13:11 {Shinji}      If I do that, even Misato-san will...
 01:13:15 {Asuka}       Damn!
 01:13:16 {Asuka}       Glasses! Get rid of the barrier!
@@ -1098,7 +1098,7 @@
 01:15:00 {Shinji}      An Angel!?
 01:15:10 {Mari}        Princess, you should cease the futile fire. 
 01:15:14 {Mari}        The whole thing is a core.
-01:15:17 {Mari}        With just us, it's impossible to hurt that thing.
+01:15:17 {Mari}        With just us, there's no way to hurt it. 
 01:15:21 {Mari}        Besides that, by defeating the Last Angel,
 01:15:24 {Mari}        we don't know what kind of evil will come out.
 01:15:26 {Mari}        You're worried, no?
@@ -1120,9 +1120,9 @@
 01:16:24 {Gendo}       It is time to amend the Dead Sea Scrolls' contract.
 01:16:29 {Gendo}       This is farewell.
 01:16:33 {Gendo}       Even though all of you have changed the shape of your souls,
-01:16:37 {Gendo}       You are still lifeforms blessed with the Fruit of Knowledge.
+01:16:37 {Gendo}       you are still lifeforms blessed with the Fruit of Knowledge.
 01:16:41 {Gendo}       You were able to live for eternity,
-01:16:44 {Gendo}       But, same as us, you still cannot escape the fate of death.
+01:16:44 {Gendo}       but, same as us, you still cannot escape the fate of death.
 01:16:50 {Gendo}       To advance the evolution of the flock burdened with death,
 01:16:54 {Gendo}       You had bestowed upon us the gift of civilization.
 01:17:00 {Gendo}       As the representative of humanity, I say thank you.
@@ -1151,13 +1151,13 @@
 01:19:55 {Shinji}      Misato-san?!
 01:19:59 {Misato}      A.T. Field at maximum!
 01:20:01 {Misato}      Contain the Eva in its present state!
-01:20:03 {Misato}      / Main gun shot done! Reloading this revolver! {主砲斉射用意！極射弾装填！}
+01:20:03 {Misato}      / Prepare the main guns for a volley! Reloading this revolver! {主砲斉射用意！極射弾装填！}
 01:20:06 {Misato}      Do whatever it takes to keep Fourth Impact in check!
 01:20:08 {Misato}      Fire!
 01:20:17 {Midori}      Damage received! Direct hit to main armament!
 01:20:19 {Misato}      The Adams' Vessel?!
 01:20:26 {Tama}        Shots received on midsection! Damage unknown!
-01:20:28 {Woman (BG)} / The target is the new-type Eva! ＃＃＃＃
+01:20:28 {Woman (BG)}  / The target is the new-type Eva! ＃＃＃＃
 01:20:30 {Sumire}      Rudder is ineffective!
 01:20:32 {Sumire}      We're losing altitude!
 01:20:43 {Tama}        / 中＃＃＃＃＃＃！
@@ -1223,14 +1223,14 @@
 01:26:33 {Mari}        Be a man! 
 01:26:36 {Mari}        And while you're at it, get to know the world a little!
 01:27:33 {Fuyutsuki}   What dreadful circumstances. 
-01:27:35 {Fuyutsuki}    Most of it is according to Seele's plans.
+01:27:35 {Fuyutsuki}   Most of it is according to Seele's plans.
 01:27:38 {Gendo}       But the removal of Seele's boy also led to Eva-13's Awakening.
 01:27:46 {Gendo}       Captain Katsuragi's actions are within predictions, as well.
-01:27:49 {Gendo}             This will do for now.
-01:27:52 {Hyuga}       / 全艦、第二種撤回体制を維持
+01:27:49 {Gendo}       This will do for now.
+01:27:52 {Hyuga}       All ships, maintain organization for Class 2 withdrawal.
 01:27:55 {Woman}       No pattern blue readings.
-01:27:57 {Woman}       / 撤回空域に机影を認めず
-01:27:59 {Man}         / 中央部損傷個所の、応急処置完了。
+01:27:57 {Woman}       No ships sighted in withdrawal airspace.
+01:27:59 {Man}         Damaged areas of the midsection have received emergency treatment.
 01:28:01 {Ritsuko}     / Fourth Impact was stopped, but we don't know whom to thank. {? いざと陰か知らなけれど、フォースは止まった・・・。}
 01:28:04 {Man (BG)}    / ＃んざい不明＃＃のは水中。（BGの男オペレター）
 01:28:06 {Man (BG)}    / じごくは不明、とっか、じんき回収＃＃＃＃。
