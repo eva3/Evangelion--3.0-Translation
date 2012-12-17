@@ -1,297 +1,297 @@
 1
-00:00:52,000 --> 00:00:55,000
+00:00:52,700 --> 00:00:56,233
 {Man}         Tracking team, report on both units' current positions.
 
 2
-00:00:55,000 --> 00:00:58,000
+00:00:56,300 --> 00:00:59,400
 {Woman}       Pod 02-Dash has achieved operational altitude.
 
 3
-00:00:58,000 --> 00:01:00,000
+00:00:59,500 --> 00:01:00,500
 {Woman}       It has settled into the targeted orbit.
 
 4
-00:01:00,000 --> 00:01:04,000
+00:01:00,600 --> 00:01:04,800
 {Man}         Pod 08 was unable to breach target orbital range due to insufficient altitude.
 
 5
-00:01:04,000 --> 00:01:06,000
+00:01:05,000 --> 00:01:06,000
 {Aoba}        Copy that.
 
 6
-00:01:06,000 --> 00:01:08,000
+00:01:06,100 --> 00:01:08,700
 {Aoba}        02-Dash will conduct a solo operation.
 
 7
-00:01:08,000 --> 00:01:09,000
+00:01:09,100 --> 00:01:09,700
 {Man}         Roger.
 
 8
-00:01:09,000 --> 00:01:11,000
+00:01:09,600 --> 00:01:11,600
 {Man}         Pod 08 will act as support.
 
 9
-00:01:11,000 --> 00:01:12,000
+00:01:11,700 --> 00:01:13,000
 {Man}         / Transition shift to 7. {シフトをセブンに移行}
 
 10
-00:01:12,000 --> 00:01:15,000
+00:01:13,200 --> 00:01:16,200
 {Ritsuko}     Pod 02-Dash is beyond the point of recovery.
 
 11
-00:01:15,000 --> 00:01:17,000
+00:01:16,200 --> 00:01:17,800
 {Ritsuko}     Breaching Area 88.
 
 12
-00:01:17,000 --> 00:01:18,000
+00:01:18,200 --> 00:01:19,000
 {Misato}      Roger.
 
 13
-00:01:18,000 --> 00:01:20,000
+00:01:19,000 --> 00:01:21,400
 {Misato}      Commence Operation Spacewalk.
 
 14
-00:01:20,000 --> 00:01:21,000
+00:01:21,500 --> 00:01:22,000
 {Woman}       Roger.
 
 15
-00:01:21,000 --> 00:01:25,000
+00:01:22,100 --> 00:01:26,000
 {Woman}       Pod 02-Dash will enter the final operational orbit.
 
 16
-00:01:25,000 --> 00:01:26,000
+00:01:26,100 --> 00:01:27,300
 {Woman}       Deceleration in progress.
 
 17
-00:01:26,000 --> 00:01:29,000
+00:01:27,500 --> 00:01:29,500
 {Man}         / Inducing a Stage 1 spark within all engines. {第一弾、全エンジンを点火。}
 
 18
-00:01:29,000 --> 00:01:34,000
+00:01:29,600 --> 00:01:30,500
 {Man}         Combustion imminent.
 
 19
-00:01:34,000 --> 00:01:36,000
+00:01:34,700 --> 00:01:37,000
 {Woman}       S1C combustion complete.
 
 20
-00:01:36,000 --> 00:01:37,000
+00:01:37,000 --> 00:01:38,300
 {Woman}       Deceleration confirmed.
 
 21
-00:01:37,000 --> 00:01:41,000
+00:01:38,500 --> 00:01:41,000
 {Man}         Jettisoning booster unit, stage 1.
 
 22
-00:01:41,000 --> 00:01:43,000
+00:01:42,500 --> 00:01:43,500
 {Woman}       Separation confirmed.
 
 23
-00:01:43,000 --> 00:01:45,000
+00:01:43,800 --> 00:01:46,000
 {Woman}       Combustion systems cleared. No problems detected.
 
 24
-00:01:45,000 --> 00:01:46,000
+00:01:46,300 --> 00:01:46,900
 {Man}         Roger.
 
 25
-00:01:46,000 --> 00:01:48,000
+00:01:47,300 --> 00:01:49,100
 {Man}         Automating ignition timing.
 
 26
-00:01:48,000 --> 00:01:53,000
+00:01:49,200 --> 00:01:50,800
 {Man}         Igniting all engines, stage 2.
 
 27
-00:01:53,000 --> 00:01:56,000
+00:01:54,500 --> 00:01:56,600
 {Woman}       S1C combustion complete.
 
 28
-00:01:56,000 --> 00:01:57,000
+00:01:56,600 --> 00:01:58,000
 {Woman}       Closing pressure valves.
 
 29
-00:01:57,000 --> 00:02:00,000
+00:01:58,100 --> 00:02:00,500
 {Man}         Jettisoning booster unit, stage 2.
 
 30
-00:02:00,000 --> 00:02:02,000
+00:02:01,100 --> 00:02:02,900
 {Woman}       Deceleration complete.
 
 31
-00:02:02,000 --> 00:02:04,000
+00:02:03,100 --> 00:02:05,300
 {Man}         Preparing to enter final operational orbit.
 
 32
-00:02:04,000 --> 00:02:06,000
+00:02:05,500 --> 00:02:06,300
 {Man}         Flipping unit head.
 
 33
-00:02:06,000 --> 00:02:07,000
+00:02:06,800 --> 00:02:07,500
 {Man}         Commencing rotation.
 
 34
-00:02:07,000 --> 00:02:09,000
+00:02:07,800 --> 00:02:09,500
 {Man}         Descent angle confirmed.
 
 35
-00:02:09,000 --> 00:02:10,000
+00:02:09,700 --> 00:02:11,000
 {Man}         Within an acceptable margin of error.
 
 36
-00:02:10,000 --> 00:02:12,000
+00:02:11,100 --> 00:02:13,000
 {Woman}       Recalculating relative velocity.
 
 37
-00:02:12,000 --> 00:02:14,000
+00:02:13,300 --> 00:02:15,300
 {Woman}       Reconfirming coordinate altitude.
 
 38
-00:02:14,000 --> 00:02:16,000
+00:02:15,500 --> 00:02:16,900
 {Woman}       No problems.
 
 39
-00:02:16,000 --> 00:02:18,000
+00:02:17,000 --> 00:02:18,800
 {Woman}       Final orbit corrections complete.
 
 40
-00:02:18,000 --> 00:02:20,000
+00:02:19,000 --> 00:02:21,000
 {Woman}       180-degree rotation complete.
 
 41
-00:02:20,000 --> 00:02:21,000
+00:02:21,100 --> 00:02:21,700
 {Hyuga}       Roger.
 
 42
-00:02:21,000 --> 00:02:24,000
+00:02:21,800 --> 00:02:24,700
 {Hyuga}       Pod 02-Dash will transition to the intersection orbit.
 
 43
-00:02:24,000 --> 00:02:26,000
+00:02:24,800 --> 00:02:26,800
 {Hyuga}       Now commencing the operation.
 
 44
-00:02:26,000 --> 00:02:28,000
+00:02:27,000 --> 00:02:29,300
 {Aoba}        All remote guiding will now be cut.
 
 45
-00:02:28,000 --> 00:02:30,000
+00:02:29,300 --> 00:02:30,800
 {Aoba}        Unit will be controlled manually.
 
 46
-00:02:30,000 --> 00:02:32,000
+00:02:31,000 --> 00:02:31,500
 {Hyuga}       Good luck.
 
 47
-00:02:32,000 --> 00:02:34,000
+00:02:33,300 --> 00:02:35,300
 {Woman}       Unit is on course to intersect with the target.
 
 48
-00:02:34,000 --> 00:02:37,000
+00:02:35,500 --> 00:02:37,300
 {Woman}       80 remaining until contact.
 
 49
-00:02:37,000 --> 00:02:38,000
+00:02:38,000 --> 00:02:39,400
 {Woman}       Confirming target.
 
 50
-00:02:38,000 --> 00:02:40,000
+00:02:39,500 --> 00:02:41,000
 {Man}         Contact point is unchanged.
 
 51
-00:02:40,000 --> 00:02:43,000
+00:02:41,000 --> 00:02:43,400
 {Woman}       Maintaining Shift-M. No problems.
 
 52
-00:02:43,000 --> 00:02:45,000
+00:02:43,500 --> 00:02:45,300
 {Misato}      02-Dash, prepare to rendezvous.
 
 53
-00:02:45,000 --> 00:02:50,000
+00:02:45,500 --> 00:02:50,500
 {Misato}      08 is lacking altitude, so it can only assist you in the 96 seconds until re-entry.
 
 54
-00:02:50,000 --> 00:02:53,000
+00:02:50,900 --> 00:02:52,300
 {Misato}      Finish this by then.
 
 55
-00:02:53,000 --> 00:02:55,000
+00:02:53,300 --> 00:02:55,600
 {Hyuga}       Reflective waves detected in target space.
 
 56
-00:02:55,000 --> 00:02:56,000
+00:02:55,700 --> 00:02:57,000
 {Hyuga}       It's jamming us!
 
 57
-00:02:56,000 --> 00:02:58,000
+00:02:57,100 --> 00:02:59,100
 {Aoba}        It's just the auto-defense system's mass weapon.
 
 58
-00:02:58,000 --> 00:03:01,000
+00:02:59,100 --> 00:03:00,300
 {Aoba}        No need to worry.
 
 59
-00:03:01,000 --> 00:03:03,000
+00:03:02,300 --> 00:03:03,500
 {Man}         Burst flows generated!
 
 60
-00:03:03,000 --> 00:03:10,000
+00:03:04,200 --> 00:03:07,100
 {Man}         Incoming in 3... 2... 1...
 
 61
-00:03:10,000 --> 00:03:11,000
+00:03:11,200 --> 00:03:12,100
 {Aoba}        Second wave incoming.
 
 62
-00:03:11,000 --> 00:03:12,000
+00:03:12,200 --> 00:03:13,200
 {Aoba}        Blood type: blue.
 
 63
-00:03:12,000 --> 00:03:13,000
+00:03:13,300 --> 00:03:14,300
 {Aoba}        They're a pesky bunch.
 
 64
-00:03:13,000 --> 00:03:15,000
+00:03:14,300 --> 00:03:15,900
 {Man}         Identifying approaching body...
 
 65
-00:03:15,000 --> 00:03:25,000
+00:03:16,100 --> 00:03:17,500
 {Man}         Confirmed to be Code 04A.
 
 66
-00:03:25,000 --> 00:03:32,000
+00:03:26,400 --> 00:03:27,800
 {Asuka}       An Anti-A.T. Field!
 
 67
-00:03:32,000 --> 00:03:34,000
+00:03:33,000 --> 00:03:34,000
 {Asuka}       This sucks!
 
 68
-00:03:34,000 --> 00:03:37,000
+00:03:34,900 --> 00:03:36,700
 {Asuka}       It's just getting in my way!
 
 69
-00:03:37,000 --> 00:03:44,000
+00:03:38,500 --> 00:03:42,200
 {Asuka}       Hey, Glasses! Some backup here!
 
 70
-00:03:44,000 --> 00:03:49,000
+00:03:44,900 --> 00:03:47,400
 {Asuka}       Support fire was two seconds late!
 
 71
-00:03:49,000 --> 00:03:52,000
+00:03:50,200 --> 00:03:52,800
 {Mari}        And you're three seconds ahead of position.
 
 72
-00:03:52,000 --> 00:03:55,000
+00:03:53,200 --> 00:03:55,600
 {Asuka}       It's called adapting to the situation. Keep up with me!
 
 73
-00:03:55,000 --> 00:03:57,000
+00:03:55,700 --> 00:03:57,300
 {Mari}        As you command,
 
 74
-00:03:57,000 --> 00:04:05,000
+00:03:57,500 --> 00:03:59,500
 {Mari}        Princess!
 
 75
@@ -2600,7 +2600,7 @@
 
 651
 00:38:46,000 --> 00:38:49,000
-{Shinji}      /うん、そうかもな。
+{Shinji}      / Yeah, you may be right.
 
 652
 00:38:49,000 --> 00:38:59,000
@@ -2872,7 +2872,7 @@
 
 719
 00:46:03,000 --> 00:46:05,000
-{Kaworu}      /Just move along. {動くようにすればいいんだね。}
+{Kaworu}      Just move along.
 
 720
 00:46:05,000 --> 00:46:07,000
@@ -4995,46 +4995,46 @@
 {Asuka}       We're going to where the Lilin are.
 
 1250
-01:30:23,000 --> 01:35:??,000
+01:30:23,000 --> 01:35:00,000
 {Asuka}       Come on!
 
 1251
-01:35:??,000 --> 01:35:12,000
+01:35:00,000 --> 01:35:12,000
 {Caption}     PREVIEW
 
-1252
+1250
 01:35:12,000 --> 01:35:16,000
 {Narrator}    Shinji Ikari continues to wander, still lacking the will to live.
 
-1253
+1251
 01:35:16,000 --> 01:36:19,000
 {Narrator}    He comes upon a place that teaches him hope.
 
-1254
+1252
 01:36:19,000 --> 01:36:22,000
 {Narrator}    Finally the Instrumentality Project is set in motion.
 
-1255
+1253
 01:36:22,000 --> 01:36:23,000
 {Narrator}    To prevent Final Impact,
 
-1256
+1254
 01:36:23,000 --> 01:36:26,000
 {Narrator}    Wille make one last grueling stand.
 
-1257
+1255
 01:36:26,000 --> 01:36:27,000
 {Narrator}    Wunder tears through the skies!
 
-1258
+1256
 01:36:27,000 --> 01:36:32,000
 {Narrator}    Eva Unit 8+2 sprints over the red earth!
 
-1259
+1257
 01:36:32,000 --> 01:36:34,000
 {Narrator}    Next time in "New Evangelion Theatrical Edition".
 
-1260
+1258
 01:36:34,000 --> 01:36:34,000
 {Narrator}    There'll be fan service all the way up to the end!
 
