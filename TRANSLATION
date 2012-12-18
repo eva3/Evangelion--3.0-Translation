@@ -302,7 +302,7 @@
 00:15:56 {Misato}      Prepare gravity ballast.
 00:15:57 {Sumire}      Roger. 
 00:15:58 {Sumire}      All vents, check.
-00:16:00 {Misato}      / Concentrating on anchor lead plug of ship's main control unit. {艦の主制御アンカーリードプラグへ集中。}
+00:16:00 {Misato}      Centralize the ship's primary controls in the anchor lead plug. 
 00:16:02 {Koji}        Roger. 
 00:16:03 {Koji}        Prepare for descent. 
 00:16:04 {Koji}        Inductor, confirmed. 
@@ -407,7 +407,7 @@
 00:21:53 {Tama}        A crack has been sustained on the end of the main wing!
 00:21:55 {Misato}      Keep the rudder steady!
 00:21:56 {Misato}      Run main engines at full power!
-00:21:58 {Koji}        Full power to both sides!
+00:21:58 {Koji}        Both sides at maximum! 
 00:22:00 {Sumire}      Full throttle!
 00:22:28 {Midori}      The core block is out!
 00:22:30 {Misato}      Now! 
@@ -422,7 +422,7 @@
 00:23:17 {Misato}      Connect all cannons to main ship. 
 00:23:19 {Misato}      Open ammunition supplying circuits!
 00:23:20 {Koji}        Roger. Opening circuits.
-00:23:23 {Midori}      Now conductng last-minute corrections for hostile search error!
+00:23:23 {Midori}      Applying final corrections to computed enemy trajectories! 
 00:23:25 {Woman (BG)}  Artillery systems are interlocked.
 00:23:27 {Hyuga}       Direct aim and manual pursuit, good to go on all cannons. 
 00:23:30 {Misato}      Then we're all set.
@@ -743,7 +743,8 @@
 00:47:20 {Shinji}      I just thought that it'd be fun, if you wanted to try it, and...
 00:47:27 {Kaworu}      It is fun.
 00:47:30 {Kaworu}      I really was born to meet you.
-00:47:50 {Shinji}      Hm? I wonder if it's still noticeable...
+00:47:44 {Shinji}      Hm?
+00:47:50 {Shinji}      Seems a little big this time.
 00:47:53 {Shinji}      Huh?
 00:48:00 {Kaworu}      Here, it should work now.
 00:48:03 {Shinji}      Thanks. 
@@ -939,9 +940,9 @@
 01:01:53 {Shinji}      They said to never pilot Eva again.
 01:01:55 {Shinji}      They said if I pilot, I'll die.
 01:01:59 {Shinji}      I don't care about Eva anymore.
-01:02:09 {Kaworu}      I know.
+01:02:09 {Kaworu}      I understand.
 01:02:10 {Kaworu}      I will shoulder the burden of the Lilin's curse, and the risk of Eva's Awakening, for you.
-01:02:21 {Shinji}      Kaworu-kun...
+01:02:21 {Shinji}      Nagisa-kun...
 01:02:24 {Kaworu}      You don't have to worry. 
 01:02:26 {Kaworu}      Because I was originally something created by the very Lilin who fear me.
 01:02:29 {Kaworu}      I had intended to do this at some stage.
@@ -949,7 +950,7 @@
 01:02:41 {Kaworu}      They are the key to activating Instrumentality.
 01:02:45 {Kaworu}      All we have to do is obtain those Spears.
 01:02:48 {Kaworu}      If we do that, Nerv will not be able to cause Fourth Impact.
-01:02:52 {Kaworu}      If we use them together with Eva-13, it becomes possible to fix the world.
+01:02:52 {Kaworu}      And if we use them together with Eva-13, it becomes possible to fix the world.
 01:02:58 {Shinji}      You're right.
 01:03:03 {Shinji}      Yes. It is possible for you.
 01:03:05 {Kaworu}      It is possible WITH you.
@@ -1172,7 +1173,7 @@
 01:21:15 {Midori}      Unable to reject the Adams' Vessel!
 01:21:17 {Tama}        Unidentified data is infiltrating the main control system!
 01:21:19 {Aoba}        It is hijacking control of the ship!
-01:21:43 {Asuka}       / ＃＃＃！？ That's Seele's style, all right!
+01:21:43 {Asuka}       Talk about cheap! That's Seele's style, all right.
 01:21:53 {Asuka}       Mode change!
 01:21:55 {Asuka}       Code 777 (Triple Seven)!
 01:22:04 {Rei}         Who's there?
@@ -1222,9 +1223,9 @@
 01:26:31 {Mari}        Help out the Princess, at least! 
 01:26:33 {Mari}        Be a man! 
 01:26:36 {Mari}        And while you're at it, get to know the world a little!
-01:27:33 {Fuyutsuki}   What dreadful circumstances. 
-01:27:35 {Fuyutsuki}   Most of it is according to Seele's plans.
-01:27:38 {Gendo}       But the removal of Seele's boy also led to Eva-13's Awakening.
+01:27:33 {Fuyutsuki}   What a nightmare. 
+01:27:35 {Fuyutsuki}   Nearly all went as Seele intended. 
+01:27:38 {Gendo}       But not only was Seele's boy eliminated, the path was forged for Eva-13's Awakening.
 01:27:46 {Gendo}       Captain Katsuragi's actions are within predictions, as well.
 01:27:49 {Gendo}       This will do for now.
 01:27:52 {Hyuga}       All ships, maintain organization for Class 2 withdrawal.
@@ -1240,7 +1241,7 @@
 01:29:10 {Asuka}       Yet again, it's all about you.
 01:29:12 {Asuka}       You think you can just get away with what's happened by not saying a thing.
 01:29:40 {Asuka}       You still need pampering?
-01:29:43 {Asuka}       You're always such a time-wasting brat.
+01:29:43 {Asuka}       /You're always such a time-wasting brat. {いつまで立っても手間のかかるガキね！}
 01:29:47 {Asuka}       Here, put this on.
 01:29:50 {Asuka}       Jeez! You can stand on your own, can't you?!
 01:29:58 {Asuka}       The pilot from earlier.
