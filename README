@@ -12,3 +12,12 @@ Still to be done:
 — Check translation, finish the few missing sentences.
 — Text quality check (consistency, make the dialogues flow better, spelling and grammar mistakes correction, etc.).
 — Timing quality check.
+
+============================
+
+¡Ahora español!
+Añadidos subtítulos completos en español. Todo lo que resta es ir agregando al archivo TRANSLATION_ES las revisiones
+que se hacen sobre el archivo de origen, TRANSLATION. La fecha y SHA del último commit hecho sobre el archivo de 
+origen sirven como referencias para saber hasta qué punto está actualizada la versión en español.
+De antemano, ¡gracias por tu colaboración!
+~Zo0m_Z3r0~
