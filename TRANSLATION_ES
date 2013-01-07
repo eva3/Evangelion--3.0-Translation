@@ -10,26 +10,26 @@ del archivo de origen. ¡Gracias! :3
 ====================================================
 
 00:00:52 {Hombre}      Equipo de rastreo, reporte las posiciones actuales de las dos unidades.
-00:00:55 {Mujer}       Pod 02-Dash ha alcanzado la altitud operacional.
+00:00:55 {Mujer}       La Unidad 02-Dash ha alcanzado la altitud operacional.
 00:00:58 {Mujer}       Se ha establecido en la órbita designada.
-00:01:00 {Hombre}      Pod 08 no ha podido llegar al rango orbital debido a escasa altitud.
+00:01:00 {Hombre}      La Unidad 08 experimentó problemas al entrar en órbita debido a la falta de altitud.
 00:01:04 {Aoba}        Recibido.
 00:01:06 {Aoba}        02-Dash llevará a cabo esta operación sola.
 00:01:08 {Hombre}      Entendido.
-00:01:09 {Hombre}      Pod 08 actuará como soporte.
+00:01:09 {Hombre}      La Unidad 08 actuará como soporte.
 00:01:11 {Hombre}      Cambio de transición a 7.
-00:01:12 {Ritsuko}     Pod 02-Dash está más allá del punto de recuperación.
-00:01:15 {Ritsuko}     Alcanzando el Área 88.
+00:01:12 {Ritsuko}     La Unidad 02-Dash está más allá del punto de recuperación.
+00:01:15 {Ritsuko}     Está alcanzando el Área 88.
 00:01:17 {Misato}      Entendido.
 00:01:18 {Misato}      Comenzar Operación Spacewalk.
 00:01:20 {Mujer}       Entendido. 
-00:01:21 {Mujer}       Pod 02-Dash entrará en la órbita operacional final.
-00:01:25 {Mujer}       Desaceleración en progreso.
-00:01:26 {Hombre}      Etapa 1, encender todos los motores.
+00:01:21 {Mujer}       La Unidad 02-Dash entrará en la órbita de operación final.
+00:01:25 {Mujer}       Cambiando a desaceleración.
+00:01:26 {Hombre}      Encendiendo todos los motores, etapa 1.
 00:01:29 {Hombre}      Combustion inminente.
 00:01:34 {Mujer}       Combustión S1C completa.
 00:01:36 {Mujer}       Desaceleración confirmada.
-00:01:37 {Hombre}      Desechando unidad de refuerzo, etapa 1.
+00:01:37 {Hombre}      Desechando unidad de propulsión, etapa 1.
 00:01:41 {Mujer}       Separación confirmada.
 00:01:43 {Mujer}       Sistemas de combustión despejados. No hay problemas.
 00:01:45 {Hombre}      Entendido. 
@@ -37,56 +37,56 @@ del archivo de origen. ¡Gracias! :3
 00:01:48 {Hombre}      Encendiendo todos los motores, etapa 2.
 00:01:53 {Mujer}       Combustión S1C completa.
 00:01:56 {Mujer}       Cerrando válvulas de presión.
-00:01:57 {Hombre}      Desechando unidad de refuerzo, etapa 2.
+00:01:57 {Hombre}      Desechando unidad de propulsión, etapa 2.
 00:02:00 {Mujer}       Desaceleración completa.
-00:02:02 {Hombre}      Preparación para ingresar a la última órbita operacional.
+00:02:02 {Hombre}      Preparándose para entrar en la órbita de operación final.
 00:02:04 {Hombre}      Volteando la cabeza de la Unidad.
 00:02:06 {Hombre}      Comenzando rotación.
 00:02:07 {Hombre}      Ángulo de descenso confirmado.
-00:02:09 {Hombre}      Dentro de un margen de error aceptable.
+00:02:09 {Hombre}      Se encuentra dentro del márgen de error.
 00:02:10 {Mujer}       Recalculando velocidad relativa.
-00:02:12 {Mujer}       Reconfirmando altitud coordinada.
+00:02:12 {Mujer}       Reconfirmando coordenadas de altitud.
 00:02:14 {Mujer}       Sin problemas.
-00:02:16 {Mujer}       Correcciones de órbita final completas.
+00:02:16 {Mujer}       Correcciones de orbita final, completas.
 00:02:18 {Mujer}       Rotación de 180 grados completa.
-00:02:20 {Hyuga}       Entendido. 
-00:02:21 {Hyuga}       Pod 02-Dash comenzará transición a la órbita de intersección.
+00:02:20 {Hyuga}       Bien. 
+00:02:21 {Hyuga}       La Unidad 02-Dash comenzará la transición a la órbita de intersección.
 00:02:24 {Hyuga}       Comenzando la operación.
 00:02:26 {Aoba}        Todas las guías remotas serán cortadas.
 00:02:28 {Aoba}        La Unidad será controlada manualmente.
 00:02:30 {Hyuga}       Buena suerte.
-00:02:32 {Mujer}       La Unidad está en curso de intersección con el objetivo.
-00:02:34 {Mujer}       80 restantes hasta el contacto.
+00:02:32 {Mujer}       La unidad está en camino para interceptar al objetivo.
+00:02:34 {Mujer}       Ocho millas hasta hacer contacto.
 00:02:37 {Mujer}       Confirmando objetivo.
 00:02:38 {Hombre}      Punto de contacto sin cambios.
 00:02:40 {Mujer}       Manteniendo Shift-M. Sin problemas.
 00:02:43 {Misato}      02-Dash, prepárese para el encuentro. 
-00:02:45 {Misato}      08 está perdiendo altitud, así que solo puede asistirte durante 96 segundos hasta el reingreso.
+00:02:45 {Misato}      La Unidad 08 está perdiendo altitud, sólo podrá asistirte durante 96 segundos hasta el reingreso.
 00:02:50 {Misato}      Termínalo para entonces.
-00:02:53 {Hyuga}       Detectadas ondas reflexivas en el espacio objetivo.
+00:02:53 {Hyuga}       Ondas reflectantes detectadas cerca del objetivo.
 00:02:55 {Hyuga}       ¡Nos está bloqueando!
-00:02:56 {Aoba}        Es solo un arma masiva del sistema de auto defensa.
+00:02:56 {Aoba}        Es sólo un arma masiva de auto-defensa del sistema.
 00:02:58 {Aoba}        No hay de qué preocuparse.
 00:03:01 {Hombre}      ¡Generados flujos de la explosión!
 00:03:03 {Hombre}      Llegando en 3... 2... 1...
 00:03:10 {Aoba}        Segunda onda en camino.
 00:03:11 {Aoba}        Patrón Azul.
-00:03:12 {Aoba}        Son un grupo molesto.
+00:03:12 {Aoba}        Parece que nos va a traer problemas...
 00:03:13 {Hombre}      Identificando cuerpo próximo.
-00:03:15 {Hombre}      Confirmado, es el Code 04A.
-00:03:25 {Asuka}       ¡Un Anti-A.T. Field!
+00:03:15 {Hombre}      Confirmado, código 04A.
+00:03:25 {Asuka}       ¡Un Escudo Anti-AT!
 00:03:32 {Asuka}       ¡Esto apesta!
 00:03:34 {Asuka}       ¡Solo me entorpece el camino!
-00:03:37 {Asuka}       ¡Hey, Anteojos! ¡Un poco de ayuda aquí!
-00:03:44 {Asuka}       ¡El fuego de soporte fue dos segundos tarde!
-00:03:49 {Mari}        Y tu estás tres segundos adelante de tu posición.
+00:03:37 {Asuka}       ¡Anteojos, favorita! ¡Cúbreme!
+00:03:44 {Asuka}       ¡Tu fuego de apoyo fue 2 segundos tarde!
+00:03:49 {Mari}        Y tú estas 3 segundos por delante de tu posición.
 00:03:52 {Asuka}       Se llama adaptarse a la situación. ¡Mantén mi ritmo!
 00:03:55 {Mari}        Como usted ordene,
 00:03:57 {Mari}        ¡Princesa!
 00:04:05 {Asuka}       Llegó a través de Fraury Shift.
-00:04:07 {Asuka}       Va a entrar en el Área Final de Defensa 89.
+00:04:07 {Asuka}       Va a entrar en la última defensa del Area 89.
 00:04:10 {Asuka}       ¡El objetivo se está moviendo!
-00:04:16 {Asuka}       ¡No hay tiempo de corregir mi órbita!
+00:04:16 {Asuka}       ¡No hay tiempo para corregir mi órbita!
 00:04:17 {Asuka}       ¡Voy a entrar!
 00:04:40 {Asuka}       ¡Desaceleración!
 00:04:46 {Asuka}       ¡Ocho!
@@ -97,41 +97,42 @@ del archivo de origen. ¡Gracias! :3
 00:04:51 {Asuka}       ¡Tres!
 00:04:53 {Asuka}       ¡Dos!
 00:04:54 {Asuka}       ¡Uno!
-00:04:55 {Asuka}       ¡Finalizando combustión!
-00:05:03 {Mujer}       02-Dash ha desechado los últimos refuerzos.
-00:05:06 {Mujer}       Asegurando una distancia segura para el reingreso.
-00:05:09 {Asuka}       Apoderación exitosa del objetivo.
-00:05:11 {Asuka}       Volviendo a la base.
+00:04:55 {Asuka}       ¡Terminando combustión!
+00:05:03 {Mujer}       02-Dash ha desechado los últimos propulsores.
+00:05:06 {Mujer}       Asegurando distancia segura para el reingreso.
+00:05:09 {Asuka}       Objetivo capturado satisfactoriamente.
+00:05:11 {Asuka}       Regresando a la base.
 00:05:13 {Misato}      Entendido.
 00:05:14 {Misato}      Esperaremos en el punto de recuperación.
 00:05:16 {Misato}      El código de combinación es Saturn 5.
 00:05:17 {Asuka}       Entendido.
 00:05:19 {Asuka}       ¿Patrón Azul?
 00:05:20 {Asuka}       ¡¿Dónde?!
-00:05:25 {Mujer}       El objeto desencadenante es el Code 04B.
+00:05:25 {Mujer}       El objeto desencadenante es código 04B.
 00:05:27 {Mujer}       Está desplegando indo-hashamas.
 00:05:29 {Asuka}       ¡Descarado!
-00:05:30 {Asuka}       Justo antes del reingreso.
+00:05:30 {Asuka}       ¡Y justo antes del reingreso!
 00:05:33 {Asuka}       ¡Anteojos, cúbreme!
 00:05:35 {Mari}        ¡Perdón!
 00:05:37 {Mari}        No tengo suficiente altitud, ¡nos vemos!
-00:05:39 {Mari}        Te dejo el resto a ti...
-00:05:42 {Asuka}       Es una inútil.
-00:05:44 {Asuka}       ¡Maldición, esta cosa es testaruda!
+00:05:39 {Mari}        Te dejo el resto a t...
+00:05:42 {Asuka}       ¡Ugh, es una inútil!
+00:05:44 {Asuka}       ¡Maldita sea! ¡Esta cosa es terca!
 00:05:46 {Asuka}       ¡Nadie me dijo de esto!
 00:05:59 {Asuka}       ¡¿Qué es esta luz!?
-00:06:01 {Asuka}       ¡El A.T. Field no la está neutralizando!
+00:06:01 {Asuka}       ¡El Escudo AT no la está neutralizando!
 00:06:03 {Asuka}       ¡Tengo que bloquear el núcleo!
 00:06:06 {Asuka}       ¡No escaparás!
 00:06:10 {Asuka}       ¡Mierda! ¡No puedo mantener mi ángulo de descenso!
-00:06:12 {Asuka}       ¡Mi Unidad se hará pedazos a este ritmo!
-00:06:14 {Misato}      ¡02-Dash, concretar la mision es la máxima prioridad!
-00:06:18 {Misato}      No dejes ir al objetivo, incluso si eso significa sacrificar la unidad.
+00:06:12 {Asuka}       ¡A este ritmo mi unidad se hará pedazos!
+00:06:14 {Misato}      ¡02-Dash, completar la mision es la máxima prioridad!
+00:06:18 {Misato}      No sueltes el objeto, incluso si esto significa perder la unidad.
 00:06:20 {Asuka}       ¡Ya lo sé!
 00:06:41 {Asuka}       ¡Haz algo, Shinji idiota!
 00:07:23 {Kaworu}      Bienvenido de nuevo, Ikari Shinji-kun.
-00:07:26 {Kaworu}      Te estaba esperando.
-00:07:27 {Título}      Evangelion Nueva Versión Teatral: Q. Subtítulos en español por Zo0m_Z3r0.
+00:07:26 {Kaworu}      Te he estado esperando.
+00:07:27 {Título}      Evangelion Nueva Versión Teatral: Q.
+00:07:29 {Título}      Subtítulos al Español por la Comunidad Evangelion 2015.
 00:07:42 {Sakura}      La función cardiopulmonar es normal.
 00:07:44 {Sakura}      No se percibe parálisis en las extremidades.
 00:07:46 {Sakura}      Si. Sus ojos están abriéndose.
