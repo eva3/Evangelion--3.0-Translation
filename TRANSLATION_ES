@@ -175,7 +175,7 @@ del archivo de origen. ¡Gracias! :3
 00:10:07 {Misato}      Entendido.
 00:10:11 {Shinji}      ¿¡Qué es esto!?
 00:10:14 {Shinji}      Por favor, ¡quítenmelo!
-00:10:18 {Sakura}      Ya no podrá quitarse.
+00:10:18 {Sakura}      Eso no se puede quitar.
 00:10:22 {Misato}      Entrevista finalizada.
 00:10:24 {Misato}      Llévenlo a cuarentena.
 00:10:28 {Midori}      Señuelos 01 y 05 destruídos.
@@ -338,18 +338,18 @@ del archivo de origen. ¡Gracias! :3
 00:16:50 {Misato}      Ya no harás nada más.
 00:17:06 {Hombre (BG)} LCL siendo rellenado con gas.
 00:17:07 {Hombre (BG)} Densidad de electrificación alcanzada.
-00:17:08 {Ritsuko}     Comience entrada.
+00:17:08 {Ritsuko}     Inicio de incersión.
 00:17:10 {Mujer (BG)}  Estado de carga eléctrica de LCL es normal.
 00:17:12 {Mujer (BG)}  Iniciando todos los sistemas operativos.
 00:17:14 {Misato}      ¿Cuál es nuestro estado?
 00:17:15 {Mujer}       Censo de todo el personal, completo.
 00:17:17 {Mujer}       Todos confirmados a bordo.
-00:17:18 {Mujer (BG)}  Primer listado, despejado.
+00:17:18 {Mujer (BG)}  Primer listado, confirmado.
 00:17:20 {Hombre}      Confirmado el cierre de todas las barreras.
 00:17:22 {Hombre}      Finalizando chequeo de resistencia de presión.
 00:17:23 {Mujer (BG)}  La salida de componentes auxiliares está aumentando.
 00:17:25 {Koji}        Inyectando energía para la activación inicial del sistema.
-00:17:28 {Koji}        5% hasta llegar al crítico.
+00:17:28 {Koji}        5% para llegar al punto crítico.
 00:17:30 {Sumire}      Iniciando giro-compás.
 00:17:31 {Sumire}      Estabilizador normal.
 00:17:33 {Mujer (BG)}  Iniciando procesamiento de datos visuales.
@@ -361,11 +361,11 @@ del archivo de origen. ¡Gracias! :3
 00:17:45 {Asuka}       ¡Aquí vamos!
 00:17:54 {Asuka}       ¡Bien!
 00:17:56 {Asuka}       ¡Hagámoslo!
-00:18:04 {Asuka}       Desplegando A.T. Field.
-00:18:09 {Aoba}        Cambió a un pilar de luz.
+00:18:04 {Asuka}       Desplegando escudo A.T.
+00:18:09 {Aoba}        Se ha transformado a un pilar de luz.
 00:18:12 {Midori}      ¡Su energía se está disparando!
 00:18:13 {Hyuga}       Todos los objetivos están comenzando a moverse.
-00:18:18 {Aoba}        Naves aliadas se han evaporado.
+00:18:18 {Aoba}        Las naves aliadas se han evaporado.
 00:18:19 {Ritsuko}     Es un ataque de saturacíón.
 00:18:21 {Ritsuko}     Si esta nave es capturada, todo se termina.
 00:18:24 {Midori (BG)} ¡Otros 360 segundos hasta el contacto!
@@ -397,21 +397,21 @@ del archivo de origen. ¡Gracias! :3
 00:19:56 {Sumire}      Entendido. 
 00:19:57 {Sumire}      Comenzando regulación tierra-aire.
 00:19:58 {Sumire}      Transfiriendo a dirección tipo 3D.
-00:20:02 {Misato}      Despliega el A.T. Field al mismo tiempo en que nosotros arrancamos.
-00:20:04 {Tama}        Radio de rotación en 36000. Todo verde.
+00:20:02 {Misato}      ¡Enciendan los motores y desplieguen el escudo AT!.
+00:20:04 {Tama}        Velocidad de giro 36000. Sistemas en orden.
 00:20:07 {Koji}        ¡Iniciando contacto!
 00:20:09 {Misato}      Omitir cuenta regresiva. 
 00:20:10 {Misato}      Contacto principal.
 00:20:11 {Koji}        ¡Contacto!
 00:20:16 {Misato}      ¡Ignición!
-00:20:34 {Midori}      Obstáculos despejados.
+00:20:34 {Midori}      Obstáculos despejdados.
 00:20:35 {Ritsuko}     Confirmando todas las divisiones.
 00:20:36 {Misato}      / １６番＃＃＃。
 00:20:36 {Ritsuko}     Naves compañeras se han retirado.
 00:20:38 {Misato}      Aquí vamos. 
 00:20:39 {Misato}      Wunder, ¡despegue!
 00:21:30 {Tama}        ¡Alas principales penetradas! ¡Daño desconocido!
-00:21:32 {Misato}      ¡No te preocupes!
+00:21:32 {Misato}      ¡Tranquilos!
 00:21:33 {Misato}      Prepárense para un contra ataque a gran escala.
 00:21:34 {Misato}      ¡Volteen la nave!
 00:21:35 {Misato}      ¡Ir a popa!
@@ -429,7 +429,7 @@ del archivo de origen. ¡Gracias! :3
 00:22:33 {Sumire}      ¡Entendido!
 00:23:00 {Misato}      ¡Propulsores a toda potencia!
 00:23:01 {Misato}      ¡Freno de emergencia!
-00:23:12 {Aoba}        ¡Objetivo congelado!
+00:23:12 {Aoba}        ¡El objetivo dejó de moverse!
 00:23:13 {Misato}      ¡Todos los cañones prepárense para disparar!
 00:23:15 {Misato}      Cargar munición penetrante.
 00:23:17 {Misato}      Conecten todos los cañones a la nave principal.
@@ -447,54 +447,54 @@ del archivo de origen. ¡Gracias! :3
 00:24:06 {Tama}        ¡Fantástico!
 00:24:07 {Midori}      Ganamos.
 00:24:09 {Koji}        Totalmente imprudente.
-00:24:12 {Koji}        Bueno, ella es un Capitán mucho más interesante de lo que Kaji dijo.
+00:24:12 {Koji}        Bueno, es una Capitán mucho más interesante de lo que comentó Kaji.
 00:24:15 {Ritsuko}     Así que este es el poder para asesinar dioses.
-00:24:17 {Ritsuko}     Wundes es la nave de la esperanza.
+00:24:17 {Ritsuko}     Wunder es la nave de la esperanza.
 00:25:00 {Sakura}      Especimen DM03, nombre tentativo: Shinji Ikari...
 00:25:03 {Sakura}      El oficial al mando tiene unas palabras que decirte.
 00:25:06 {Shinji}      ¿Este es el EVA-01?
 00:25:08 {Ritsuko}     Si. EVA-01 está siendo usado como el motor principal de esta nave.
-00:25:13 {Ritsuko}     En consecuencia, ya no tienes propósito como piloto.
-00:25:16 {Shinji}      Ah, entonces ya no soy requerido.
-00:25:19 {Ritsuko}     Además, ya tenemos los resultados de tus test de syncronización.
-00:25:23 {Ritsuko}     La tasa de sincronización es de 0.00%.
-00:25:26 {Ritsuko}     Incluso si ingresas de nuevo en el EVA, éste no se activará.
-00:25:30 {Sakura}      ¿De verdad?
+00:25:13 {Ritsuko}     Ya no será necesario que cumplas tu función de piloto.
+00:25:16 {Shinji}      O sea, que ya no me necesitan.
+00:25:19 {Ritsuko}     Además, ya tenemos los resultados de tu prueba de sincronización.
+00:25:23 {Ritsuko}     Tu nivel es de 0.00%.
+00:25:26 {Ritsuko}     Incluso si ingresas de nuevo al EVA, no se activará.
+00:25:30 {Sakura}      ¿Eso es cierto?
 00:25:31 {Sakura}      ¿No son grandes noticias, Ikari-san?
-00:25:33 {Ritsuko}     Inclusive, no podemos pasar por alto el hecho de que, anteriormente, el EVA-01 entró en un estado de Despertar por 12 segundos.
-00:25:39 {Ritsuko}     Como resultado, te hemos instalado el collar DSS.
+00:25:33 {Ritsuko}     Aún así, no podemos pasar por el alto el hecho de que anteriormente el Eva 01 estuvo despierto por 12 segundos.
+00:25:39 {Ritsuko}     Es por eso que te colocamos el collar DSS.
 00:25:44 {Shinji}      ¿Qué es esto?
 00:25:45 {Ritsuko}     Seguridad para todos nosotros. 
-00:25:48 {Ritsuko}     Es un dispositivo de seguridad física para evitar Despertamientos.
+00:25:48 {Ritsuko}     Es un dispositivo de seguridad física para evitar que el Eva despierte.
 00:25:51 {Ritsuko}     Y también es un símbolo de tu castigo.
-00:25:55 {Shinji}      ¿Qué es lo que hace?
-00:25:56 {Ritsuko}     Si pierdes el control de tus emociones mientras piloteas un EVA y no es posible suprimir el riesgo de un Despertar,
-00:26:04 {Ritsuko}     esto va a intervenir terminando tu vida.
+00:25:55 {Shinji}      ¿Y qué se supone que hace esto?
+00:25:56 {Ritsuko}     En caso de que pierdas el control de tus emociones cuando pilotees el Eva y corras el riesgo de despertar a la unidad,
+00:26:04 {Ritsuko}     esto se encargará de terminar con tu vida.
 00:26:08 {Shinji}      Quiere decir que... ¿Moriré?
 00:26:13 {Ritsuko}     No voy a negarlo.
 00:26:16 {Shinji}      De ninguna manera...
-00:26:18 {Shinji}      Misato, ¿qué es todo eso acerca de morirme?
-00:26:22 {Shinji}      ¡Esto es raro, Misato!
-00:26:24 {Shinji}      ¡De repente todo es tan confuso, y no entiendo nada!
-00:26:27 {Ritsuko}     No se puede evitar el hecho de que estés confundido.
+00:26:18 {Shinji}      Misato, ¿de qué se trata todo esto?
+00:26:22 {Shinji}      ¡Esto es extraño, Misato!
+00:26:24 {Shinji}      ¡Es todo tan confuso que no logro entender nada!
+00:26:27 {Ritsuko}     Es inevitable que te sientas confundid.
 00:26:28 {Ritsuko}     ¡Segunda Teniente!
 00:26:29 {Sakura}      ¡Si, señora!
 00:26:30 {Ritsuko}     Preséntate.
 00:26:31 {Sakura}      ¡Si, señora!
-00:26:33 {Sakura}      Um, es tarde, pero soy la oficial médico a cargo,
+00:26:33 {Sakura}      Eh, ya es tarde, pero soy la oficial médico a cargo,
 00:26:38 {Sakura}      2da. Teniente, Suzuhara Sakura.
 00:26:41 {Sakura}      Encantada en conocerte.
 00:26:43 {Shinji}      Ah, lo... mismo.
 00:26:46 {Shinji}      Pero, Suzuhara...
-00:26:48 {Shinji}      Eres de Touji...
+00:26:48 {Shinji}      ¿la hermana de Tuoji?
 00:26:50 {Sakura}      Ah, si.
-00:26:51 {Sakura}      Le debo todo a mi hermano mayor.
+00:26:51 {Sakura}      Tú ayudaste a mi hermano mayor.
 00:26:53 {Sakura}      Soy su hermana menor, Sakura.
 00:26:55 {Shinji}      ¿Hermana menor?
 00:26:56 {Shinji}      ¿No querrás decir hermana mayor?
 00:26:57 {Sakura}      No, hermana menor.
 00:27:01 {Shinji}      ¿Hermana menor? ¿Cómo?
-00:27:04 {Asuka}       Catorce años han pasado desde entonces.
+00:27:04 {Asuka}       Han pasado 14 años.
 00:27:07 {Asuka}       Shinji idiota.
 00:27:09 {Shinji}      Ah, ¡Asuka!
 00:27:15 {Shinji}      ¡Qué bien!
@@ -507,37 +507,37 @@ del archivo de origen. ¡Gracias! :3
 00:27:41 {Shinji}      Uh, Asuka, tu ojo izquierdo...
 00:27:44 {Asuka}       No te incumbe.
 00:27:46 {Shinji}      Asuka, dijiste que han pasado catorce años,
-00:27:49 {Shinji}      pero lo único que ha cambiado en ti es tu parche.
-00:27:52 {Asuka}       Cierto. Es la maldición del EVA.
-00:27:55 {Shinji}      ¿Maldición?
+00:27:49 {Shinji}      pero no ha cambiado nada excepto tu parche.
+00:27:52 {Asuka}       Así es. Es la maldición del EVA.
+00:27:55 {Shinji}      ¿La maldición del EVA?
 00:27:59 {Shinji}      ¡Espera!
 00:28:00 {Shinji}      ¡Asuka, quizás sepas!
 00:28:02 {Shinji}      ¡¿Dónde está Ayanami?!
-00:28:05 {Asuka}       No lo se.
+00:28:05 {Asuka}       No lo sé.
 00:28:06 {Shinji}      ¿No lo sabes?
-00:28:08 {Shinji}      ¡Pero la he salvado!
+00:28:08 {Shinji}      ¡Pero si yo la rescaté aquella vez!
 00:28:10 {Asuka}       Todo este alboroto por una sola persona.
 00:28:12 {Asuka}       El mundo no tiene tiempo para atender tu ego.
 00:28:16 {Asuka}       ¿No es así, Capitán Katsuragi?
 00:28:22 {Shinji}      ¡Asuka!
 00:28:23 {Shinji}      ¡Misato! ¡¿Dónde está Ayanami?!
-00:28:26 {Shinji}      ¡Tienes que decírmelo!
+00:28:26 {Shinji}      ¡Por favor, dimelo!
 00:28:27 {Misato}      Shinji, Ayanami Rei ya no existe.
 00:28:31 {Shinji}      No, la he salvado, sé que lo hice.
-00:28:34 {Shinji}      Ella debe de estar en el entry plug del EVA-01.
-00:28:37 {Shinji}      ¡Por favor, búscala!
+00:28:34 {Shinji}      Todavía debe estar adentro de la cápsula del Eva-01.
+00:28:37 {Shinji}      ¡Búsquenla, por favor!
 00:28:38 {Ritsuko}     Ya hemos realizado una inspección completa del EVA-01.
 00:28:42 {Ritsuko}     Solo te hemos encontrado a ti.
-00:28:45 {Ritsuko}     Y por alguna razón, esto fue restaurado.
-00:28:48 {Ritsuko}     La inspección no dio ningún problema. Lo vamos a devolver.
-00:28:52 {Shinji}      Son de mi padre...
-00:28:55 {Shinji}      Ayanami los tenía en ese entonces.
+00:28:45 {Ritsuko}     Y por alguna razón, también encontramos esto.
+00:28:48 {Ritsuko}     Los resultados de la inspección no mostraron ningún problema. Te lo devolveremos.
+00:28:52 {Shinji}      El SDAT de mi padre...
+00:28:55 {Shinji}      Ayanami lo tenía en sus manos.
 00:28:58 {Shinji}      Entonces la salvé, ¿o no?
 00:29:01 {Shinji}      ¡¿Qué?!
-00:29:04 {Misato}      Soy yo.
+00:29:04 {Misato}      Diga.
 00:29:06 {Hyuga (Tel)} El objetivo está en la cubierta trasera.
 00:29:07 {Hyuga (Tel)} ¡De repente se acercó a nosotros!
-00:29:09 {Misato}      ¡Aparece el favorito!
+00:29:09 {Misato}      ¡La favorita finalmente ha llegado!
 00:29:10 {Misato}      Todas las flotas a estaciones de batalla primarias.
 00:29:12 {Misato}      ¡Asegurar al EVA-01 es nuestra máxima prioridad!
 00:29:14 {Asuka}       Eva-08, estás listo, ¿verdad?
