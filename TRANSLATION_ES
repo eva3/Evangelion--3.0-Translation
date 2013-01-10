@@ -159,7 +159,7 @@ del archivo de origen. ¡Gracias! :3
 00:08:53 {Sakura}      El espécimen DM03 está bajo nuestra custodia.
 00:08:56 {Misato}      Entendido. 
 00:08:57 {Misato}      Liberen los sujetadores.
-00:09:00 {Misato}      Voy a bajar.
+00:09:00 {Misato}      Puedes bajar.
 00:09:25 {Shinji}      Misato-san...
 00:09:28 {Misato}      Es Ikari Shinji-kun, ¿no es así?
 00:09:31 {Ritsuko}     Eso parece.
@@ -187,16 +187,16 @@ del archivo de origen. ¡Gracias! :3
 00:10:37 {Hyuga}       Son Nemesis Series.
 00:10:39 {Misato}      Están de vuelta...
 00:10:40 {Midori (BG)} Objetivos son todos Code 4C.
-00:10:40 {Ritsuko}     Están avanzando por los lados.
+00:10:40 {Ritsuko}     Están avanzando por todos lados.
 00:10:42 {Ritsuko}     Quieren bloquearnos aquí, básicamente.
 00:10:43 {Midori (BG)} / ＃＃マル二。＃＃＃消滅確認。
-00:10:45 {Misato}      No podemos darnos el lujo de movernos de aquí ahora.
-00:10:48 {Misato}      Continuar operando solamente con el motor principal.
+00:10:45 {Misato}      No podemos movernos de aquí ahora.
+00:10:48 {Misato}      Continuemos operando solamente con el motor principal.
 00:10:50 {Misato}      Todas las flotas, a estaciones de batalla secundarias.
 00:10:53 {Misato}      Objetivo: los Nemesis Series.
 00:10:55 {Ritsuko}     Entendido. 
 00:10:56 {Ritsuko}     Todas las flotas a estaciones de batalla secundarias.
-00:10:58 {Hyuga}       Preparase para batalla anti-submarina, anti-aérea y bajo el agua.
+00:10:58 {Hyuga}       Preparase para una batalla anti-submarina, anti-aérea y bajo el agua.
 00:11:02 {Aoba}        Interrumpan la transferencia predeterminada.
 00:11:03 {Aoba}        Priorizar el traspaso de toda la tripulación a otro buque.
 00:11:05 {Mujer}       Todas las flotas, abandonen la transferencia predeterminada.
@@ -226,14 +226,14 @@ del archivo de origen. ¡Gracias! :3
 00:12:01 {Mujer}       Sistema de filtrado listo.
 00:12:03 {Maya}        ¡Estaciones de batalla!
 00:12:04 {Maya}        Vuelvan a sus puestos.
-00:12:06 {Maya}        ¡Tu ahí! ¡Sin demoras!
-00:12:08 {Worker}      ¡Está pidiéndome un imposible, Jefa de Mantenimiento!
-00:12:10 {Worker}      Somos como un mixto de civiles después de todo.
+00:12:06 {Maya}        ¡Tu ahí! ¡De prisa!
+00:12:08 {Worker}      ¡Está pidiéndome algo imposible, Jefa de Mantenimiento!
+00:12:10 {Worker}      Somos como una mezcla de civiles después de todo.
 00:12:13 {Maya}        ¡Sin excusas!
-00:12:15 {Maya}        ¡Al trabajo!
+00:12:15 {Maya}        ¡A trabajar!
 00:12:17 {Maya}        Este es el problema con los jóvenes.
 00:12:21 {Tama}        Umm... interrumpiendo la transferencia aquí.
-00:12:24 {Tama}        Comenzando el bloqueo de las barricadas... ¿Es este?
+00:12:24 {Tama}        Comenzando el bloqueo de las barricadas... ¿Será éste?
 00:12:27 {Midori}      El sonar está en dirección con la proa del buque anti aéreo como referencia.
 00:12:31 {Aoba}        ¡Kitakami! 
 00:12:32 {Aoba}        ¿Cuál es el estado de los procedimientos en el puente?
@@ -284,7 +284,7 @@ del archivo de origen. ¡Gracias! :3
 00:14:21 {Midori}      ¡Los viejitos deben de tener más cuidado!
 00:14:25 {Misato}      Soy consciente de la imprudencia.
 00:14:27 {Misato}      Vamos a usar esta nave como señuelo y arrastrarlo hacia la superficie.
-00:14:30 {Misato}      El poder de matar dioses, tal como te identificas.
+00:14:30 {Misato}      El poder de matar dioses, veremos cómo resulta.
 00:14:33 {Ritsuko}     Pero el sistema de ignición más importante no ha sido instalado.
 00:14:36 {Ritsuko}     ¿No me digas que usarán los EVAs?
 00:14:39 {Misato}      ¡Mari!
@@ -298,12 +298,12 @@ del archivo de origen. ¡Gracias! :3
 00:14:54 {Ritsuko}     Además, ¿no se está trabajando en el puente?
 00:14:56 {Asuka}       Bien, "prorizar el objetivo, vida humana prescindible" es un lema de Capitán, después de todo.
 00:15:00 {Asuka}       ¡Ahí voy!
-00:15:01 {Asuka}       EVA Unidad 02', ¡activar¡
+00:15:01 {Asuka}       EVA Unidad 02', ¡activado!
 00:15:06 {Mujer}       Lanzamiento de EVA-02'.
 00:15:07 {Mujer}       Entendido.
 00:15:08 {Mujer}       Preparando EVA-02' para el lanzamiento.
 00:15:09 {Mujer}       Motor submarino y propulsión jet, pasando por el número 1.
-00:15:20 {Asuka}       La verdad, qué entrada aburrida para el nuevo look de mi Unidad.
+00:15:20 {Asuka}       La verdad, qué entrada aburrida para mostrar el nuevo aspecto de mi Unidad.
 00:15:32 {Shinji}      En verdad es el EVA Unidad 02.
 00:15:33 {Shinji}      Qué bien, Asuka está bien.
 00:15:40 {Shinji}      Misato, yo...
@@ -463,16 +463,16 @@ del archivo de origen. ¡Gracias! :3
 00:25:31 {Sakura}      ¿No son grandes noticias, Ikari-san?
 00:25:33 {Ritsuko}     Aún así, no podemos pasar por el alto el hecho de que anteriormente el Eva 01 estuvo despierto por 12 segundos.
 00:25:39 {Ritsuko}     Es por eso que te colocamos el collar DSS.
-00:25:44 {Shinji}      ¿Qué es esto?
+00:25:44 {Shinji}      ¿Qué es eso?
 00:25:45 {Ritsuko}     Seguridad para todos nosotros. 
 00:25:48 {Ritsuko}     Es un dispositivo de seguridad física para evitar que el Eva despierte.
 00:25:51 {Ritsuko}     Y también es un símbolo de tu castigo.
-00:25:55 {Shinji}      ¿Y qué se supone que hace esto?
+00:25:55 {Shinji}      ¿Y qué se supone que hace?
 00:25:56 {Ritsuko}     En caso de que pierdas el control de tus emociones cuando pilotees el Eva y corras el riesgo de despertar a la unidad,
 00:26:04 {Ritsuko}     esto se encargará de terminar con tu vida.
 00:26:08 {Shinji}      Quiere decir que... ¿Moriré?
 00:26:13 {Ritsuko}     No voy a negarlo.
-00:26:16 {Shinji}      De ninguna manera...
+00:26:16 {Shinji}      No es posible...
 00:26:18 {Shinji}      Misato, ¿de qué se trata todo esto?
 00:26:22 {Shinji}      ¡Esto es extraño, Misato!
 00:26:24 {Shinji}      ¡Es todo tan confuso que no logro entender nada!
