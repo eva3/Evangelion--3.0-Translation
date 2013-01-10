@@ -537,14 +537,14 @@ del archivo de origen. ¡Gracias! :3
 00:29:04 {Misato}      Diga.
 00:29:06 {Hyuga (Tel)} El objetivo está en la cubierta trasera.
 00:29:07 {Hyuga (Tel)} ¡De repente se acercó a nosotros!
-00:29:09 {Misato}      ¡La favorita finalmente ha llegado!
+00:29:09 {Misato}      ¡Ahora sí que empezó la pelea!
 00:29:10 {Misato}      Todas las flotas a estaciones de batalla primarias.
 00:29:12 {Misato}      ¡Asegurar al EVA-01 es nuestra máxima prioridad!
 00:29:14 {Asuka}       Eva-08, estás listo, ¿verdad?
 00:29:16 {Mari}        Por supuesto.
 00:29:18 {Mari}        Estoy justo encima, Princesa.
 00:29:19 {Mari}        Por cierto, ¿cómo está el cachorrito?
-00:29:22 {Mari}        ¿Obedientemente se queda donde está?
+00:29:22 {Mari}        ¿Sigue allí quieto y obediente como siempre?
 00:29:24 {Asuka (Tel)} No ha cambiado su estúpida cara de humilde.
 00:29:28 {Mari}        Oh, así que fuiste a ver su cara, ¿verdad?
 00:29:31 {Asuka (Tel)} ¡No! 
@@ -573,8 +573,8 @@ del archivo de origen. ¡Gracias! :3
 00:30:37 {Misato}      Quédate aquí mismo.
 00:30:38 {Shinji}      ¿Qué pasa, Misato-san?
 00:30:41 {Shinji}      ¿No decías hace un momento que no me necesitabas?
-00:30:43 {Misato}      Aun así, serás mantenido en custodia.
-00:30:45 {Shinji}      ¡Es demasiado parcial!
+00:30:43 {Misato}      Aún así, serás mantenido en custodia.
+00:30:45 {Shinji}      ¡Es injusto!
 00:30:53 {Shinji}      ¡Por favor haz que se detenga!
 00:50:53 {Shinji}      ¡El objetivo es un EVA!
 00:30:55 {Misato}      Es por eso.
@@ -592,7 +592,7 @@ del archivo de origen. ¡Gracias! :3
 00:31:20 {Shinji}      ¡Ya tuve suficiente!
 00:31:24 {Sakura}      ¡Ikari-san!
 00:31:27 {Sakura}      Estoy de acuerdo,
-00:31:29 {Sakura}      ¡Pero por favor no pilotes un EVA!
+00:31:29 {Sakura}      ¡Pero por favor no pilotes el EVA!
 00:31:31 {Sakura}      Quiero que me perdones, en serio.
 00:31:43 {Asuka}       ¡Anteojos, no lo dejes ir!
 00:31:44 {Mari}        ¡Alto y claro!
@@ -600,7 +600,7 @@ del archivo de origen. ¡Gracias! :3
 00:31:50 {Mari}        ♪ debería aspirar a una meta mayor... ♪
 00:31:55 {Mari}        ¡Hey, come on!
 00:32:02 {Mari}        ¡Bien!
-00:32:09 {Mari}        ¡Lo sabía! ¿Un contenedor de Adams?
+00:32:09 {Mari}        ¡Lo sabía! ¿Un contenedor de Adam?
 00:32:17 {Mari}        ¡Al menos di "hola" o algo!
 00:32:22 {Ritsuko}     El hecho es que él fuese tomado como prioridad sobre el EVA-01,
 00:32:25 {Ritsuko}     ¡Quiere decir que todavía tiene potencial como disparador!
@@ -611,13 +611,13 @@ del archivo de origen. ¡Gracias! :3
 00:32:51 {Hombre}      Entendido.
 00:32:52 {Hombre}      Persecución innecesaria.
 00:32:54 {Hombre}      Todo el personal, vuelvan a las operaciones de control de daños y camuflaje.
-00:32:55 {Asuka}       Tú qué sabes.
-00:32:56 {Asuka}       ¡Él no es un idiota, solo un malcriado!
+00:32:55 {Asuka}       ¿Qué te parece?.
+00:32:56 {Asuka}       ¡No es ningún idiota, es un malcriado!
 00:33:16 {Shinji}      La he salvado después de todo.
 00:33:18 {Shinji}      Misato-san es una mentirosa.
 00:33:21 {Rei}         Por aquí.
 00:33:48 {Shinji}      A pesar de que es el GeoFront, se puede ver el cielo.
-00:34:00 {Shinji}      Eso eso... ¿Cuarteles de Nerv?
+00:34:00 {Shinji}      Esos son... ¿los Cuarteles Generales de Nerv?
 00:34:04 {Shinji}      ¿Qué pasó?
 00:34:36 {Shinji}      De verdad han pasado catorce años.
 00:35:15 {Rei}         Aquí.
