@@ -256,7 +256,7 @@ del archivo de origen. ¡Gracias! :3
 00:13:15 {Aoba}        Es probable que esté oculto fuera de la fase de capullo.
 00:13:18 {Ritsuko}     Esto es malo.
 00:13:20 {Ritsuko}     A este ritmo, estaremos en el extremo receptor de un bombardeo saturador.
-00:13:22 {Midori}      600 secundos para el contacto.
+00:13:22 {Midori}      600 segundos para el contacto.
 00:13:24 {Ritsuko}     Capitán Katsuragi,
 00:13:25 {Ritsuko}     Propongo la dispersión inmediata de las flotas.
 00:13:29 {Ritsuko}     Tenemos personal insuficiente y recursos limitados.
@@ -298,10 +298,10 @@ del archivo de origen. ¡Gracias! :3
 00:14:54 {Ritsuko}     Además, ¿no se está trabajando en el puente?
 00:14:56 {Asuka}       Bien, "prorizar el objetivo, vida humana prescindible" es un lema de Capitán, después de todo.
 00:15:00 {Asuka}       ¡Ahí voy!
-00:15:01 {Asuka}       EVA Unidad 02', ¡activado!
+00:15:01 {Asuka}       EVA Unidad 02, ¡activado!
 00:15:06 {Mujer}       Lanzamiento de EVA-02'.
 00:15:07 {Mujer}       Entendido.
-00:15:08 {Mujer}       Preparando EVA-02' para el lanzamiento.
+00:15:08 {Mujer}       Preparando el EVA-02 para el lanzamiento.
 00:15:09 {Mujer}       Motor submarino y propulsión jet, pasando por el número 1.
 00:15:20 {Asuka}       La verdad, qué entrada aburrida para mostrar el nuevo aspecto de mi Unidad.
 00:15:32 {Shinji}      En verdad es el EVA Unidad 02.
@@ -437,34 +437,34 @@ del archivo de origen. ¡Gracias! :3
 00:23:20 {Koji}        Entendido. Abriendo circuitos.
 00:23:23 {Midori}      ¡Aplicando las correcciones finales a las trayectorias computadas del enemigo!
 00:23:25 {Mujer (BG)}  Sistemas de artillería entrelazados.
-00:23:27 {Hyuga}       Apuntado directo y persecución manual, listo para todos los cañones.
+00:23:27 {Hyuga}       Mira directa y persecución manual, listo para todos los cañones.
 00:23:30 {Misato}      Entonces ya estamos listos.
 00:23:31 {Misato}      ¡FUEGO!
 00:23:56 {Aoba}        ¡Objetivo destruído!
 00:23:58 {Misato}      Todas las flotas, estado de alerta secundaria.
-00:24:00 {Misato}      Preparandose para recuperar al EVA-02'. 
-00:24:02 {Misato}      De prisa con los procedimientos de emergencia para las alas principales.
+00:24:00 {Misato}      Preparandose para recuperar al EVA-02. 
+00:24:02 {Misato}      Dense prisa con los procedimientos de emergencia para las alas principales.
 00:24:06 {Tama}        ¡Fantástico!
 00:24:07 {Midori}      Ganamos.
 00:24:09 {Koji}        Totalmente imprudente.
 00:24:12 {Koji}        Bueno, es una Capitán mucho más interesante de lo que comentó Kaji.
-00:24:15 {Ritsuko}     Así que este es el poder para asesinar dioses.
-00:24:17 {Ritsuko}     Wunder es la nave de la esperanza.
+00:24:15 {Ritsuko}     Así que este es el poder para matar dioses.
+00:24:17 {Ritsuko}     Wunder es realmente la nave de la esperanza.
 00:25:00 {Sakura}      Especimen DM03, nombre tentativo: Shinji Ikari...
-00:25:03 {Sakura}      El oficial al mando tiene unas palabras que decirte.
+00:25:03 {Sakura}      El oficial al mando tiene algo que decirte.
 00:25:06 {Shinji}      ¿Este es el EVA-01?
 00:25:08 {Ritsuko}     Si. EVA-01 está siendo usado como el motor principal de esta nave.
 00:25:13 {Ritsuko}     Ya no será necesario que cumplas tu función de piloto.
 00:25:16 {Shinji}      O sea, que ya no me necesitan.
-00:25:19 {Ritsuko}     Además, ya tenemos los resultados de tu prueba de sincronización.
+00:25:19 {Ritsuko}     Además, nos han entregado los resultados de tu prueba de sincronización.
 00:25:23 {Ritsuko}     Tu nivel es de 0.00%.
 00:25:26 {Ritsuko}     Incluso si ingresas de nuevo al EVA, no se activará.
 00:25:30 {Sakura}      ¿Eso es cierto?
 00:25:31 {Sakura}      ¿No son grandes noticias, Ikari-san?
-00:25:33 {Ritsuko}     Aún así, no podemos pasar por el alto el hecho de que anteriormente el Eva 01 estuvo despierto por 12 segundos.
+00:25:33 {Ritsuko}     Aún así, no podemos descartar el hecho de que anteriormente el Eva 01 estuvo despierto por 12 segundos.
 00:25:39 {Ritsuko}     Es por eso que te colocamos el collar DSS.
 00:25:44 {Shinji}      ¿Qué es eso?
-00:25:45 {Ritsuko}     Seguridad para todos nosotros. 
+00:25:45 {Ritsuko}     Es por nuestra seguridad.
 00:25:48 {Ritsuko}     Es un dispositivo de seguridad física para evitar que el Eva despierte.
 00:25:51 {Ritsuko}     Y también es un símbolo de tu castigo.
 00:25:55 {Shinji}      ¿Y qué se supone que hace?
@@ -506,12 +506,12 @@ del archivo de origen. ¡Gracias! :3
 00:27:39 {Shinji}      ¿A qué te refieres?
 00:27:41 {Shinji}      Uh, Asuka, tu ojo izquierdo...
 00:27:44 {Asuka}       No te incumbe.
-00:27:46 {Shinji}      Asuka, dijiste que han pasado catorce años,
+00:27:46 {Shinji}      Asuka, dijiste que han pasado 14 años,
 00:27:49 {Shinji}      pero no ha cambiado nada excepto tu parche.
 00:27:52 {Asuka}       Así es. Es la maldición del EVA.
 00:27:55 {Shinji}      ¿La maldición del EVA?
 00:27:59 {Shinji}      ¡Espera!
-00:28:00 {Shinji}      ¡Asuka, quizás sepas!
+00:28:00 {Shinji}      ¡Asuka, quizás tú lo sabes!
 00:28:02 {Shinji}      ¡¿Dónde está Ayanami?!
 00:28:05 {Asuka}       No lo sé.
 00:28:06 {Shinji}      ¿No lo sabes?
@@ -539,7 +539,7 @@ del archivo de origen. ¡Gracias! :3
 00:29:07 {Hyuga (Tel)} ¡De repente se acercó a nosotros!
 00:29:09 {Misato}      ¡Ahora sí que empezó la pelea!
 00:29:10 {Misato}      Todas las flotas a estaciones de batalla primarias.
-00:29:12 {Misato}      ¡Asegurar al EVA-01 es nuestra máxima prioridad!
+00:29:12 {Misato}      ¡Proteger al EVA-01 es nuestra máxima prioridad!
 00:29:14 {Asuka}       Eva-08, estás listo, ¿verdad?
 00:29:16 {Mari}        Por supuesto.
 00:29:18 {Mari}        Estoy justo encima, Princesa.
@@ -564,20 +564,20 @@ del archivo de origen. ¡Gracias! :3
 00:30:01 {Shinji}      De verdad es Ayanami.
 00:30:04 {Shinji}      ¡Es Ayanami!
 00:30:06 {Sakura}      ¡Ikari-san! ¡Rápido!
-00:30:11 {Shinji}      Suficiente.
+00:30:11 {Shinji}      Ya es suficiente.
 00:30:13 {Shinji}      ¡Ayanami, estoy aquí!
 00:30:28 {Shinji}      EVA... Unidad 00.
 00:30:30 {Rei}         Ikari-kun... 
 00:30:32 {Rei}         Por aquí.
 00:30:35 {Misato}      No lo hagas, Shinji-kun.
 00:30:37 {Misato}      Quédate aquí mismo.
-00:30:38 {Shinji}      ¿Qué pasa, Misato-san?
+00:30:38 {Shinji}      ¿Qué sucede, Misato-san?
 00:30:41 {Shinji}      ¿No decías hace un momento que no me necesitabas?
-00:30:43 {Misato}      Aún así, serás mantenido en custodia.
-00:30:45 {Shinji}      ¡Es injusto!
+00:30:43 {Misato}      Aún así, quedarás bajo nuestra custodia.
+00:30:45 {Shinji}      ¡Eso es injusto!
 00:30:53 {Shinji}      ¡Por favor haz que se detenga!
 00:50:53 {Shinji}      ¡El objetivo es un EVA!
-00:30:55 {Misato}      Es por eso.
+00:30:55 {Misato}      Efectivamente.
 00:30:57 {Misato}      Todos los EVAs de Nerv serán aniquilados.
 00:30:59 {Shinji}      Nerv... 
 00:31:01 {Shinji}      ¿Acaso esto no es Nerv también?
@@ -592,7 +592,7 @@ del archivo de origen. ¡Gracias! :3
 00:31:20 {Shinji}      ¡Ya tuve suficiente!
 00:31:24 {Sakura}      ¡Ikari-san!
 00:31:27 {Sakura}      Estoy de acuerdo,
-00:31:29 {Sakura}      ¡Pero por favor no pilotes el EVA!
+00:31:29 {Sakura}      ¡Pero por favor no pilotees el EVA!
 00:31:31 {Sakura}      Quiero que me perdones, en serio.
 00:31:43 {Asuka}       ¡Anteojos, no lo dejes ir!
 00:31:44 {Mari}        ¡Alto y claro!
@@ -600,9 +600,9 @@ del archivo de origen. ¡Gracias! :3
 00:31:50 {Mari}        ♪ debería aspirar a una meta mayor... ♪
 00:31:55 {Mari}        ¡Hey, come on!
 00:32:02 {Mari}        ¡Bien!
-00:32:09 {Mari}        ¡Lo sabía! ¿Un contenedor de Adam?
+00:32:09 {Mari}        ¡Lo sabía! ¿Un recipiente de Adam?
 00:32:17 {Mari}        ¡Al menos di "hola" o algo!
-00:32:22 {Ritsuko}     El hecho es que él fuese tomado como prioridad sobre el EVA-01,
+00:32:22 {Ritsuko}     El hecho de que él fuese tomado como prioridad sobre el EVA-01,
 00:32:25 {Ritsuko}     ¡Quiere decir que todavía tiene potencial como disparador!
 00:32:27 {Ritsuko}     ¡Misato! ¡Usa el collar DSS!
 00:32:44 {Ritsuko}     Misión directiva del Oficial Ejecutivo.
@@ -645,18 +645,18 @@ del archivo de origen. ¡Gracias! :3
 00:37:35 {Shinji}      ¡Ayanami!
 00:37:36 {Shinji}      ¡Te estuve buscando!
 00:37:37 {Shinji}      Ah, ¡espera!
-00:37:40 {Shinji}      ¡Ropa! ¡Ponte algo de ropa!
+00:37:40 {Shinji}      ¡Tu ropa! ¡Ponte algo de ropa!
 00:37:44 {Rei}         Si eso fue una orden, lo haré.
 00:37:48 {Shinji}      Estoy entrando...
 00:37:53 {Shinji}      Ayanami, gracias por esto.
 00:37:59 {Shinji}      Quiero darte las gracias desde hace tiempo.
-00:38:09 {Shinji}      Tu plugsuit está remodelado.
+00:38:09 {Shinji}      Han remodelado tu plugsuit.
 00:38:12 {Shinji}      Te queda bien. Aunque el negro es un poco...
 00:38:21 {Shinji}      Los cuarteles de Nerv han cambiado bastante, ¿no?
 00:38:28 {Shinji}      ¿Por qué Misato-san está peleando contra Nerv y no contra los Ángeles?
 00:38:33 {Shinji}      ¿Qué quiere hacer mi padre aquí?
 00:38:36 {Shinji}      ¿Qué pasó con todos?
-00:38:38 {Shinji}      Hey, Ayanami, ¿sabes algo?
+00:38:38 {Shinji}      Oye, Ayanami, ¿sabes algo?
 00:38:42 {Rei}         No lo se.
 00:38:43 {Shinji}      Ya veo. 
 00:38:46 {Shinji}      Si, puede ser.
@@ -677,7 +677,7 @@ del archivo de origen. ¡Gracias! :3
 00:39:34 {Shinji}      Libros de Inglés están bien, ¿verdad?
 00:39:37 {Shinji}      Siempre tenías uno contigo, así que creo que te gustaba.
 00:39:40 {Rei}         ¿Gustaba?
-00:39:41 {Shinji}      Sí... Al menos, eso creo.
+00:39:41 {Shinji}      Si... Al menos, eso creo.
 00:39:44 {Rei}         ¿Qué es "gustaba"?
 00:39:56 {Fuyutsuki}   ¿Entonces Seele sigue en silencio?
 00:40:00 {Gendo}       El Proyecto de Instrumentalización Humana será realizado de acuerdo a los Rollos del Mar Muerto.
