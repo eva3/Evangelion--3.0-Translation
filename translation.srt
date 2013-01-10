@@ -1,0 +1,5044 @@
+1
+00:00:52,000 --> 00:00:55,000
+{Man}         Tracking team, report on both units' current positions.
+
+2
+00:00:55,000 --> 00:00:58,000
+{Woman}       Pod 02-Dash has achieved operational altitude.
+
+3
+00:00:58,000 --> 00:01:00,000
+{Woman}       It has settled into the targeted orbit.
+
+4
+00:01:00,000 --> 00:01:04,000
+{Man}         Pod 08 was unable to breach target orbital range due to insufficient altitude.
+
+5
+00:01:04,000 --> 00:01:06,000
+{Aoba}        Copy that.
+
+6
+00:01:06,000 --> 00:01:08,000
+{Aoba}        02-Dash will conduct a solo operation.
+
+7
+00:01:08,000 --> 00:01:09,000
+{Man}         Roger.
+
+8
+00:01:09,000 --> 00:01:11,000
+{Man}         Pod 08 will act as support.
+
+9
+00:01:11,000 --> 00:01:12,000
+{Man}         Transition shift to 7.
+
+10
+00:01:12,000 --> 00:01:15,000
+{Ritsuko}     Pod 02-Dash is beyond the point of recovery.
+
+11
+00:01:15,000 --> 00:01:17,000
+{Ritsuko}     Breaching Area 88.
+
+12
+00:01:17,000 --> 00:01:18,000
+{Misato}      Roger.
+
+13
+00:01:18,000 --> 00:01:20,000
+{Misato}      Commence Operation Spacewalk.
+
+14
+00:01:20,000 --> 00:01:21,000
+{Woman}       Roger.
+
+15
+00:01:21,000 --> 00:01:25,000
+{Woman}       Pod 02-Dash will enter the final operational orbit.
+
+16
+00:01:25,000 --> 00:01:26,000
+{Woman}       Deceleration in progress.
+
+17
+00:01:26,000 --> 00:01:29,000
+{Man}         Stage 1, ignite all engines.
+
+18
+00:01:29,000 --> 00:01:34,000
+{Man}         Combustion imminent.
+
+19
+00:01:34,000 --> 00:01:36,000
+{Woman}       S1C combustion complete.
+
+20
+00:01:36,000 --> 00:01:37,000
+{Woman}       Deceleration confirmed.
+
+21
+00:01:37,000 --> 00:01:41,000
+{Man}         Jettisoning booster unit, stage 1.
+
+22
+00:01:41,000 --> 00:01:43,000
+{Woman}       Separation confirmed.
+
+23
+00:01:43,000 --> 00:01:45,000
+{Woman}       Combustion systems cleared. No problems detected.
+
+24
+00:01:45,000 --> 00:01:46,000
+{Man}         Roger.
+
+25
+00:01:46,000 --> 00:01:48,000
+{Man}         Automating ignition timing.
+
+26
+00:01:48,000 --> 00:01:53,000
+{Man}         Igniting all engines, stage 2.
+
+27
+00:01:53,000 --> 00:01:56,000
+{Woman}       S1C combustion complete.
+
+28
+00:01:56,000 --> 00:01:57,000
+{Woman}       Closing pressure valves.
+
+29
+00:01:57,000 --> 00:02:00,000
+{Man}         Jettisoning booster unit, stage 2.
+
+30
+00:02:00,000 --> 00:02:02,000
+{Woman}       Deceleration complete.
+
+31
+00:02:02,000 --> 00:02:04,000
+{Man}         Preparing to enter final operational orbit.
+
+32
+00:02:04,000 --> 00:02:06,000
+{Man}         Flipping unit head.
+
+33
+00:02:06,000 --> 00:02:07,000
+{Man}         Commencing rotation.
+
+34
+00:02:07,000 --> 00:02:09,000
+{Man}         Descent angle confirmed.
+
+35
+00:02:09,000 --> 00:02:10,000
+{Man}         Within an acceptable margin of error.
+
+36
+00:02:10,000 --> 00:02:12,000
+{Woman}       Recalculating relative velocity.
+
+37
+00:02:12,000 --> 00:02:14,000
+{Woman}       Reconfirming coordinate altitude.
+
+38
+00:02:14,000 --> 00:02:16,000
+{Woman}       No problems.
+
+39
+00:02:16,000 --> 00:02:18,000
+{Woman}       Final orbit corrections complete.
+
+40
+00:02:18,000 --> 00:02:20,000
+{Woman}       180-degree rotation complete.
+
+41
+00:02:20,000 --> 00:02:21,000
+{Hyuga}       Roger.
+
+42
+00:02:21,000 --> 00:02:24,000
+{Hyuga}       Pod 02-Dash will transition to the intersection orbit.
+
+43
+00:02:24,000 --> 00:02:26,000
+{Hyuga}       Now commencing the operation.
+
+44
+00:02:26,000 --> 00:02:28,000
+{Aoba}        All remote guiding will now be cut.
+
+45
+00:02:28,000 --> 00:02:30,000
+{Aoba}        Unit will be controlled manually.
+
+46
+00:02:30,000 --> 00:02:32,000
+{Hyuga}       Good luck.
+
+47
+00:02:32,000 --> 00:02:34,000
+{Woman}       Unit is on course to intersect with the target.
+
+48
+00:02:34,000 --> 00:02:37,000
+{Woman}       Eight miles remaining until contact.
+
+49
+00:02:37,000 --> 00:02:38,000
+{Woman}       Confirming target.
+
+50
+00:02:38,000 --> 00:02:40,000
+{Man}         Contact point is unchanged.
+
+51
+00:02:40,000 --> 00:02:43,000
+{Woman}       Maintaining Shift-M. No problems.
+
+52
+00:02:43,000 --> 00:02:45,000
+{Misato}      02-Dash, prepare to rendezvous.
+
+53
+00:02:45,000 --> 00:02:50,000
+{Misato}      08 is lacking altitude, so it can only assist you in the 96 seconds until re-entry.
+
+54
+00:02:50,000 --> 00:02:53,000
+{Misato}      Finish this by then.
+
+55
+00:02:53,000 --> 00:02:55,000
+{Hyuga}       Reflective waves detected in target space.
+
+56
+00:02:55,000 --> 00:02:56,000
+{Hyuga}       It's jamming us!
+
+57
+00:02:56,000 --> 00:02:58,000
+{Aoba}        It's just the auto-defense system's mass weapon.
+
+58
+00:02:58,000 --> 00:03:01,000
+{Aoba}        No need to worry.
+
+59
+00:03:01,000 --> 00:03:03,000
+{Man}         Burst flows generated!
+
+60
+00:03:03,000 --> 00:03:10,000
+{Man}         Incoming in 3... 2... 1...
+
+61
+00:03:10,000 --> 00:03:11,000
+{Aoba}        Second wave incoming.
+
+62
+00:03:11,000 --> 00:03:12,000
+{Aoba}        Blood type: blue.
+
+63
+00:03:12,000 --> 00:03:13,000
+{Aoba}        They're a pesky bunch.
+
+64
+00:03:13,000 --> 00:03:15,000
+{Man}         Identifying approaching body...
+
+65
+00:03:15,000 --> 00:03:25,000
+{Man}         Confirmed to be Code 04A.
+
+66
+00:03:25,000 --> 00:03:32,000
+{Asuka}       An Anti-A.T. Field!
+
+67
+00:03:32,000 --> 00:03:34,000
+{Asuka}       This sucks!
+
+68
+00:03:34,000 --> 00:03:37,000
+{Asuka}       It's just getting in my way!
+
+69
+00:03:37,000 --> 00:03:44,000
+{Asuka}       Hey, Glasses! Some backup here!
+
+70
+00:03:44,000 --> 00:03:49,000
+{Asuka}       Support fire was two seconds late!
+
+71
+00:03:49,000 --> 00:03:52,000
+{Mari}        And you're three seconds ahead of position.
+
+72
+00:03:52,000 --> 00:03:55,000
+{Asuka}       It's called adapting to the situation. Keep up with me!
+
+73
+00:03:55,000 --> 00:03:57,000
+{Mari}        As you command,
+
+74
+00:03:57,000 --> 00:04:05,000
+{Mari}        Princess!
+
+75
+00:04:05,000 --> 00:04:07,000
+{Asuka}       It got through the Fraury Shift.
+
+76
+00:04:07,000 --> 00:04:10,000
+{Asuka}       It'll break into Final Defense Area 89.
+
+77
+00:04:10,000 --> 00:04:16,000
+{Asuka}       The target is moving!
+
+78
+00:04:16,000 --> 00:04:17,000
+{Asuka}       No time to correct my orbit!
+
+79
+00:04:17,000 --> 00:04:40,000
+{Asuka}       I'm going in!
+
+80
+00:04:40,000 --> 00:04:46,000
+{Asuka}       Decelerate!
+
+81
+00:04:46,000 --> 00:04:47,000
+{Asuka}       Eight!
+
+82
+00:04:47,000 --> 00:04:48,000
+{Asuka}       Seven!
+
+83
+00:04:48,000 --> 00:04:49,000
+{Asuka}       Six!
+
+84
+00:04:49,000 --> 00:04:50,000
+{Asuka}       Five!
+
+85
+00:04:50,000 --> 00:04:51,000
+{Asuka}       Four!
+
+86
+00:04:51,000 --> 00:04:53,000
+{Asuka}       Three!
+
+87
+00:04:53,000 --> 00:04:54,000
+{Asuka}       Two!
+
+88
+00:04:54,000 --> 00:04:55,000
+{Asuka}       One!
+
+89
+00:04:55,000 --> 00:05:03,000
+{Asuka}       Terminating combustion!
+
+90
+00:05:03,000 --> 00:05:06,000
+{Woman}       02-Dash has jettisoned the last boosters.
+
+91
+00:05:06,000 --> 00:05:09,000
+{Woman}       Ensuring safe distance for re-entry.
+
+92
+00:05:09,000 --> 00:05:11,000
+{Asuka}       Successfully seized the target.
+
+93
+00:05:11,000 --> 00:05:13,000
+{Asuka}       Returning to base.
+
+94
+00:05:13,000 --> 00:05:14,000
+{Misato}      Roger.
+
+95
+00:05:14,000 --> 00:05:16,000
+{Misato}      We'll be waiting at the retrieval point.
+
+96
+00:05:16,000 --> 00:05:17,000
+{Misato}      The join code is Saturn 5.
+
+97
+00:05:17,000 --> 00:05:19,000
+{Asuka}       Roger.
+
+98
+00:05:19,000 --> 00:05:20,000
+{Asuka}       Blood type blue?
+
+99
+00:05:20,000 --> 00:05:25,000
+{Asuka}       Where?!
+
+100
+00:05:25,000 --> 00:05:27,000
+{Woman}       The triggering object is Code 04B.
+
+101
+00:05:27,000 --> 00:05:29,000
+{Woman}       It's deploying indo-hashamas.
+
+102
+00:05:29,000 --> 00:05:30,000
+{Asuka}       The nerve!
+
+103
+00:05:30,000 --> 00:05:33,000
+{Asuka}       Right before re-entry, too.
+
+104
+00:05:33,000 --> 00:05:35,000
+{Asuka}       Glasses, back-up!
+
+105
+00:05:35,000 --> 00:05:37,000
+{Mari}        Sorry!
+
+106
+00:05:37,000 --> 00:05:39,000
+{Mari}        I don't have enough altitude, so c'ya!
+
+107
+00:05:39,000 --> 00:05:42,000
+{Mari}        I'll leave the rest to y-...
+
+108
+00:05:42,000 --> 00:05:44,000
+{Asuka}       Ugh! She's useless!
+
+109
+00:05:44,000 --> 00:05:46,000
+{Asuka}       Damn, this thing is stubborn!
+
+110
+00:05:46,000 --> 00:05:59,000
+{Asuka}       Nobody told me about this!
+
+111
+00:05:59,000 --> 00:06:01,000
+{Asuka}       What's with this light?!
+
+112
+00:06:01,000 --> 00:06:03,000
+{Asuka}       The A.T. Field isn't neutralizing it!
+
+113
+00:06:03,000 --> 00:06:06,000
+{Asuka}       Gotta do a core block!
+
+114
+00:06:06,000 --> 00:06:10,000
+{Asuka}       You're not getting away!
+
+115
+00:06:10,000 --> 00:06:12,000
+{Asuka}       Crap! I can't maintain my descent angle!
+
+116
+00:06:12,000 --> 00:06:14,000
+{Asuka}       My unit will break apart at this rate!
+
+117
+00:06:14,000 --> 00:06:18,000
+{Misato}      02-Dash, completing the mission takes top priority!
+
+118
+00:06:18,000 --> 00:06:20,000
+{Misato}      Don't let go of the target object, even if it means sacrificing the unit.
+
+119
+00:06:20,000 --> 00:06:41,000
+{Asuka}       I already know that!
+
+120
+00:06:41,000 --> 00:07:23,000
+{Asuka}       Do something, you idiot, Shinji!
+
+121
+00:07:23,000 --> 00:07:26,000
+{Kaworu}      Welcome home, Ikari Shinji-kun.
+
+122
+00:07:26,000 --> 00:07:42,000
+{Kaworu}      I've been waiting for you.
+
+123
+00:07:42,000 --> 00:07:44,000
+{Sakura}      Cardiopulmonary function is nominal.
+
+124
+00:07:44,000 --> 00:07:46,000
+{Sakura}      No discernible paralysis of the extremities.
+
+125
+00:07:46,000 --> 00:07:50,000
+{Sakura}      Yes. His eyes are opening.
+
+126
+00:07:50,000 --> 00:07:55,000
+{Sakura}      Can you understand me?
+
+127
+00:07:55,000 --> 00:07:58,000
+{Shinji}      What is this place?
+
+128
+00:07:58,000 --> 00:07:59,000
+{Sakura}      He's responsive.
+
+129
+00:07:59,000 --> 00:08:03,000
+{Sakura}      He seems to have returned to a conscious state.
+
+130
+00:08:03,000 --> 00:08:06,000
+{Shinji}      Really, we have to help Ayanami.
+
+131
+00:08:06,000 --> 00:08:10,000
+{Sakura}      Yes, continuity of memory also seems acceptable.
+
+132
+00:08:10,000 --> 00:08:13,000
+{Shinji}      Um, where's Ayanami...?
+
+133
+00:08:13,000 --> 00:08:18,000
+{Sakura}      Is this someone you know?
+
+134
+00:08:18,000 --> 00:08:21,000
+{Shinji}      It's... me.
+
+135
+00:08:21,000 --> 00:08:22,000
+{Sakura}      He is capable of self-recognition as well.
+
+136
+00:08:22,000 --> 00:08:24,000
+{Sakura}      There seems to be no problem.
+
+137
+00:08:24,000 --> 00:08:27,000
+{Shinji}      The hell...?
+
+138
+00:08:27,000 --> 00:08:30,000
+{Woman}       Installation list for refill operations cleared up to 86%.
+
+139
+00:08:30,000 --> 00:08:34,000
+{Koji}        Online N2 reactor maintaining output of 90%.
+
+140
+00:08:34,000 --> 00:08:36,000
+{Midori}      No ships visible within a perimeter of 1200.
+
+141
+00:08:36,000 --> 00:08:38,000
+{Midori}      No unidentified flying objects can be confirmed, either.
+
+142
+00:08:38,000 --> 00:08:40,000
+{Aoba}        Prioritize ships in the D block for the transferral of crew.
+
+143
+00:08:40,000 --> 00:08:43,000
+{Hyuga}       / We don't have enough personnel for the transfer operation!{＃＃転入作業の人手がまるで足りない (日向の台詞)}
+
+144
+00:08:43,000 --> 00:08:46,000
+{Sumire}      / ＃＃＃＃＃にずれがあり
+
+145
+00:08:46,000 --> 00:08:53,000
+{Tama}        Checking the roadmap for the camouflage operation.
+
+146
+00:08:53,000 --> 00:08:56,000
+{Sakura}      Specimen DM03 is in our custody.
+
+147
+00:08:56,000 --> 00:08:57,000
+{Misato}      Understood.
+
+148
+00:08:57,000 --> 00:09:00,000
+{Misato}      Release the restraints.
+
+149
+00:09:00,000 --> 00:09:25,000
+{Misato}      You can step down.
+
+150
+00:09:25,000 --> 00:09:28,000
+{Shinji}      Misato-san...
+
+151
+00:09:28,000 --> 00:09:31,000
+{Misato}      It is Ikari Shinji-kun, isn't it?
+
+152
+00:09:31,000 --> 00:09:32,000
+{Ritsuko}     So it would seem.
+
+153
+00:09:32,000 --> 00:09:37,000
+{Ritsuko}     His physical data is identical to Code Third Boy.
+
+154
+00:09:37,000 --> 00:09:43,000
+{Ritsuko}     / Post birth dental treatment scars and body composition are reproduced perfectly by(?) Near Surge.
+
+155
+00:09:43,000 --> 00:09:46,000
+{Ritsuko}     We are now analyzing his deep level sync test results.
+
+156
+00:09:46,000 --> 00:09:49,000
+{Misato}      And the application of the DSS Choker?
+
+157
+00:09:49,000 --> 00:09:52,000
+{Ritsuko}     Its installation has already been arranged, Captain Katsuragi.
+
+158
+00:09:52,000 --> 00:09:54,000
+{Shinji}      Captain Katsuragi...?
+
+159
+00:09:54,000 --> 00:10:03,000
+{Shinji}      It is you after all!
+
+160
+00:10:03,000 --> 00:10:04,000
+{Ritsuko}     Activation nominal.
+
+161
+00:10:04,000 --> 00:10:07,000
+{Ritsuko}     Passcode is set exclusive to the Captain.
+
+162
+00:10:07,000 --> 00:10:11,000
+{Misato}      Understood.
+
+163
+00:10:11,000 --> 00:10:14,000
+{Shinji}      What is this thing?!
+
+164
+00:10:14,000 --> 00:10:18,000
+{Shinji}      Please, take it off already!
+
+165
+00:10:18,000 --> 00:10:22,000
+{Sakura}      That's never going to be taken off.
+
+166
+00:10:22,000 --> 00:10:24,000
+{Misato}      Interview complete.
+
+167
+00:10:24,000 --> 00:10:28,000
+{Misato}      Take him to quarantine.
+
+168
+00:10:28,000 --> 00:10:30,000
+{Midori}      Decoys 01 and 05 destroyed.
+
+169
+00:10:30,000 --> 00:10:31,000
+{Midori}      Insufficiency in wave's length.
+
+170
+00:10:31,000 --> 00:10:33,000
+{Misato}      The hell's this?
+
+171
+00:10:33,000 --> 00:10:34,000
+{Hyuga}       It's Pattern Blue.
+
+172
+00:10:34,000 --> 00:10:36,000
+{Hyuga}       Target identified.
+
+173
+00:10:36,000 --> 00:10:37,000
+{Hyuga}       Code 4C.
+
+174
+00:10:37,000 --> 00:10:39,000
+{Hyuga}       It's the Nemesis Series.
+
+175
+00:10:39,000 --> 00:10:40,000
+{Misato}      They're back...
+
+176
+00:10:40,000 --> 00:10:40,000
+{Midori (BG)} Targets are all Code 4C.
+
+177
+00:10:40,000 --> 00:10:42,000
+{Ritsuko}     They're advancing on all sides.
+
+178
+00:10:42,000 --> 00:10:43,000
+{Ritsuko}     They intend to cordon us here, to start with.
+
+179
+00:10:43,000 --> 00:10:45,000
+{Midori (BG)} / ＃＃マル二。＃＃＃消滅確認。
+
+180
+00:10:45,000 --> 00:10:48,000
+{Misato}      We can't afford to move from here yet.
+
+181
+00:10:48,000 --> 00:10:50,000
+{Misato}      Continue only with main engine's operations.
+
+182
+00:10:50,000 --> 00:10:53,000
+{Misato}      All fleets to Second Battle Stations.
+
+183
+00:10:53,000 --> 00:10:55,000
+{Misato}      Target: All Nemesis Series.
+
+184
+00:10:55,000 --> 00:10:56,000
+{Ritsuko}     Roger.
+
+185
+00:10:56,000 --> 00:10:58,000
+{Ritsuko}     All fleets to Second Battle Stations.
+
+186
+00:10:58,000 --> 00:11:02,000
+{Hyuga}       Prepare for anti-air, anti-water, and underwater battle.
+
+187
+00:11:02,000 --> 00:11:03,000
+{Aoba}        Abandon stock transfer.
+
+188
+00:11:03,000 --> 00:11:05,000
+{Aoba}        Prioritize the transferring of all personnel to another vessel.
+
+189
+00:11:05,000 --> 00:11:07,000
+{Woman}       All fleets, abandoning stock transfer.
+
+190
+00:11:07,000 --> 00:11:13,000
+{Woman}       All personnel, transferring vessels is top priority!
+
+191
+00:11:13,000 --> 00:11:16,000
+{Woman}       All aircraft are to withdraw from our current air space.
+
+192
+00:11:16,000 --> 00:11:18,000
+{Woman}       Hurry to Meeting Point 2.
+
+193
+00:11:18,000 --> 00:11:20,000
+{Man}         Abandon any leftover cargo.
+
+194
+00:11:20,000 --> 00:11:22,000
+{Man}         Migration of crew takes top priority.
+
+195
+00:11:22,000 --> 00:11:26,000
+{Man}         / ＃＃＃＃＃ゼロ、＃てきギリギリまで＃＃たのむ。
+
+196
+00:11:26,000 --> 00:11:28,000
+{Man}         / 最優先つたえものは、＃＃＃＃してくれ。
+
+197
+00:11:28,000 --> 00:11:30,000
+{Woman}       Prepare all cannons to shoot.
+
+198
+00:11:30,000 --> 00:11:33,000
+{Woman}       Remote control and interlock systems, activating.
+
+199
+00:11:33,000 --> 00:11:35,000
+{Woman}       / ＃＃＃＃＃＃＃ {Couldn't listen to this}
+
+200
+00:11:35,000 --> 00:11:38,000
+{Koji}        Initiate main power system injection.
+
+201
+00:11:38,000 --> 00:11:39,000
+{Koji}        Hurry.
+
+202
+00:11:39,000 --> 00:11:43,000
+{Man}         N2 Reactor operating at 99%.
+
+203
+00:11:43,000 --> 00:11:44,000
+{Woman}       Initiating main power system injection.
+
+204
+00:11:44,000 --> 00:11:46,000
+{Woman}       Opening valves up to number 90.
+
+205
+00:11:46,000 --> 00:11:48,000
+{Woman}       Transmission pipe connected.
+
+206
+00:11:48,000 --> 00:11:51,000
+{Woman}       No problems detected in the port, and 3rd and 4th cargo cage.
+
+207
+00:11:51,000 --> 00:11:52,000
+{Man}         Roger.
+
+208
+00:11:52,000 --> 00:11:54,000
+{Man}         Opening all valves up to 90.
+
+209
+00:11:54,000 --> 00:11:56,000
+{Man}         Begin energy injection.
+
+210
+00:11:56,000 --> 00:11:58,000
+{Woman}       Injecting power to N2 reactor.
+
+211
+00:11:58,000 --> 00:11:58,000
+{Woman}       All nominal.
+
+212
+00:11:58,000 --> 00:12:01,000
+{Woman}       Verifying the interior of the LCL tube.
+
+213
+00:12:01,000 --> 00:12:03,000
+{Woman}       Filtration system is go.
+
+214
+00:12:03,000 --> 00:12:04,000
+{Maya}        Battle stations!
+
+215
+00:12:04,000 --> 00:12:06,000
+{Maya}        Get back to your departments.
+
+216
+00:12:06,000 --> 00:12:08,000
+{Maya}        You there! No idling!
+
+217
+00:12:08,000 --> 00:12:10,000
+{Worker}      You're asking for the impossible, Ma'am!
+
+218
+00:12:10,000 --> 00:12:13,000
+{Worker}      We are something of a mixed group with civilians amongst us, after all.
+
+219
+00:12:13,000 --> 00:12:15,000
+{Maya}        No excuses!
+
+220
+00:12:15,000 --> 00:12:17,000
+{Maya}        Get to work!
+
+221
+00:12:17,000 --> 00:12:21,000
+{Maya}        Ugh, this is why I can't stand younger men.
+
+222
+00:12:21,000 --> 00:12:24,000
+{Tama}        Umm... interrupting the transfer here.
+
+223
+00:12:24,000 --> 00:12:27,000
+{Tama}        Commencing lockdown of barrier walls... is this it?
+
+224
+00:12:27,000 --> 00:12:31,000
+{Midori}      The sonar is in this direction with the bow of the anti-air ship as reference.
+
+225
+00:12:31,000 --> 00:12:32,000
+{Aoba}        Kitakami!
+
+226
+00:12:32,000 --> 00:12:34,000
+{Aoba}        What's the status of the procedures on deck?
+
+227
+00:12:34,000 --> 00:12:36,000
+{Midori}      Am I in charge of that?
+
+228
+00:12:36,000 --> 00:12:38,000
+{Aoba}        That's your post! Of course!
+
+229
+00:12:38,000 --> 00:12:43,000
+{Midori}      Whaat? For real?
+
+230
+00:12:43,000 --> 00:12:45,000
+{Sakura}      The start-up is dangerous.
+
+231
+00:12:45,000 --> 00:12:47,000
+{Sakura}      Let's stay here!
+
+232
+00:12:47,000 --> 00:12:49,000
+{Woman (BG)}  Preparations for all anti-air defenses concluded, including the guided missiles of the battle ship.
+
+233
+00:12:49,000 --> 00:12:52,000
+{Sakura}      Having battle stations on the bridge...
+
+234
+00:12:52,000 --> 00:12:52,000
+{Misato}      Roger.
+
+235
+00:12:52,000 --> 00:12:53,000
+{Sakura}      It's so nerve-wracking!
+
+236
+00:12:53,000 --> 00:12:55,000
+{Misato}      Activate all anti-air systems.
+
+237
+00:12:55,000 --> 00:12:57,000
+{Misato}      Safeguarding Eva-01 is our number-one priority.
+
+238
+00:12:57,000 --> 00:13:07,000
+{Shinji}      ...Eva-01?
+
+239
+00:13:07,000 --> 00:13:08,000
+{Midori}      It's here!
+
+240
+00:13:08,000 --> 00:13:10,000
+{Midori}      Confirming the target's pillar of light.
+
+241
+00:13:10,000 --> 00:13:13,000
+{Midori}      Its... numbers are increasing somehow!
+
+242
+00:13:13,000 --> 00:13:15,000
+{Aoba}        We can't grasp the target's core block.
+
+243
+00:13:15,000 --> 00:13:18,000
+{Aoba}        It is probably being concealed on the outside of a phased cocoon.
+
+244
+00:13:18,000 --> 00:13:20,000
+{Ritsuko}     This is bad.
+
+245
+00:13:20,000 --> 00:13:22,000
+{Ritsuko}     At this rate, we'll be on the receiving end of a saturation bombing.
+
+246
+00:13:22,000 --> 00:13:24,000
+{Midori}      600 seconds until contact.
+
+247
+00:13:24,000 --> 00:13:25,000
+{Ritsuko}     Captain Katsuragi,
+
+248
+00:13:25,000 --> 00:13:29,000
+{Ritsuko}     I propose an immediate dispersal of the fleets.
+
+249
+00:13:29,000 --> 00:13:32,000
+{Ritsuko}     We have insufficient crew and limited resources.
+
+250
+00:13:32,000 --> 00:13:34,000
+{Ritsuko}     Compounding the problem, this main ship's camouflage equipment is incomplete.
+
+251
+00:13:34,000 --> 00:13:38,000
+{Ritsuko}     On top of that, we cannot attack to capture the target's core block.
+
+252
+00:13:38,000 --> 00:13:41,000
+{Ritsuko}     In other words, our chance of winning is zero.
+
+253
+00:13:41,000 --> 00:13:43,000
+{Ritsuko}     At this point, we should retreat like we usually do.
+
+254
+00:13:43,000 --> 00:13:45,000
+{Ritsuko}     There is no way.
+
+255
+00:13:45,000 --> 00:13:47,000
+{Ritsuko}     Captain Katsuragi!
+
+256
+00:13:47,000 --> 00:13:52,000
+{Misato}      This is why I will change the current situation to neutralize any possibly anxiety.
+
+257
+00:13:52,000 --> 00:13:54,000
+{Misato}      Vice Captain, we're going to fly.
+
+258
+00:13:54,000 --> 00:13:55,000
+{Ritsuko}     Fly?!
+
+259
+00:13:55,000 --> 00:13:57,000
+{Ritsuko}     You can't be thinking of using the main ship?
+
+260
+00:13:57,000 --> 00:14:00,000
+{Misato}      All hands, prepare for launch!
+
+261
+00:14:00,000 --> 00:14:03,000
+{Misato}      Prepare for ignition of the main engines!
+
+262
+00:14:03,000 --> 00:14:06,000
+{Ritsuko}     It's too reckless to use the main ship all of a sudden, Captain Katsuragi!
+
+263
+00:14:06,000 --> 00:14:07,000
+{Tama}        I agree!
+
+264
+00:14:07,000 --> 00:14:09,000
+{Tama}        We haven't even run a test flight. It's too dangerous.
+
+265
+00:14:09,000 --> 00:14:11,000
+{Sumire}      Anti-gravity also hasn't been tested.
+
+266
+00:14:11,000 --> 00:14:13,000
+{Sumire}      I don't have confidence in it.
+
+267
+00:14:13,000 --> 00:14:15,000
+{Midori}      I don't want to fight battles that can't be won.
+
+268
+00:14:15,000 --> 00:14:17,000
+{Midori}      I don't want to die just yet.
+
+269
+00:14:17,000 --> 00:14:19,000
+{Koji}        You die when you die. That's all there is to it.
+
+270
+00:14:19,000 --> 00:14:21,000
+{Koji}        Quit complaining, younglings.
+
+271
+00:14:21,000 --> 00:14:25,000
+{Midori}      Wah... Elders should be more careful!
+
+272
+00:14:25,000 --> 00:14:27,000
+{Misato}      I am aware of the recklessness.
+
+273
+00:14:27,000 --> 00:14:30,000
+{Misato}      We will use this ship as decoy and fish it out to the surface!
+
+274
+00:14:30,000 --> 00:14:33,000
+{Misato}      The power to kill gods. I will see it through to the end.
+
+275
+00:14:33,000 --> 00:14:36,000
+{Ritsuko}     But the most important ignition system has not been installed.
+
+276
+00:14:36,000 --> 00:14:39,000
+{Ritsuko}     Don't tell me you're going to use the Evas?
+
+277
+00:14:39,000 --> 00:14:40,000
+{Misato}      Mari!
+
+278
+00:14:40,000 --> 00:14:41,000
+{Mari}        Eva-08 isn't ready yet.
+
+279
+00:14:41,000 --> 00:14:42,000
+{Misato}      Asuka!
+
+280
+00:14:42,000 --> 00:14:46,000
+{Shinji}      ...Asuka?
+
+281
+00:14:46,000 --> 00:14:47,000
+{Asuka}       I'm already on it!
+
+282
+00:14:47,000 --> 00:14:50,000
+{Asuka}       I just have to shove the ignition engine in, right?
+
+283
+00:14:50,000 --> 00:14:51,000
+{Misato}      I'm counting on you.
+
+284
+00:14:51,000 --> 00:14:54,000
+{Ritsuko}     But there is a problem with the barrier density around the ship.
+
+285
+00:14:54,000 --> 00:14:56,000
+{Ritsuko}     Plus, isn't there work being done on the bridge?
+
+286
+00:14:56,000 --> 00:15:00,000
+{Asuka}       Well, "prioritize the objective, human life expendable" is a captain's motto, after all.
+
+287
+00:15:00,000 --> 00:15:01,000
+{Asuka}       I'm going all out!
+
+288
+00:15:01,000 --> 00:15:06,000
+{Asuka}       Eva Unit 02', activate!
+
+289
+00:15:06,000 --> 00:15:07,000
+{Woman}       Eva-02' is launching.
+
+290
+00:15:07,000 --> 00:15:08,000
+{Woman}       Roger.
+
+291
+00:15:08,000 --> 00:15:09,000
+{Woman}       Preparing Eva-02' for launch.
+
+292
+00:15:09,000 --> 00:15:20,000
+{Woman}       Underwater motor and jet propulsion, passing through number 1.
+
+293
+00:15:20,000 --> 00:15:32,000
+{Asuka}       Really, such a boring entrance for my unit's new looks.
+
+294
+00:15:32,000 --> 00:15:33,000
+{Shinji}      It really is Eva-02.
+
+295
+00:15:33,000 --> 00:15:40,000
+{Shinji}      Thank god. Asuka is okay.
+
+296
+00:15:40,000 --> 00:15:43,000
+{Shinji}      Misato, I...
+
+297
+00:15:43,000 --> 00:15:47,000
+{Misato}      All fleets to Primary Battle Stations.
+
+298
+00:15:47,000 --> 00:15:48,000
+{Man}         All fleets to Primary Battle Stations.
+
+299
+00:15:48,000 --> 00:15:51,000
+{Man}         Repeat, all fleets to Primary Battle Stations.
+
+300
+00:15:51,000 --> 00:15:54,000
+{Ritsuko}     Changing battle command system.
+
+301
+00:15:54,000 --> 00:15:56,000
+{Ritsuko}     Main crew, to the main bridge.
+
+302
+00:15:56,000 --> 00:15:57,000
+{Misato}      Prepare gravity ballast.
+
+303
+00:15:57,000 --> 00:15:58,000
+{Sumire}      Roger.
+
+304
+00:15:58,000 --> 00:16:00,000
+{Sumire}      All vents, check.
+
+305
+00:16:00,000 --> 00:16:02,000
+{Misato}      Centralize the ship's primary controls in the anchor lead plug.
+
+306
+00:16:02,000 --> 00:16:03,000
+{Koji}        Roger.
+
+307
+00:16:03,000 --> 00:16:04,000
+{Koji}        Prepare for descent.
+
+308
+00:16:04,000 --> 00:16:05,000
+{Koji}        Inductor, confirmed.
+
+309
+00:16:05,000 --> 00:16:09,000
+{Koji}        Entering countdown.
+
+310
+00:16:09,000 --> 00:16:11,000
+{Shinji}      Misato-san!
+
+311
+00:16:11,000 --> 00:16:14,000
+{Shinji}      Eva-01 is here, isn't it?
+
+312
+00:16:14,000 --> 00:16:15,000
+{Shinji}      I'll pilot too!
+
+313
+00:16:15,000 --> 00:16:20,000
+{Shinji}      I'll help Asuka!
+
+314
+00:16:20,000 --> 00:16:23,000
+{Shinji}      You don't need me to pilot Eva-01?
+
+315
+00:16:23,000 --> 00:16:26,000
+{Shinji}      Misato-san?!
+
+316
+00:16:26,000 --> 00:16:27,000
+{Ritsuko}     That's correct.
+
+317
+00:16:27,000 --> 00:16:29,000
+{Ritsuko}     There's no need for you to pilot the Eva.
+
+318
+00:16:29,000 --> 00:16:32,000
+{Woman}       / ＃＃＃は、起動開始。
+
+319
+00:16:32,000 --> 00:16:36,000
+{Woman}       Command system is currently being transferred to the battle ship bridge.
+
+320
+00:16:36,000 --> 00:16:36,000
+{Woman}       Repeat, command system is currently being transferred to the battle ship bridge.
+
+321
+00:16:36,000 --> 00:16:39,000
+{Shinji}      No need?
+
+322
+00:16:39,000 --> 00:16:44,000
+{Shinji}      Then... what should I do?
+
+323
+00:16:44,000 --> 00:16:47,000
+{Shinji}      Misato-san!
+
+324
+00:16:47,000 --> 00:16:50,000
+{Misato}      Ikari Shinji-kun...
+
+325
+00:16:50,000 --> 00:17:06,000
+{Misato}      You'll never do anything again.
+
+326
+00:17:06,000 --> 00:17:07,000
+{Man (BG)}    LCL being filled with gas.
+
+327
+00:17:07,000 --> 00:17:08,000
+{Man (BG)}    Electrification density cleared.
+
+328
+00:17:08,000 --> 00:17:10,000
+{Ritsuko}     Begin entry.
+
+329
+00:17:10,000 --> 00:17:12,000
+{Woman (BG)}  Status of LCL electric charge is nominal.
+
+330
+00:17:12,000 --> 00:17:14,000
+{Woman (BG)}  Starting all integrated operating systems.
+
+331
+00:17:14,000 --> 00:17:15,000
+{Misato}      What's our status?
+
+332
+00:17:15,000 --> 00:17:17,000
+{Woman}       Roll-call of all personnel is complete.
+
+333
+00:17:17,000 --> 00:17:18,000
+{Woman}       All confirmed aboard.
+
+334
+00:17:18,000 --> 00:17:20,000
+{Woman (BG)}  First list cleared.
+
+335
+00:17:20,000 --> 00:17:22,000
+{Man}         Closure of all barrier walls confirmed.
+
+336
+00:17:22,000 --> 00:17:23,000
+{Man}         Terminating pressure resistance check.
+
+337
+00:17:23,000 --> 00:17:25,000
+{Woman (BG)}  Output of auxiliary components is currently climbing.
+
+338
+00:17:25,000 --> 00:17:28,000
+{Koji}        Injecting power for initial system activation.
+
+339
+00:17:28,000 --> 00:17:30,000
+{Koji}        5% until it hits critical.
+
+340
+00:17:30,000 --> 00:17:31,000
+{Sumire}      Initiating gyro-compass.
+
+341
+00:17:31,000 --> 00:17:33,000
+{Sumire}      Stabilizer nominal.
+
+342
+00:17:33,000 --> 00:17:35,000
+{Woman (BG)}  Commencing visual data processing.
+
+343
+00:17:35,000 --> 00:17:37,000
+{Woman (BG)}  Turning on the main monitor.
+
+344
+00:17:37,000 --> 00:17:39,000
+{Hyuga}       Target is still closing in.
+
+345
+00:17:39,000 --> 00:17:41,000
+{Hyuga}       Currently taking on an encircling formation.
+
+346
+00:17:41,000 --> 00:17:43,000
+{Aoba}        Eva-02' deploying propellors.
+
+347
+00:17:43,000 --> 00:17:45,000
+{Aoba}        Left arm is being switched out.
+
+348
+00:17:45,000 --> 00:17:54,000
+{Asuka}       Here we go!
+
+349
+00:17:54,000 --> 00:17:56,000
+{Asuka}       Well then!
+
+350
+00:17:56,000 --> 00:18:04,000
+{Asuka}       Let's do it!
+
+351
+00:18:04,000 --> 00:18:09,000
+{Asuka}       Spreading A.T. Field.
+
+352
+00:18:09,000 --> 00:18:12,000
+{Aoba}        It changed into a pillar of light.
+
+353
+00:18:12,000 --> 00:18:13,000
+{Midori}      Its energy is rocketing!
+
+354
+00:18:13,000 --> 00:18:18,000
+{Hyuga}       All targets are starting to move.
+
+355
+00:18:18,000 --> 00:18:19,000
+{Aoba}        Ally ships have been evaporated!
+
+356
+00:18:19,000 --> 00:18:21,000
+{Ritsuko}     It's a saturation attack.
+
+357
+00:18:21,000 --> 00:18:24,000
+{Ritsuko}     If this ship gets caught too, it's all over.
+
+358
+00:18:24,000 --> 00:18:34,000
+{Midori (BG)} Another 360 seconds until contact!
+
+359
+00:18:34,000 --> 00:18:38,000
+{Asuka}       Here we go!
+
+360
+00:18:38,000 --> 00:18:40,000
+{Aoba}        Eva-02' has commenced operations.
+
+361
+00:18:40,000 --> 00:18:42,000
+{Man (BG)}    / ＃＃＃＃＃＃300%!
+
+362
+00:18:42,000 --> 00:18:43,000
+{Koji}        No matter!
+
+363
+00:18:43,000 --> 00:18:45,000
+{Koji}        Transfer all energy to the flywheel!
+
+364
+00:18:45,000 --> 00:18:57,000
+{Koji}        Give that top priority!
+
+365
+00:18:57,000 --> 00:18:57,000
+{Woman (BG)}  / 第８０＃＃＃炎上中、＃＃出来ません！
+
+366
+00:18:57,000 --> 00:18:59,000
+{Tama}        Converter Group No. 7 has exploded!
+
+367
+00:18:59,000 --> 00:19:01,000
+{Koji}        Disregard the downed lines!
+
+368
+00:19:01,000 --> 00:19:03,000
+{Koji}        Continue the forced injection!
+
+369
+00:19:03,000 --> 00:19:04,000
+{Koji}        Ignore all pressure meters!
+
+370
+00:19:04,000 --> 00:19:07,000
+{Tama}        Releasing the lock on the flywheel crimp.
+
+371
+00:19:07,000 --> 00:19:16,000
+{Tama}        Beginning rotation!
+
+372
+00:19:16,000 --> 00:19:19,000
+{Man (BG)}    Initiating main energy pump.
+
+373
+00:19:19,000 --> 00:19:21,000
+{Tama}        Auxiliary component output has reached 80%.
+
+374
+00:19:21,000 --> 00:19:39,000
+{Koji}        Force insert the catalyst!
+
+375
+00:19:39,000 --> 00:19:42,000
+{Asuka}       So now there's...
+
+376
+00:19:42,000 --> 00:19:44,000
+{Midori}      39 seconds remaining!
+
+377
+00:19:44,000 --> 00:19:46,000
+{Man (BG)}    Rotational speed currently climbing!
+
+378
+00:19:46,000 --> 00:19:48,000
+{Aoba}        Eva-02' maintaining critical pressure.
+
+379
+00:19:48,000 --> 00:19:49,000
+{Tama}        We're there!
+
+380
+00:19:49,000 --> 00:19:52,000
+{Tama}        Fly wheel charged to 102%, over critical!
+
+381
+00:19:52,000 --> 00:19:54,000
+{Koji}        It's the final stage of activation.
+
+382
+00:19:54,000 --> 00:19:55,000
+{Misato}      Roger.
+
+383
+00:19:55,000 --> 00:19:56,000
+{Misato}      Switch to flight controls.
+
+384
+00:19:56,000 --> 00:19:57,000
+{Sumire}      Roger.
+
+385
+00:19:57,000 --> 00:19:58,000
+{Sumire}      Starting ground to air regulation.
+
+386
+00:19:58,000 --> 00:20:02,000
+{Sumire}      Transferring to 3D-type steering.
+
+387
+00:20:02,000 --> 00:20:04,000
+{Misato}      Deploy the A.T. Field at the same time we fire up.
+
+388
+00:20:04,000 --> 00:20:07,000
+{Tama}        Rotation rate 36000. All green.
+
+389
+00:20:07,000 --> 00:20:09,000
+{Koji}        Coming into contact!
+
+390
+00:20:09,000 --> 00:20:10,000
+{Misato}      Omit countdown.
+
+391
+00:20:10,000 --> 00:20:11,000
+{Misato}      Main contact.
+
+392
+00:20:11,000 --> 00:20:16,000
+{Koji}        Contact!
+
+393
+00:20:16,000 --> 00:20:34,000
+{Misato}      Ignite!
+
+394
+00:20:34,000 --> 00:20:35,000
+{Midori}      Obstacles cleared.
+
+395
+00:20:35,000 --> 00:20:36,000
+{Ritsuko}     Confirming all divisions.
+
+396
+00:20:36,000 --> 00:20:36,000
+{Misato}      / １６番＃＃＃。
+
+397
+00:20:36,000 --> 00:20:38,000
+{Ritsuko}     Consort ships have all retreated.
+
+398
+00:20:38,000 --> 00:20:39,000
+{Misato}      Here we go.
+
+399
+00:20:39,000 --> 00:21:30,000
+{Misato}      Wunder, launch!
+
+400
+00:21:30,000 --> 00:21:32,000
+{Tama}        Main wings penetrated! Damage unknown!
+
+401
+00:21:32,000 --> 00:21:33,000
+{Misato}      Don't sweat it!
+
+402
+00:21:33,000 --> 00:21:34,000
+{Misato}      Prepare for a full-scale counterattack.
+
+403
+00:21:34,000 --> 00:21:35,000
+{Misato}      Upend the ship!
+
+404
+00:21:35,000 --> 00:21:36,000
+{Misato}      Go astern!
+
+405
+00:21:36,000 --> 00:21:44,000
+{Sumire}      Go astern! Forward, ho!
+
+406
+00:21:44,000 --> 00:21:53,000
+{Misato}      Pull out the remains of the core block from the phased cocoon.
+
+407
+00:21:53,000 --> 00:21:55,000
+{Tama}        A crack has been sustained on the end of the main wing!
+
+408
+00:21:55,000 --> 00:21:56,000
+{Misato}      Keep the rudder steady!
+
+409
+00:21:56,000 --> 00:21:58,000
+{Misato}      Run main engines at full power!
+
+410
+00:21:58,000 --> 00:22:00,000
+{Koji}        Both sides at maximum!
+
+411
+00:22:00,000 --> 00:22:28,000
+{Sumire}      Full throttle!
+
+412
+00:22:28,000 --> 00:22:30,000
+{Midori}      The core block is out!
+
+413
+00:22:30,000 --> 00:22:31,000
+{Misato}      Now!
+
+414
+00:22:31,000 --> 00:22:32,000
+{Misato}      Port full power!
+
+415
+00:22:32,000 --> 00:22:33,000
+{Misato}      Swing it around!
+
+416
+00:22:33,000 --> 00:23:00,000
+{Sumire}      Roger!
+
+417
+00:23:00,000 --> 00:23:01,000
+{Misato}      Thrusters at full power!
+
+418
+00:23:01,000 --> 00:23:12,000
+{Misato}      Crash stop!
+
+419
+00:23:12,000 --> 00:23:13,000
+{Aoba}        Target is silent!
+
+420
+00:23:13,000 --> 00:23:15,000
+{Misato}      All cannons prepare to fire!
+
+421
+00:23:15,000 --> 00:23:17,000
+{Misato}      Load energy penetrating ammunition.
+
+422
+00:23:17,000 --> 00:23:19,000
+{Misato}      Connect all cannons to main ship.
+
+423
+00:23:19,000 --> 00:23:20,000
+{Misato}      Open ammunition supplying circuits!
+
+424
+00:23:20,000 --> 00:23:23,000
+{Koji}        Roger. Opening circuits.
+
+425
+00:23:23,000 --> 00:23:25,000
+{Midori}      Applying final corrections to computed enemy trajectories!
+
+426
+00:23:25,000 --> 00:23:27,000
+{Woman (BG)}  Artillery systems are interlocked.
+
+427
+00:23:27,000 --> 00:23:30,000
+{Hyuga}       Direct aim and manual pursuit, good to go on all cannons.
+
+428
+00:23:30,000 --> 00:23:31,000
+{Misato}      Then we're all set.
+
+429
+00:23:31,000 --> 00:23:56,000
+{Misato}      FIRE!
+
+430
+00:23:56,000 --> 00:23:58,000
+{Aoba}        Target destroyed!
+
+431
+00:23:58,000 --> 00:24:00,000
+{Misato}      All fleets, go to secondary state of alert.
+
+432
+00:24:00,000 --> 00:24:02,000
+{Misato}      Prepare to retrieve Eva-02'.
+
+433
+00:24:02,000 --> 00:24:06,000
+{Misato}      Hurry with emergency procedures for the main wings.
+
+434
+00:24:06,000 --> 00:24:07,000
+{Tama}        Amazing!
+
+435
+00:24:07,000 --> 00:24:09,000
+{Midori}      We really won.
+
+436
+00:24:09,000 --> 00:24:12,000
+{Koji}        How totally reckless.
+
+437
+00:24:12,000 --> 00:24:15,000
+{Koji}        Well, she's an even more interesting captain than Kaji said.
+
+438
+00:24:15,000 --> 00:24:17,000
+{Ritsuko}     So this is the power to kill gods.
+
+439
+00:24:17,000 --> 00:25:00,000
+{Ritsuko}     Wunder really is the ship of hope.
+
+440
+00:25:00,000 --> 00:25:03,000
+{Sakura}      Specimen DM03, Tentative Name Ikari Shinji-san...
+
+441
+00:25:03,000 --> 00:25:06,000
+{Sakura}      The executive officer will have a word with you.
+
+442
+00:25:06,000 --> 00:25:08,000
+{Shinji}      This is Eva-01...?
+
+443
+00:25:08,000 --> 00:25:13,000
+{Ritsuko}     Yes. Eva-01 is being used as the main engine of this ship.
+
+444
+00:25:13,000 --> 00:25:16,000
+{Ritsuko}     Consequently, you serve no use as a pilot.
+
+445
+00:25:16,000 --> 00:25:19,000
+{Shinji}      Ah, so I really am not needed.
+
+446
+00:25:19,000 --> 00:25:23,000
+{Ritsuko}     Also, your sync test results have come back.
+
+447
+00:25:23,000 --> 00:25:26,000
+{Ritsuko}     The sync rate is 0.00%.
+
+448
+00:25:26,000 --> 00:25:30,000
+{Ritsuko}     Even if you were to get in the Eva, it wouldn't activate.
+
+449
+00:25:30,000 --> 00:25:31,000
+{Sakura}      Really?
+
+450
+00:25:31,000 --> 00:25:33,000
+{Sakura}      Isn't that great news, Ikari-san?
+
+451
+00:25:33,000 --> 00:25:39,000
+{Ritsuko}     Even so, we cannot overlook the fact that, earlier, Eva-01 suddenly entered an Awakened state for 12 seconds.
+
+452
+00:25:39,000 --> 00:25:44,000
+{Ritsuko}     As a result, the DSS Choker has been installed on you.
+
+453
+00:25:44,000 --> 00:25:45,000
+{Shinji}      What is this?
+
+454
+00:25:45,000 --> 00:25:48,000
+{Ritsuko}     Safety for us.
+
+455
+00:25:48,000 --> 00:25:51,000
+{Ritsuko}     It's a physical safety device to circumvent Awakenings.
+
+456
+00:25:51,000 --> 00:25:55,000
+{Ritsuko}     And it is also a symbol of your punishment.
+
+457
+00:25:55,000 --> 00:25:56,000
+{Shinji}      What does it do?
+
+458
+00:25:56,000 --> 00:26:04,000
+{Ritsuko}     If you lose control of your emotions while piloting an Eva and become unable to suppress the risk of Awakening,
+
+459
+00:26:04,000 --> 00:26:08,000
+{Ritsuko}     this will intervene by terminating your life.
+
+460
+00:26:08,000 --> 00:26:13,000
+{Shinji}      Does that mean... I will die?
+
+461
+00:26:13,000 --> 00:26:16,000
+{Ritsuko}     I will not deny that.
+
+462
+00:26:16,000 --> 00:26:18,000
+{Shinji}      No way...
+
+463
+00:26:18,000 --> 00:26:22,000
+{Shinji}      Misato-san, what is all this about dying?
+
+464
+00:26:22,000 --> 00:26:24,000
+{Shinji}      This is weird, Misato-san!
+
+465
+00:26:24,000 --> 00:26:27,000
+{Shinji}      Suddenly it's all so confusing, and I don't understand anything!
+
+466
+00:26:27,000 --> 00:26:28,000
+{Ritsuko}     It can't be helped that you're confused.
+
+467
+00:26:28,000 --> 00:26:29,000
+{Ritsuko}     Second Lieutenant!
+
+468
+00:26:29,000 --> 00:26:30,000
+{Sakura}      Yes, ma'am!
+
+469
+00:26:30,000 --> 00:26:31,000
+{Ritsuko}     Introduce yourself.
+
+470
+00:26:31,000 --> 00:26:33,000
+{Sakura}      Yes, ma'am!
+
+471
+00:26:33,000 --> 00:26:38,000
+{Sakura}      Um, it's late, but I'm the medical officer in charge,
+
+472
+00:26:38,000 --> 00:26:41,000
+{Sakura}      2nd Lt. Suzuhara Sakura.
+
+473
+00:26:41,000 --> 00:26:43,000
+{Sakura}      Nice to meet you.
+
+474
+00:26:43,000 --> 00:26:46,000
+{Shinji}      Ah, s-same.
+
+475
+00:26:46,000 --> 00:26:48,000
+{Shinji}      But, "Suzuhara"...
+
+476
+00:26:48,000 --> 00:26:50,000
+{Shinji}      Are you Toji's...?
+
+477
+00:26:50,000 --> 00:26:51,000
+{Sakura}      Ah, yes.
+
+478
+00:26:51,000 --> 00:26:53,000
+{Sakura}      I owe everything to my big brother.
+
+479
+00:26:53,000 --> 00:26:55,000
+{Sakura}      I'm his little sister Sakura.
+
+480
+00:26:55,000 --> 00:26:56,000
+{Shinji}      Little sister?
+
+481
+00:26:56,000 --> 00:26:57,000
+{Shinji}      Don't you mean big sister?
+
+482
+00:26:57,000 --> 00:27:01,000
+{Sakura}      No, little sister.
+
+483
+00:27:01,000 --> 00:27:04,000
+{Shinji}      Little sister...? How?
+
+484
+00:27:04,000 --> 00:27:07,000
+{Asuka}       Fourteen years have passed since then.
+
+485
+00:27:07,000 --> 00:27:09,000
+{Asuka}       Stupid Shinji.
+
+486
+00:27:09,000 --> 00:27:15,000
+{Shinji}      Huh? Ah, Asuka!
+
+487
+00:27:15,000 --> 00:27:16,000
+{Shinji}      Thank god.
+
+488
+00:27:16,000 --> 00:27:23,000
+{Shinji}      You really are safe, Asuka!
+
+489
+00:27:23,000 --> 00:27:25,000
+{Asuka}       I can't stand this.
+
+490
+00:27:25,000 --> 00:27:34,000
+{Asuka}       I've been holding this in.
+
+491
+00:27:34,000 --> 00:27:36,000
+{Shinji}      What was that all about...?
+
+492
+00:27:36,000 --> 00:27:39,000
+{Asuka}       Built up anger and grief.
+
+493
+00:27:39,000 --> 00:27:41,000
+{Shinji}      What do you mean...?
+
+494
+00:27:41,000 --> 00:27:44,000
+{Shinji}      Uh, Asuka, your left eye...
+
+495
+00:27:44,000 --> 00:27:46,000
+{Asuka}       None of your business.
+
+496
+00:27:46,000 --> 00:27:49,000
+{Shinji}      Asuka, you said it's been fourteen years,
+
+497
+00:27:49,000 --> 00:27:52,000
+{Shinji}      but the only thing that's changed about you is that eyepatch.
+
+498
+00:27:52,000 --> 00:27:55,000
+{Asuka}       Right. It's the Curse of Eva.
+
+499
+00:27:55,000 --> 00:27:59,000
+{Shinji}      A curse?
+
+500
+00:27:59,000 --> 00:28:00,000
+{Shinji}      Wait!
+
+501
+00:28:00,000 --> 00:28:02,000
+{Shinji}      Asuka, maybe you know!
+
+502
+00:28:02,000 --> 00:28:05,000
+{Shinji}      Where's Ayanami?!
+
+503
+00:28:05,000 --> 00:28:06,000
+{Asuka}       Dunno.
+
+504
+00:28:06,000 --> 00:28:08,000
+{Shinji}      You don't know...?
+
+505
+00:28:08,000 --> 00:28:10,000
+{Shinji}      But I saved her!
+
+506
+00:28:10,000 --> 00:28:12,000
+{Asuka}       All this fuss over just one person.
+
+507
+00:28:12,000 --> 00:28:16,000
+{Asuka}       This world doesn't have time to cater to your ego.
+
+508
+00:28:16,000 --> 00:28:22,000
+{Asuka}       Isn't that right, Captain Katsuragi?
+
+509
+00:28:22,000 --> 00:28:23,000
+{Shinji}      Asuka!
+
+510
+00:28:23,000 --> 00:28:26,000
+{Shinji}      Misato-san, where's Ayanami?!
+
+511
+00:28:26,000 --> 00:28:27,000
+{Shinji}      You've got to tell me!
+
+512
+00:28:27,000 --> 00:28:31,000
+{Misato}      Shinji-kun, Ayanami Rei no longer exists.
+
+513
+00:28:31,000 --> 00:28:34,000
+{Shinji}      No, I saved her, I know I did.
+
+514
+00:28:34,000 --> 00:28:37,000
+{Shinji}      She must still be in Eva-01's plug.
+
+515
+00:28:37,000 --> 00:28:38,000
+{Shinji}      Please, search for her!
+
+516
+00:28:38,000 --> 00:28:42,000
+{Ritsuko}     We've already conducted a thorough sweep of Eva-01.
+
+517
+00:28:42,000 --> 00:28:45,000
+{Ritsuko}     We only found you.
+
+518
+00:28:45,000 --> 00:28:48,000
+{Ritsuko}     And for some reason, this was restored.
+
+519
+00:28:48,000 --> 00:28:52,000
+{Ritsuko}     The inspection yielded no problems. We'll return it.
+
+520
+00:28:52,000 --> 00:28:55,000
+{Shinji}      My father's...。
+
+521
+00:28:55,000 --> 00:28:58,000
+{Shinji}      Ayanami was holding it then.
+
+522
+00:28:58,000 --> 00:29:01,000
+{Shinji}      So I saved her, didn't I?
+
+523
+00:29:01,000 --> 00:29:04,000
+{Shinji}      What?!
+
+524
+00:29:04,000 --> 00:29:06,000
+{Misato}      It's me.
+
+525
+00:29:06,000 --> 00:29:07,000
+{Hyuga (Phone)} Target is on the rear deck!
+
+526
+00:29:07,000 --> 00:29:09,000
+{Hyuga (Phone)} It suddenly closed in on us!
+
+527
+00:29:09,000 --> 00:29:10,000
+{Misato}      So the champion is on the scene...
+
+528
+00:29:10,000 --> 00:29:12,000
+{Misato}      All fleets to Primary Battle Stations.
+
+529
+00:29:12,000 --> 00:29:14,000
+{Misato}      Safeguarding Eva-01 is top priority!
+
+530
+00:29:14,000 --> 00:29:16,000
+{Asuka}       Eva-08, you're ready to go, right?
+
+531
+00:29:16,000 --> 00:29:18,000
+{Mari}        But of course.
+
+532
+00:29:18,000 --> 00:29:19,000
+{Mari}        I'm right on top of it, Princess.
+
+533
+00:29:19,000 --> 00:29:22,000
+{Mari}        By the way, how was Puppy Boy?
+
+534
+00:29:22,000 --> 00:29:24,000
+{Mari}        Is he obediently staying put?
+
+535
+00:29:24,000 --> 00:29:28,000
+{Asuka (Phone)} Nothing's changed about his stupid lowly face.
+
+536
+00:29:28,000 --> 00:29:31,000
+{Mari}        Oh, so you went to go see his face, did you?
+
+537
+00:29:31,000 --> 00:29:32,000
+{Asuka (Phone)} No!
+
+538
+00:29:32,000 --> 00:29:34,000
+{Asuka (Phone)} Just strike!
+
+539
+00:29:34,000 --> 00:29:35,000
+{Asuka}       I feel much better now.
+
+540
+00:29:35,000 --> 00:29:37,000
+{Shinji}      Misato-san, Ritsuko-san!
+
+541
+00:29:37,000 --> 00:29:39,000
+{Shinji}      Just who is coming?
+
+542
+00:29:39,000 --> 00:29:41,000
+{Shinji}      Is it a new Angel?!
+
+543
+00:29:41,000 --> 00:29:44,000
+{Rei}         Ikari-kun, where are you?
+
+544
+00:29:44,000 --> 00:29:46,000
+{Shinji}      Ayanami?
+
+545
+00:29:46,000 --> 00:29:49,000
+{Shinji}      That was Ayanami's voice just now, wasn't it?!
+
+546
+00:29:49,000 --> 00:29:53,000
+{Shinji}      Misa-
+
+547
+00:29:53,000 --> 00:29:55,000
+{Shinji}      What is going on here?!
+
+548
+00:29:55,000 --> 00:29:56,000
+{Sakura}      Preparations complete!
+
+549
+00:29:56,000 --> 00:29:58,000
+{Sakura}      Ikari-san, this way!
+
+550
+00:29:58,000 --> 00:30:01,000
+{Rei}         Ikari-kun, where are you?
+
+551
+00:30:01,000 --> 00:30:04,000
+{Shinji}      It really is Ayanami.
+
+552
+00:30:04,000 --> 00:30:06,000
+{Shinji}      It's Ayanami!
+
+553
+00:30:06,000 --> 00:30:11,000
+{Sakura}      Ikari-san! Quickly!
+
+554
+00:30:11,000 --> 00:30:13,000
+{Shinji}      Enough.
+
+555
+00:30:13,000 --> 00:30:28,000
+{Shinji}      Ayanami, I'm right here!
+
+556
+00:30:28,000 --> 00:30:30,000
+{Shinji}      Eva... Unit 00.
+
+557
+00:30:30,000 --> 00:30:32,000
+{Rei}         Ikari-kun...
+
+558
+00:30:32,000 --> 00:30:35,000
+{Rei}         Come this way.
+
+559
+00:30:35,000 --> 00:30:37,000
+{Misato}      Don't do it, Shinji-kun.
+
+560
+00:30:37,000 --> 00:30:38,000
+{Misato}      Just stay right here.
+
+561
+00:30:38,000 --> 00:30:41,000
+{Shinji}      What's with that, Misato-san?
+
+562
+00:30:41,000 --> 00:30:43,000
+{Shinji}      Weren't you just saying a moment ago that you didn't need me?
+
+563
+00:30:43,000 --> 00:30:45,000
+{Misato}      Even so, you'll be kept in our custody.
+
+564
+00:30:45,000 --> 00:30:53,000
+{Shinji}      That's just too one-sided!
+
+565
+00:30:53,000 --> 00:30:53,000
+{Shinji}      Please stop it!
+
+566
+00:30:53,000 --> 00:30:55,000
+{Shinji}      The target is an Eva!
+
+567
+00:30:55,000 --> 00:30:57,000
+{Misato}      That's why.
+
+568
+00:30:57,000 --> 00:30:59,000
+{Misato}      We will eradicate all of Nerv's Evas.
+
+569
+00:30:59,000 --> 00:31:01,000
+{Shinji}      Nerv...
+
+570
+00:31:01,000 --> 00:31:02,000
+{Shinji}      This isn't Nerv, too?
+
+571
+00:31:02,000 --> 00:31:07,000
+{Misato}      We are Wille, an organization dedicated to Nerv's destruction.
+
+572
+00:31:07,000 --> 00:31:09,000
+{Shinji}      That's...
+
+573
+00:31:09,000 --> 00:31:12,000
+{Shinji}      No, but it's being piloted by Ayanami!
+
+574
+00:31:12,000 --> 00:31:13,000
+{Misato}      It's not her!
+
+575
+00:31:13,000 --> 00:31:15,000
+{Misato}      Rei is gone, Shinji-kun.
+
+576
+00:31:15,000 --> 00:31:16,000
+{Shinji}      Liar!
+
+577
+00:31:16,000 --> 00:31:18,000
+{Shinji}      I mean, she's right here, isn't she?!
+
+578
+00:31:18,000 --> 00:31:20,000
+{Shinji}      You're just daft, Misato-san!
+
+579
+00:31:20,000 --> 00:31:24,000
+{Shinji}      I've had enough!
+
+580
+00:31:24,000 --> 00:31:27,000
+{Sakura}      Ikari-san!
+
+581
+00:31:27,000 --> 00:31:29,000
+{Sakura}      You can go back, but...
+
+582
+00:31:29,000 --> 00:31:31,000
+{Sakura}      Please just don't pilot an Eva!
+
+583
+00:31:31,000 --> 00:31:43,000
+{Sakura}      I really do want you to forgive me...
+
+584
+00:31:43,000 --> 00:31:44,000
+{Asuka}       Glasses, don't let it get away!
+
+585
+00:31:44,000 --> 00:31:48,000
+{Mari}        Loud and clear!
+
+586
+00:31:48,000 --> 00:31:50,000
+{Mari}        ♪ When you take aim ♪
+
+587
+00:31:50,000 --> 00:31:55,000
+{Mari}        ♪ Be careful not to miss your mark ♪
+
+588
+00:31:55,000 --> 00:32:02,000
+{Mari}        Hey, come on!
+
+589
+00:32:02,000 --> 00:32:09,000
+{Mari}        Alright!
+
+590
+00:32:09,000 --> 00:32:17,000
+{Mari}        I knew it! An Adams' vessel?
+
+591
+00:32:17,000 --> 00:32:22,000
+{Mari}        At least say 'hi' or something!
+
+592
+00:32:22,000 --> 00:32:25,000
+{Ritsuko}     The fact he was taken in priority over Eva-01
+
+593
+00:32:25,000 --> 00:32:27,000
+{Ritsuko}     means he still has potential as a trigger!
+
+594
+00:32:27,000 --> 00:32:44,000
+{Ritsuko}     Misato! Use the DSS choker!
+
+595
+00:32:44,000 --> 00:32:46,000
+{Ritsuko}     Mission directive from Executive Officer.
+
+596
+00:32:46,000 --> 00:32:47,000
+{Ritsuko}     Pursuit unnecessary.
+
+597
+00:32:47,000 --> 00:32:51,000
+{Ritsuko}     All personnel, resume emergency damage control and camouflage operations.
+
+598
+00:32:51,000 --> 00:32:52,000
+{Man}         Roger.
+
+599
+00:32:52,000 --> 00:32:53,000
+{Man}         Pursuit unnecessary.
+
+600
+00:32:53,000 --> 00:32:54,000
+{Asuka}       Hmph.
+
+601
+00:32:54,000 --> 00:32:55,000
+{Man}         All personnel, resume emergency damage control and camouflage operation.
+
+602
+00:32:55,000 --> 00:32:56,000
+{Asuka}       What do you know.
+
+603
+00:32:56,000 --> 00:33:16,000
+{Asuka}       He's not an idiot, just a brat!
+
+604
+00:33:16,000 --> 00:33:18,000
+{Shinji}      I did save her after all.
+
+605
+00:33:18,000 --> 00:33:21,000
+{Shinji}      Misato-san is a liar.
+
+606
+00:33:21,000 --> 00:33:31,000
+{Rei}         This way.
+
+607
+00:33:31,000 --> 00:33:48,000
+{Shinji}      Um...
+
+608
+00:33:48,000 --> 00:34:00,000
+{Shinji}      Even though this is the Geofront, you can see the sky.
+
+609
+00:34:00,000 --> 00:34:04,000
+{Shinji}      Is that... Nerv Headquarters?
+
+610
+00:34:04,000 --> 00:34:36,000
+{Shinji}      What happened?
+
+611
+00:34:36,000 --> 00:35:15,000
+{Shinji}      It really has been fourteen years.
+
+612
+00:35:15,000 --> 00:35:19,000
+{Rei}         Here.
+
+613
+00:35:19,000 --> 00:35:22,000
+{Shinji}      What's this?
+
+614
+00:35:22,000 --> 00:35:23,000
+{Shinji}      An Eva...?
+
+615
+00:35:23,000 --> 00:35:28,000
+{Gendo}       That's right.
+
+616
+00:35:28,000 --> 00:35:30,000
+{Shinji}      Father...
+
+617
+00:35:30,000 --> 00:35:32,000
+{Gendo}       Evangelion 13.
+
+618
+00:35:32,000 --> 00:35:37,000
+{Gendo}       A unit for you and that pilot.
+
+619
+00:35:37,000 --> 00:35:40,000
+{Shinji}      Just now, the piano...
+
+620
+00:35:40,000 --> 00:35:45,000
+{Gendo}       When the time comes, pilot this Eva along with the boy.
+
+621
+00:35:45,000 --> 00:35:48,000
+{Gendo}       We are done talking.
+
+622
+00:35:48,000 --> 00:35:49,000
+{Shinji}      Wait a second, Father!
+
+623
+00:35:49,000 --> 00:35:53,000
+{Shinji}      I still have a lot of questions, a lot I want to talk about!
+
+624
+00:35:53,000 --> 00:36:04,000
+{Shinji}      Father!
+
+625
+00:36:04,000 --> 00:36:06,000
+{Shinji}      There's no dial tone,
+
+626
+00:36:06,000 --> 00:36:29,000
+{Shinji}      so I can't reach anyone from here.
+
+627
+00:36:29,000 --> 00:36:42,000
+{Shinji}      After all, I must thank her.
+
+628
+00:36:42,000 --> 00:36:46,000
+{Shinji}      Ayanami!
+
+629
+00:36:46,000 --> 00:36:50,000
+{Shinji}      Ayanami, where are you?
+
+630
+00:36:50,000 --> 00:37:26,000
+{Shinji}      Ayanami!
+
+631
+00:37:26,000 --> 00:37:30,000
+{Shinji}      That's weird, this place is...
+
+632
+00:37:30,000 --> 00:37:31,000
+{Shinji}      Ayanami?!
+
+633
+00:37:31,000 --> 00:37:35,000
+{Shinji}      There you are!
+
+634
+00:37:35,000 --> 00:37:36,000
+{Shinji}      Ayanami!
+
+635
+00:37:36,000 --> 00:37:37,000
+{Shinji}      I've been looking for you！
+
+636
+00:37:37,000 --> 00:37:40,000
+{Shinji}      Um. Ah, wait!
+
+637
+00:37:40,000 --> 00:37:44,000
+{Shinji}      Clothes! Put some clothes on!
+
+638
+00:37:44,000 --> 00:37:48,000
+{Rei}         If that is an order, I will do it.
+
+639
+00:37:48,000 --> 00:37:53,000
+{Shinji}      I'm coming in...
+
+640
+00:37:53,000 --> 00:57:59,000
+{Shinji}      Um, Ayanami, thank you for this.
+
+641
+00:57:59,000 --> 00:38:09,000
+{Shinji}      I've been wanting to thank you for a while.
+
+642
+00:38:09,000 --> 00:38:12,000
+{Shinji}      Your plugsuit got renewed.
+
+643
+00:38:12,000 --> 00:38:21,000
+{Shinji}      It suits you. Though black is a little...
+
+644
+00:38:21,000 --> 00:38:28,000
+{Shinji}      Nerv HQ has changed quite a lot, hasn't it?
+
+645
+00:38:28,000 --> 00:38:33,000
+{Shinji}      Why is Misato-san fighting against Nerv and not the Angels?
+
+646
+00:38:33,000 --> 00:38:36,000
+{Shinji}      What does father intend to do here?
+
+647
+00:38:36,000 --> 00:38:38,000
+{Shinji}      What's happened to everyone?
+
+648
+00:38:38,000 --> 00:38:42,000
+{Shinji}      Hey, Ayanami, do you know anything?
+
+649
+00:38:42,000 --> 00:38:43,000
+{Rei}         I do not.
+
+650
+00:38:43,000 --> 00:38:46,000
+{Shinji}      I see...
+
+651
+00:38:46,000 --> 00:38:49,000
+{Shinji}      Yeah, you may be right.
+
+652
+00:38:49,000 --> 00:38:59,000
+{Shinji}      Say, when did you return from Eva-01?
+
+653
+00:38:59,000 --> 00:39:03,000
+{Shinji}      This place isn't much of a room.
+
+654
+00:39:03,000 --> 00:39:06,000
+{Shinji}      You could say it's just your style,
+
+655
+00:39:06,000 --> 00:39:10,000
+{Shinji}      but it doesn't seem like there is school, so what do you do all the time?
+
+656
+00:39:10,000 --> 00:39:15,000
+{Rei}         Wait. For orders.
+
+657
+00:39:15,000 --> 00:39:17,000
+{Shinji}      There are no books here.
+
+658
+00:39:17,000 --> 00:39:19,000
+{Shinji}      You're not reading any books?
+
+659
+00:39:19,000 --> 00:39:21,000
+{Rei}         Books?
+
+660
+00:39:21,000 --> 00:39:24,000
+{Rei}         If I were Ayanami Rei, would I read books?
+
+661
+00:39:24,000 --> 00:39:27,000
+{Shinji}      Yeah. You read a lot, didn't you?
+
+662
+00:39:27,000 --> 00:39:29,000
+{Shinji}      There were books in your room, too.
+
+663
+00:39:29,000 --> 00:39:30,000
+{Rei}         I see...
+
+664
+00:39:30,000 --> 00:39:31,000
+{Shinji}      I got it!
+
+665
+00:39:31,000 --> 00:39:34,000
+{Shinji}      I'll go look in the library here and bring you some.
+
+666
+00:39:34,000 --> 00:39:37,000
+{Shinji}      Um, English books are good, right?
+
+667
+00:39:37,000 --> 00:39:40,000
+{Shinji}      You always had one on you, so I guess you liked them.
+
+668
+00:39:40,000 --> 00:39:41,000
+{Rei}         "Liked"...?
+
+669
+00:39:41,000 --> 00:39:44,000
+{Shinji}      Yeah... At least, I think so.
+
+670
+00:39:44,000 --> 00:39:56,000
+{Rei}         What is "liked"?
+
+671
+00:39:56,000 --> 00:40:00,000
+{Fuyutsuki}   So Seele are still maintaining their silence?
+
+672
+00:40:00,000 --> 00:40:05,000
+{Gendo}       The Human Instrumentality Project will be carried out according to the Dead Sea Scrolls.
+
+673
+00:40:05,000 --> 00:40:09,000
+{Gendo}       We no longer need to weave the story.
+
+674
+00:40:09,000 --> 00:40:15,000
+{Fuyutsuki}   Ikari, you intend to use Eva-13 this time?
+
+675
+00:40:15,000 --> 00:40:21,000
+{Fuyutsuki}   No matter. I will go along with your plan.
+
+676
+00:40:21,000 --> 00:40:25,000
+{Fuyutsuki}   For Yui-kun's sake.
+
+677
+00:40:25,000 --> 00:40:35,000
+{Shinji}      It's no use. It doesn't work.
+
+678
+00:40:35,000 --> 00:40:36,000
+{Misato}      Don't do anything.
+
+679
+00:40:36,000 --> 00:40:38,000
+{Asuka}       None of your business.
+
+680
+00:40:38,000 --> 00:40:40,000
+{Sakura}      Please, just don't pilot an Eva!
+
+681
+00:40:40,000 --> 00:40:41,000
+{Gendo}       Pilot the Eva.
+
+682
+00:40:41,000 --> 00:41:37,000
+{Rei}         I don't know.
+
+683
+00:41:37,000 --> 00:41:39,000
+{Kaworu}      Come down here, Ikari-kun.
+
+684
+00:41:39,000 --> 00:41:46,000
+{Kaworu}      Let's talk!
+
+685
+00:41:46,000 --> 00:41:49,000
+{Shinji}      U-Uh, aren't we going to talk?
+
+686
+00:41:49,000 --> 00:41:52,000
+{Kaworu}      A piano duet is a dialogue of sounds, you could say.
+
+687
+00:41:52,000 --> 00:41:56,000
+{Kaworu}      Why don't we try it?
+
+688
+00:41:56,000 --> 00:41:58,000
+{Shinji}      No, that's alright. I can't play.
+
+689
+00:41:58,000 --> 00:42:08,000
+{Kaworu}      If you want to live well, you have to change and try new things.
+
+690
+00:42:08,000 --> 00:42:09,000
+{Kaworu}      Look, it's easy.
+
+691
+00:42:09,000 --> 00:42:27,000
+{Kaworu}      You just have to hit this key here.
+
+692
+00:42:27,000 --> 00:42:53,000
+{Kaworu}      Now, follow along with me.
+
+693
+00:42:53,000 --> 00:42:55,000
+{Kaworu}      Very good!
+
+694
+00:42:55,000 --> 00:43:32,000
+{Kaworu}      You're playing so well.
+
+695
+00:43:32,000 --> 00:43:35,000
+{Kaworu}      Every note is a joy.
+
+696
+00:43:35,000 --> 00:43:42,000
+{Kaworu}      We're amazing together, aren't we?
+
+697
+00:43:42,000 --> 00:44:44,000
+{Shinji}      Thanks.
+
+698
+00:44:44,000 --> 00:43:46,000
+{Shinji}      It's been ages since I've had this much fun.
+
+699
+00:43:46,000 --> 00:43:48,000
+{Kaworu}      Same here.
+
+700
+00:43:48,000 --> 00:43:49,000
+{Kaworu}      We'll have to do this again.
+
+701
+00:43:49,000 --> 00:43:52,000
+{Kaworu}      You can come anytime, Ikari Shinji-kun.
+
+702
+00:43:52,000 --> 00:43:53,000
+{Shinji}      Sure.
+
+703
+00:43:53,000 --> 00:43:55,000
+{Shinji}      Oh, you are...?
+
+704
+00:43:55,000 --> 00:43:59,000
+{Kaworu}      I'm Kaworu, Nagisa Kaworu.
+
+705
+00:43:59,000 --> 00:44:08,000
+{Kaworu}      I'm a child chosen by fate, the same as you.
+
+706
+00:44:08,000 --> 00:44:11,000
+{Shinji}      She's not here this time, either.
+
+707
+00:44:11,000 --> 00:44:29,000
+{Shinji}      The books haven't been touched, either.
+
+708
+00:44:29,000 --> 00:44:33,000
+{Kaworu}      Good morning, Ikari Shinji-kun.
+
+709
+00:44:33,000 --> 00:44:35,000
+{Kaworu}      You're here early today.
+
+710
+00:44:35,000 --> 00:45:07,000
+{Shinji}      I don't really have anything else to do.
+
+711
+00:45:07,000 --> 00:45:10,000
+{Shinji}      I wonder how I could play it better...
+
+712
+00:45:10,000 --> 00:45:13,000
+{Kaworu}      You don't need to be good at playing it.
+
+713
+00:45:13,000 --> 00:45:17,000
+{Kaworu}      Just producing a pleasing sound will suffice.
+
+714
+00:45:17,000 --> 00:45:21,000
+{Shinji}      So if I want to improve the sound I'm making, what should I do?
+
+715
+00:45:21,000 --> 00:45:23,000
+{Kaworu}      It takes repeated practice.
+
+716
+00:45:23,000 --> 00:45:30,000
+{Kaworu}      Doing it over and over until it feels good enough to you.
+
+717
+00:45:30,000 --> 00:46:02,000
+{Kaworu}      That's the only way.
+
+718
+00:46:02,000 --> 00:46:03,000
+{Kaworu}      It's okay, leave it to me.
+
+719
+00:46:03,000 --> 00:46:05,000
+{Kaworu}      You just need it to work, right?
+
+720
+00:46:05,000 --> 00:46:07,000
+{Shinji}      Hm, thank you.
+
+721
+00:46:07,000 --> 00:46:10,000
+{Shinji}      I feel bad for making you do so much for me.
+
+722
+00:46:10,000 --> 00:46:12,000
+{Kaworu}      You don't need to worry about that.
+
+723
+00:46:12,000 --> 00:46:18,000
+{Kaworu}      We're friends, after all.
+
+724
+00:46:18,000 --> 00:46:20,000
+{Kaworu}      It's gotten quite dark, hasn't it?
+
+725
+00:46:20,000 --> 00:46:23,000
+{Kaworu}      Why don't we head back for today?
+
+726
+00:46:23,000 --> 00:45:26,000
+{Shinji}      Hey, why don't we stay here for a little longer?
+
+727
+00:45:26,000 --> 00:46:28,000
+{Shinji}      We could watch the stars from here.
+
+728
+00:46:28,000 --> 00:46:31,000
+{Kaworu}      The stars?
+
+729
+00:46:31,000 --> 00:46:34,000
+{Kaworu}      Do you like the stars?
+
+730
+00:46:34,000 --> 00:46:36,000
+{Shinji}      Yeah.
+
+731
+00:46:36,000 --> 00:46:39,000
+{Shinji}      It's always struck me how large the universe is.
+
+732
+00:46:39,000 --> 00:46:44,000
+{Shinji}      There's something about it that's put my mind completely at ease, ever since I was little.
+
+733
+00:46:44,000 --> 00:46:49,000
+{Shinji}      I guess I'm glad that it hasn't changed at all these past fourteen years.
+
+734
+00:46:49,000 --> 00:46:55,000
+{Shinji}      It calms me down, if that makes sense.
+
+735
+00:46:55,000 --> 00:46:58,000
+{Shinji}      Uh, it's hard to put into words.
+
+736
+00:46:58,000 --> 00:47:01,000
+{Kaworu}      Your feelings came through.
+
+737
+00:47:01,000 --> 00:47:06,000
+{Kaworu}      Instead of seeking change, you prefer a world of nothingness and brutal abyss.
+
+738
+00:47:06,000 --> 00:47:09,000
+{Kaworu}      It's like you.
+
+739
+00:47:09,000 --> 00:47:12,000
+{Kaworu}      Lying here together is nice.
+
+740
+00:47:12,000 --> 00:47:15,000
+{Kaworu}      I didn't know it could be so pleasant.
+
+741
+00:47:15,000 --> 00:47:18,000
+{Kaworu}      Thanks for inviting me.
+
+742
+00:47:18,000 --> 00:47:20,000
+{Shinji}      No, you don't need to.
+
+743
+00:47:20,000 --> 00:47:27,000
+{Shinji}      I just thought that it'd be fun, if you wanted to try it, and...
+
+744
+00:47:27,000 --> 00:47:30,000
+{Kaworu}      It is fun.
+
+745
+00:47:30,000 --> 00:47:44,000
+{Kaworu}      I really was born to meet you.
+
+746
+00:47:44,000 --> 00:47:50,000
+{Shinji}      Hm?
+
+747
+00:47:50,000 --> 00:47:53,000
+{Shinji}      Seems a little big this time.
+
+748
+00:47:53,000 --> 00:48:00,000
+{Shinji}      Huh?
+
+749
+00:48:00,000 --> 00:48:03,000
+{Kaworu}      Here, it should work now.
+
+750
+00:48:03,000 --> 00:48:04,000
+{Shinji}      Thanks.
+
+751
+00:48:04,000 --> 00:48:06,000
+{Shinji}      You're amazing, Nagisa-kun.
+
+752
+00:48:06,000 --> 00:48:08,000
+{Shinji}      You can do everything.
+
+753
+00:48:08,000 --> 00:48:10,000
+{Kaworu}      This is just knowledge.
+
+754
+00:48:10,000 --> 00:48:14,000
+{Kaworu}      It's because I've stayed in this world for a little longer than you.
+
+755
+00:48:14,000 --> 00:48:18,000
+{Shinji}      Still... you're amazing.
+
+756
+00:48:18,000 --> 00:48:20,000
+{Kaworu}      You don't look too well.
+
+757
+00:48:20,000 --> 00:48:25,000
+{Kaworu}      What's wrong?
+
+758
+00:48:25,000 --> 00:48:29,000
+{Shinji}      I'm worried about my friends.
+
+759
+00:48:29,000 --> 00:48:30,000
+{Kaworu}      Friends?
+
+760
+00:48:30,000 --> 00:48:32,000
+{Shinji}      Yeah.
+
+761
+00:48:32,000 --> 00:48:35,000
+{Shinji}      There was a city above Nerv HQ.
+
+762
+00:48:35,000 --> 00:48:37,000
+{Shinji}      That's where everyone lived.
+
+763
+00:48:37,000 --> 00:48:38,000
+{Shinji}      Toji, Kensuke, Prez,
+
+764
+00:48:38,000 --> 00:48:41,000
+{Shinji}      the rest of the class...
+
+765
+00:48:41,000 --> 00:48:45,000
+{Shinji}      Apparently I'd been sleeping in Eva-01 for fourteen years.
+
+766
+00:48:45,000 --> 00:48:50,000
+{Shinji}      I don't know what's changed in that time.
+
+767
+00:48:50,000 --> 00:48:54,000
+{Kaworu}      Not knowing the answer to that must be painful.
+
+768
+00:48:54,000 --> 00:48:57,000
+{Shinji}      Somehow, I'm scared.
+
+769
+00:48:57,000 --> 00:49:02,000
+{Shinji}      Of what's happened to the city and everybody...
+
+770
+00:49:02,000 --> 00:49:04,000
+{Shinji}      I'm scared of it for some reason.
+
+771
+00:49:04,000 --> 00:49:15,000
+{Shinji}      That's right, I'm scared!
+
+772
+00:49:15,000 --> 00:49:44,000
+{Kaworu}      Do you want to know?
+
+773
+00:49:44,000 --> 00:49:46,000
+{Shinji}      Nagisa-kun?
+
+774
+00:49:46,000 --> 00:50:03,000
+{Shinji}      Nagisa-kun!
+
+775
+00:50:03,000 --> 00:50:22,000
+{Kaworu}      Just a little longer now.
+
+776
+00:50:22,000 --> 00:50:24,000
+{Kaworu}      The clouds will disperse soon,
+
+777
+00:50:24,000 --> 00:50:36,000
+{Kaworu}      and you will see the truth you desire.
+
+778
+00:50:36,000 --> 00:50:42,000
+{Shinji}      What is this...?
+
+779
+00:50:42,000 --> 00:50:51,000
+{Kaworu}      The outcome of Third Impact, which came to pass while you were merged with Eva-01.
+
+780
+00:50:51,000 --> 00:50:53,000
+{Shinji}      But this is...
+
+781
+00:50:53,000 --> 00:50:55,000
+{Shinji}      What happened to everyone in the city?
+
+782
+00:50:55,000 --> 00:50:58,000
+{Kaworu}      Mass extinction is not unusual on this planet.
+
+783
+00:50:58,000 --> 00:51:02,000
+{Kaworu}      Rather, it is the aspect that drives evolution.
+
+784
+00:51:02,000 --> 00:51:08,000
+{Kaworu}      Because life is fundamentally something that adjusts to the world and changes itself.
+
+785
+00:51:08,000 --> 00:51:15,000
+{Kaworu}      However, Lilin do not change themselves, but the world.
+
+786
+00:51:15,000 --> 00:51:21,000
+{Kaworu}      So they brought the rite of artificial evolution unto themselves.
+
+787
+00:51:21,000 --> 00:51:23,000
+{Kaworu}      Old life is offered in sacrifice,
+
+788
+00:51:23,000 --> 00:51:29,000
+{Kaworu}      so that new beings blessed with the Fruit of Life may be created.
+
+789
+00:51:29,000 --> 00:51:33,000
+{Kaworu}      All this is due to the death instinct that's been programmed since time immemorial.
+
+790
+00:51:33,000 --> 00:51:38,000
+{Kaworu}      Nerv call it the Human Instrumentality Project.
+
+791
+00:51:38,000 --> 00:51:43,000
+{Shinji}      This is Nerv's...
+
+792
+00:51:43,000 --> 00:51:48,000
+{Shinji}      This is what my father was doing.
+
+793
+00:51:48,000 --> 00:51:50,000
+{Kaworu}      Ikari Shinji-kun,
+
+794
+00:51:50,000 --> 00:51:55,000
+{Kaworu}      once Awakened, Eva-01 opened the Door of Guf
+
+795
+00:51:55,000 --> 00:51:58,000
+{Kaworu}      and became the trigger for Third Impact.
+
+796
+00:51:58,000 --> 00:52:02,000
+{Kaworu}      Lilin call it Near Third Impact.
+
+797
+00:52:02,000 --> 00:52:09,000
+{Kaworu}      It was all initiated by you.
+
+798
+00:52:09,000 --> 00:52:10,000
+{Shinji}      You're wrong!
+
+799
+00:52:10,000 --> 00:52:16,000
+{Shinji}      All I did was save Ayanami!
+
+800
+00:52:16,000 --> 00:52:21,000
+{Kaworu}      True, but that was the catalyst...
+
+801
+00:52:21,000 --> 00:52:25,000
+{Shinji}      All this...
+
+802
+00:52:25,000 --> 00:52:27,000
+{Shinji}      I didn't know!
+
+803
+00:52:27,000 --> 00:52:29,000
+{Shinji}      You're telling me all of this so fast,
+
+804
+00:52:29,000 --> 00:52:30,000
+{Shinji}      and there's nothing I can do about it!
+
+805
+00:52:30,000 --> 00:52:31,000
+{Kaworu}      Indeed.
+
+806
+00:52:31,000 --> 00:52:35,000
+{Kaworu}      There's nothing you can do about your past.
+
+807
+00:52:35,000 --> 00:52:38,000
+{Kaworu}      The truth you desired to know.
+
+808
+00:52:38,000 --> 00:52:43,000
+{Kaworu}      The Lilin are providing you reparation for your sin as a result.
+
+809
+00:52:43,000 --> 00:52:48,000
+{Kaworu}      That's what your neck device is, no?
+
+810
+00:52:48,000 --> 00:52:50,000
+{Shinji}      What sin?
+
+811
+00:52:50,000 --> 00:52:52,000
+{Shinji}      I didn't do anything!
+
+812
+00:52:52,000 --> 00:52:54,000
+{Shinji}      I had nothing to do with it!
+
+813
+00:52:54,000 --> 00:52:58,000
+{Kaworu}      If it wasn't you, then who was it?
+
+814
+00:52:58,000 --> 00:53:02,000
+{Kaworu}      However, no sin is beyond redemption.
+
+815
+00:53:02,000 --> 00:53:04,000
+{Kaworu}      There is always hope.
+
+816
+00:53:04,000 --> 00:53:23,000
+{Kaworu}      Always.
+
+817
+00:53:23,000 --> 00:53:27,000
+{Fuyutsuki}   Seele's boy has contacted the Third Boy.
+
+818
+00:53:27,000 --> 00:53:30,000
+{Fuyutsuki}   He showed him the conditions outside, it seems.
+
+819
+00:53:30,000 --> 00:53:33,000
+{Fuyutsuki}   Was his reaction as you anticipated?
+
+820
+00:53:33,000 --> 00:53:35,000
+{Fuyutsuki}   Are you okay with all of this, Ikari?
+
+821
+00:53:35,000 --> 00:53:39,000
+{Gendo}       Seele's scenario is being rewritten by us.
+
+822
+00:53:39,000 --> 00:53:42,000
+{Gendo}       All existence is nothing more than a tool to that end.
+
+823
+00:53:42,000 --> 00:53:48,000
+{Fuyutsuki}   You assume that your son wouldn't benefit even from seeing how you live?
+
+824
+00:53:48,000 --> 00:53:53,000
+{Fuyutsuki}   I don't agree with that.
+
+825
+00:53:53,000 --> 00:53:56,000
+{Shinji}      What is...
+
+826
+00:53:56,000 --> 00:54:03,000
+{Shinji}      What am I supposed--
+
+827
+00:54:03,000 --> 00:54:06,000
+{Shinji}      Right... I saved Ayanami.
+
+828
+00:54:06,000 --> 00:54:32,000
+{Shinji}      Wasn't that the right thing?
+
+829
+00:54:32,000 --> 00:54:34,000
+{Shinji}      She's gone again.
+
+830
+00:54:34,000 --> 00:54:38,000
+{Shinji}      She still hasn't touched the books.
+
+831
+00:54:38,000 --> 00:54:40,000
+{Shinji}      What's going on...?
+
+832
+00:54:40,000 --> 00:54:53,000
+{Shinji}      What's wrong with Ayanami?!
+
+833
+00:54:53,000 --> 00:54:57,000
+{Fuyutsuki}   Third Boy, do you play shogi?
+
+834
+00:54:57,000 --> 00:55:00,000
+{Shinji}      Eh... I only sort of know the rules.
+
+835
+00:55:00,000 --> 00:55:03,000
+{Fuyutsuki}   That's fine. Choose a side.
+
+836
+00:55:03,000 --> 00:55:12,000
+{Fuyutsuki}   I'll start without a castle, bishop, and golden general.
+
+837
+00:55:12,000 --> 00:55:16,000
+{Fuyutsuki}   Let your mind be still.
+
+838
+00:55:16,000 --> 00:55:19,000
+{Fuyutsuki}   It's the only way to achieve victory.
+
+839
+00:55:19,000 --> 00:55:24,000
+{Fuyutsuki}   You'll lose in another thirty-one turns.
+
+840
+00:55:24,000 --> 00:55:31,000
+{Fuyutsuki}   Hmm...
+
+841
+00:55:31,000 --> 00:55:35,000
+{Fuyutsuki}   Is it more fun for you this way?
+
+842
+00:55:35,000 --> 00:55:43,000
+{Fuyutsuki}   Thank you for indulging an old man his hobby.
+
+843
+00:55:43,000 --> 00:55:45,000
+{Fuyutsuki}   I'm a coward too, you know.
+
+844
+00:55:45,000 --> 00:55:50,000
+{Fuyutsuki}   I used this game as a pretext to talk to you.
+
+845
+00:55:50,000 --> 00:55:54,000
+{Fuyutsuki}   Do you remember your mother?
+
+846
+00:55:54,000 --> 00:55:58,000
+{Shinji}      No. I was too small.
+
+847
+00:55:58,000 --> 00:56:07,000
+{Shinji}      Father got rid of everything that was hers.
+
+848
+00:56:07,000 --> 00:56:10,000
+{Shinji}      Is this...
+
+849
+00:56:10,000 --> 00:56:13,000
+{Shinji}      Ayanami?
+
+850
+00:56:13,000 --> 00:56:14,000
+{Fuyutsuki}   Your mother.
+
+851
+00:56:14,000 --> 00:56:16,000
+{Fuyutsuki}   Maiden name, Ayanami Yui.
+
+852
+00:56:16,000 --> 00:56:20,000
+{Fuyutsuki}   She was my student at the university.
+
+853
+00:56:20,000 --> 00:56:27,000
+{Fuyutsuki}   Now, she is the control system of Eva Unit 01.
+
+854
+00:56:27,000 --> 00:56:33,000
+{Fuyutsuki}   Hm. The power was finally restored.
+
+855
+00:56:33,000 --> 00:56:37,000
+{Fuyutsuki}   The control system from very early in the Evas' development.
+
+856
+00:56:37,000 --> 00:56:41,000
+{Fuyutsuki}   Here, Yui-kun proposed direct entry into cores,
+
+857
+00:56:41,000 --> 00:56:45,000
+{Fuyutsuki}   and tested it with herself as the experimentee.
+
+858
+00:56:45,000 --> 00:56:55,000
+{Fuyutsuki}   You were watching, too. Your memory must have been erased.
+
+859
+00:56:55,000 --> 00:56:59,000
+{Fuyutsuki}   The result was that Yui-kun vanished here,
+
+860
+00:56:59,000 --> 00:57:03,000
+{Fuyutsuki}   and only her data was recovered, in the Ayanami Series.
+
+861
+00:57:03,000 --> 00:57:08,000
+{Fuyutsuki}   The Rei you know is one of Yui-kun's clones.
+
+862
+00:57:08,000 --> 00:57:13,000
+{Fuyutsuki}   She is preserved within Eva-01, the same as your mother.
+
+863
+00:57:13,000 --> 00:57:17,000
+{Fuyutsuki}   All of it is Ikari's plan.
+
+864
+00:57:17,000 --> 00:57:20,000
+{Shinji}      No way...
+
+865
+00:57:20,000 --> 00:57:24,000
+{Fuyutsuki}   Breaking the world is not difficult.
+
+866
+00:57:24,000 --> 00:57:28,000
+{Fuyutsuki}   But rebuilding it, that isn't so easy.
+
+867
+00:57:28,000 --> 00:57:32,000
+{Fuyutsuki}   The world can be reversed no more than time.
+
+868
+00:57:32,000 --> 00:57:35,000
+{Fuyutsuki}   Nor even the human heart...
+
+869
+00:57:35,000 --> 00:57:38,000
+{Fuyutsuki}   And thus, so that his wish might be granted,
+
+870
+00:57:38,000 --> 00:57:41,000
+{Fuyutsuki}   Ikari is paying every price there is.
+
+871
+00:57:41,000 --> 00:57:44,000
+{Fuyutsuki}   Even his very soul.
+
+872
+00:57:44,000 --> 00:57:47,000
+{Fuyutsuki}   I've imparted to you a little of the truth.
+
+873
+00:57:47,000 --> 00:58:01,000
+{Fuyutsuki}   About your father, as well...
+
+874
+00:58:01,000 --> 00:58:04,000
+{Fuyutsuki}   I could have been given a more pleasant part to play.
+
+875
+00:58:04,000 --> 00:58:15,000
+{Fuyutsuki}   Yui-kun, this should do.
+
+876
+00:58:15,000 --> 00:58:20,000
+{Gendo}       The time of the final contract is upon us.
+
+877
+00:58:20,000 --> 00:58:31,000
+{Gendo}       We shall soon meet, Yui.
+
+878
+00:58:31,000 --> 00:58:36,000
+{Shinji}      Why aren't you reading the books?
+
+879
+00:58:36,000 --> 00:58:38,000
+{Rei}         That wasn't your order.
+
+880
+00:58:38,000 --> 00:58:40,000
+{Shinji}      "Order"...?
+
+881
+00:58:40,000 --> 00:58:45,000
+{Shinji}      Alright, that's enough!
+
+882
+00:58:45,000 --> 00:58:48,000
+{Shinji}      Are you still Ayanami...?
+
+883
+00:58:48,000 --> 00:58:51,000
+{Rei}         Yes, Ayanami Rei.
+
+884
+00:58:51,000 --> 00:58:55,000
+{Shinji}      Then I did save you, right...?
+
+885
+00:58:55,000 --> 00:59:04,000
+{Rei}         ...I don't know.
+
+886
+00:59:04,000 --> 00:59:11,000
+{Rei}         Ikari-kun...?
+
+887
+00:59:11,000 --> 00:59:15,000
+{Shinji}      So, I didn't actually save her...
+
+888
+00:59:15,000 --> 00:59:17,000
+{Shinji}      Ayanami...
+
+889
+00:59:17,000 --> 00:59:21,000
+{Misato}      Don't do anything.
+
+890
+00:59:21,000 --> 00:59:21,000
+{Rei}         I don't know.
+
+891
+00:59:21,000 --> 00:59:23,000
+{Asuka}       None of your business.
+
+892
+00:59:23,000 --> 00:59:27,000
+{Gendo}       Pilot the Eva.
+
+893
+00:59:27,000 --> 00:59:29,000
+{Sakura}      Whatever you do, don't pilot an Eva!
+
+894
+00:59:29,000 --> 00:59:32,000
+{Misato}      Don't do anything.
+
+895
+00:59:32,000 --> 00:59:33,000
+{Asuka}       None of your business.
+
+896
+00:59:33,000 --> 00:59:34,000
+{Gendo}       Pilot the Eva.
+
+897
+00:59:34,000 --> 00:59:36,000
+{Asuka}       None of your business.
+
+898
+00:59:36,000 --> 00:59:39,000
+{Sakura}      Whatever you do, don't pilot an Eva!
+
+899
+00:59:39,000 --> 00:59:40,000
+{Shinji}      Father...
+
+900
+00:59:40,000 --> 00:59:41,000
+{Rei}         I don't know.
+
+901
+00:59:41,000 --> 00:59:42,000
+{Misato}      Don't do anything.
+
+902
+00:59:42,000 --> 00:59:43,000
+{Gendo}       Pilot the Eva.
+
+903
+00:59:43,000 --> 00:59:44,000
+{Asuka}       None of your business.
+
+904
+00:59:44,000 --> 00:59:45,000
+{Sakura}      Whatever you do, don't pilot an Eva!
+
+905
+00:59:45,000 --> 00:59:46,000
+{Misato}      Don't do anything.
+
+906
+00:59:46,000 --> 00:59:46,000
+{Gendo}       Pilot the Eva.
+
+907
+00:59:46,000 --> 00:59:48,000
+{Asuka}       None of your business.
+
+908
+00:59:48,000 --> 00:59:48,000
+{Misato}      Don't do anything.
+
+909
+00:59:48,000 --> 00:59:49,000
+{Rei}         I don't know.
+
+910
+00:59:49,000 --> 00:59:51,000
+{Asuka}       None of your business.
+
+911
+00:59:51,000 --> 00:59:52,000
+{Gendo}       Pilot the Eva.
+
+912
+00:59:52,000 --> 00:59:53,000
+{Misato}      Don't do anything.
+
+913
+00:59:53,000 --> 00:59:53,000
+{Rei}         I don't know.
+
+914
+00:59:53,000 --> 00:59:54,000
+{Asuka}       ...your business.
+
+915
+00:59:54,000 --> 00:59:55,000
+{Rei}         I don't know.
+
+916
+00:59:55,000 --> 00:59:56,000
+{Asuka}       None of your business.
+
+917
+00:59:56,000 --> 00:59:59,000
+{Sakura}      Whatever you do, don't pilot an Eva!
+
+918
+00:59:59,000 --> 01:00:00,000
+{Rei}         I don't know.
+
+919
+01:00:00,000 --> 01:00:08,000
+{Gendo}       Pilot the Eva.
+
+920
+01:00:08,000 --> 01:00:47,000
+{Shinji}      What did I do?
+
+921
+01:00:47,000 --> 01:00:50,000
+{Fuyutsuki}   Has the final executor been completed?
+
+922
+01:00:50,000 --> 01:00:56,000
+{Gendo}       Yes, everything we need is right here.
+
+923
+01:00:56,000 --> 01:00:59,000
+{Kaworu}      The time has come.
+
+924
+01:00:59,000 --> 01:01:02,000
+{Kaworu}      This is it, Ikari Shinji-kun.
+
+925
+01:01:02,000 --> 01:01:05,000
+{Shinji}      No!
+
+926
+01:01:05,000 --> 01:01:07,000
+{Shinji}      I don't want to pilot an Eva anymore!
+
+927
+01:01:07,000 --> 01:01:10,000
+{Shinji}      I didn't save Ayanami after all!
+
+928
+01:01:10,000 --> 01:01:13,000
+{Shinji}      Nothing good came out of me piloting the Eva!
+
+929
+01:01:13,000 --> 01:01:16,000
+{Shinji}      I've had enough! I don't want to do anything!
+
+930
+01:01:16,000 --> 01:01:24,000
+{Kaworu}      And so, the refrain of bitter memories will keep good things from happening.
+
+931
+01:01:24,000 --> 01:01:26,000
+{Shinji}      Nothing is ever good!
+
+932
+01:01:26,000 --> 01:01:29,000
+{Shinji}      You were the one who showed me that, Kaworu.
+
+933
+01:01:29,000 --> 01:01:32,000
+{Shinji}      A world where I can't do anything!
+
+934
+01:01:32,000 --> 01:01:37,000
+{Kaworu}      That which was changed by Eva can be changed back by Eva in turn.
+
+935
+01:01:37,000 --> 01:01:39,000
+{Shinji}      You say that, but my father, Eva, Misato-san...
+
+936
+01:01:39,000 --> 01:01:43,000
+{Shinji}      I can't believe in anyone, or anything!
+
+937
+01:01:43,000 --> 01:01:46,000
+{Kaworu}      Still, I want you to believe in me.
+
+938
+01:01:46,000 --> 01:01:49,000
+{Shinji}      I can't!
+
+939
+01:01:49,000 --> 01:01:53,000
+{Shinji}      Misato-san put this thing on me!
+
+940
+01:01:53,000 --> 01:01:55,000
+{Shinji}      They said to never pilot Eva again.
+
+941
+01:01:55,000 --> 01:01:59,000
+{Shinji}      They said if I pilot, I'll die.
+
+942
+01:01:59,000 --> 01:02:09,000
+{Shinji}      I don't care about Eva anymore.
+
+943
+01:02:09,000 --> 01:02:10,000
+{Kaworu}      I understand.
+
+944
+01:02:10,000 --> 01:02:21,000
+{Kaworu}      I will shoulder the burden of the Lilin's curse, and the risk of Eva's Awakening, for you.
+
+945
+01:02:21,000 --> 01:02:24,000
+{Shinji}      Nagisa-kun...
+
+946
+01:02:24,000 --> 01:02:26,000
+{Kaworu}      You don't have to worry.
+
+947
+01:02:26,000 --> 01:02:29,000
+{Kaworu}      Because I was originally something created by the very Lilin who fear me.
+
+948
+01:02:29,000 --> 01:02:34,000
+{Kaworu}      I had intended to do this at some stage.
+
+949
+01:02:34,000 --> 01:02:41,000
+{Kaworu}      Ikari Shinji-kun, your only hope lies with the two Spears left at the Impact epicenter in Dogma.
+
+950
+01:02:41,000 --> 01:02:45,000
+{Kaworu}      They are the key to activating Instrumentality.
+
+951
+01:02:45,000 --> 01:02:48,000
+{Kaworu}      All we have to do is obtain those Spears.
+
+952
+01:02:48,000 --> 01:02:52,000
+{Kaworu}      If we do that, Nerv will not be able to cause Fourth Impact.
+
+953
+01:02:52,000 --> 01:02:58,000
+{Kaworu}      And if we use them together with Eva-13, it becomes possible to fix the world.
+
+954
+01:02:58,000 --> 01:03:03,000
+{Shinji}      You're right.
+
+955
+01:03:03,000 --> 01:03:05,000
+{Shinji}      Yes. It is possible for you.
+
+956
+01:03:05,000 --> 01:03:07,000
+{Kaworu}      It is possible WITH you.
+
+957
+01:03:07,000 --> 01:03:11,000
+{Kaworu}      Eva-13 uses a double entry system.
+
+958
+01:03:11,000 --> 01:03:15,000
+{Kaworu}      Let the two of us become the hope of the Lilin.
+
+959
+01:03:15,000 --> 01:03:19,000
+{Kaworu}      Because what you need the most right now is hope,
+
+960
+01:03:19,000 --> 01:03:25,000
+{Kaworu}      along with atonement and an open heart.
+
+961
+01:03:25,000 --> 01:03:30,000
+{Shinji}      You're amazing. You know everything.
+
+962
+01:03:30,000 --> 01:03:35,000
+{Kaworu}      That's because I am always thinking about you.
+
+963
+01:03:35,000 --> 01:03:38,000
+{Shinji}      Thank you, Nagisa-kun.
+
+964
+01:03:38,000 --> 01:03:40,000
+{Kaworu}      "Kaworu" is fine.
+
+965
+01:03:40,000 --> 01:03:43,000
+{Shinji}      Ah, okay.
+
+966
+01:03:43,000 --> 01:03:49,000
+{Shinji}      "Shinji" is fine for me, too.
+
+967
+01:03:49,000 --> 01:03:50,000
+{Kaworu}      It is the same as playing piano.
+
+968
+01:03:50,000 --> 01:03:56,000
+{Kaworu}      Good things will come if we do it together.
+
+969
+01:03:56,000 --> 01:04:38,000
+{Shinji}      Let's go, Kaworu-kun.
+
+970
+01:04:38,000 --> 01:04:43,000
+{Both}        Evangelion 13, start up!
+
+971
+01:04:43,000 --> 01:04:44,000
+{Aoba}        Incoming signal!
+
+972
+01:04:44,000 --> 01:05:06,000
+{Aoba}        Activation of a new type of Eva confirmed.
+
+973
+01:05:06,000 --> 01:05:08,000
+{Shinji}      We're not alone.
+
+974
+01:05:08,000 --> 01:05:08,000
+{Kaworu}      You mean the Mark.09?
+
+975
+01:05:08,000 --> 01:05:12,000
+{Kaworu}      It's here as our backup.
+
+976
+01:05:12,000 --> 01:05:15,000
+{Kaworu}      It will warn us of any Wille activity.
+
+977
+01:05:15,000 --> 01:05:18,000
+{Shinji}      The two of us should be enough for all that.
+
+978
+01:05:18,000 --> 01:05:22,000
+{Shinji}      She isn't even Ayanami...
+
+979
+01:05:22,000 --> 01:05:28,000
+{Rei}         Not... Ayanami?
+
+980
+01:05:28,000 --> 01:05:30,000
+{Shinji}      The walls...?
+
+981
+01:05:30,000 --> 01:05:38,000
+{Kaworu}      Yes, all of the failures of infinity.
+
+982
+01:05:38,000 --> 01:05:42,000
+{Kaworu}      Don't let them weigh upon your mind.
+
+983
+01:05:42,000 --> 01:05:45,000
+{Kaworu}      We're nearly at Lilith's barrier.
+
+984
+01:05:45,000 --> 01:05:47,000
+{Kaworu}      The Main Shaft is completely blocked,
+
+985
+01:05:47,000 --> 01:05:56,000
+{Kaworu}      keeping anyone from intruding over the past fourteen years.
+
+986
+01:05:56,000 --> 01:06:00,000
+{Shinji}      It's like one big lid.
+
+987
+01:06:00,000 --> 01:06:03,000
+{Kaworu}      It's all right. Eva-13 was made for breaking through this.
+
+988
+01:06:03,000 --> 01:06:15,000
+{Kaworu}      The two of us can do it.
+
+989
+01:06:15,000 --> 01:06:17,000
+{Kaworu}      Try to join tempos.
+
+990
+01:06:17,000 --> 01:06:24,000
+{Kaworu}      Remember the piano duet.
+
+991
+01:06:24,000 --> 01:06:48,000
+{Kaworu}      Let's go, Shinji-kun.
+
+992
+01:06:48,000 --> 01:07:07,000
+{Shinji}      We did it!
+
+993
+01:07:07,000 --> 01:07:14,000
+{Kaworu}      We've arrived. The deepest part of Central Dogma.
+
+994
+01:07:14,000 --> 01:07:21,000
+{Kaworu}      The epicenter of Third Impact.
+
+995
+01:07:21,000 --> 01:07:23,000
+{Shinji}      Is this Lilith?
+
+996
+01:07:23,000 --> 01:07:25,000
+{Kaworu}      It once was.
+
+997
+01:07:25,000 --> 01:07:27,000
+{Kaworu}      Now, it is her corpse.
+
+998
+01:07:27,000 --> 01:07:32,000
+{Shinji}      Misato-san, even though we tried to protect it with our lives...
+
+999
+01:07:32,000 --> 01:07:35,000
+{Shinji}      Uh... That's an Eva?
+
+1000
+01:07:35,000 --> 01:07:38,000
+{Kaworu}      Yes, the Eva Mark.06.
+
+1001
+01:07:38,000 --> 01:07:40,000
+{Kaworu}      Remodeled into an autonomous type,
+
+1002
+01:07:40,000 --> 01:07:48,000
+{Kaworu}      exploitation by the Lilin brought the unit to a state of ruin.
+
+1003
+01:07:48,000 --> 01:07:52,000
+{Shinji}      The things that are piercing them... are our targets?
+
+1004
+01:07:52,000 --> 01:08:00,000
+{Kaworu}      Yes, the Spears of Longinus and Cassius. Wielding both requires two souls.
+
+1005
+01:08:00,000 --> 01:08:04,000
+{Kaworu}      That is why we have the Double Entry System.
+
+1006
+01:08:04,000 --> 01:08:08,000
+{Shinji}      Then... wouldn't THAT pilot have been just as good for this as me?
+
+1007
+01:08:08,000 --> 01:08:10,000
+{Kaworu}      No, a Lilin imitation cannot be used.
+
+1008
+01:08:10,000 --> 01:08:14,000
+{Kaworu}      Their souls' placement is different.
+
+1009
+01:08:14,000 --> 01:08:23,000
+{Kaworu}      Well, let's begin.
+
+1010
+01:08:23,000 --> 01:08:25,000
+{Kaworu}      Hold on.
+
+1011
+01:08:25,000 --> 01:08:26,000
+{Kaworu}      Something is wrong.
+
+1012
+01:08:26,000 --> 01:08:31,000
+{Shinji}      What is it, Kaworu-kun?
+
+1013
+01:08:31,000 --> 01:08:32,000
+{Kaworu}      This is not right...
+
+1014
+01:08:32,000 --> 01:08:36,000
+{Kaworu}      Both of the Spears have changed to a similar shape.
+
+1015
+01:08:36,000 --> 01:08:38,000
+{Shinji}      Let's just pull the Spears quickly!
+
+1016
+01:08:38,000 --> 01:08:44,000
+{Shinji}      That's why we came here in this Eva.
+
+1017
+01:08:44,000 --> 01:08:55,000
+{Shinji}      What's going on?!
+
+1018
+01:08:55,000 --> 01:08:57,000
+{Shinji}      Eva-02?
+
+1019
+01:08:57,000 --> 01:09:00,000
+{Shinji}      Asuka!
+
+1020
+01:09:00,000 --> 01:09:05,000
+{Shinji}      What are you doing, Asuka?!
+
+1021
+01:09:05,000 --> 01:09:06,000
+{Asuka}       Stupid Shinji?!
+
+1022
+01:09:06,000 --> 01:09:08,000
+{Asuka}       You can't seriously be piloting an Eva?
+
+1023
+01:09:08,000 --> 01:09:10,000
+{Shinji}      I am.
+
+1024
+01:09:10,000 --> 01:09:13,000
+{Shinji}      I'm going to change the world with this Eva!
+
+1025
+01:09:13,000 --> 01:09:15,000
+{Asuka}       You little brat...
+
+1026
+01:09:15,000 --> 01:09:25,000
+{Asuka}       If that's how it is, don't pilot!
+
+1027
+01:09:25,000 --> 01:09:26,000
+{Asuka}       Support fire, you're always late!
+
+1028
+01:09:26,000 --> 01:09:28,000
+{Mari}        Sorry, sorry!
+
+1029
+01:09:28,000 --> 01:09:31,000
+{Mari}        Adams' Vessel-san,
+
+1030
+01:09:31,000 --> 01:09:54,000
+{Mari}        stay confined, at least...
+
+1031
+01:09:54,000 --> 01:09:56,000
+{Shinji}      Why are you interfering, Asuka?
+
+1032
+01:09:56,000 --> 01:10:01,000
+{Shinji}      Are those our Spears of Hope?!
+
+1033
+01:10:01,000 --> 01:10:04,000
+{Asuka}       Stop!... looking!... for trouble!
+
+1034
+01:10:04,000 --> 01:10:05,000
+{Asuka}       You brat, Shinji!
+
+1035
+01:10:05,000 --> 01:10:07,000
+{Asuka}       Are you planning to start Third Impact again?
+
+1036
+01:10:07,000 --> 01:10:09,000
+{Shinji}      You're wrong!
+
+1037
+01:10:09,000 --> 01:10:12,000
+{Shinji}      I'm trying to fix everything!
+
+1038
+01:10:12,000 --> 01:10:16,000
+{Shinji}      I'm trying to save the world!
+
+1039
+01:10:16,000 --> 01:10:19,000
+{Asuka}       You really are a little twerp.
+
+1040
+01:10:19,000 --> 01:10:30,000
+{Shinji}      You just don't get it!
+
+1041
+01:10:30,000 --> 01:10:34,000
+{Shinji}      Kaworu-kun, why aren't you helping?
+
+1042
+01:10:34,000 --> 01:10:39,000
+{Kaworu}      Cassius and Longinus. Both of the Spears are needed...
+
+1043
+01:10:39,000 --> 01:10:43,000
+{Kaworu}      But the only two Spears that are here are the same...
+
+1044
+01:10:43,000 --> 01:10:44,000
+{Shinji}      Kaworu-kun!
+
+1045
+01:10:44,000 --> 01:10:46,000
+{Kaworu}      That's it!
+
+1046
+01:10:46,000 --> 01:10:48,000
+{Kaworu}      Now I understand,
+
+1047
+01:10:48,000 --> 01:10:55,000
+{Kaworu}      Lilin!
+
+1048
+01:10:55,000 --> 01:10:58,000
+{Mari}        Hey, Seele temp pilot,
+
+1049
+01:10:58,000 --> 01:11:00,000
+{Mari}        you can hear me, right?
+
+1050
+01:11:00,000 --> 01:11:04,000
+{Mari}        Don't you think you should get out before you turn into an Adams' Vessel?
+
+1051
+01:11:04,000 --> 01:11:07,000
+{Rei}         No. That is not the order I received.
+
+1052
+01:11:07,000 --> 01:11:09,000
+{Mari}        Talk about a square.
+
+1053
+01:11:09,000 --> 01:11:12,000
+{Mari}        You know your original was a whole lot more friendly?
+
+1054
+01:11:12,000 --> 01:11:14,000
+{Rei}         Original?
+
+1055
+01:11:14,000 --> 01:11:30,000
+{Rei}         The other me...
+
+1056
+01:11:30,000 --> 01:11:45,000
+{Shinji}      Kaworu-kun? What's the matter?
+
+1057
+01:11:45,000 --> 01:11:46,000
+{Shinji}      Asuka...
+
+1058
+01:11:46,000 --> 01:11:49,000
+{Shinji}      Please! Stay out of our way!
+
+1059
+01:11:49,000 --> 01:11:57,000
+{Asuka}       Go down quietly, you little brat!
+
+1060
+01:11:57,000 --> 01:11:58,000
+{Asuka}       Of all times!
+
+1061
+01:11:58,000 --> 01:12:07,000
+{Asuka}       Hey, Glasses! I need a spare!
+
+1062
+01:12:07,000 --> 01:12:11,000
+{Shinji}      While we still have the chance! The Spears!
+
+1063
+01:12:11,000 --> 01:12:13,000
+{Asuka}       You'd raise a hand against a girl...
+
+1064
+01:12:13,000 --> 01:12:14,000
+{Asuka}       You're the worst.
+
+1065
+01:12:14,000 --> 01:12:28,000
+{Mari}        Spare, incoming!
+
+1066
+01:12:28,000 --> 01:12:30,000
+{Kaworu}      Let's stop, Shinji-kun.
+
+1067
+01:12:30,000 --> 01:12:32,000
+{Kaworu}      I have a bad feeling about this...
+
+1068
+01:12:32,000 --> 01:12:34,000
+{Shinji}      We can't, Kaworu-kun!
+
+1069
+01:12:34,000 --> 01:12:37,000
+{Shinji}      We came here to do something!
+
+1070
+01:12:37,000 --> 01:12:38,000
+{Kaworu}      We've done enough!
+
+1071
+01:12:38,000 --> 01:12:41,000
+{Kaworu}      These aren't the Spears we came for!
+
+1072
+01:12:41,000 --> 01:12:47,000
+{Shinji}      Not... the Spears we came for...
+
+1073
+01:12:47,000 --> 01:12:50,000
+{Shinji}      You're the one who said we need the Spears.
+
+1074
+01:12:50,000 --> 01:12:57,000
+{Shinji}      That's why I got into this Eva!
+
+1075
+01:12:57,000 --> 01:13:02,000
+{Kaworu}      The control system...?
+
+1076
+01:13:02,000 --> 01:13:05,000
+{Shinji}      For Kaworu-kun,
+
+1077
+01:13:05,000 --> 01:13:07,000
+{Shinji}      for everyone, I will get the Spears!
+
+1078
+01:13:07,000 --> 01:13:11,000
+{Shinji}      Only then will the world go back to the way it should be.
+
+1079
+01:13:11,000 --> 01:13:15,000
+{Shinji}      If I do that, even Misato-san will...
+
+1080
+01:13:15,000 --> 01:13:16,000
+{Asuka}       Damn!
+
+1081
+01:13:16,000 --> 01:13:18,000
+{Asuka}       Glasses! Get rid of the barrier!
+
+1082
+01:13:18,000 --> 01:13:20,000
+{Asuka}       You're cleared to use AA ammo!
+
+1083
+01:13:20,000 --> 01:13:22,000
+{Mari}        I've been waiting for this.
+
+1084
+01:13:22,000 --> 01:13:30,000
+{Mari}        Check these babies out!
+
+1085
+01:13:30,000 --> 01:13:32,000
+{Mari}        No A.T. Field?
+
+1086
+01:13:32,000 --> 01:13:46,000
+{Mari}        Don't tell me this unit...
+
+1087
+01:13:46,000 --> 01:13:48,000
+{Kaworu}      Don't do it, Shinji-kun!
+
+1088
+01:13:48,000 --> 01:14:13,000
+{Asuka}       Stop, you stupid brat!
+
+1089
+01:14:13,000 --> 01:14:22,000
+{Gendo}       Let's begin, Fuyutsuki.
+
+1090
+01:14:22,000 --> 01:14:25,000
+{Shinji}      Eva Mark.06?
+
+1091
+01:14:25,000 --> 01:14:26,000
+{Shinji}      Pattern blue?
+
+1092
+01:14:26,000 --> 01:14:30,000
+{Shinji}      What's going on?
+
+1093
+01:14:30,000 --> 01:14:32,000
+{Asuka}       This is bad!
+
+1094
+01:14:32,000 --> 01:14:35,000
+{Asuka}       The Twelfth Angel is still alive!
+
+1095
+01:14:35,000 --> 01:14:37,000
+{Asuka}       Glasses, Container No.3!
+
+1096
+01:14:37,000 --> 01:14:40,000
+{Mari}        Got it!
+
+1097
+01:14:40,000 --> 01:14:49,000
+{Asuka}       I'll deal with this before Third Impact starts up again!
+
+1098
+01:14:49,000 --> 01:15:00,000
+{Rei}         It was on orders.
+
+1099
+01:15:00,000 --> 01:15:10,000
+{Shinji}      An Angel?!
+
+1100
+01:15:10,000 --> 01:15:14,000
+{Mari}        Princess, you should cease the futile fire.
+
+1101
+01:15:14,000 --> 01:15:17,000
+{Mari}        The whole thing is a core.
+
+1102
+01:15:17,000 --> 01:15:21,000
+{Mari}        With just us, there's no way to hurt it.
+
+1103
+01:15:21,000 --> 01:15:24,000
+{Mari}        Besides that, by defeating the Last Angel,
+
+1104
+01:15:24,000 --> 01:15:26,000
+{Mari}        we don't know what kind of evil will come out.
+
+1105
+01:15:26,000 --> 01:15:32,000
+{Mari}        You're worried, no?
+
+1106
+01:15:32,000 --> 01:15:37,000
+{Rei}         This is...
+
+1107
+01:15:37,000 --> 01:15:41,000
+{Rei}         This is... me?
+
+1108
+01:15:41,000 --> 01:15:46,000
+{Rei}         What am I...?
+
+1109
+01:15:46,000 --> 01:15:47,000
+{Shinji}      The controls aren't responding.
+
+1110
+01:15:47,000 --> 01:15:51,000
+{Shinji}      What's going on, Kaworu-kun?
+
+1111
+01:15:51,000 --> 01:15:53,000
+{Shinji}      Kaworu-kun!
+
+1112
+01:15:53,000 --> 01:15:56,000
+{Kaworu}      I never imagined that I, the First Angel,
+
+1113
+01:15:56,000 --> 01:16:00,000
+{Kaworu}      would be cast down to the Thirteenth.
+
+1114
+01:16:00,000 --> 01:16:04,000
+{Shinji}      What are you doing, Kaworu-kun?
+
+1115
+01:16:04,000 --> 01:16:08,000
+{Kaworu}      So the beginning and the end are the same.
+
+1116
+01:16:08,000 --> 01:16:11,000
+{Kaworu}      I'd expect as much from the King of the Lilin,
+
+1117
+01:16:11,000 --> 01:16:13,000
+{Kaworu}      Shinji-kun's father!
+
+1118
+01:16:13,000 --> 01:16:15,000
+{Mari}        DSS Choker, pattern blue?
+
+1119
+01:16:15,000 --> 01:16:19,000
+{Mari}        A Thirteenth? Even though the Twelfth should've been the last?!
+
+1120
+01:16:19,000 --> 01:16:24,000
+{Mari}        So this is what Gendo-kun is aiming for.
+
+1121
+01:16:24,000 --> 01:16:29,000
+{Gendo}       It is time to amend the Dead Sea Scrolls' contract.
+
+1122
+01:16:29,000 --> 01:16:33,000
+{Gendo}       This is farewell.
+
+1123
+01:16:33,000 --> 01:16:37,000
+{Gendo}       Even though all of you have changed the shape of your souls,
+
+1124
+01:16:37,000 --> 01:16:41,000
+{Gendo}       you are still lifeforms blessed with the Fruit of Knowledge.
+
+1125
+01:16:41,000 --> 01:16:44,000
+{Gendo}       You were able to live for eternity,
+
+1126
+01:16:44,000 --> 01:16:50,000
+{Gendo}       but, same as us, you still cannot escape the fate of death.
+
+1127
+01:16:50,000 --> 01:16:54,000
+{Gendo}       To advance the evolution of the flock burdened with death,
+
+1128
+01:16:54,000 --> 01:17:00,000
+{Gendo}       you had bestowed upon us the gift of civilization.
+
+1129
+01:17:00,000 --> 01:17:04,000
+{Gendo}       As the representative of humanity, I say thank you.
+
+1130
+01:17:04,000 --> 01:17:12,000
+{Gendo}       Through death, I shall return your souls to where they belong.
+
+1131
+01:17:12,000 --> 01:17:15,000
+{Gendo}       The long desired Human Instrumentality Project,
+
+1132
+01:17:15,000 --> 01:17:19,000
+{Gendo}       and the contracted deicide, will be completed by me.
+
+1133
+01:17:19,000 --> 01:17:21,000
+{Gendo}       Rest assured.
+
+1134
+01:17:21,000 --> 01:17:25,000
+{Keel}        Our wishes have come to fruition.
+
+1135
+01:17:25,000 --> 01:17:26,000
+{Keel}        Good.
+
+1136
+01:17:26,000 --> 01:17:29,000
+{Keel}        Everything is good.
+
+1137
+01:17:29,000 --> 01:17:31,000
+{Keel}        Human Instrumentality.
+
+1138
+01:17:31,000 --> 01:18:06,000
+{Keel}        We hope for the peaceful purification of all souls.
+
+1139
+01:18:06,000 --> 01:18:07,000
+{Asuka}       Damn it!
+
+1140
+01:18:07,000 --> 01:18:09,000
+{Asuka}       It's entering its pseudo-evolved form!
+
+1141
+01:18:09,000 --> 01:18:12,000
+{Mari}        Guess it's Awakening...
+
+1142
+01:18:12,000 --> 01:18:49,000
+{Mari}        It's one of the surviving Adams!
+
+1143
+01:18:49,000 --> 01:19:04,000
+{Shinji}      What's this...?
+
+1144
+01:19:04,000 --> 01:19:11,000
+{Shinji}      What IS this...?
+
+1145
+01:19:11,000 --> 01:19:14,000
+{Shinji}      It's all my fault!
+
+1146
+01:19:14,000 --> 01:19:22,000
+{Shinji}      Because I pulled the Spears!
+
+1147
+01:19:22,000 --> 01:19:24,000
+{Shinji}      This is...!
+
+1148
+01:19:24,000 --> 01:19:28,000
+{Kaworu}      Fourth Impact...
+
+1149
+01:19:28,000 --> 01:19:45,000
+{Kaworu}      These are the opening ceremonies.
+
+1150
+01:19:45,000 --> 01:19:46,000
+{Shinji}      Kaworu-kun...
+
+1151
+01:19:46,000 --> 01:19:55,000
+{Shinji}      The choker!
+
+1152
+01:19:55,000 --> 01:19:59,000
+{Shinji}      Misato-san?!
+
+1153
+01:19:59,000 --> 01:20:01,000
+{Misato}      A.T. Field at maximum!
+
+1154
+01:20:01,000 --> 01:20:03,000
+{Misato}      Contain the Eva in its present state!
+
+1155
+01:20:03,000 --> 01:20:06,000
+{Misato}      Principal weapon prepared! Charged with howitzer!
+
+1156
+01:20:06,000 --> 01:20:08,000
+{Misato}      Do whatever it takes to keep Fourth Impact in check!
+
+1157
+01:20:08,000 --> 01:20:17,000
+{Misato}      Fire!
+
+1158
+01:20:17,000 --> 01:20:19,000
+{Midori}      Damage received! Direct hit to main armament!
+
+1159
+01:20:19,000 --> 01:20:26,000
+{Misato}      The Adams' Vessel?!
+
+1160
+01:20:26,000 --> 01:20:28,000
+{Tama}        Shots received on midsection! Damage unknown!
+
+1161
+01:20:28,000 --> 01:20:30,000
+{Woman (BG)}  / The target is the new-type Eva! ＃＃＃＃
+
+1162
+01:20:30,000 --> 01:20:32,000
+{Sumire}      Rudder is ineffective!
+
+1163
+01:20:32,000 --> 01:20:43,000
+{Sumire}      We're losing altitude!
+
+1164
+01:20:43,000 --> 01:20:46,000
+{Tama}        / 中＃＃＃＃＃＃！
+
+1165
+01:20:46,000 --> 01:20:48,000
+{Ritsuko}     The Adams' Vessel... Wunder's original master!
+
+1166
+01:20:48,000 --> 01:20:57,000
+{Ritsuko}     It intends to take the ship's controls back from Eva-01!
+
+1167
+01:20:57,000 --> 01:21:05,000
+{Rei}         Why can't I restore the link?
+
+1168
+01:21:05,000 --> 01:21:07,000
+{Mari}        Oh, man!
+
+1169
+01:21:07,000 --> 01:21:10,000
+{Mari}        These guys are not messing around.
+
+1170
+01:21:10,000 --> 01:21:12,000
+{Asuka}       Glasses, you handle the brat's Eva!
+
+1171
+01:21:12,000 --> 01:21:14,000
+{Asuka}       I'll help out Wunder with 02'!
+
+1172
+01:21:14,000 --> 01:21:15,000
+{Mari}        Roger!
+
+1173
+01:21:15,000 --> 01:21:17,000
+{Midori}      Unable to reject the Adams' Vessel!
+
+1174
+01:21:17,000 --> 01:21:19,000
+{Tama}        Unidentified data is infiltrating the main control system!
+
+1175
+01:21:19,000 --> 01:21:43,000
+{Aoba}        It is hijacking control of the ship!
+
+1176
+01:21:43,000 --> 01:21:53,000
+{Asuka}       Talk about cheap! That's Seele's style, all right.
+
+1177
+01:21:53,000 --> 01:21:55,000
+{Asuka}       Mode change!
+
+1178
+01:21:55,000 --> 01:22:04,000
+{Asuka}       Code 777 (Triple Seven)!
+
+1179
+01:22:04,000 --> 01:22:05,000
+{Rei}         Who's there?
+
+1180
+01:22:05,000 --> 01:22:24,000
+{Asuka}       Who the hell are YOU?!
+
+1181
+01:22:24,000 --> 01:22:26,000
+{Aoba}        Report from lower bridge.
+
+1182
+01:22:26,000 --> 01:22:27,000
+{Aoba}        Eva-02' has engaged the Adams' Vessel!
+
+1183
+01:22:27,000 --> 01:22:48,000
+{Misato}      We're counting on you, Asuka.
+
+1184
+01:22:48,000 --> 01:22:51,000
+{Rei}         If I were Ayanami Rei, what would I do at a time like this?
+
+1185
+01:22:51,000 --> 01:22:58,000
+{Asuka}       Hell if I know!
+
+1186
+01:22:58,000 --> 01:23:09,000
+{Asuka}       Do whatever you want!
+
+1187
+01:23:09,000 --> 01:23:12,000
+{Asuka}       Geez! The whole thing's a core?
+
+1188
+01:23:12,000 --> 01:23:14,000
+{Asuka}       No time...
+
+1189
+01:23:14,000 --> 01:23:31,000
+{Asuka}       Sorry, Eva-02!
+
+1190
+01:23:31,000 --> 01:23:33,000
+{Sumire}      Control systems restored!
+
+1191
+01:23:33,000 --> 01:23:34,000
+{Misato}      Emergency launch of all ships!
+
+1192
+01:23:34,000 --> 01:23:36,000
+{Misato}      Pursue the target Eva immediately!
+
+1193
+01:23:36,000 --> 01:23:40,000
+{Ritsuko}     Captain, it won't be possible until the main unit is restored!
+
+1194
+01:23:40,000 --> 01:24:02,000
+{Misato}      Shinji-kun...
+
+1195
+01:24:02,000 --> 01:24:06,000
+{Shinji}      This is all because of me...
+
+1196
+01:24:06,000 --> 01:24:12,000
+{Shinji}      I...
+
+1197
+01:24:12,000 --> 01:24:15,000
+{Kaworu}      It's not your fault.
+
+1198
+01:24:15,000 --> 01:24:19,000
+{Kaworu}      It's because I became the Thirteenth Angel.
+
+1199
+01:24:19,000 --> 01:24:21,000
+{Kaworu}      I'm the trigger.
+
+1200
+01:24:21,000 --> 01:24:24,000
+{Shinji}      What do I do?
+
+1201
+01:24:24,000 --> 01:24:31,000
+{Shinji}      Hey, what are we going to do?
+
+1202
+01:24:31,000 --> 01:24:34,000
+{Shinji}      Kaworu-kun,
+
+1203
+01:24:34,000 --> 01:24:37,000
+{Shinji}      tell me what the right thing would be.
+
+1204
+01:24:37,000 --> 01:24:43,000
+{Kaworu}      Even if souls disappear, hopes and curses will remain in this world.
+
+1205
+01:24:43,000 --> 01:24:48,000
+{Kaworu}      Intent is imparted to the world as information and goes on to change.
+
+1206
+01:24:48,000 --> 01:24:54,000
+{Kaworu}      In time, even one's very self is being rewritten.
+
+1207
+01:24:54,000 --> 01:24:59,000
+{Kaworu}      I'm sorry. This isn't the happiness you wished for.
+
+1208
+01:24:59,000 --> 01:25:03,000
+{Kaworu}      I will close the Door of Guf.
+
+1209
+01:25:03,000 --> 01:25:05,000
+{Kaworu}      You don't need to worry about it, Shinji-kun.
+
+1210
+01:25:05,000 --> 01:25:08,000
+{Shinji}      Kaworu-kun...
+
+1211
+01:25:08,000 --> 01:25:11,000
+{Shinji}      What are you saying, Kaworu-kun?
+
+1212
+01:25:11,000 --> 01:25:18,000
+{Shinji}      I don't get any of it!
+
+1213
+01:25:18,000 --> 01:25:31,000
+{Kaworu}      Shinji-kun, you should find a place of peace and self.
+
+1214
+01:25:31,000 --> 01:25:37,000
+{Kaworu}      Fate will surely guide you.
+
+1215
+01:25:37,000 --> 01:25:41,000
+{Kaworu}      Don't make that face.
+
+1216
+01:25:41,000 --> 01:25:44,000
+{Kaworu}      We'll meet again, Shinji-kun.
+
+1217
+01:25:44,000 --> 01:26:04,000
+{Shinji}      Kaworu-kun!
+
+1218
+01:26:04,000 --> 01:26:06,000
+{Mari}        The Door of Guf hasn't closed yet?
+
+1219
+01:26:06,000 --> 01:26:25,000
+{Mari}        So, Puppy Boy is Seele's backup measure!
+
+1220
+01:26:25,000 --> 01:26:26,000
+{Mari}        I'm done cleaning up!
+
+1221
+01:26:26,000 --> 01:26:30,000
+{Mari}        Hang in there, Puppy Boy!
+
+1222
+01:26:30,000 --> 01:26:31,000
+{Mari}        Don't be such a baby!
+
+1223
+01:26:31,000 --> 01:26:33,000
+{Mari}        Help out the Princess, at least!
+
+1224
+01:26:33,000 --> 01:26:36,000
+{Mari}        Be a man!
+
+1225
+01:26:36,000 --> 01:27:33,000
+{Mari}        And while you're at it, get to know the world a little!
+
+1226
+01:27:33,000 --> 01:27:35,000
+{Fuyutsuki}   What a nightmare.
+
+1227
+01:27:35,000 --> 01:27:38,000
+{Fuyutsuki}   Nearly all went as Seele intended.
+
+1228
+01:27:38,000 --> 01:27:46,000
+{Gendo}       But not only was Seele's boy eliminated, the path was forged for Eva-13's Awakening.
+
+1229
+01:27:46,000 --> 01:27:49,000
+{Gendo}       Captain Katsuragi's actions are within predictions, as well.
+
+1230
+01:27:49,000 --> 01:27:52,000
+{Gendo}       This will do for now.
+
+1231
+01:27:52,000 --> 01:27:55,000
+{Hyuga}       All ships, maintain organization for Class 2 withdrawal.
+
+1232
+01:27:55,000 --> 01:27:57,000
+{Woman}       No pattern blue readings.
+
+1233
+01:27:57,000 --> 01:27:59,000
+{Woman}       No ships sighted in withdrawal airspace.
+
+1234
+01:27:59,000 --> 01:28:01,000
+{Man}         Damaged areas of the midsection have received emergency treatment.
+
+1235
+01:28:01,000 --> 01:28:04,000
+{Ritsuko}     Fourth Impact was stopped, but we don't know whom to thank.
+
+1236
+01:28:04,000 --> 01:28:06,000
+{Man (BG)}    / ＃んざい不明＃＃のは水中。（BGの男オペレター）
+
+1237
+01:28:06,000 --> 01:28:07,000
+{Man (BG)}    / じごくは不明、とっか、じんき回収＃＃＃＃。
+
+1238
+01:28:07,000 --> 01:29:01,000
+{Ritsuko}     Misato, let's leave it for now...
+
+1239
+01:29:01,000 --> 01:29:04,000
+{Asuka}       You brat, Shinji.
+
+1240
+01:29:04,000 --> 01:29:10,000
+{Asuka}       You didn't come to help me?
+
+1241
+01:29:10,000 --> 01:29:12,000
+{Asuka}       Yet again, it's all about you.
+
+1242
+01:29:12,000 --> 01:29:40,000
+{Asuka}       You think you can just get away with what's happened by not saying a thing.
+
+1243
+01:29:40,000 --> 01:29:43,000
+{Asuka}       You still need pampering?
+
+1244
+01:29:43,000 --> 01:29:47,000
+{Asuka}       No matter how much time passes... you're always such a brat!
+
+1245
+01:29:47,000 --> 01:29:50,000
+{Asuka}       Here, put this on.
+
+1246
+01:29:50,000 --> 01:29:58,000
+{Asuka}       Jeez! You can stand on your own, can't you?!
+
+1247
+01:29:58,000 --> 01:30:02,000
+{Asuka}       The pilot from earlier.
+
+1248
+01:30:02,000 --> 01:30:11,000
+{Asuka}       From an early lot of Ayanami Types?
+
+1249
+01:30:11,000 --> 01:30:16,000
+{Asuka}       The L Barrier's density is too strong here, so they won't come to help us.
+
+1250
+01:30:16,000 --> 01:30:23,000
+{Asuka}       We're going to where the Lilin are.
+
+1251
+01:30:23,000 --> 01:35:10,000
+{Asuka}       Come on!
+
+1252
+01:35:10,000 --> 01:35:12,000
+{Caption}     PREVIEW
+
+1253
+01:35:12,000 --> 01:35:16,000
+{Narrator}    Shinji Ikari continues to wander, still lacking the will to live.
+
+1254
+01:35:16,000 --> 01:36:19,000
+{Narrator}    He comes upon a place that teaches him hope.
+
+1255
+01:36:19,000 --> 01:36:22,000
+{Narrator}    Finally the Instrumentality Project is set in motion.
+
+1256
+01:36:22,000 --> 01:36:23,000
+{Narrator}    To prevent Final Impact,
+
+1257
+01:36:23,000 --> 01:36:26,000
+{Narrator}    Wille make one last grueling stand.
+
+1258
+01:36:26,000 --> 01:36:27,000
+{Narrator}    Wunder tears through the skies!
+
+1259
+01:36:27,000 --> 01:36:32,000
+{Narrator}    Eva Unit 8+2 sprints over the red earth!
+
+1260
+01:36:32,000 --> 01:36:34,000
+{Narrator}    Next time in "New Evangelion Theatrical Edition".
+
+1261
+01:36:34,000 --> 01:36:34,000
+{Narrator}    There'll be fan service all the way up to the end!
+
