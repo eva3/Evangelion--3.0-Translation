@@ -792,7 +792,7 @@
 
 199
 00:11:28,000 --> 00:11:30,000
-{Mujer}       / ＃＃ごと、＃＃＃発射準備。
+{Mujer}       Preparen todos los cañones para disparar.
 
 200
 00:11:30,000 --> 00:11:33,000
@@ -988,7 +988,7 @@
 
 248
 00:13:22,000 --> 00:13:24,000
-{Midori}      600 secundos para el contacto.
+{Midori}      600 segundos para el contacto.
 
 249
 00:13:24,000 --> 00:13:25,000
@@ -1156,11 +1156,11 @@
 
 290
 00:15:01,000 --> 00:15:06,000
-{Asuka}       EVA Unidad 02', ¡activado!
+{Asuka}       EVA Unidad 02, ¡activado!
 
 291
 00:15:06,000 --> 00:15:07,000
-{Mujer}       Lanzamiento de EVA-02'.
+{Mujer}       Lanzamiento de EVA-02.
 
 292
 00:15:07,000 --> 00:15:08,000
@@ -1168,7 +1168,7 @@
 
 293
 00:15:08,000 --> 00:15:09,000
-{Mujer}       Preparando EVA-02' para el lanzamiento.
+{Mujer}       Preparando el EVA-02 para el lanzamiento.
 
 294
 00:15:09,000 --> 00:15:20,000
@@ -1712,7 +1712,7 @@
 
 429
 00:23:27,000 --> 00:23:30,000
-{Hyuga}       Apuntado directo y persecución manual, listo para todos los cañones.
+{Hyuga}       Mira directa y persecución manual, listo para todos los cañones.
 
 430
 00:23:30,000 --> 00:23:31,000
@@ -1732,11 +1732,11 @@
 
 434
 00:24:00,000 --> 00:24:02,000
-{Misato}      Preparandose para recuperar al EVA-02'.
+{Misato}      Preparándose para recuperar al EVA-02.
 
 435
 00:24:02,000 --> 00:24:06,000
-{Misato}      De prisa con los procedimientos de emergencia para las alas principales.
+{Misato}      Dense prisa con los procedimientos de emergencia para las alas principales.
 
 436
 00:24:06,000 --> 00:24:07,000
@@ -1756,11 +1756,11 @@
 
 440
 00:24:15,000 --> 00:24:17,000
-{Ritsuko}     Así que este es el poder para asesinar dioses.
+{Ritsuko}     Así que este es el poder para matar dioses.
 
 441
 00:24:17,000 --> 00:25:00,000
-{Ritsuko}     Wunder es la nave de la esperanza.
+{Ritsuko}     Wunder es realmente la nave de la esperanza.
 
 442
 00:25:00,000 --> 00:25:03,000
@@ -1768,7 +1768,7 @@
 
 443
 00:25:03,000 --> 00:25:06,000
-{Sakura}      El oficial al mando tiene unas palabras que decirte.
+{Sakura}      El oficial al mando tiene algo que decirte.
 
 444
 00:25:06,000 --> 00:25:08,000
@@ -1788,7 +1788,7 @@
 
 448
 00:25:19,000 --> 00:25:23,000
-{Ritsuko}     Además, ya tenemos los resultados de tu prueba de sincronización.
+{Ritsuko}     Además, nos han entregado los resultados de tu prueba de sincronización.
 
 449
 00:25:23,000 --> 00:25:26,000
@@ -1808,7 +1808,7 @@
 
 453
 00:25:33,000 --> 00:25:39,000
-{Ritsuko}     Aún así, no podemos pasar por el alto el hecho de que anteriormente el Eva 01 estuvo despierto por 12 segundos.
+{Ritsuko}     Aún así, no podemos descartar el hecho de que anteriormente el Eva 01 estuvo despierto por 12 segundos.
 
 454
 00:25:39,000 --> 00:25:44,000
@@ -1820,7 +1820,7 @@
 
 456
 00:25:45,000 --> 00:25:48,000
-{Ritsuko}     Seguridad para todos nosotros.
+{Ritsuko}     Es por nuestra seguridad.
 
 457
 00:25:48,000 --> 00:25:51,000
@@ -2120,7 +2120,7 @@
 
 531
 00:29:12,000 --> 00:29:14,000
-{Misato}      ¡Asegurar al EVA-01 es nuestra máxima prioridad!
+{Misato}      ¡Proteger al EVA-01 es nuestra máxima prioridad!
 
 532
 00:29:14,000 --> 00:29:16,000
@@ -2220,7 +2220,7 @@
 
 556
 00:30:11,000 --> 00:30:13,000
-{Shinji}      Suficiente.
+{Shinji}      Ya es suficiente.
 
 557
 00:30:13,000 --> 00:30:28,000
@@ -2248,7 +2248,7 @@
 
 563
 00:30:38,000 --> 00:30:41,000
-{Shinji}      ¿Qué pasa, Misato-san?
+{Shinji}      ¿Qué sucede, Misato-san?
 
 564
 00:30:41,000 --> 00:30:43,000
@@ -2256,11 +2256,11 @@
 
 565
 00:30:43,000 --> 00:30:45,000
-{Misato}      Aún así, serás mantenido en custodia.
+{Misato}      Aún así, quedarás bajo nuestra custodia.
 
 566
 00:30:45,000 --> 00:30:53,000
-{Shinji}      ¡Es injusto!
+{Shinji}      ¡Eso es injusto!
 
 567
 00:30:53,000 --> 00:30:53,000
@@ -2272,7 +2272,7 @@
 
 569
 00:30:55,000 --> 00:30:57,000
-{Misato}      Es por eso.
+{Misato}      Efectivamente.
 
 570
 00:30:57,000 --> 00:30:59,000
@@ -2332,7 +2332,7 @@
 
 584
 00:31:29,000 --> 00:31:31,000
-{Sakura}      ¡Pero por favor no pilotes el EVA!
+{Sakura}      ¡Pero por favor no pilotees el EVA!
 
 585
 00:31:31,000 --> 00:31:43,000
@@ -2364,7 +2364,7 @@
 
 592
 00:32:09,000 --> 00:32:17,000
-{Mari}        ¡Lo sabía! ¿Un contenedor de Adam?
+{Mari}        ¡Lo sabía! ¿Un recipiente de Adam?
 
 593
 00:32:17,000 --> 00:32:22,000
@@ -2372,7 +2372,7 @@
 
 594
 00:32:22,000 --> 00:32:25,000
-{Ritsuko}     El hecho es que él fuese tomado como prioridad sobre el EVA-01,
+{Ritsuko}     El hecho de que él fuese tomado como prioridad sobre el EVA-01,
 
 595
 00:32:25,000 --> 00:32:27,000
@@ -2544,7 +2544,7 @@
 
 637
 00:37:40,000 --> 00:37:44,000
-{Shinji}      ¡Ropa! ¡Ponte algo de ropa!
+{Shinji}      ¡Tu ropa! ¡Ponte algo de ropa!
 
 638
 00:37:44,000 --> 00:37:48,000
@@ -2564,7 +2564,7 @@
 
 642
 00:38:09,000 --> 00:38:12,000
-{Shinji}      Tu plugsuit está remodelado.
+{Shinji}      Han remodelado tu plugsuit.
 
 643
 00:38:12,000 --> 00:38:21,000
@@ -2588,7 +2588,7 @@
 
 648
 00:38:38,000 --> 00:38:42,000
-{Shinji}      Hey, Ayanami, ¿sabes algo?
+{Shinji}      Oye, Ayanami, ¿sabes algo?
 
 649
 00:38:42,000 --> 00:38:43,000
