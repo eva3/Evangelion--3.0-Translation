@@ -444,7 +444,7 @@
 
 112
 00:06:01,000 --> 00:06:03,000
-{Asuka}       ¡El Escudo AT no la está neutralizando!
+{Asuka}       ¡El Escudo A.T. no la está neutralizando!
 
 113
 00:06:03,000 --> 00:06:06,000
@@ -1552,7 +1552,7 @@
 
 389
 00:20:02,000 --> 00:20:04,000
-{Misato}      ¡Enciendan los motores y desplieguen el escudo AT!
+{Misato}      ¡Enciendan los motores y desplieguen el Escudo A.T.!
 
 390
 00:20:04,000 --> 00:20:07,000
@@ -4112,7 +4112,7 @@
 
 1029
 01:09:28,000 --> 01:09:31,000
-{Mari}        Señor Contenedor de Adams,
+{Mari}        Señor Recipiente de Adams,
 
 1030
 01:09:31,000 --> 01:09:54,000
@@ -4196,7 +4196,7 @@
 
 1050
 01:11:00,000 --> 01:11:04,000
-{Mari}        ¿No crees que tienes que irte antes de convertirte en un Contenedor de Adams?
+{Mari}        ¿No crees que tienes que irte antes de convertirte en un Recipiente de Adams?
 
 1051
 01:11:04,000 --> 01:11:07,000
@@ -4208,7 +4208,7 @@
 
 1053
 01:11:09,000 --> 01:11:12,000
-{Mari}        Tu version original era mucho más simpática, ¿sabes?
+{Mari}        Tu versión original era mucho más simpática, ¿sabes?
 
 1054
 01:11:12,000 --> 01:11:14,000
@@ -4320,7 +4320,7 @@
 
 1081
 01:13:16,000 --> 01:13:18,000
-{Asuka}       ¡Anteojos! ¡Deshazte de la barrera!
+{Asuka}       ¡Anteojos! ¡Destruye las barreras!
 
 1082
 01:13:18,000 --> 01:13:20,000
@@ -4328,7 +4328,7 @@
 
 1083
 01:13:20,000 --> 01:13:22,000
-{Mari}        Estuve esperando esto.
+{Mari}        Estuve esperando este momento.
 
 1084
 01:13:22,000 --> 01:13:30,000
@@ -4336,7 +4336,7 @@
 
 1085
 01:13:30,000 --> 01:13:32,000
-{Mari}        ¿No tiene escudo A.T.?
+{Mari}        ¿No tiene Escudo A.T.?
 
 1086
 01:13:32,000 --> 01:13:46,000
@@ -4376,7 +4376,7 @@
 
 1095
 01:14:35,000 --> 01:14:37,000
-{Asuka}       ¡Anteojos! ¡Contenedor No.3!
+{Asuka}       ¡Anteojos! ¡Recipiente No.3!
 
 1096
 01:14:37,000 --> 01:14:40,000
@@ -4388,7 +4388,7 @@
 
 1098
 01:14:49,000 --> 01:15:00,000
-{Rei}         Fueron ordenes.
+{Rei}         Fueron órdenes.
 
 1099
 01:15:00,000 --> 01:15:10,000
@@ -4448,7 +4448,7 @@
 
 1113
 01:15:56,000 --> 01:16:00,000
-{Kaworu}      moriría como el Treceavo Angel.
+{Kaworu}      moriría como el Decimotercer Angel.
 
 1114
 01:16:00,000 --> 01:16:04,000
@@ -4472,7 +4472,7 @@
 
 1119
 01:16:15,000 --> 01:16:19,000
-{Mari}        ¿Un Treceavo? ¡¿El Doceavo no debería de haber sido el último?!
+{Mari}        ¿Un Decimotercer ángel? ¡¿El duodécimo no debería de haber sido el último?!
 
 1120
 01:16:19,000 --> 01:16:24,000
@@ -4572,11 +4572,11 @@
 
 1144
 01:19:04,000 --> 01:19:11,000
-{Shinji}      ¿Qué es esto?
+{Shinji}      ¿Qué ES esto?
 
 1145
 01:19:11,000 --> 01:19:14,000
-{Shinji}      ¿Todo es mi culpa!
+{Shinji}      ¿Todo es por mi culpa!
 
 1146
 01:19:14,000 --> 01:19:22,000
@@ -4632,7 +4632,7 @@
 
 1159
 01:20:19,000 --> 01:20:26,000
-{Misato}      ¡¿El Contenedor de Adams?!
+{Misato}      ¡¿El Recipiente de Adams?!
 
 1160
 01:20:26,000 --> 01:20:28,000
@@ -4640,7 +4640,7 @@
 
 1161
 01:20:28,000 --> 01:20:30,000
-{Mujer (BG)}  ¡El objetivo es el EVA nuevo!
+{Mujer (BG)}  / ¡El objetivo es el EVA nuevo! ###
 
 1162
 01:20:30,000 --> 01:20:32,000
@@ -4656,7 +4656,7 @@
 
 1165
 01:20:46,000 --> 01:20:48,000
-{Ritsuko}     El Contenedor de Adams... El amo original de Wunder.
+{Ritsuko}     El Recipiente de Adams... El amo original de Wunder.
 
 1166
 01:20:48,000 --> 01:20:57,000
@@ -4688,7 +4688,7 @@
 
 1173
 01:21:15,000 --> 01:21:17,000
-{Midori}      ¡No puedo eyectar el Contenedor de Adams!
+{Midori}      ¡No puedo eyectar el Recipiente de Adams!
 
 1174
 01:21:17,000 --> 01:21:19,000
@@ -4724,7 +4724,7 @@
 
 1182
 01:22:26,000 --> 01:22:27,000
-{Aoba}        ¡EVA-02' ha contactado el Contenedor de Adams!
+{Aoba}        ¡EVA-02 ha contactado el Recipiente de Adams!
 
 1183
 01:22:27,000 --> 01:22:48,000
@@ -4988,11 +4988,11 @@
 
 1248
 01:30:02,000 --> 01:30:11,000
-{Asuka}       ¿De un lote inicial de clones Ayanami?
+{Asuka}       ¿Acaso fue un clon de Ayanami?
 
 1249
 01:30:11,000 --> 01:30:16,000
-{Asuka}       La barrera de densidad L es muy fuerte aquí, así que no vendrán a ayudarnos.
+{Asuka}       La densidad de la barrera L es muy fuerte aquí, así que no vendrán a ayudarnos.
 
 1250
 01:30:16,000 --> 01:30:23,000
@@ -5008,15 +5008,15 @@
 
 1253
 01:35:12,000 --> 01:35:16,000
-{Narrator}    Shinji Ikari continúa vangando, todavía carece de voluntad de vivir.
+{Narrator}    Shinji Ikari continúa vangando, sin voluntad de vivir.
 
 1254
 01:35:16,000 --> 01:36:19,000
-{Narrator}    Llega a un lugar que le muestra esperanza.
+{Narrator}    Llega a un lugar esperanzador.
 
 1255
 01:36:19,000 --> 01:36:22,000
-{Narrator}    Finalmente, el Proyecto de Instrumentalización es puesto en marcha.
+{Narrator}    Finalmente, el Proyecto de Instrumentalización se pone en marcha.
 
 1256
 01:36:22,000 --> 01:36:23,000
