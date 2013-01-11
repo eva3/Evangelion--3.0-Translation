@@ -2440,7 +2440,7 @@
 
 611
 00:34:36,000 --> 00:35:15,000
-{Shinji}      De verdad han pasado catorce años.
+{Shinji}      De verdad han pasado 14 años.
 
 612
 00:35:15,000 --> 00:35:19,000
@@ -2716,7 +2716,7 @@
 
 680
 00:40:38,000 --> 00:40:40,000
-{Sakura}      ¡Por favor, no pilotees un EVA!
+{Sakura}      ¡Por favor, no pilotees el EVA!
 
 681
 00:40:40,000 --> 00:40:41,000
@@ -2872,7 +2872,7 @@
 
 719
 00:46:03,000 --> 00:46:05,000
-{Kaworu}      Está bien, déjamelo a mí.
+{Kaworu}      Puedo hacerlo funcionar.
 
 720
 00:46:05,000 --> 00:46:07,000
@@ -2928,7 +2928,7 @@
 
 733
 00:46:44,000 --> 00:46:49,000
-{Shinji}      Supongo que estoy feliz de que no haya cambiado tanto en estos catorce años.
+{Shinji}      Supongo que estoy feliz de que no haya cambiado tanto en estos 14 años.
 
 734
 00:46:49,000 --> 00:46:55,000
@@ -2984,7 +2984,7 @@
 
 747
 00:47:50,000 --> 00:47:53,000
-{Shinji}      Se parece un poco más grande ahora.
+{Shinji}      Parece un poco más grande ahora.
 
 748
 00:47:53,000 --> 00:48:00,000
@@ -2992,7 +2992,7 @@
 
 749
 00:48:00,000 --> 00:48:03,000
-{Kaworu}      Ten, ahora debería funcionar.
+{Kaworu}      Ten, esto debería funcionar.
 
 750
 00:48:03,000 --> 00:48:04,000
@@ -3056,11 +3056,11 @@
 
 765
 00:48:41,000 --> 00:48:45,000
-{Shinji}      Aparentemente he dormido en el EVA-01 por catorce años.
+{Shinji}      Aparentemente he dormido en el EVA-01 por 14 años.
 
 766
 00:48:45,000 --> 00:48:50,000
-{Shinji}      No se qué ha cambiado en este tiempo.
+{Shinji}      No se qué habrá cambiado en todo ese tiempo.
 
 767
 00:48:50,000 --> 00:48:54,000
@@ -3172,7 +3172,7 @@
 
 794
 00:51:50,000 --> 00:51:55,000
-{Kaworu}      cuando despertó el EVA-01, abrió la Puerta de Guf
+{Kaworu}      cuando el EVA-01 despertó, abrió la Puerta de Gauf
 
 795
 00:51:55,000 --> 00:51:58,000
@@ -3204,7 +3204,7 @@
 
 802
 00:52:25,000 --> 00:52:27,000
-{Shinji}      ¡No lo sabía!
+{Shinji}      ¡Yo no lo sabía!
 
 803
 00:52:27,000 --> 00:52:29,000
@@ -3232,7 +3232,7 @@
 
 809
 00:52:43,000 --> 00:52:48,000
-{Kaworu}      ¿Qué crees que hace esa cosa en tu cuello?
+{Kaworu}      Para eso es tu collar ¿no?
 
 810
 00:52:48,000 --> 00:52:50,000
@@ -3288,7 +3288,7 @@
 
 823
 00:53:42,000 --> 00:53:48,000
-{Fuyutsuki}   ¿Aun cuando tu hijo conoce el camino que sigues?
+{Fuyutsuki}   ¿Aún cuando tu hijo conoce el camino que sigues?
 
 824
 00:53:48,000 --> 00:53:53,000
@@ -3324,7 +3324,7 @@
 
 832
 00:54:40,000 --> 00:54:53,000
-{Shinji}      ¡¿Qué le pasa a Ayanami?!
+{Shinji}      ¡¿Qué le hicieron a Ayanami?!
 
 833
 00:54:53,000 --> 00:54:57,000
@@ -3332,7 +3332,7 @@
 
 834
 00:54:57,000 --> 00:55:00,000
-{Shinji}      Eh... Conozco las reglas.
+{Shinji}      Eh... Solo conozco las reglas.
 
 835
 00:55:00,000 --> 00:55:03,000
@@ -3340,11 +3340,11 @@
 
 836
 00:55:03,000 --> 00:55:12,000
-{Fuyutsuki}   Comenzaré sin torre.
+{Fuyutsuki}   Comenzaré sin torre ni generales de oro.
 
 837
 00:55:12,000 --> 00:55:16,000
-{Fuyutsuki}   Deja que tu mente se calme.
+{Fuyutsuki}   Tienes que concentrarte.
 
 838
 00:55:16,000 --> 00:55:19,000
@@ -3352,7 +3352,7 @@
 
 839
 00:55:19,000 --> 00:55:24,000
-{Fuyutsuki}   Perderás en treinta y un manos.
+{Fuyutsuki}   Perderás en treinta y un turnos.
 
 840
 00:55:24,000 --> 00:55:31,000
@@ -3372,7 +3372,7 @@
 
 844
 00:55:45,000 --> 00:55:50,000
-{Fuyutsuki}   Usé este juego como pretexto para hablarte.
+{Fuyutsuki}   Usé este juego como pretexto para hablar contigo.
 
 845
 00:55:50,000 --> 00:55:54,000
@@ -3396,7 +3396,7 @@
 
 850
 00:56:13,000 --> 00:56:14,000
-{Fuyutsuki}   Esa es tu madre.
+{Fuyutsuki}   Es tu madre.
 
 851
 00:56:14,000 --> 00:56:16,000
@@ -3424,11 +3424,11 @@
 
 857
 00:56:41,000 --> 00:56:45,000
-{Fuyutsuki}   y ella misma realizó la prueba como exprimento
+{Fuyutsuki}   y ella misma realizó la prueba como exprimento.
 
 858
 00:56:45,000 --> 00:56:55,000
-{Fuyutsuki}   Tu estabas viendo también. Tu memoria debe de haberlo borrado.
+{Fuyutsuki}   Tú estabas viendo también. Tu memoria debe de haberlo borrado.
 
 859
 00:56:55,000 --> 00:56:59,000
@@ -3480,7 +3480,7 @@
 
 871
 00:57:41,000 --> 00:57:44,000
-{Fuyutsuki}   Incluso con su alma.
+{Fuyutsuki}   Incluso con su propia alma.
 
 872
 00:57:44,000 --> 00:57:47,000
@@ -3492,7 +3492,7 @@
 
 874
 00:58:01,000 --> 00:58:04,000
-{Fuyutsuki}   Realmente está en una posición difícil .
+{Fuyutsuki}   Realmente está en una posición difícil.
 
 875
 00:58:04,000 --> 00:58:15,000
@@ -3500,7 +3500,7 @@
 
 876
 00:58:15,000 --> 00:58:20,000
-{Gendo}       El tiempo del contrato final nos ha llegado.
+{Gendo}       El momento del contrato final  ha llegado.
 
 877
 00:58:20,000 --> 00:58:31,000
@@ -3704,11 +3704,11 @@
 
 927
 01:01:07,000 --> 01:01:10,000
-{Shinji}      ¡Al final no rescaté a Ayanami!
+{Shinji}      ¡Ni siquiera logré rescatar a Ayanami!
 
 928
 01:01:10,000 --> 01:01:13,000
-{Shinji}      ¡Todo sale mal cuando piloteo ell EVA!
+{Shinji}      ¡Todo sale mal cuando piloteo el EVA!
 
 929
 01:01:13,000 --> 01:01:16,000
@@ -3764,7 +3764,7 @@
 
 942
 01:01:59,000 --> 01:02:09,000
-{Shinji}      Ya no me importa más el EVA.
+{Shinji}      Ya no quiero saber nada del EVA.
 
 943
 01:02:09,000 --> 01:02:10,000
@@ -3904,7 +3904,7 @@
 
 977
 01:05:15,000 --> 01:05:18,000
-{Shinji}      Nosotros dos seremos suficientes para todo eso.
+{Shinji}      Con nosotros dos ya debería ser suficiente.
 
 978
 01:05:18,000 --> 01:05:22,000
@@ -3940,7 +3940,7 @@
 
 986
 01:05:56,000 --> 01:06:00,000
-{Shinji}      Es como una tapa gigante.
+{Shinji}      Es como una cubierta gigante.
 
 987
 01:06:00,000 --> 01:06:03,000
