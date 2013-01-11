@@ -3860,7 +3860,7 @@
 
 966
 01:03:43,000 --> 01:03:49,000
-{Shinji}      "Shinji" está bien para mi también.
+{Shinji}      Llámame Shinji.
 
 967
 01:03:49,000 --> 01:03:50,000
@@ -3908,7 +3908,7 @@
 
 978
 01:05:18,000 --> 01:05:22,000
-{Shinji}      Ella ya no es más Ayanami...
+{Shinji}      Ni siquiera es Ayanami...
 
 979
 01:05:22,000 --> 01:05:28,000
@@ -3936,7 +3936,7 @@
 
 985
 01:05:47,000 --> 01:05:56,000
-{Kaworu}      manteniendo lejos a cualquier intruso por los últimos catorce años.
+{Kaworu}      y no dejó pasar a ningún intruso durante los últimos 14 años.
 
 986
 01:05:56,000 --> 01:06:00,000
@@ -3964,7 +3964,7 @@
 
 992
 01:06:48,000 --> 01:07:07,000
-{Shinji}      ¡Lo hicimos!
+{Shinji}      ¡Lo logramos!
 
 993
 01:07:07,000 --> 01:07:14,000
@@ -3976,11 +3976,11 @@
 
 995
 01:07:21,000 --> 01:07:23,000
-{Shinji}      ¿Esto es Lilith?
+{Shinji}      ¿Ésta es Lilith?
 
 996
 01:07:23,000 --> 01:07:25,000
-{Kaworu}      Lo fue.
+{Kaworu}      Lo era.
 
 997
 01:07:25,000 --> 01:07:27,000
@@ -3988,7 +3988,7 @@
 
 998
 01:07:27,000 --> 01:07:32,000
-{Shinji}      Misato-san, me dijo que lo protegiéramos incluso con nuestras vidas...
+{Shinji}      Misato-san, quería que la protegiéramos incluso con nuestras vidas...
 
 999
 01:07:32,000 --> 01:07:35,000
@@ -3996,7 +3996,7 @@
 
 1000
 01:07:35,000 --> 01:07:38,000
-{Kaworu}      Si, EVA Mark 6.
+{Kaworu}      Si, el EVA Mark 06.
 
 1001
 01:07:38,000 --> 01:07:40,000
@@ -4004,11 +4004,11 @@
 
 1002
 01:07:40,000 --> 01:07:48,000
-{Kaworu}      explotado por los Lilin hasta la ruina.
+{Kaworu}      Al ser explotado por los Lilin, la unidad quedó arruinada.
 
 1003
 01:07:48,000 --> 01:07:52,000
-{Shinji}      Las cosas que lo están atravesando... ¿Son nuestros objetivos?
+{Shinji}      Las cosas que la están atravesando... ¿Son nuestros objetivos?
 
 1004
 01:07:52,000 --> 01:08:00,000
@@ -4016,15 +4016,15 @@
 
 1005
 01:08:00,000 --> 01:08:04,000
-{Kaworu}      Es por eso que tenemos un Double Entry System.
+{Kaworu}      Es por eso que tenemos dos cápsulas de inserción.
 
 1006
 01:08:04,000 --> 01:08:08,000
-{Shinji}      Entonces... ¿No sería esa piloto buena para esto como lo soy yo?
+{Shinji}      Entonces... ¿la otra piloto hubiese servido también?
 
 1007
 01:08:08,000 --> 01:08:10,000
-{Kaworu}      No, una imitación de Lilin no puede ser usada.
+{Kaworu}      No, no se puede usar una imitación de un Lilin.
 
 1008
 01:08:10,000 --> 01:08:14,000
@@ -4040,11 +4040,11 @@
 
 1011
 01:08:25,000 --> 01:08:26,000
-{Kaworu}      Algo está mal.
+{Kaworu}      Hay algo mal.
 
 1012
 01:08:26,000 --> 01:08:31,000
-{Shinji}      ¿Qué pasa, Kaworu-kun?
+{Shinji}      ¿Qué sucede, Kaworu-kun?
 
 1013
 01:08:31,000 --> 01:08:32,000
@@ -4052,15 +4052,15 @@
 
 1014
 01:08:32,000 --> 01:08:36,000
-{Kaworu}      Ambas lanzas han cambiado a una misma forma.
+{Kaworu}      Las dos lanzas ahora son iguales.
 
 1015
 01:08:36,000 --> 01:08:38,000
-{Shinji}      ¡Saquemos las lanzas rápido!
+{Shinji}      ¡Rápìdo, quitemos las lanzas!
 
 1016
 01:08:38,000 --> 01:08:44,000
-{Shinji}      Es por eso que vine aquí en este EVA.
+{Shinji}      Es por eso que vine aquí a piolotear el EVA.
 
 1017
 01:08:44,000 --> 01:08:55,000
@@ -4076,19 +4076,19 @@
 
 1020
 01:09:00,000 --> 01:09:05,000
-{Shinji}      ¡¿Qué haces, Asuka?!
+{Shinji}      ¡¿Qué estás hacienda Asuka?!
 
 1021
 01:09:05,000 --> 01:09:06,000
-{Asuka}       ¡¿Shinji idiota?!
+{Asuka}       ¡¿Shinji tonto?!
 
 1022
 01:09:06,000 --> 01:09:08,000
-{Asuka}       ¿De verdad estás piloteando un EVA?
+{Asuka}       ¿De verdad estás piloteando el EVA?
 
 1023
 01:09:08,000 --> 01:09:10,000
-{Shinji}      Lo estoy.
+{Shinji}      Así es. Lo estoy piloteando.
 
 1024
 01:09:10,000 --> 01:09:13,000
@@ -4100,11 +4100,11 @@
 
 1026
 01:09:15,000 --> 01:09:25,000
-{Asuka}       Si así lo fuera, ¡no pilotees!
+{Asuka}       Si es así, ¡no lo pilotees!
 
 1027
 01:09:25,000 --> 01:09:26,000
-{Asuka}       ¡Fuego de soporte, siempre tarde!
+{Asuka}       ¡Unidad soporte, siempre tarde!
 
 1028
 01:09:26,000 --> 01:09:28,000
@@ -4124,7 +4124,7 @@
 
 1032
 01:09:56,000 --> 01:10:01,000
-{Shinji}      ¡Estas sos nuestras lanzas de esperanza!
+{Shinji}      ¡Estas sos nuestras lanzas de la esperanza!
 
 1033
 01:10:01,000 --> 01:10:04,000
@@ -4136,7 +4136,7 @@
 
 1035
 01:10:05,000 --> 01:10:07,000
-{Asuka}       ¿Planeas iniciar el Tercer Impacto de nuevo?
+{Asuka}       ¿Acaso tu plan es iniciar el Tercer Impacto de nuevo?
 
 1036
 01:10:07,000 --> 01:10:09,000
@@ -4164,7 +4164,7 @@
 
 1042
 01:10:34,000 --> 01:10:39,000
-{Kaworu}      Cassius y Longinus. Ámbas lanzas se necesitan...
+{Kaworu}      Cassius y Longinus. Se necesitan las dos lanzas...
 
 1043
 01:10:39,000 --> 01:10:43,000
@@ -4188,7 +4188,7 @@
 
 1048
 01:10:55,000 --> 01:10:58,000
-{Mari}        Hey, piloto temporal de Seele,
+{Mari}        Oye, piloto temporal de Seele,
 
 1049
 01:10:58,000 --> 01:11:00,000
@@ -4204,11 +4204,11 @@
 
 1052
 01:11:07,000 --> 01:11:09,000
-{Mari}        Testaruda, nya...
+{Mari}        Qué chica necia.
 
 1053
 01:11:09,000 --> 01:11:12,000
-{Mari}        ¿Sabías que tu original era mucho más amistosa?
+{Mari}        Tu version original era mucho más simpática, ¿sabes?
 
 1054
 01:11:12,000 --> 01:11:14,000
@@ -4220,7 +4220,7 @@
 
 1056
 01:11:30,000 --> 01:11:45,000
-{Shinji}      ¿Kaworu-kun? ¿Qué pasa?
+{Shinji}      ¿Kaworu-kun? ¿Qué sucede?
 
 1057
 01:11:45,000 --> 01:11:46,000
@@ -4236,15 +4236,15 @@
 
 1060
 01:11:57,000 --> 01:11:58,000
-{Asuka}       ¡Es el momento!
+{Asuka}       ¡Lo que faltaba!
 
 1061
 01:11:58,000 --> 01:12:07,000
-{Asuka}       ¡Hey, Anteojos! ¡Necesito un repuesto!
+{Asuka}       ¡Oye, Anteojos! ¡Necesito una lanza!
 
 1062
 01:12:07,000 --> 01:12:11,000
-{Shinji}      ¡Todavía tenemos una esperanza! ¡Las lanzas!
+{Shinji}      ¡Todavía tenemos una oportunidad! ¡Las lanzas!
 
 1063
 01:12:11,000 --> 01:12:13,000
@@ -4256,15 +4256,15 @@
 
 1065
 01:12:14,000 --> 01:12:28,000
-{Mari}        ¡Repuesto, en camino!
+{Mari}        ¡La lanza se aproxima!
 
 1066
 01:12:28,000 --> 01:12:30,000
-{Kaworu}      Detengamos esto, Shinji-kun.
+{Kaworu}      Tenemos que detenernos, Shinji-kun.
 
 1067
 01:12:30,000 --> 01:12:32,000
-{Kaworu}      Tengo un mal presentimiento de todo esto...
+{Kaworu}      Tengo un mal presentimiento...
 
 1068
 01:12:32,000 --> 01:12:34,000
@@ -4284,11 +4284,11 @@
 
 1072
 01:12:41,000 --> 01:12:47,000
-{Shinji}      No son... ¿las lanzas por las que vinimos?
+{Shinji}      No son... ¿las lanzas que vinimos a buscar?
 
 1073
 01:12:47,000 --> 01:12:50,000
-{Shinji}      Eres quien dijo que necesitamos las lanzas.
+{Shinji}      Tú fuiste quien dijo que necesitabamos las lanzas..
 
 1074
 01:12:50,000 --> 01:12:57,000
@@ -4336,7 +4336,7 @@
 
 1085
 01:13:30,000 --> 01:13:32,000
-{Mari}        ¿No hay A.T. Field?
+{Mari}        ¿No tiene escudo A.T.?
 
 1086
 01:13:32,000 --> 01:13:46,000
@@ -4356,11 +4356,11 @@
 
 1090
 01:14:22,000 --> 01:14:25,000
-{Shinji}      ¿Eva Mark 6?
+{Shinji}      ¿Eva Mark 06?
 
 1091
 01:14:25,000 --> 01:14:26,000
-{Shinji}      ¿Patrón blue?
+{Shinji}      ¿Patrón azul?
 
 1092
 01:14:26,000 --> 01:14:30,000
@@ -4384,7 +4384,7 @@
 
 1097
 01:14:40,000 --> 01:14:49,000
-{Asuka}       ¡Voy a controlar esto antes de que el Tercer Impacto empiece de nuevo!
+{Asuka}       ¡Voy a encargarme de esto antes de que el Tercer Impacto empiece de nuevo!
 
 1098
 01:14:49,000 --> 01:15:00,000
@@ -4404,15 +4404,15 @@
 
 1102
 01:15:17,000 --> 01:15:21,000
-{Mari}        Solo nosotras, no hay formas de hacerle un rasguño.
+{Mari}        Nosotras solas no podemos hacerle daño a esa cosa.
 
 1103
 01:15:21,000 --> 01:15:24,000
-{Mari}        Aparte de eso, derrotando al Último Ángel,
+{Mari}        Aparte de eso, si derrotamos al último Ángel,
 
 1104
 01:15:24,000 --> 01:15:26,000
-{Mari}        no sabemos que clase de mal vendrá después.
+{Mari}        no sabemos qué clase de mal vendrá después.
 
 1105
 01:15:26,000 --> 01:15:32,000
@@ -4420,11 +4420,11 @@
 
 1106
 01:15:32,000 --> 01:15:37,000
-{Rei}         Esta soy...
+{Rei}         Esa es...
 
 1107
 01:15:37,000 --> 01:15:41,000
-{Rei}         Esta soy... ¿yo?
+{Rei}         Esa soy... ¿yo?
 
 1108
 01:15:41,000 --> 01:15:46,000
@@ -4448,7 +4448,7 @@
 
 1113
 01:15:56,000 --> 01:16:00,000
-{Kaworu}      sería recatalogado como el Treceavo.
+{Kaworu}      moriría como el Treceavo Angel.
 
 1114
 01:16:00,000 --> 01:16:04,000
@@ -4456,7 +4456,7 @@
 
 1115
 01:16:04,000 --> 01:16:08,000
-{Kaworu}      Así que el principio y el fin son lo mismo.
+{Kaworu}      Así que el principio y el fin son iguales.
 
 1116
 01:16:08,000 --> 01:16:11,000
@@ -4468,7 +4468,7 @@
 
 1118
 01:16:13,000 --> 01:16:15,000
-{Mari}        Collar DSS, ¿patrón azul?
+{Mari}        ¿El collar DSS indica patrón azul?
 
 1119
 01:16:15,000 --> 01:16:19,000
@@ -4476,7 +4476,7 @@
 
 1120
 01:16:19,000 --> 01:16:24,000
-{Mari}        Así que esto es lo que Gendo-kun está buscando.
+{Mari}        Así que esto era lo que tramaba Gendo-kun.
 
 1121
 01:16:24,000 --> 01:16:29,000
@@ -4496,7 +4496,7 @@
 
 1125
 01:16:41,000 --> 01:16:44,000
-{Gendo}       Pueden vivir por siempre.
+{Gendo}       Ustedes eran capaces de vivir para siempre.
 
 1126
 01:16:44,000 --> 01:16:50,000
@@ -4504,7 +4504,7 @@
 
 1127
 01:16:50,000 --> 01:16:54,000
-{Gendo}       Con el fin de promover la evolución de una manada que lleva la muerte,
+{Gendo}       Para avanzar con la evolución de las masas cargada por la muerte,
 
 1128
 01:16:54,000 --> 01:17:00,000
@@ -4520,7 +4520,7 @@
 
 1131
 01:17:12,000 --> 01:17:15,000
-{Gendo}       Por el Proyecto de Instrumentalización Humana,
+{Gendo}       Por el deseado Proyecto de Instrumentalización Humana,
 
 1132
 01:17:15,000 --> 01:17:19,000
@@ -4556,7 +4556,7 @@
 
 1140
 01:18:07,000 --> 01:18:09,000
-{Asuka}       ¡Está entrando en una forma pseudo-evolucionada!
+{Asuka}       ¡Está entrando en su forma semidivina!
 
 1141
 01:18:09,000 --> 01:18:12,000
