@@ -4580,7 +4580,7 @@
 
 1146
 01:19:14,000 --> 01:19:22,000
-{Shinji}      ¡Porque quité las lanzas!
+{Shinji}      ¡¿Porque quité las lanzas?!
 
 1147
 01:19:22,000 --> 01:19:24,000
@@ -4608,7 +4608,7 @@
 
 1153
 01:19:59,000 --> 01:20:01,000
-{Misato}      ¡A.T. Field al máximo!
+{Misato}      ¡Escudo A.T. al máximo!
 
 1154
 01:20:01,000 --> 01:20:03,000
@@ -4664,7 +4664,7 @@
 
 1167
 01:20:57,000 --> 01:21:05,000
-{Rei}         ¿Por qué no puedo restaurar el link?
+{Rei}         ¿Por qué no puedo restaurar la conexión?
 
 1168
 01:21:05,000 --> 01:21:07,000
@@ -4736,7 +4736,7 @@
 
 1185
 01:22:51,000 --> 01:22:58,000
-{Asuka}       ¡Cómo demonios lo sabré!
+{Asuka}       ¡Yo que sé!
 
 1186
 01:22:58,000 --> 01:23:09,000
@@ -4792,15 +4792,15 @@
 
 1199
 01:24:19,000 --> 01:24:21,000
-{Kaworu}      Soy el disparador.
+{Kaworu}      Soy el detonante.
 
 1200
 01:24:21,000 --> 01:24:24,000
-{Shinji}      ¿Qué es lo que hice?
+{Shinji}      ¿Qué es lo que he hecho?
 
 1201
 01:24:24,000 --> 01:24:31,000
-{Shinji}      Hey... ¿Qué hice?
+{Shinji}      Oye... ¿Qué he hecho?
 
 1202
 01:24:31,000 --> 01:24:34,000
@@ -4812,7 +4812,7 @@
 
 1204
 01:24:37,000 --> 01:24:43,000
-{Kaworu}      Incluso si las almas desaparecen, esperanzas y maldiciones se quedarán en este mundo.
+{Kaworu}      Aún si desparecen las almas, la esperanza y la maldición permanecerán en este mundo.
 
 1205
 01:24:43,000 --> 01:24:48,000
@@ -4824,7 +4824,7 @@
 
 1207
 01:24:54,000 --> 01:24:59,000
-{Kaworu}      Lo siento. Esta no es la felicidad que buscas.
+{Kaworu}      Lo siento. Esta no es la felicidad que deseabas.
 
 1208
 01:24:59,000 --> 01:25:03,000
@@ -4848,11 +4848,11 @@
 
 1213
 01:25:18,000 --> 01:25:31,000
-{Kaworu}      Shinji-kun, necesitas encontrar el lugar de tu paz interior.
+{Kaworu}      Shinji-kun, tienes que encontrar un lugar donde haya paz y puedas encontrarte a ti mismo.
 
 1214
 01:25:31,000 --> 01:25:37,000
-{Kaworu}      El destino seguramente te guiará.
+{Kaworu}      Seguramente el destino te guiará.
 
 1215
 01:25:37,000 --> 01:25:41,000
@@ -4860,7 +4860,7 @@
 
 1216
 01:25:41,000 --> 01:25:44,000
-{Kaworu}      Nos encontraremos de nuevo, Shinji-kun.
+{Kaworu}      Nos volveremos a ver, Shinji-kun.
 
 1217
 01:25:44,000 --> 01:26:04,000
@@ -4868,7 +4868,7 @@
 
 1218
 01:26:04,000 --> 01:26:06,000
-{Mari}        ¿La Puerta de Guf no se ha cerrado aun?
+{Mari}        ¿Aún no se cerraron las Puertas de Gauf?
 
 1219
 01:26:06,000 --> 01:26:25,000
@@ -4876,7 +4876,7 @@
 
 1220
 01:26:25,000 --> 01:26:26,000
-{Mari}        ¡Ya terminé la limpieza!
+{Mari}        ¡Ya terminé de limpiar!
 
 1221
 01:26:26,000 --> 01:26:30,000
@@ -4884,7 +4884,7 @@
 
 1222
 01:26:30,000 --> 01:26:31,000
-{Mari}        ¡No seas un bebé!
+{Mari}        ¡No te comportes como un bebé!
 
 1223
 01:26:31,000 --> 01:26:33,000
@@ -4892,11 +4892,11 @@
 
 1224
 01:26:33,000 --> 01:26:36,000
-{Mari}        ¡Se un hombre!
+{Mari}        ¡Compótate como un hombre!
 
 1225
 01:26:36,000 --> 01:27:33,000
-{Mari}        ¡Y mientras estés en ello, conoce un poco el mundo!
+{Mari}        ¡Y mientras tanto, conoce un poco más el mundo!
 
 1226
 01:27:33,000 --> 01:27:35,000
@@ -4904,19 +4904,19 @@
 
 1227
 01:27:35,000 --> 01:27:38,000
-{Fuyutsuki}   Casi todo salió como lo previó Seele.
+{Fuyutsuki}   Casi todo salió como lo planeaba Seele.
 
 1228
 01:27:38,000 --> 01:27:46,000
-{Gendo}       Pero no solo el chico de Seele fue eliminado, también se ha abierto camino al despertar del EVA-13.
+{Gendo}       Pero no sólo el chico de Seele fue eliminado, también se ha abierto camino para despertar al EVA-13.
 
 1229
 01:27:46,000 --> 01:27:49,000
-{Gendo}       Las acciones de la Capitán Katsuragi también son predecibles.
+{Gendo}       Las acciones de la Captain Katsuragi también están dentro de lo pronosticado.
 
 1230
 01:27:49,000 --> 01:27:52,000
-{Gendo}       Esto se hará por ahora.
+{Gendo}       Bastará con esto por ahora.
 
 1231
 01:27:52,000 --> 01:27:55,000
@@ -4936,7 +4936,7 @@
 
 1235
 01:28:01,000 --> 01:28:04,000
-{Ritsuko}     El Cuarto Impacto fue detenido, pero no sabemos a quien agradecer.
+{Ritsuko}     El Cuarto Impacto fue detenido, pero no sabemos a quién agradecer.
 
 1236
 01:28:04,000 --> 01:28:06,000
@@ -4960,7 +4960,7 @@
 
 1241
 01:29:10,000 --> 01:29:12,000
-{Asuka}       Una vez más, todo es sobre ti.
+{Asuka}       Una vez más, todo se trata de ti.
 
 1242
 01:29:12,000 --> 01:29:40,000
@@ -4980,19 +4980,19 @@
 
 1246
 01:29:50,000 --> 01:29:58,000
-{Asuka}       ¡Oh! ¡¿Puedes pararte por ti mismo, quieres?!
+{Asuka}       ¡Dios! ¡¿Puedes pararte por ti mismo, quieres?!
 
 1247
 01:29:58,000 --> 01:30:02,000
-{Asuka}       El piloto de antes.
+{Asuka}       La piloto de antes.
 
 1248
 01:30:02,000 --> 01:30:11,000
-{Asuka}       ¿De un lote inicial de Ayanami Types?
+{Asuka}       ¿De un lote inicial de clones Ayanami?
 
 1249
 01:30:11,000 --> 01:30:16,000
-{Asuka}       La barrera de densidad L es muy fuerte aquí, así que no van a venir a ayudarnos.
+{Asuka}       La barrera de densidad L es muy fuerte aquí, así que no vendrán a ayudarnos.
 
 1250
 01:30:16,000 --> 01:30:23,000
