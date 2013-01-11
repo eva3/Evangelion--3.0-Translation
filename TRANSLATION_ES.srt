@@ -4464,7 +4464,7 @@
 
 1117
 01:16:11,000 --> 01:16:13,000
-{Kaworu}      ¡el padre de Shinji-kun!
+{Kaworu}      ¡El padre de Shinji-kun!
 
 1118
 01:16:13,000 --> 01:16:15,000
@@ -4500,7 +4500,7 @@
 
 1126
 01:16:44,000 --> 01:16:50,000
-{Gendo}       Pero, al igual que nostros, no pueden escapar de la muerte.
+{Gendo}       Pero, al igual que nosotros, no pueden escapar de la muerte.
 
 1127
 01:16:50,000 --> 01:16:54,000
