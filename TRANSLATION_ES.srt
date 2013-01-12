@@ -1,2106 +1,2106 @@
 1
 00:00:52,000 --> 00:00:55,000
-{Hombre}      Equipo de rastreo, reporte las posiciones actuales de las dos unidades.
+Equipo de rastreo, reporte las posiciones actuales de las dos unidades.
 
 2
 00:00:55,000 --> 00:00:58,000
-{Mujer}       La Unidad 02-Dash ha alcanzado la altitud operacional.
+La Unidad 02-Dash ha alcanzado la altitud operacional.
 
 3
 00:00:58,000 --> 00:01:00,000
-{Mujer}       Se ha establecido en la órbita designada.
+Se ha establecido en la órbita designada.
 
 4
 00:01:00,000 --> 00:01:04,000
-{Hombre}      La Unidad 08 experimentó problemas al entrar en órbita debido a la falta de altitud.
+La Unidad 08 experimentó problemas al entrar en órbita debido a la falta de altitud.
 
 5
 00:01:04,000 --> 00:01:06,000
-{Aoba}        Recibido.
+Recibido.
 
 6
 00:01:06,000 --> 00:01:08,000
-{Aoba}        02-Dash llevará a cabo esta operación sola.
+02-Dash llevará a cabo esta operación sola.
 
 7
 00:01:08,000 --> 00:01:09,000
-{Hombre}      Entendido.
+Entendido.
 
 8
 00:01:09,000 --> 00:01:11,000
-{Hombre}      La Unidad 08 actuará como soporte.
+La Unidad 08 actuará como soporte.
 
 9
 00:01:11,000 --> 00:01:12,000
-{Hombre}      Cambio de transición a 7.
+Cambio de transición a 7.
 
 10
 00:01:12,000 --> 00:01:15,000
-{Ritsuko}     La Unidad 02-Dash está más allá del punto de recuperación.
+La Unidad 02-Dash está más allá del punto de recuperación.
 
 11
 00:01:15,000 --> 00:01:17,000
-{Ritsuko}     Está alcanzando el Área 88.
+Está alcanzando el Área 88.
 
 12
 00:01:17,000 --> 00:01:18,000
-{Misato}      Entendido.
+Entendido.
 
 13
 00:01:18,000 --> 00:01:20,000
-{Misato}      Comenzar Operación Spacewalk.
+Comenzar Operación Spacewalk.
 
 14
 00:01:20,000 --> 00:01:21,000
-{Mujer}       Entendido.
+Entendido.
 
 15
 00:01:21,000 --> 00:01:25,000
-{Mujer}       La Unidad 02-Dash entrará en la órbita de operación final.
+La Unidad 02-Dash entrará en la órbita de operación final.
 
 16
 00:01:25,000 --> 00:01:26,000
-{Mujer}       Cambiando a desaceleración.
+Cambiando a desaceleración.
 
 17
 00:01:26,000 --> 00:01:29,000
-{Hombre}      Encendiendo todos los motores, etapa 1.
+Encendiendo todos los motores, etapa 1.
 
 18
 00:01:29,000 --> 00:01:34,000
-{Hombre}      Combustion inminente.
+Combustion inminente.
 
 19
 00:01:34,000 --> 00:01:36,000
-{Mujer}       Combustión S1C completa.
+Combustión S1C completa.
 
 20
 00:01:36,000 --> 00:01:37,000
-{Mujer}       Desaceleración confirmada.
+Desaceleración confirmada.
 
 21
 00:01:37,000 --> 00:01:41,000
-{Hombre}      Desechando unidad de propulsión, etapa 1.
+Desechando unidad de propulsión, etapa 1.
 
 22
 00:01:41,000 --> 00:01:43,000
-{Mujer}       Separación confirmada.
+Separación confirmada.
 
 23
 00:01:43,000 --> 00:01:45,000
-{Mujer}       Sistemas de combustión despejados. No hay problemas.
+Sistemas de combustión despejados. No hay problemas.
 
 24
 00:01:45,000 --> 00:01:46,000
-{Hombre}      Entendido.
+Entendido.
 
 25
 00:01:46,000 --> 00:01:48,000
-{Hombre}      Automatizando tiempos de ignición.
+Automatizando tiempos de ignición.
 
 26
 00:01:48,000 --> 00:01:53,000
-{Hombre}      Encendiendo todos los motores, etapa 2.
+Encendiendo todos los motores, etapa 2.
 
 27
 00:01:53,000 --> 00:01:56,000
-{Mujer}       Combustión S1C completa.
+Combustión S1C completa.
 
 28
 00:01:56,000 --> 00:01:57,000
-{Mujer}       Cerrando válvulas de presión.
+Cerrando válvulas de presión.
 
 29
 00:01:57,000 --> 00:02:00,000
-{Hombre}      Desechando unidad de propulsión, etapa 2.
+Desechando unidad de propulsión, etapa 2.
 
 30
 00:02:00,000 --> 00:02:02,000
-{Mujer}       Desaceleración completa.
+Desaceleración completa.
 
 31
 00:02:02,000 --> 00:02:04,000
-{Hombre}      Preparándose para entrar en la órbita de operación final.
+Preparándose para entrar en la órbita de operación final.
 
 32
 00:02:04,000 --> 00:02:06,000
-{Hombre}      Volteando la cabeza de la Unidad.
+Volteando la cabeza de la Unidad.
 
 33
 00:02:06,000 --> 00:02:07,000
-{Hombre}      Comenzando rotación.
+Comenzando rotación.
 
 34
 00:02:07,000 --> 00:02:09,000
-{Hombre}      Ángulo de descenso confirmado.
+Ángulo de descenso confirmado.
 
 35
 00:02:09,000 --> 00:02:10,000
-{Hombre}      Se encuentra dentro del márgen de error.
+Se encuentra dentro del márgen de error.
 
 36
 00:02:10,000 --> 00:02:12,000
-{Mujer}       Recalculando velocidad relativa.
+Recalculando velocidad relativa.
 
 37
 00:02:12,000 --> 00:02:14,000
-{Mujer}       Reconfirmando coordenadas de altitud.
+Reconfirmando coordenadas de altitud.
 
 38
 00:02:14,000 --> 00:02:16,000
-{Mujer}       Sin problemas.
+Sin problemas.
 
 39
 00:02:16,000 --> 00:02:18,000
-{Mujer}       Correcciones de orbita final, completas.
+Correcciones de orbita final, completas.
 
 40
 00:02:18,000 --> 00:02:20,000
-{Mujer}       Rotación de 180 grados completa.
+Rotación de 180 grados completa.
 
 41
 00:02:20,000 --> 00:02:21,000
-{Hyuga}       Bien.
+Bien.
 
 42
 00:02:21,000 --> 00:02:24,000
-{Hyuga}       La Unidad 02-Dash comenzará la transición a la órbita de intersección.
+La Unidad 02-Dash comenzará la transición a la órbita de intersección.
 
 43
 00:02:24,000 --> 00:02:26,000
-{Hyuga}       Comenzando la operación.
+Comenzando la operación.
 
 44
 00:02:26,000 --> 00:02:28,000
-{Aoba}        Todas las guías remotas serán cortadas.
+Todas las guías remotas serán cortadas.
 
 45
 00:02:28,000 --> 00:02:30,000
-{Aoba}        La Unidad será controlada manualmente.
+La Unidad será controlada manualmente.
 
 46
 00:02:30,000 --> 00:02:32,000
-{Hyuga}       Buena suerte.
+Buena suerte.
 
 47
 00:02:32,000 --> 00:02:34,000
-{Mujer}       La unidad está en camino para interceptar al objetivo.
+La unidad está en camino para interceptar al objetivo.
 
 48
 00:02:34,000 --> 00:02:37,000
-{Mujer}       Ocho millas hasta hacer contacto.
+Ocho millas hasta hacer contacto.
 
 49
 00:02:37,000 --> 00:02:38,000
-{Mujer}       Confirmando objetivo.
+Confirmando objetivo.
 
 50
 00:02:38,000 --> 00:02:40,000
-{Hombre}      Punto de contacto sin cambios.
+Punto de contacto sin cambios.
 
 51
 00:02:40,000 --> 00:02:43,000
-{Mujer}       Manteniendo Shift-M. Sin problemas.
+Manteniendo Shift-M. Sin problemas.
 
 52
 00:02:43,000 --> 00:02:45,000
-{Misato}      02-Dash, prepárese para el encuentro.
+02-Dash, prepárese para el encuentro.
 
 53
 00:02:45,000 --> 00:02:50,000
-{Misato}      La Unidad 08 está perdiendo altitud, sólo podrá asistirte durante 96 segundos hasta el reingreso.
+La Unidad 08 está perdiendo altitud, sólo podrá asistirte durante 96 segundos hasta el reingreso.
 
 54
 00:02:50,000 --> 00:02:53,000
-{Misato}      Termínalo para entonces.
+Termínalo para entonces.
 
 55
 00:02:53,000 --> 00:02:55,000
-{Hyuga}       Ondas reflectantes detectadas cerca del objetivo.
+Ondas reflectantes detectadas cerca del objetivo.
 
 56
 00:02:55,000 --> 00:02:56,000
-{Hyuga}       ¡Nos está bloqueando!
+¡Nos está bloqueando!
 
 57
 00:02:56,000 --> 00:02:58,000
-{Aoba}        Es sólo un arma masiva de auto-defensa del sistema.
+Es sólo un arma masiva de auto-defensa del sistema.
 
 58
 00:02:58,000 --> 00:03:01,000
-{Aoba}        No hay de qué preocuparse.
+No hay de qué preocuparse.
 
 59
 00:03:01,000 --> 00:03:03,000
-{Hombre}      ¡Generados flujos de la explosión!
+¡Generados flujos de la explosión!
 
 60
 00:03:03,000 --> 00:03:10,000
-{Hombre}      Llegando en 3... 2... 1...
+Llegando en 3... 2... 1...
 
 61
 00:03:10,000 --> 00:03:11,000
-{Aoba}        Segunda onda en camino.
+Segunda onda en camino.
 
 62
 00:03:11,000 --> 00:03:12,000
-{Aoba}        Patrón Azul.
+Patrón Azul.
 
 63
 00:03:12,000 --> 00:03:13,000
-{Aoba}        Parece que nos va a traer problemas...
+Parece que nos va a traer problemas...
 
 64
 00:03:13,000 --> 00:03:15,000
-{Hombre}      Identificando cuerpo próximo.
+Identificando cuerpo próximo.
 
 65
 00:03:15,000 --> 00:03:25,000
-{Hombre}      Confirmado, código 04A.
+Confirmado, código 04A.
 
 66
 00:03:25,000 --> 00:03:32,000
-{Asuka}       ¡Un Escudo Anti-AT!
+¡Un Escudo Anti-AT!
 
 67
 00:03:32,000 --> 00:03:34,000
-{Asuka}       ¡Esto apesta!
+¡Esto apesta!
 
 68
 00:03:34,000 --> 00:03:37,000
-{Asuka}       ¡Solo me entorpece el camino!
+¡Solo me entorpece el camino!
 
 69
 00:03:37,000 --> 00:03:44,000
-{Asuka}       ¡Anteojos, favorita! ¡Cúbreme!
+¡Anteojos, favorita! ¡Cúbreme!
 
 70
 00:03:44,000 --> 00:03:49,000
-{Asuka}       ¡Tu fuego de apoyo fue 2 segundos tarde!
+¡Tu fuego de apoyo fue 2 segundos tarde!
 
 71
 00:03:49,000 --> 00:03:52,000
-{Mari}        Y tú estas 3 segundos por delante de tu posición.
+Y tú estas 3 segundos por delante de tu posición.
 
 72
 00:03:52,000 --> 00:03:55,000
-{Asuka}       Se llama adaptarse a la situación. ¡Mantén mi ritmo!
+Se llama adaptarse a la situación. ¡Mantén mi ritmo!
 
 73
 00:03:55,000 --> 00:03:57,000
-{Mari}        Como usted ordene,
+Como usted ordene,
 
 74
 00:03:57,000 --> 00:04:05,000
-{Mari}        ¡Princesa!
+¡Princesa!
 
 75
 00:04:05,000 --> 00:04:07,000
-{Asuka}       Llegó a través de Fraury Shift.
+Llegó a través de Fraury Shift.
 
 76
 00:04:07,000 --> 00:04:10,000
-{Asuka}       Va a entrar en la última defensa del Area 89.
+Va a entrar en la última defensa del Area 89.
 
 77
 00:04:10,000 --> 00:04:16,000
-{Asuka}       ¡El objetivo se está moviendo!
+¡El objetivo se está moviendo!
 
 78
 00:04:16,000 --> 00:04:17,000
-{Asuka}       ¡No hay tiempo para corregir mi órbita!
+¡No hay tiempo para corregir mi órbita!
 
 79
 00:04:17,000 --> 00:04:40,000
-{Asuka}       ¡Voy a entrar!
+¡Voy a entrar!
 
 80
 00:04:40,000 --> 00:04:46,000
-{Asuka}       ¡Desaceleración!
+¡Desaceleración!
 
 81
 00:04:46,000 --> 00:04:47,000
-{Asuka}       ¡Ocho!
+¡Ocho!
 
 82
 00:04:47,000 --> 00:04:48,000
-{Asuka}       ¡Siete!
+¡Siete!
 
 83
 00:04:48,000 --> 00:04:49,000
-{Asuka}       ¡Seis!
+¡Seis!
 
 84
 00:04:49,000 --> 00:04:50,000
-{Asuka}       ¡Cinco!
+¡Cinco!
 
 85
 00:04:50,000 --> 00:04:51,000
-{Asuka}       ¡Cuatro!
+¡Cuatro!
 
 86
 00:04:51,000 --> 00:04:53,000
-{Asuka}       ¡Tres!
+¡Tres!
 
 87
 00:04:53,000 --> 00:04:54,000
-{Asuka}       ¡Dos!
+¡Dos!
 
 88
 00:04:54,000 --> 00:04:55,000
-{Asuka}       ¡Uno!
+¡Uno!
 
 89
 00:04:55,000 --> 00:05:03,000
-{Asuka}       ¡Terminando combustión!
+¡Terminando combustión!
 
 90
 00:05:03,000 --> 00:05:06,000
-{Mujer}       02-Dash ha desechado los últimos propulsores.
+02-Dash ha desechado los últimos propulsores.
 
 91
 00:05:06,000 --> 00:05:09,000
-{Mujer}       Asegurando distancia segura para el reingreso.
+Asegurando distancia segura para el reingreso.
 
 92
 00:05:09,000 --> 00:05:11,000
-{Asuka}       Objetivo capturado satisfactoriamente.
+Objetivo capturado satisfactoriamente.
 
 93
 00:05:11,000 --> 00:05:13,000
-{Asuka}       Regresando a la base.
+Regresando a la base.
 
 94
 00:05:13,000 --> 00:05:14,000
-{Misato}      Entendido.
+Entendido.
 
 95
 00:05:14,000 --> 00:05:16,000
-{Misato}      Esperaremos en el punto de recuperación.
+Esperaremos en el punto de recuperación.
 
 96
 00:05:16,000 --> 00:05:17,000
-{Misato}      El código de combinación es Saturn 5.
+El código de combinación es Saturn 5.
 
 97
 00:05:17,000 --> 00:05:19,000
-{Asuka}       Entendido.
+Entendido.
 
 98
 00:05:19,000 --> 00:05:20,000
-{Asuka}       ¿Patrón Azul?
+¿Patrón Azul?
 
 99
 00:05:20,000 --> 00:05:25,000
-{Asuka}       ¡¿Dónde?!
+¡¿Dónde?!
 
 100
 00:05:25,000 --> 00:05:27,000
-{Mujer}       El objeto desencadenante es código 04B.
+El objeto desencadenante es código 04B.
 
 101
 00:05:27,000 --> 00:05:29,000
-{Mujer}       Está desplegando indo-hashamas.
+Está desplegando indo-hashamas.
 
 102
 00:05:29,000 --> 00:05:30,000
-{Asuka}       ¡Descarado!
+¡Descarado!
 
 103
 00:05:30,000 --> 00:05:33,000
-{Asuka}       ¡Y justo antes del reingreso!
+¡Y justo antes del reingreso!
 
 104
 00:05:33,000 --> 00:05:35,000
-{Asuka}       ¡Anteojos, cúbreme!
+¡Anteojos, cúbreme!
 
 105
 00:05:35,000 --> 00:05:37,000
-{Mari}        ¡Perdón!
+¡Perdón!
 
 106
 00:05:37,000 --> 00:05:39,000
-{Mari}        No tengo suficiente altitud, ¡nos vemos!
+No tengo suficiente altitud, ¡nos vemos!
 
 107
 00:05:39,000 --> 00:05:42,000
-{Mari}        Te dejo el resto a t...
+Te dejo el resto a t...
 
 108
 00:05:42,000 --> 00:05:44,000
-{Asuka}       ¡Ugh, es una inútil!
+¡Ugh, es una inútil!
 
 109
 00:05:44,000 --> 00:05:46,000
-{Asuka}       ¡Maldita sea! ¡Esta cosa es terca!
+¡Maldita sea! ¡Esta cosa es terca!
 
 110
 00:05:46,000 --> 00:05:59,000
-{Asuka}       ¡Nadie me dijo de esto!
+¡Nadie me dijo de esto!
 
 111
 00:05:59,000 --> 00:06:01,000
-{Asuka}       ¡¿Qué es esta luz!?
+¡¿Qué es esta luz!?
 
 112
 00:06:01,000 --> 00:06:03,000
-{Asuka}       ¡El Escudo A.T. no la está neutralizando!
+¡El Escudo A.T. no la está neutralizando!
 
 113
 00:06:03,000 --> 00:06:06,000
-{Asuka}       ¡Tengo que bloquear el núcleo!
+¡Tengo que bloquear el núcleo!
 
 114
 00:06:06,000 --> 00:06:10,000
-{Asuka}       ¡No escaparás!
+¡No escaparás!
 
 115
 00:06:10,000 --> 00:06:12,000
-{Asuka}       ¡Mierda! ¡No puedo mantener mi ángulo de descenso!
+¡Mierda! ¡No puedo mantener mi ángulo de descenso!
 
 116
 00:06:12,000 --> 00:06:14,000
-{Asuka}       ¡A este ritmo mi unidad se hará pedazos!
+¡A este ritmo mi unidad se hará pedazos!
 
 117
 00:06:14,000 --> 00:06:18,000
-{Misato}      ¡02-Dash, completar la mision es la máxima prioridad!
+¡02-Dash, completar la mision es la máxima prioridad!
 
 118
 00:06:18,000 --> 00:06:20,000
-{Misato}      No sueltes el objeto, incluso si esto significa perder la unidad.
+No sueltes el objeto, incluso si esto significa perder la unidad.
 
 119
 00:06:20,000 --> 00:06:41,000
-{Asuka}       ¡Ya lo sé!
+¡Ya lo sé!
 
 120
 00:06:41,000 --> 00:07:23,000
-{Asuka}       ¡Haz algo, Shinji idiota!
+¡Haz algo, Shinji idiota!
 
 121
 00:07:23,000 --> 00:07:26,000
-{Kaworu}      Bienvenido de nuevo, Ikari Shinji-kun.
+Bienvenido de nuevo, Ikari Shinji-kun.
 
 122
 00:07:26,000 --> 00:07:27,000
-{Kaworu}      Te he estado esperando.
+Te he estado esperando.
 
 123
 00:07:27,000 --> 00:07:29,000
-{Título}      Evangelion Nueva Versión Teatral: Q.
+Evangelion Nueva Versión Teatral: Q.
 
 124
 00:07:29,000 --> 00:07:42,000
-{Título}      Subtítulos al Español por la Comunidad Evangelion 2015.
+Subtítulos al Español por la Comunidad Evangelion 2015.
 
 125
 00:07:42,000 --> 00:07:44,000
-{Sakura}      La función cardiopulmonar es normal.
+La función cardiopulmonar es normal.
 
 126
 00:07:44,000 --> 00:07:46,000
-{Sakura}      No se percibe parálisis en las extremidades.
+No se percibe parálisis en las extremidades.
 
 127
 00:07:46,000 --> 00:07:50,000
-{Sakura}      Si. Sus ojos están abriéndose.
+Si. Sus ojos están abriéndose.
 
 128
 00:07:50,000 --> 00:07:55,000
-{Sakura}      ¿Puedes oírme?
+¿Puedes oírme?
 
 129
 00:07:55,000 --> 00:07:58,000
-{Shinji}      ¿Dónde estoy?
+¿Dónde estoy?
 
 130
 00:07:58,000 --> 00:07:59,000
-{Sakura}      Está reaccionando.
+Está reaccionando.
 
 131
 00:07:59,000 --> 00:08:03,000
-{Sakura}      Parece que recobró la consciencia.
+Parece que recobró la consciencia.
 
 132
 00:08:03,000 --> 00:08:06,000
-{Shinji}      Estoy seguro que rescaté a Ayanami...
+Estoy seguro que rescaté a Ayanami...
 
 133
 00:08:06,000 --> 00:08:10,000
-{Sakura}      Bien, la continuidad de la memoria es aceptable.
+Bien, la continuidad de la memoria es aceptable.
 
 134
 00:08:10,000 --> 00:08:13,000
-{Shinji}      Em, ¿dónde está Ayanami?
+Em, ¿dónde está Ayanami?
 
 135
 00:08:13,000 --> 00:08:18,000
-{Sakura}      ¿Conoces a esta persona?
+¿Conoces a esta persona?
 
 136
 00:08:18,000 --> 00:08:21,000
-{Shinji}      Soy... Yo.
+Soy... Yo.
 
 137
 00:08:21,000 --> 00:08:22,000
-{Sakura}      Puede reconocerse a sí mismo también.
+Puede reconocerse a sí mismo también.
 
 138
 00:08:22,000 --> 00:08:24,000
-{Sakura}      Parece no haber problemas.
+Parece no haber problemas.
 
 139
 00:08:24,000 --> 00:08:27,000
-{Shinji}      ¿Qué es esto?
+¿Qué es esto?
 
 140
 00:08:27,000 --> 00:08:30,000
-{Mujer}       Lista de instalaciones para operaciones de recarga completa en un 86%.
+Lista de instalaciones para operaciones de recarga completa en un 86%.
 
 141
 00:08:30,000 --> 00:08:34,000
-{Koji}        Reactor N2 en línea manteniendo una salida de 90%.
+Reactor N2 en línea manteniendo una salida de 90%.
 
 142
 00:08:34,000 --> 00:08:36,000
-{Midori}      No hay navíos visibles en un perímetro de 1200.
+No hay navíos visibles en un perímetro de 1200.
 
 143
 00:08:36,000 --> 00:08:38,000
-{Midori}      Tampoco pueden confirmarse objetos voladores no identificados.
+Tampoco pueden confirmarse objetos voladores no identificados.
 
 144
 00:08:38,000 --> 00:08:40,000
-{Aoba}        Prioricen barcos en el bloque D para la transferencia de la tripulación.
+Prioricen barcos en el bloque D para la transferencia de la tripulación.
 
 145
 00:08:40,000 --> 00:08:43,000
-{Hyuga}       / ¡No tenemos suficiente personal para la operación de transferencia!{＃＃転入作業の人手がまるで足りない (日向の台詞)}
+/ ¡No tenemos suficiente personal para la operación de transferencia!{＃＃転入作業の人手がまるで足りない (日向の台詞)}
 
 146
 00:08:43,000 --> 00:08:46,000
-{Sumire}      / ＃＃＃＃＃にずれがあり
+/ ＃＃＃＃＃にずれがあり
 
 147
 00:08:46,000 --> 00:08:53,000
-{Tama}        Revisando la hoja de ruta para la operación de encubierto.
+Revisando la hoja de ruta para la operación de encubierto.
 
 148
 00:08:53,000 --> 00:08:56,000
-{Sakura}      El espécimen DM03 está bajo nuestra custodia.
+El espécimen DM03 está bajo nuestra custodia.
 
 149
 00:08:56,000 --> 00:08:57,000
-{Misato}      Entendido.
+Entendido.
 
 150
 00:08:57,000 --> 00:09:00,000
-{Misato}      Liberen los sujetadores.
+Liberen los sujetadores.
 
 151
 00:09:00,000 --> 00:09:25,000
-{Misato}      Puedes bajar.
+Puedes bajar.
 
 152
 00:09:25,000 --> 00:09:28,000
-{Shinji}      Misato-san...
+Misato-san...
 
 153
 00:09:28,000 --> 00:09:31,000
-{Misato}      Es Ikari Shinji-kun, ¿no es así?
+Es Ikari Shinji-kun, ¿no es así?
 
 154
 00:09:31,000 --> 00:09:32,000
-{Ritsuko}     Eso parece.
+Eso parece.
 
 155
 00:09:32,000 --> 00:09:37,000
-{Ritsuko}     Su información física es idéntica al código del Tercer Elegido.
+Su información física es idéntica al código del Tercer Elegido.
 
 156
 00:09:37,000 --> 00:09:43,000
-{Ritsuko}     El tejido corporal, tal como sus registros dentales coinciden perfectamente.
+El tejido corporal, tal como sus registros dentales coinciden perfectamente.
 
 157
 00:09:43,000 --> 00:09:46,000
-{Ritsuko}     Estamos analizando en profundidad los resultados del test de sincronización.
+Estamos analizando en profundidad los resultados del test de sincronización.
 
 158
 00:09:46,000 --> 00:09:49,000
-{Misato}      ¿Qué información hay sobre el collar DSS?
+¿Qué información hay sobre el collar DSS?
 
 159
 00:09:49,000 --> 00:09:52,000
-{Ritsuko}     Ya fue instalado. Capitán Katsuragi.
+Ya fue instalado. Capitán Katsuragi.
 
 160
 00:09:52,000 --> 00:09:54,000
-{Shinji}      ¿Capitán Katsuragi?
+¿Capitán Katsuragi?
 
 161
 00:09:54,000 --> 00:10:03,000
-{Shinji}      ¡Eres tú, Misato!
+¡Eres tú, Misato!
 
 162
 00:10:03,000 --> 00:10:04,000
-{Ritsuko}     Activación óptima.
+Activación óptima.
 
 163
 00:10:04,000 --> 00:10:07,000
-{Ritsuko}     La contraseña es exclusiva para el Capitán.
+La contraseña es exclusiva para el Capitán.
 
 164
 00:10:07,000 --> 00:10:11,000
-{Misato}      Entendido.
+Entendido.
 
 165
 00:10:11,000 --> 00:10:14,000
-{Shinji}      ¿¡Qué es esto!?
+¿¡Qué es esto!?
 
 166
 00:10:14,000 --> 00:10:18,000
-{Shinji}      Por favor, ¡quítenmelo!
+Por favor, ¡quítenmelo!
 
 167
 00:10:18,000 --> 00:10:22,000
-{Sakura}      Eso no se puede quitar.
+Eso no se puede quitar.
 
 168
 00:10:22,000 --> 00:10:24,000
-{Misato}      Entrevista finalizada.
+Entrevista finalizada.
 
 169
 00:10:24,000 --> 00:10:28,000
-{Misato}      Llévenlo a cuarentena.
+Llévenlo a cuarentena.
 
 170
 00:10:28,000 --> 00:10:30,000
-{Midori}      Señuelos 01 y 05 destruídos.
+Señuelos 01 y 05 destruídos.
 
 171
 00:10:30,000 --> 00:10:31,000
-{Midori}      / La longitud de onda es insuficiente. {波長も不足。}
+/ La longitud de onda es insuficiente. {波長も不足。}
 
 172
 00:10:31,000 --> 00:10:33,000
-{Misato}      ¿Qué demonios es esto?
+¿Qué demonios es esto?
 
 173
 00:10:33,000 --> 00:10:34,000
-{Hyuga}       Patrón Azul.
+Patrón Azul.
 
 174
 00:10:34,000 --> 00:10:36,000
-{Hyuga}       Objetivo identificado.
+Objetivo identificado.
 
 175
 00:10:36,000 --> 00:10:37,000
-{Hyuga}       Code 4C.
+Code 4C.
 
 176
 00:10:37,000 --> 00:10:39,000
-{Hyuga}       Son Nemesis Series.
+Son Nemesis Series.
 
 177
 00:10:39,000 --> 00:10:40,000
-{Misato}      Están de vuelta...
+Están de vuelta...
 
 178
 00:10:40,000 --> 00:10:40,000
-{Midori (BG)} Objetivos son todos Code 4C.
+Objetivos son todos Code 4C.
 
 179
 00:10:40,000 --> 00:10:42,000
-{Ritsuko}     Están avanzando por todos lados.
+Están avanzando por todos lados.
 
 180
 00:10:42,000 --> 00:10:43,000
-{Ritsuko}     Quieren bloquearnos aquí, básicamente.
+Quieren bloquearnos aquí, básicamente.
 
 181
 00:10:43,000 --> 00:10:45,000
-{Midori (BG)} / ＃＃マル二。＃＃＃消滅確認。
+/ ＃＃マル二。＃＃＃消滅確認。
 
 182
 00:10:45,000 --> 00:10:48,000
-{Misato}      No podemos movernos de aquí ahora.
+No podemos movernos de aquí ahora.
 
 183
 00:10:48,000 --> 00:10:50,000
-{Misato}      Continuemos operando solamente con el motor principal.
+Continuemos operando solamente con el motor principal.
 
 184
 00:10:50,000 --> 00:10:53,000
-{Misato}      Todas las flotas, a estaciones de batalla secundarias.
+Todas las flotas, a estaciones de batalla secundarias.
 
 185
 00:10:53,000 --> 00:10:55,000
-{Misato}      Objetivo: los Nemesis Series.
+Objetivo: los Nemesis Series.
 
 186
 00:10:55,000 --> 00:10:56,000
-{Ritsuko}     Entendido.
+Entendido.
 
 187
 00:10:56,000 --> 00:10:58,000
-{Ritsuko}     Todas las flotas a estaciones de batalla secundarias.
+Todas las flotas a estaciones de batalla secundarias.
 
 188
 00:10:58,000 --> 00:11:02,000
-{Hyuga}       Preparase para una batalla anti-submarina, anti-aérea y bajo el agua.
+Preparase para una batalla anti-submarina, anti-aérea y bajo el agua.
 
 189
 00:11:02,000 --> 00:11:03,000
-{Aoba}        Interrumpan la transferencia predeterminada.
+Interrumpan la transferencia predeterminada.
 
 190
 00:11:03,000 --> 00:11:05,000
-{Aoba}        Priorizar el traspaso de toda la tripulación a otro buque.
+Priorizar el traspaso de toda la tripulación a otro buque.
 
 191
 00:11:05,000 --> 00:11:07,000
-{Mujer}       Todas las flotas, abandonen la transferencia predeterminada.
+Todas las flotas, abandonen la transferencia predeterminada.
 
 192
 00:11:07,000 --> 00:11:13,000
-{Mujer}       ¡Todo el personal, trasbordar busques es la máxima prioridad!
+¡Todo el personal, trasbordar busques es la máxima prioridad!
 
 193
 00:11:13,000 --> 00:11:16,000
-{Mujer}       Todas las aeronaves deben retirarse de nuestro espacio aéreo actual.
+Todas las aeronaves deben retirarse de nuestro espacio aéreo actual.
 
 194
 00:11:16,000 --> 00:11:18,000
-{Mujer}       ¡De prisa al punto de encuentro 2!
+¡De prisa al punto de encuentro 2!
 
 195
 00:11:18,000 --> 00:11:20,000
-{Hombre}      Abandonen toda la carga sobrante.
+Abandonen toda la carga sobrante.
 
 196
 00:11:20,000 --> 00:11:22,000
-{Hombre}      La migración de la tripulación tiene la máxima prioridad
+La migración de la tripulación tiene la máxima prioridad
 
 197
 00:11:22,000 --> 00:11:26,000
-{Hombre}      / ＃＃＃＃＃ゼロ、＃てきギリギリまで＃＃たのむ。
+/ ＃＃＃＃＃ゼロ、＃てきギリギリまで＃＃たのむ。
 
 198
 00:11:26,000 --> 00:11:28,000
-{Hombre}      / 最優先つたえものは、＃＃＃＃してくれ。
+/ 最優先つたえものは、＃＃＃＃してくれ。
 
 199
 00:11:28,000 --> 00:11:30,000
-{Mujer}       Preparen todos los cañones para disparar.
+Preparen todos los cañones para disparar.
 
 200
 00:11:30,000 --> 00:11:33,000
-{Mujer}       Control remoto y sistemas de bloqueo, activados.
+Control remoto y sistemas de bloqueo, activados.
 
 201
 00:11:33,000 --> 00:11:35,000
-{Mujer}       / ＃＃＃＃＃＃＃
+/ ＃＃＃＃＃＃＃
 
 202
 00:11:35,000 --> 00:11:38,000
-{Koji}        Iniciar inyección del sistema de eléctrico principal.
+Iniciar inyección del sistema de eléctrico principal.
 
 203
 00:11:38,000 --> 00:11:39,000
-{Koji}        Rápido.
+Rápido.
 
 204
 00:11:39,000 --> 00:11:43,000
-{Hombre}      Reactor N2 operando al 99%.
+Reactor N2 operando al 99%.
 
 205
 00:11:43,000 --> 00:11:44,000
-{Mujer}       Iniciando inyección del sistema de eléctrico principal.
+Iniciando inyección del sistema de eléctrico principal.
 
 206
 00:11:44,000 --> 00:11:46,000
-{Mujer}       Abriendo válvulas hasta la número 90.
+Abriendo válvulas hasta la número 90.
 
 207
 00:11:46,000 --> 00:11:48,000
-{Mujer}       Tubería de transmisión conectada.
+Tubería de transmisión conectada.
 
 208
 00:11:48,000 --> 00:11:51,000
-{Mujer}       No se han detectado problemas en el puerto ni en las bahías de carga 3 y 4.
+No se han detectado problemas en el puerto ni en las bahías de carga 3 y 4.
 
 209
 00:11:51,000 --> 00:11:52,000
-{Hombre}      Entendido.
+Entendido.
 
 210
 00:11:52,000 --> 00:11:54,000
-{Hombre}      Abriendo válvulas hasta la 90.
+Abriendo válvulas hasta la 90.
 
 211
 00:11:54,000 --> 00:11:56,000
-{Hombre}      Iniciar inyección de energía.
+Iniciar inyección de energía.
 
 212
 00:11:56,000 --> 00:11:58,000
-{Mujer}       Inyectando energía al reactor N2.
+Inyectando energía al reactor N2.
 
 213
 00:11:58,000 --> 00:11:58,000
-{Mujer}       Todo normal.
+Todo normal.
 
 214
 00:11:58,000 --> 00:12:01,000
-{Mujer}       Comprobando bomba de circulación de LCL.
+Comprobando bomba de circulación de LCL.
 
 215
 00:12:01,000 --> 00:12:03,000
-{Mujer}       Sistema de filtrado listo.
+Sistema de filtrado listo.
 
 216
 00:12:03,000 --> 00:12:04,000
-{Maya}        ¡Estaciones de batalla!
+¡Estaciones de batalla!
 
 217
 00:12:04,000 --> 00:12:06,000
-{Maya}        Vuelvan a sus puestos.
+Vuelvan a sus puestos.
 
 218
 00:12:06,000 --> 00:12:08,000
-{Maya}        ¡Tu ahí! ¡De prisa!
+¡Tu ahí! ¡De prisa!
 
 219
 00:12:08,000 --> 00:12:10,000
-{Worker}      ¡Está pidiéndome algo imposible, Jefa de Mantenimiento!
+¡Está pidiéndome algo imposible, Jefa de Mantenimiento!
 
 220
 00:12:10,000 --> 00:12:13,000
-{Worker}      Somos como una mezcla de civiles después de todo.
+Somos como una mezcla de civiles después de todo.
 
 221
 00:12:13,000 --> 00:12:15,000
-{Maya}        ¡Sin excusas!
+¡Sin excusas!
 
 222
 00:12:15,000 --> 00:12:17,000
-{Maya}        ¡A trabajar!
+¡A trabajar!
 
 223
 00:12:17,000 --> 00:12:21,000
-{Maya}        Este es el problema con los jóvenes.
+Este es el problema con los jóvenes.
 
 224
 00:12:21,000 --> 00:12:24,000
-{Tama}        Umm... interrumpiendo la transferencia aquí.
+Umm... interrumpiendo la transferencia aquí.
 
 225
 00:12:24,000 --> 00:12:27,000
-{Tama}        Comenzando el bloqueo de las barricadas... ¿Será éste?
+Comenzando el bloqueo de las barricadas... ¿Será éste?
 
 226
 00:12:27,000 --> 00:12:31,000
-{Midori}      El sonar está en dirección con la proa del buque anti aéreo como referencia.
+El sonar está en dirección con la proa del buque anti aéreo como referencia.
 
 227
 00:12:31,000 --> 00:12:32,000
-{Aoba}        ¡Kitakami!
+¡Kitakami!
 
 228
 00:12:32,000 --> 00:12:34,000
-{Aoba}        ¿Cuál es el estado de los procedimientos en el puente?
+¿Cuál es el estado de los procedimientos en el puente?
 
 229
 00:12:34,000 --> 00:12:36,000
-{Midori}      ¿Estoy a cargo de eso?
+¿Estoy a cargo de eso?
 
 230
 00:12:36,000 --> 00:12:38,000
-{Aoba}        ¡Este es tu puesto! ¡Por supuesto!
+¡Este es tu puesto! ¡Por supuesto!
 
 231
 00:12:38,000 --> 00:12:43,000
-{Midori}      ¿Qué? ¿De verdad?
+¿Qué? ¿De verdad?
 
 232
 00:12:43,000 --> 00:12:45,000
-{Sakura}      La puesta en marcha es peligrosa.
+La puesta en marcha es peligrosa.
 
 233
 00:12:45,000 --> 00:12:47,000
-{Sakura}      ¡Quedémonos aquí!
+¡Quedémonos aquí!
 
 234
 00:12:47,000 --> 00:12:49,000
-{Mujer (BG)}  Todo el buque, defensa aérea, misiles tierra-aire listos.
+Todo el buque, defensa aérea, misiles tierra-aire listos.
 
 235
 00:12:49,000 --> 00:12:52,000
-{Sakura}      Estableciendo puestos de batalla en el puente...
+Estableciendo puestos de batalla en el puente...
 
 236
 00:12:52,000 --> 00:12:52,000
-{Misato}      Entendido.
+Entendido.
 
 237
 00:12:52,000 --> 00:12:53,000
-{Sakura}      ¡Es muy estresante!
+¡Es muy estresante!
 
 238
 00:12:53,000 --> 00:12:55,000
-{Misato}      Activar todos los sistemas anti aéreos.
+Activar todos los sistemas anti aéreos.
 
 239
 00:12:55,000 --> 00:12:57,000
-{Misato}      Asegurar al EVA-01 es nuestra prioridad número uno.
+Asegurar al EVA-01 es nuestra prioridad número uno.
 
 240
 00:12:57,000 --> 00:13:07,000
-{Shinji}      ¿EVA-01?
+¿EVA-01?
 
 241
 00:13:07,000 --> 00:13:08,000
-{Midori}      ¡Está aquí!
+¡Está aquí!
 
 242
 00:13:08,000 --> 00:13:10,000
-{Midori}      Confirmando pilar de luz del objetivo.
+Confirmando pilar de luz del objetivo.
 
 243
 00:13:10,000 --> 00:13:13,000
-{Midori}      Está... ¡Está incrementando en número!
+Está... ¡Está incrementando en número!
 
 244
 00:13:13,000 --> 00:13:15,000
-{Aoba}        No podemos confirmar el núcleo del objetivo.
+No podemos confirmar el núcleo del objetivo.
 
 245
 00:13:15,000 --> 00:13:18,000
-{Aoba}        Es probable que esté oculto fuera de la fase de capullo.
+Es probable que esté oculto fuera de la fase de capullo.
 
 246
 00:13:18,000 --> 00:13:20,000
-{Ritsuko}     Esto es malo.
+Esto es malo.
 
 247
 00:13:20,000 --> 00:13:22,000
-{Ritsuko}     A este ritmo, estaremos en el extremo receptor de un bombardeo saturador.
+A este ritmo, estaremos en el extremo receptor de un bombardeo saturador.
 
 248
 00:13:22,000 --> 00:13:24,000
-{Midori}      600 segundos para el contacto.
+600 segundos para el contacto.
 
 249
 00:13:24,000 --> 00:13:25,000
-{Ritsuko}     Capitán Katsuragi,
+Capitán Katsuragi,
 
 250
 00:13:25,000 --> 00:13:29,000
-{Ritsuko}     Propongo la dispersión inmediata de las flotas.
+Propongo la dispersión inmediata de las flotas.
 
 251
 00:13:29,000 --> 00:13:32,000
-{Ritsuko}     Tenemos personal insuficiente y recursos limitados.
+Tenemos personal insuficiente y recursos limitados.
 
 252
 00:13:32,000 --> 00:13:34,000
-{Ritsuko}     Empeorando el problema, el equipo de camuflaje de esta nave está incompleto.
+Empeorando el problema, el equipo de camuflaje de esta nave está incompleto.
 
 253
 00:13:34,000 --> 00:13:38,000
-{Ritsuko}     Además de eso, no podemos identificar el núcleo del objetivo.
+Además de eso, no podemos identificar el núcleo del objetivo.
 
 254
 00:13:38,000 --> 00:13:41,000
-{Ritsuko}     En otras palabras, nuestras chances de ganar son cero.
+En otras palabras, nuestras chances de ganar son cero.
 
 255
 00:13:41,000 --> 00:13:43,000
-{Ritsuko}     Llegados a este punto, debemos retirarnos como solemos hacerlo.
+Llegados a este punto, debemos retirarnos como solemos hacerlo.
 
 256
 00:13:43,000 --> 00:13:45,000
-{Ritsuko}     No hay manera.
+No hay manera.
 
 257
 00:13:45,000 --> 00:13:47,000
-{Ritsuko}     ¡Capitán Katsuragi!
+¡Capitán Katsuragi!
 
 258
 00:13:47,000 --> 00:13:52,000
-{Misato}      Es por eso que voy a cambiar la situación actual para neutralizar cualqueir posible ansiedad.
+Es por eso que voy a cambiar la situación actual para neutralizar cualqueir posible ansiedad.
 
 259
 00:13:52,000 --> 00:13:54,000
-{Misato}      Vice Capitán, vamos a volar.
+Vice Capitán, vamos a volar.
 
 260
 00:13:54,000 --> 00:13:55,000
-{Ritsuko}     ¡¿Volar?!
+¡¿Volar?!
 
 261
 00:13:55,000 --> 00:13:57,000
-{Ritsuko}     ¿No estarás pensando en usar la nave principal?
+¿No estarás pensando en usar la nave principal?
 
 262
 00:13:57,000 --> 00:14:00,000
-{Misato}      ¡Todos, prepárense para el lanzamiento!
+¡Todos, prepárense para el lanzamiento!
 
 263
 00:14:00,000 --> 00:14:03,000
-{Misato}      ¡Preparen la ignición de los motores principales!
+¡Preparen la ignición de los motores principales!
 
 264
 00:14:03,000 --> 00:14:06,000
-{Ritsuko}     ¡Es muy imprudente usar la nave principal, Capitán Katsuragi!
+¡Es muy imprudente usar la nave principal, Capitán Katsuragi!
 
 265
 00:14:06,000 --> 00:14:07,000
-{Tama}        ¡Estoy de acuerdo!
+¡Estoy de acuerdo!
 
 266
 00:14:07,000 --> 00:14:09,000
-{Tama}        Ni siquiera hemos ejecutado vuelos de prueba. ¡Es muy peligroso!
+Ni siquiera hemos ejecutado vuelos de prueba. ¡Es muy peligroso!
 
 267
 00:14:09,000 --> 00:14:11,000
-{Sumire}      La Anti-gravedad tampoco ha sido probada.
+La Anti-gravedad tampoco ha sido probada.
 
 268
 00:14:11,000 --> 00:14:13,000
-{Sumire}      No confío en eso.
+No confío en eso.
 
 269
 00:14:13,000 --> 00:14:15,000
-{Midori}      No quiero pelear batallas que no puedo ganar.
+No quiero pelear batallas que no puedo ganar.
 
 270
 00:14:15,000 --> 00:14:17,000
-{Midori}      No quiero morir aún.
+No quiero morir aún.
 
 271
 00:14:17,000 --> 00:14:19,000
-{Koji}        Te mueres cuando te mueres. Eso es todo.
+Te mueres cuando te mueres. Eso es todo.
 
 272
 00:14:19,000 --> 00:14:21,000
-{Koji}        Deja de quejarte, jovencita.
+Deja de quejarte, jovencita.
 
 273
 00:14:21,000 --> 00:14:25,000
-{Midori}      ¡Los viejitos deben de tener más cuidado!
+¡Los viejitos deben de tener más cuidado!
 
 274
 00:14:25,000 --> 00:14:27,000
-{Misato}      Soy consciente de la imprudencia.
+Soy consciente de la imprudencia.
 
 275
 00:14:27,000 --> 00:14:30,000
-{Misato}      Vamos a usar esta nave como señuelo y arrastrarlo hacia la superficie.
+Vamos a usar esta nave como señuelo y arrastrarlo hacia la superficie.
 
 276
 00:14:30,000 --> 00:14:33,000
-{Misato}      El poder de matar dioses, veremos cómo resulta.
+El poder de matar dioses, veremos cómo resulta.
 
 277
 00:14:33,000 --> 00:14:36,000
-{Ritsuko}     Pero el sistema de ignición más importante no ha sido instalado.
+Pero el sistema de ignición más importante no ha sido instalado.
 
 278
 00:14:36,000 --> 00:14:39,000
-{Ritsuko}     ¿No me digas que usarán los EVAs?
+¿No me digas que usarán los EVAs?
 
 279
 00:14:39,000 --> 00:14:40,000
-{Misato}      ¡Mari!
+¡Mari!
 
 280
 00:14:40,000 --> 00:14:41,000
-{Mari}        EVA-08 aún no está listo.
+EVA-08 aún no está listo.
 
 281
 00:14:41,000 --> 00:14:42,000
-{Misato}      ¡Asuka!
+¡Asuka!
 
 282
 00:14:42,000 --> 00:14:46,000
-{Shinji}      ¿Asuka?
+¿Asuka?
 
 283
 00:14:46,000 --> 00:14:47,000
-{Asuka}       ¡Estoy en eso!
+¡Estoy en eso!
 
 284
 00:14:47,000 --> 00:14:50,000
-{Asuka}       Solo tengo que empujar el motor de encendido, ¿verdad?
+Solo tengo que empujar el motor de encendido, ¿verdad?
 
 285
 00:14:50,000 --> 00:14:51,000
-{Misato}      Cuento contigo.
+Cuento contigo.
 
 286
 00:14:51,000 --> 00:14:54,000
-{Ritsuko}     Pero hay un problema con la densidad de la barrera alrededor de la nave.
+Pero hay un problema con la densidad de la barrera alrededor de la nave.
 
 287
 00:14:54,000 --> 00:14:56,000
-{Ritsuko}     Además, ¿no se está trabajando en el puente?
+Además, ¿no se está trabajando en el puente?
 
 288
 00:14:56,000 --> 00:15:00,000
-{Asuka}       Bien, "prorizar el objetivo, vida humana prescindible" es un lema de Capitán, después de todo.
+Bien, "prorizar el objetivo, vida humana prescindible" es un lema de Capitán, después de todo.
 
 289
 00:15:00,000 --> 00:15:01,000
-{Asuka}       ¡Ahí voy!
+¡Ahí voy!
 
 290
 00:15:01,000 --> 00:15:06,000
-{Asuka}       EVA Unidad 02, ¡activado!
+EVA Unidad 02-kai, ¡activado!
 
 291
 00:15:06,000 --> 00:15:07,000
-{Mujer}       Lanzamiento de EVA-02.
+Lanzamiento de Unidad 02-kai.
 
 292
 00:15:07,000 --> 00:15:08,000
-{Mujer}       Entendido.
+Entendido.
 
 293
 00:15:08,000 --> 00:15:09,000
-{Mujer}       Preparando el EVA-02 para el lanzamiento.
+Preparando el EVA 02-kai para el lanzamiento.
 
 294
 00:15:09,000 --> 00:15:20,000
-{Mujer}       Motor submarino y propulsión jet, pasando por el número 1.
+Motor submarino y propulsión jet, pasando por el número 1.
 
 295
 00:15:20,000 --> 00:15:32,000
-{Asuka}       La verdad, qué entrada aburrida para mostrar el nuevo aspecto de mi Unidad.
+La verdad, qué entrada aburrida para mostrar el nuevo aspecto de mi Unidad.
 
 296
 00:15:32,000 --> 00:15:33,000
-{Shinji}      En verdad es el EVA Unidad 02.
+En verdad es el EVA Unidad 02.
 
 297
 00:15:33,000 --> 00:15:40,000
-{Shinji}      Qué bien, Asuka está bien.
+Qué bien, Asuka está bien.
 
 298
 00:15:40,000 --> 00:15:43,000
-{Shinji}      Misato, yo...
+Misato, yo...
 
 299
 00:15:43,000 --> 00:15:47,000
-{Misato}      Todas las flotas, a estaciones de batalla primarias.
+Todas las flotas, a estaciones de batalla primarias.
 
 300
 00:15:47,000 --> 00:15:48,000
-{Hombre}      Todas las flotas a estaciones de batalla primarias.
+Todas las flotas a estaciones de batalla primarias.
 
 301
 00:15:48,000 --> 00:15:51,000
-{Hombre}      Repito, todas las flotas a estaciones de batalla primarias.
+Repito, todas las flotas a estaciones de batalla primarias.
 
 302
 00:15:51,000 --> 00:15:54,000
-{Ritsuko}     Cambiando el sistema de comando de batalla.
+Cambiando el sistema de comando de batalla.
 
 303
 00:15:54,000 --> 00:15:56,000
-{Ritsuko}     Tripulación principal, al pruente principal.
+Tripulación principal, al pruente principal.
 
 304
 00:15:56,000 --> 00:15:57,000
-{Misato}      Preparar lastre gravitacional.
+Preparar lastre gravitacional.
 
 305
 00:15:57,000 --> 00:15:58,000
-{Sumire}      Entendido.
+Entendido.
 
 306
 00:15:58,000 --> 00:16:00,000
-{Sumire}      Comprobar rendijas de ventilación.
+Comprobar rendijas de ventilación.
 
 307
 00:16:00,000 --> 00:16:02,000
-{Misato}      Centralizar los controles primarios de la nave en la clavija del ancla.
+Centralizar los controles primarios de la nave en la clavija del ancla.
 
 308
 00:16:02,000 --> 00:16:03,000
-{Koji}        Entendido.
+Entendido.
 
 309
 00:16:03,000 --> 00:16:04,000
-{Koji}        Prepárense para el descenso.
+Prepárense para el descenso.
 
 310
 00:16:04,000 --> 00:16:05,000
-{Koji}        Inductor, confirmado.
+Inductor, confirmado.
 
 311
 00:16:05,000 --> 00:16:09,000
-{Koji}        Comenzando cuenta regresiva.
+Comenzando cuenta regresiva.
 
 312
 00:16:09,000 --> 00:16:11,000
-{Shinji}      ¡Misato!
+¡Misato!
 
 313
 00:16:11,000 --> 00:16:14,000
-{Shinji}      EVA-01 está aquí, ¿verdad?
+EVA-01 está aquí, ¿verdad?
 
 314
 00:16:14,000 --> 00:16:15,000
-{Shinji}      ¡Voy a pilotearlo!
+¡Voy a pilotearlo!
 
 315
 00:16:15,000 --> 00:16:20,000
-{Shinji}      ¡Ayudaré a Asuka!
+¡Ayudaré a Asuka!
 
 316
 00:16:20,000 --> 00:16:23,000
-{Shinji}      ¿No me necesitas para pilotear al EVA-01?
+¿No me necesitas para pilotear al EVA-01?
 
 317
 00:16:23,000 --> 00:16:26,000
-{Shinji}      ¿¡Misato!?
+¿¡Misato!?
 
 318
 00:16:26,000 --> 00:16:27,000
-{Ritsuko}     Correcto.
+Correcto.
 
 319
 00:16:27,000 --> 00:16:29,000
-{Ritsuko}     No hay necesidad de que pilotees al EVA.
+No hay necesidad de que pilotees al EVA.
 
 320
 00:16:29,000 --> 00:16:32,000
-{Mujer}       / ＃＃＃は、起動開始。
+/ ＃＃＃は、起動開始。
 
 321
 00:16:32,000 --> 00:16:36,000
-{Mujer}       Sistema de comando está siendo transferido al puente de batalla de la nave.
+Sistema de comando está siendo transferido al puente de batalla de la nave.
 
 322
 00:16:36,000 --> 00:16:36,000
-{Mujer}       Repito, sistema de comando está siendo transferido al puente de batalla de la nave.
+Repito, sistema de comando está siendo transferido al puente de batalla de la nave.
 
 323
 00:16:36,000 --> 00:16:39,000
-{Shinji}      ¿No me necesitan?
+¿No me necesitan?
 
 324
 00:16:39,000 --> 00:16:44,000
-{Shinji}      Entonces... ¿Qué hago?
+Entonces... ¿Qué hago?
 
 325
 00:16:44,000 --> 00:16:47,000
-{Shinji}      ¡Misato!
+¡Misato!
 
 326
 00:16:47,000 --> 00:16:50,000
-{Misato}      Shinji Ikari...
+Shinji Ikari...
 
 327
 00:16:50,000 --> 00:17:06,000
-{Misato}      Ya no harás nada más.
+Ya no harás nada más.
 
 328
 00:17:06,000 --> 00:17:07,000
-{Hombre (BG)} LCL siendo rellenado con gas.
+LCL siendo rellenado con gas.
 
 329
 00:17:07,000 --> 00:17:08,000
-{Hombre (BG)} Densidad de electrificación alcanzada.
+Densidad de electrificación alcanzada.
 
 330
 00:17:08,000 --> 00:17:10,000
-{Ritsuko}     Inicio de inserción.
+Inicio de inserción.
 
 331
 00:17:10,000 --> 00:17:12,000
-{Mujer (BG)}  Estado de carga eléctrica de LCL es normal.
+Estado de carga eléctrica de LCL es normal.
 
 332
 00:17:12,000 --> 00:17:14,000
-{Mujer (BG)}  Iniciando todos los sistemas operativos.
+Iniciando todos los sistemas operativos.
 
 333
 00:17:14,000 --> 00:17:15,000
-{Misato}      ¿Cuál es nuestro estado?
+¿Cuál es nuestro estado?
 
 334
 00:17:15,000 --> 00:17:17,000
-{Mujer}       Censo de todo el personal, completo.
+Censo de todo el personal, completo.
 
 335
 00:17:17,000 --> 00:17:18,000
-{Mujer}       Todos confirmados a bordo.
+Todos confirmados a bordo.
 
 336
 00:17:18,000 --> 00:17:20,000
-{Mujer (BG)}  Primer listado, confirmado.
+Primer listado, confirmado.
 
 337
 00:17:20,000 --> 00:17:22,000
-{Hombre}      Confirmado el cierre de todas las barreras.
+Confirmado el cierre de todas las barreras.
 
 338
 00:17:22,000 --> 00:17:23,000
-{Hombre}      Finalizando chequeo de resistencia de presión.
+Finalizando chequeo de resistencia de presión.
 
 339
 00:17:23,000 --> 00:17:25,000
-{Mujer (BG)}  La salida de componentes auxiliares está aumentando.
+La salida de componentes auxiliares está aumentando.
 
 340
 00:17:25,000 --> 00:17:28,000
-{Koji}        Inyectando energía para la activación inicial del sistema.
+Inyectando energía para la activación inicial del sistema.
 
 341
 00:17:28,000 --> 00:17:30,000
-{Koji}        5% para llegar al punto crítico.
+5% para llegar al punto crítico.
 
 342
 00:17:30,000 --> 00:17:31,000
-{Sumire}      Iniciando giro-compás.
+Iniciando giro-compás.
 
 343
 00:17:31,000 --> 00:17:33,000
-{Sumire}      Estabilizador normal.
+Estabilizador normal.
 
 344
 00:17:33,000 --> 00:17:35,000
-{Mujer (BG)}  Iniciando procesamiento de datos visuales.
+Iniciando procesamiento de datos visuales.
 
 345
 00:17:35,000 --> 00:17:37,000
-{Mujer (BG)}  Encendiendo monitor principal.
+Encendiendo monitor principal.
 
 346
 00:17:37,000 --> 00:17:39,000
-{Hyuga}       El objetivo continúa aproximándose.
+El objetivo continúa aproximándose.
 
 347
 00:17:39,000 --> 00:17:41,000
-{Hyuga}       Asumiendo una formación circular.
+Asumiendo una formación circular.
 
 348
 00:17:41,000 --> 00:17:43,000
-{Aoba}        EVA-02, desplegando propulsores.
+EVA 02-kai, desplegando propulsores.
 
 349
 00:17:43,000 --> 00:17:45,000
-{Aoba}        Restableciendo brazo izquierdo.
+Restableciendo brazo izquierdo.
 
 350
 00:17:45,000 --> 00:17:54,000
-{Asuka}       ¡Aquí vamos!
+¡Aquí vamos!
 
 351
 00:17:54,000 --> 00:17:56,000
-{Asuka}       ¡Bien!
+¡Bien!
 
 352
 00:17:56,000 --> 00:18:04,000
-{Asuka}       ¡Hagámoslo!
+¡Hagámoslo!
 
 353
 00:18:04,000 --> 00:18:09,000
-{Asuka}       Desplegando Escudo A.T.
+Desplegando Escudo A.T.
 
 354
 00:18:09,000 --> 00:18:12,000
-{Aoba}        Se ha transformado en un pilar de luz.
+Se ha transformado en un pilar de luz.
 
 355
 00:18:12,000 --> 00:18:13,000
-{Midori}      ¡Su energía se está disparando!
+¡Su energía se está disparando!
 
 356
 00:18:13,000 --> 00:18:18,000
-{Hyuga}       Todos los objetivos están comenzando a moverse.
+Todos los objetivos están comenzando a moverse.
 
 357
 00:18:18,000 --> 00:18:19,000
-{Aoba}        Las naves aliadas se han evaporado.
+Las naves aliadas se han evaporado.
 
 358
 00:18:19,000 --> 00:18:21,000
-{Ritsuko}     Es un ataque de saturacíón.
+Es un ataque de saturacíón.
 
 359
 00:18:21,000 --> 00:18:24,000
-{Ritsuko}     Si esta nave es capturada, será el fin.
+Si esta nave es capturada, será el fin.
 
 360
 00:18:24,000 --> 00:18:34,000
-{Midori (BG)} ¡360 segundos hasta el contacto!
+¡360 segundos hasta el contacto!
 
 361
 00:18:34,000 --> 00:18:38,000
-{Asuka}       ¡Aquí vamos!
+¡Aquí vamos!
 
 362
 00:18:38,000 --> 00:18:40,000
-{Aoba}        EVA-02 ha comenzado la operación.
+EVA 02-kai ha comenzado la operación.
 
 363
 00:18:40,000 --> 00:18:42,000
-{Ho,bre (BG)} / ＃＃＃＃＃＃300%!
+/ ＃＃＃＃＃＃300%!
 
 364
 00:18:42,000 --> 00:18:43,000
-{Koji}        ¡No importa!
+¡No importa!
 
 365
 00:18:43,000 --> 00:18:45,000
-{Koji}        ¡Transfieran toda la energía al timón de mando!
+¡Transfieran toda la energía al timón de mando!
 
 366
 00:18:45,000 --> 00:18:57,000
-{Koji}        ¡Dénle prioridad a eso!
+¡Dénle prioridad a eso!
 
 367
 00:18:57,000 --> 00:18:57,000
-{Mujer (BG)}  / 第８０＃＃＃炎上中、＃＃出来ません！
+/ 第８０＃＃＃炎上中、＃＃出来ません！
 
 368
 00:18:57,000 --> 00:18:59,000
-{Tama}        ¡El grupo electrógeno No. 7 ha explotado!
+¡El grupo electrógeno No. 7 ha explotado!
 
 369
 00:18:59,000 --> 00:19:01,000
-{Koji}        ¡Olvídense de las líneas caídas!
+¡Olvídense de las líneas caídas!
 
 370
 00:19:01,000 --> 00:19:03,000
-{Koji}        ¡Continúen la inyección forzada!
+¡Continúen la inyección forzada!
 
 371
 00:19:03,000 --> 00:19:04,000
-{Koji}        ¡Ignoren todos los medidores de presión!
+¡Ignoren todos los medidores de presión!
 
 372
 00:19:04,000 --> 00:19:07,000
-{Tama}        Desbloqueando el enganche del timón.
+Desbloqueando el enganche del timón.
 
 373
 00:19:07,000 --> 00:19:16,000
-{Tama}        ¡Comenzando rotación!
+¡Comenzando rotación!
 
 374
 00:19:16,000 --> 00:19:19,000
-{Hombre (BG)} Iniciando bombeo de energía principal.
+Iniciando bombeo de energía principal.
 
 375
 00:19:19,000 --> 00:19:21,000
-{Tama}        La producción de componentes auxiliares alcanzó un 80%.
+La producción de componentes auxiliares alcanzó un 80%.
 
 376
 00:19:21,000 --> 00:19:39,000
-{Koji}        ¡Fuercen la inserción del catalizador!
+¡Fuercen la inserción del catalizador!
 
 377
 00:19:39,000 --> 00:19:42,000
-{Asuka}       Entonces ahora es...
+Entonces ahora es...
 
 378
 00:19:42,000 --> 00:19:44,000
-{Midori}      ¡Quedan 39 segundos!
+¡Quedan 39 segundos!
 
 379
 00:19:44,000 --> 00:19:46,000
-{Hombre (BG)} ¡Velocidad rotacional en incremento!
+¡Velocidad rotacional en incremento!
 
 380
 00:19:46,000 --> 00:19:48,000
-{Aoba}        ¡La presión en el Eva-02 es crítica!
+¡La presión en el Eva 02-kai es crítica!
 
 381
 00:19:48,000 --> 00:19:49,000
-{Tama}        ¡Estamos ahí!
+¡Estamos ahí!
 
 382
 00:19:49,000 --> 00:19:52,000
-{Tama}        ¡Timón cargado al 102, sobre el nivel crítico!
+¡Timón cargado al 102, sobre el nivel crítico!
 
 383
 00:19:52,000 --> 00:19:54,000
-{Koji}        Etapa final de activación.
+Etapa final de activación.
 
 384
 00:19:54,000 --> 00:19:55,000
-{Misato}      Entendido.
+Entendido.
 
 385
 00:19:55,000 --> 00:19:56,000
-{Misato}      Cambio a controles de vuelo.
+Cambio a controles de vuelo.
 
 386
 00:19:56,000 --> 00:19:57,000
-{Sumire}      Entendido.
+Entendido.
 
 387
 00:19:57,000 --> 00:19:58,000
-{Sumire}      Comenzando regulación tierra-aire.
+Comenzando regulación tierra-aire.
 
 388
 00:19:58,000 --> 00:20:02,000
-{Sumire}      Transfiriendo a dirección tridimensional.
+Transfiriendo a dirección tridimensional.
 
 389
 00:20:02,000 --> 00:20:04,000
-{Misato}      ¡Enciendan los motores y desplieguen el Escudo A.T.!
+¡Enciendan los motores y desplieguen el Escudo A.T.!
 
 390
 00:20:04,000 --> 00:20:07,000
-{Tama}        Velocidad de giro 36000. Sistemas en orden.
+Velocidad de giro 36000. Sistemas en orden.
 
 391
 00:20:07,000 --> 00:20:09,000
-{Koji}        ¡Iniciando contacto!
+¡Iniciando contacto!
 
 392
 00:20:09,000 --> 00:20:10,000
-{Misato}      Omitan la cuenta regresiva.
+Omitan la cuenta regresiva.
 
 393
 00:20:10,000 --> 00:20:11,000
-{Misato}      Contacto principal.
+Contacto principal.
 
 394
 00:20:11,000 --> 00:20:16,000
-{Koji}        ¡Contacto!
+¡Contacto!
 
 395
 00:20:16,000 --> 00:20:34,000
-{Misato}      ¡Ignición!
+¡Ignición!
 
 396
 00:20:34,000 --> 00:20:35,000
-{Midori}      Obstáculos despejados.
+Obstáculos despejados.
 
 397
 00:20:35,000 --> 00:20:36,000
-{Ritsuko}     Confirmando todas las divisiones.
+Confirmando todas las divisiones.
 
 398
 00:20:36,000 --> 00:20:36,000
-{Misato}      / １６番＃＃＃。
+/ １６番＃＃＃。
 
 399
 00:20:36,000 --> 00:20:38,000
-{Ritsuko}     Las naves aliadas se han retirado.
+Las naves aliadas se han retirado.
 
 400
 00:20:38,000 --> 00:20:39,000
-{Misato}      Aquí vamos.
+Aquí vamos.
 
 401
 00:20:39,000 --> 00:21:30,000
-{Misato}      Wunder, ¡despegue!
+Wunder, ¡despegue!
 
 402
 00:21:30,000 --> 00:21:32,000
-{Tama}        ¡Alas principales penetradas! ¡Daño desconocido!
+¡Alas principales penetradas! ¡Daño desconocido!
 
 403
 00:21:32,000 --> 00:21:33,000
-{Misato}      ¡Tranquilos!
+¡Tranquilos!
 
 404
 00:21:33,000 --> 00:21:34,000
-{Misato}      Prepárense para un contra ataque a gran escala.
+Prepárense para un contra ataque a gran escala.
 
 405
 00:21:34,000 --> 00:21:35,000
-{Misato}      ¡Volteen la nave!
+¡Volteen la nave!
 
 406
 00:21:35,000 --> 00:21:36,000
-{Misato}      ¡Todos a popa!
+¡Todos a popa!
 
 407
 00:21:36,000 --> 00:21:44,000
-{Sumire}      ¡A popa! ¡Hacia delante!
+¡A popa! ¡Hacia delante!
 
 408
 00:21:44,000 --> 00:21:53,000
-{Misato}      ¡Saquen los restos del capullo del núcleo central!
+¡Saquen los restos del capullo del núcleo central!
 
 409
 00:21:53,000 --> 00:21:55,000
-{Tama}        ¡Se ha abierto una grieta en el extremo del ala principal!
+¡Se ha abierto una grieta en el extremo del ala principal!
 
 410
 00:21:55,000 --> 00:21:56,000
-{Misato}      ¡Mantengan el timón firme!
+¡Mantengan el timón firme!
 
 411
 00:21:56,000 --> 00:21:58,000
-{Misato}      ¡Motores principales a toda máquina!
+¡Motores principales a toda máquina!
 
 412
 00:21:58,000 --> 00:22:00,000
-{Koji}        ¡Ámbos lados al máximo!
+¡Ámbos lados al máximo!
 
 413
 00:22:00,000 --> 00:22:28,000
-{Sumire}      ¡Potencia al máximo!
+¡Potencia al máximo!
 
 414
 00:22:28,000 --> 00:22:30,000
-{Midori}      ¡El núcleo está expuesto!
+¡El núcleo está expuesto!
 
 415
 00:22:30,000 --> 00:22:31,000
-{Misato}      ¡Ahora!
+¡Ahora!
 
 416
 00:22:31,000 --> 00:22:32,000
-{Misato}      ¡Timón a babor!
+¡Timón a babor!
 
 417
 00:22:32,000 --> 00:22:33,000
-{Misato}      ¡Giren!
+¡Giren!
 
 418
 00:22:33,000 --> 00:23:00,000
-{Sumire}      ¡Entendido!
+¡Entendido!
 
 419
 00:23:00,000 --> 00:23:01,000
-{Misato}      ¡Propulsores a toda potencia!
+¡Propulsores a toda potencia!
 
 420
 00:23:01,000 --> 00:23:12,000
-{Misato}      ¡Freno de emergencia!
+¡Freno de emergencia!
 
 421
 00:23:12,000 --> 00:23:13,000
-{Aoba}        ¡El objetivo dejó de moverse!
+¡El objetivo dejó de moverse!
 
 422
 00:23:13,000 --> 00:23:15,000
-{Misato}      ¡Todos los cañones prepárense para disparar!
+¡Todos los cañones prepárense para disparar!
 
 423
 00:23:15,000 --> 00:23:17,000
-{Misato}      Carguen artilleria.
+Carguen artilleria.
 
 424
 00:23:17,000 --> 00:23:19,000
-{Misato}      Conecten todos los cañones a la nave principal.
+Conecten todos los cañones a la nave principal.
 
 425
 00:23:19,000 --> 00:23:20,000
-{Misato}      ¡Abran los circuitos de suministro de municiones!
+¡Abran los circuitos de suministro de municiones!
 
 426
 00:23:20,000 --> 00:23:23,000
-{Koji}        Entendido. Abriendo circuitos.
+Entendido. Abriendo circuitos.
 
 427
 00:23:23,000 --> 00:23:25,000
-{Midori}      ¡Aplicando las correcciones finales a las trayectorias computadas del enemigo!
+¡Aplicando las correcciones finales a las trayectorias computadas del enemigo!
 
 428
 00:23:25,000 --> 00:23:27,000
-{Mujer (BG)}  Sistemas de artillería entrelazados.
+Sistemas de artillería entrelazados.
 
 429
 00:23:27,000 --> 00:23:30,000
-{Hyuga}       Mira directa y persecución manual, listo para todos los cañones.
+Mira directa y persecución manual, listo para todos los cañones.
 
 430
 00:23:30,000 --> 00:23:31,000
-{Misato}      Entonces ya estamos listos.
+Entonces ya estamos listos.
 
 431
 00:23:31,000 --> 00:23:56,000
-{Misato}      ¡FUEGO!
+¡FUEGO!
 
 432
 00:23:56,000 --> 00:23:58,000
-{Aoba}        ¡Objetivo destruído!
+¡Objetivo destruído!
 
 433
 00:23:58,000 --> 00:24:00,000
-{Misato}      Todas las flotas, estado de alerta secundaria.
+Todas las flotas, estado de alerta secundaria.
 
 434
 00:24:00,000 --> 00:24:02,000
-{Misato}      Preparándose para recuperar al EVA-02.
+Preparándose para recuperar al EVA 02-kai.
 
 435
 00:24:02,000 --> 00:24:06,000
-{Misato}      Dense prisa con los procedimientos de emergencia para las alas principales.
+Dense prisa con los procedimientos de emergencia para las alas principales.
 
 436
 00:24:06,000 --> 00:24:07,000
-{Tama}        ¡Fantástico!
+¡Fantástico!
 
 437
 00:24:07,000 --> 00:24:09,000
-{Midori}      Ganamos.
+Ganamos.
 
 438
 00:24:09,000 --> 00:24:12,000
-{Koji}        Totalmente imprudente.
+Totalmente imprudente.
 
 439
 00:24:12,000 --> 00:24:15,000
-{Koji}        Bueno, es una Capitán mucho más interesante de lo que comentó Kaji.
+Bueno, es una Capitán mucho más interesante de lo que comentó Kaji.
 
 440
 00:24:15,000 --> 00:24:17,000
-{Ritsuko}     Así que este es el poder para matar dioses.
+Así que este es el poder para matar dioses.
 
 441
 00:24:17,000 --> 00:25:00,000
-{Ritsuko}     Wunder es realmente la nave de la esperanza.
+Wunder es realmente la nave de la esperanza.
 
 442
 00:25:00,000 --> 00:25:03,000
-{Sakura}      Especimen DM03, nombre tentativo: Shinji Ikari...
+Especimen DM03, nombre tentativo: Shinji Ikari...
 
 443
 00:25:03,000 --> 00:25:06,000
-{Sakura}      El oficial al mando tiene algo que decirte.
+El oficial al mando tiene algo que decirte.
 
 444
 00:25:06,000 --> 00:25:08,000
-{Shinji}      ¿Este es el EVA-01?
+¿Este es el EVA-01?
 
 445
 00:25:08,000 --> 00:25:13,000
-{Ritsuko}     Si. EVA-01 está siendo usado como el motor principal de esta nave.
+Si. EVA-01 está siendo usado como el motor principal de esta nave.
 
 446
 00:25:13,000 --> 00:25:16,000
-{Ritsuko}     Ya no será necesario que cumplas tu función de piloto.
+Ya no será necesario que cumplas tu función de piloto.
 
 447
 00:25:16,000 --> 00:25:19,000
-{Shinji}      O sea, que ya no me necesitan.
+O sea, que ya no me necesitan.
 
 448
 00:25:19,000 --> 00:25:23,000
-{Ritsuko}     Además, nos han entregado los resultados de tu prueba de sincronización.
+Además, nos han entregado los resultados de tu prueba de sincronización.
 
 449
 00:25:23,000 --> 00:25:26,000
-{Ritsuko}     Tu nivel es de 0.00%.
+Tu nivel es de 0.00%.
 
 450
 00:25:26,000 --> 00:25:30,000
-{Ritsuko}     Incluso si ingresas de nuevo al EVA, no se activará.
+Incluso si ingresas de nuevo al EVA, no se activará.
 
 451
 00:25:30,000 --> 00:25:31,000
-{Sakura}      ¿Eso es cierto?
+¿Eso es cierto?
 
 452
 00:25:31,000 --> 00:25:33,000
-{Sakura}      ¿No son grandes noticias, Ikari-san?
+¿No son grandes noticias, Ikari-san?
 
 453
 00:25:33,000 --> 00:25:39,000
-{Ritsuko}     Aún así, no podemos descartar el hecho de que anteriormente el Eva 01 estuvo despierto por 12 segundos.
+Aún así, no podemos descartar el hecho de que anteriormente el Eva 01 estuvo despierto por 12 segundos.
 
 454
 00:25:39,000 --> 00:25:44,000
-{Ritsuko}     Es por eso que te colocamos el collar DSS.
+Es por eso que te colocamos el collar DSS.
 
 455
 00:25:44,000 --> 00:25:45,000
-{Shinji}      ¿Qué es eso?
+¿Qué es eso?
 
 456
 00:25:45,000 --> 00:25:48,000
-{Ritsuko}     Es por nuestra seguridad.
+Es por nuestra seguridad.
 
 457
 00:25:48,000 --> 00:25:51,000
-{Ritsuko}     Es un dispositivo de seguridad física para evitar que el Eva despierte.
+Es un dispositivo de seguridad física para evitar que el Eva despierte.
 
 458
 00:25:51,000 --> 00:25:55,000
-{Ritsuko}     Y también es un símbolo de tu castigo.
+Y también es un símbolo de tu castigo.
 
 459
 00:25:55,000 --> 00:25:56,000
-{Shinji}      ¿Y qué se supone que hace?
+¿Y qué se supone que hace?
 
 460
 00:25:56,000 --> 00:26:04,000
-{Ritsuko}     En caso de que pierdas el control de tus emociones cuando pilotees el Eva y corras el riesgo de despertar a la unidad,
+En caso de que pierdas el control de tus emociones cuando pilotees el Eva y corras el riesgo de despertar a la unidad,
 
 461
 00:26:04,000 --> 00:26:08,000
-{Ritsuko}     esto se encargará de terminar con tu vida.
+esto se encargará de terminar con tu vida.
 
 462
 00:26:08,000 --> 00:26:13,000
-{Shinji}      Quiere decir que... ¿Moriré?
+Quiere decir que... ¿Moriré?
 
 463
 00:26:13,000 --> 00:26:16,000
-{Ritsuko}     No voy a negarlo.
+No voy a negarlo.
 
 464
 00:26:16,000 --> 00:26:18,000
-{Shinji}      No es posible...
+No es posible...
 
 465
 00:26:18,000 --> 00:26:22,000
-{Shinji}      Misato, ¿de qué se trata todo esto?
+Misato, ¿de qué se trata todo esto?
 
 466
 00:26:22,000 --> 00:26:24,000
-{Shinji}      ¡Esto es extraño, Misato!
+¡Esto es extraño, Misato!
 
 467
 00:26:24,000 --> 00:26:27,000
-{Shinji}      ¡Es todo tan confuso que no logro entender nada!
+¡Es todo tan confuso que no logro entender nada!
 
 468
 00:26:27,000 --> 00:26:28,000
-{Ritsuko}     Es inevitable que te sientas confundido.
+Es inevitable que te sientas confundido.
 
 469
 00:26:28,000 --> 00:26:29,000
-{Ritsuko}     ¡Segunda Teniente!
+¡Segunda Teniente!
 
 470
 00:26:29,000 --> 00:26:30,000
-{Sakura}      ¡Si, señora!
+¡Si, señora!
 
 471
 00:26:30,000 --> 00:26:31,000
-{Ritsuko}     Preséntate.
+Preséntate.
 
 472
 00:26:31,000 --> 00:26:33,000
-{Sakura}      ¡Si, señora!
+¡Si, señora!
 
 473
 00:26:33,000 --> 00:26:38,000
-{Sakura}      Eh, ya es tarde, pero soy la oficial médico a cargo,
+Eh, ya es tarde, pero soy la oficial médico a cargo,
 
 474
 00:26:38,000 --> 00:26:41,000
-{Sakura}      2da. Teniente, Suzuhara Sakura.
+2da. Teniente, Suzuhara Sakura.
 
 475
 00:26:41,000 --> 00:26:43,000
-{Sakura}      Encantada en conocerte.
+Encantada en conocerte.
 
 476
 00:26:43,000 --> 00:26:46,000
-{Shinji}      Ah, lo... mismo.
+Ah, lo... mismo.
 
 477
 00:26:46,000 --> 00:26:48,000
-{Shinji}      Pero, Suzuhara...
+Pero, Suzuhara...
 
 478
 00:26:48,000 --> 00:26:50,000
-{Shinji}      ¿la hermana de Tuoji?
+¿la hermana de Tuoji?
 
 479
 00:26:50,000 --> 00:26:51,000
-{Sakura}      Ah, si.
+Ah, si.
 
 480
 00:26:51,000 --> 00:26:53,000
-{Sakura}      Tú ayudaste a mi hermano mayor.
+Tú ayudaste a mi hermano mayor.
 
 481
 00:26:53,000 --> 00:26:55,000
-{Sakura}      Soy su hermana menor, Sakura.
+Soy su hermana menor, Sakura.
 
 482
 00:26:55,000 --> 00:26:56,000
-{Shinji}      ¿Hermana menor?
+¿Hermana menor?
 
 483
 00:26:56,000 --> 00:26:57,000
-{Shinji}      ¿No querrás decir hermana mayor?
+¿No querrás decir hermana mayor?
 
 484
 00:26:57,000 --> 00:27:01,000
-{Sakura}      No, hermana menor.
+No, hermana menor.
 
 485
 00:27:01,000 --> 00:27:04,000
-{Shinji}      ¿Hermana menor? ¿Cómo?
+¿Hermana menor? ¿Cómo?
 
 486
 00:27:04,000 --> 00:27:07,000
-{Asuka}       Han pasado 14 años.
+Han pasado 14 años.
 
 487
 00:27:07,000 --> 00:27:09,000
-{Asuka}       Shinji idiota.
+Shinji idiota.
 
 488
 00:27:09,000 --> 00:27:15,000
-{Shinji}      Ah, ¡Asuka!
+Ah, ¡Asuka!
 
 489
 00:27:15,000 --> 00:27:16,000
-{Shinji}      ¡Qué bien!
+¡Qué bien!
 
 490
 00:27:16,000 --> 00:27:23,000
-{Shinji}      ¡Sabía que estabas bien después de todo, Asuka!
+¡Sabía que estabas bien después de todo, Asuka!
 
 491
 00:27:23,000 --> 00:27:25,000
-{Asuka}       No puedo.
+No puedo.
 
 492
 00:27:25,000 --> 00:27:34,000
-{Asuka}       No puedo soportarlo. Tuve que aguantar mucho.
+No puedo soportarlo. Tuve que aguantar mucho.
 
 493
 00:27:34,000 --> 00:27:36,000
-{Shinji}      ¿Qué es todo esto?
+¿Qué es todo esto?
 
 494
 00:27:36,000 --> 00:27:39,000
-{Asuka}       Acumulé ira y dolor.
+Acumulé ira y dolor.
 
 495
 00:27:39,000 --> 00:27:41,000
-{Shinji}      ¿A qué te refieres?
+¿A qué te refieres?
 
 496
 00:27:41,000 --> 00:27:44,000
-{Shinji}      Uh, Asuka, tu ojo izquierdo...
+Uh, Asuka, tu ojo izquierdo...
 
 497
 00:27:44,000 --> 00:27:46,000
-{Asuka}       No te incumbe.
+No te incumbe.
 
 498
 00:27:46,000 --> 00:27:49,000
-{Shinji}      Asuka, dijiste que han pasado catorce años,
+Asuka, dijiste que han pasado catorce años,
 
 499
 00:27:49,000 --> 00:27:52,000
-{Shinji}      pero no ha cambiado nada excepto tu parche.
+pero no ha cambiado nada excepto tu parche.
 
 500
 00:27:52,000 --> 00:27:55,000
-{Asuka}       Así es. Es la maldición del EVA.
+Así es. Es la maldición del EVA.
 
 501
 00:27:55,000 --> 00:27:59,000
-{Shinji}      ¿La maldición del EVA?
+¿La maldición del EVA?
 
 502
 00:27:59,000 --> 00:28:00,000
-{Shinji}      ¡Espera!
+¡Espera!
 
 503
 00:28:00,000 --> 00:28:02,000
-{Shinji}      ¡Asuka, quizás sepas!
+¡Asuka, quizás sepas!
 
 504
 00:28:02,000 --> 00:28:05,000
-{Shinji}      ¡¿Dónde está Ayanami?!
+¡¿Dónde está Ayanami?!
 
 505
 00:28:05,000 --> 00:28:06,000
-{Asuka}       No lo sé.
+No lo sé.
 
 506
 00:28:06,000 --> 00:28:08,000
-{Shinji}      ¿No lo sabes?
+¿No lo sabes?
 
 507
 00:28:08,000 --> 00:28:10,000
-{Shinji}      ¡Pero si yo la rescaté aquella vez!
+¡Pero si yo la rescaté aquella vez!
 
 508
 00:28:10,000 --> 00:28:12,000
-{Asuka}       Todo este alboroto por una sola persona.
+Todo este alboroto por una sola persona.
 
 509
 00:28:12,000 --> 00:28:16,000
-{Asuka}       El mundo no tiene tiempo para atender tu ego.
+El mundo no tiene tiempo para atender tu ego.
 
 510
 00:28:16,000 --> 00:28:22,000
-{Asuka}       ¿No es así, Capitán Katsuragi?
+¿No es así, Capitán Katsuragi?
 
 511
 00:28:22,000 --> 00:28:23,000
-{Shinji}      ¡Asuka!
+¡Asuka!
 
 512
 00:28:23,000 --> 00:28:26,000
-{Shinji}      ¡Misato! ¡¿Dónde está Ayanami?!
+¡Misato! ¡¿Dónde está Ayanami?!
 
 513
 00:28:26,000 --> 00:28:27,000
-{Shinji}      ¡Por favor, dimelo!
+¡Por favor, dimelo!
 
 514
 00:28:27,000 --> 00:28:31,000
-{Misato}      Shinji, Ayanami Rei ya no existe.
+Shinji, Ayanami Rei ya no existe.
 
 515
 00:28:31,000 --> 00:28:34,000
-{Shinji}      No, la he salvado, sé que lo hice.
+No, la he salvado, sé que lo hice.
 
 516
 00:28:34,000 --> 00:28:37,000
-{Shinji}      Todavía debe estar adentro de la cápsula del Eva-01.
+Todavía debe estar adentro de la cápsula del Eva-01.
 
 517
 00:28:37,000 --> 00:28:38,000
-{Shinji}      ¡Búsquenla, por favor!
+¡Búsquenla, por favor!
 
 518
 00:28:38,000 --> 00:28:42,000
-{Ritsuko}     Ya hemos realizado una inspección completa del EVA-01.
+Ya hemos realizado una inspección completa del EVA-01.
 
 519
 00:28:42,000 --> 00:28:45,000
-{Ritsuko}     Solo te hemos encontrado a ti.
+Solo te hemos encontrado a ti.
 
 520
 00:28:45,000 --> 00:28:48,000
-{Ritsuko}     Y por alguna razón, también encontramos esto.
+Y por alguna razón, también encontramos esto.
 
 521
 00:28:48,000 --> 00:28:52,000
-{Ritsuko}     Los resultados de la inspección no mostraron ningún problema. Te lo devolveremos.
+Los resultados de la inspección no mostraron ningún problema. Te lo devolveremos.
 
 522
 00:28:52,000 --> 00:28:55,000
-{Shinji}      Esto era de mi padre...
+Esto era de mi padre...
 
 523
 00:28:55,000 --> 00:28:58,000
-{Shinji}      Ayanami lo tenía en sus manos.
+Ayanami lo tenía en sus manos.
 
 524
 00:28:58,000 --> 00:29:01,000
-{Shinji}      Entonces la salvé, ¿o no?
+Entonces la salvé, ¿o no?
 
 525
 00:29:01,000 --> 00:29:04,000
-{Shinji}      ¡¿Qué?!
+¡¿Qué?!
 
 526
 00:29:04,000 --> 00:29:06,000
-{Misato}      Diga.
+Diga.
 
 527
 00:29:06,000 --> 00:29:07,000
@@ -2112,2933 +2112,2933 @@
 
 529
 00:29:09,000 --> 00:29:10,000
-{Misato}      ¡Ahora sí que empezó la pelea!
+¡Ahora sí que empezó la pelea!
 
 530
 00:29:10,000 --> 00:29:12,000
-{Misato}      Todas las flotas a estaciones de batalla primarias.
+Todas las flotas a estaciones de batalla primarias.
 
 531
 00:29:12,000 --> 00:29:14,000
-{Misato}      ¡Proteger al EVA-01 es nuestra máxima prioridad!
+¡Proteger al EVA-01 es nuestra máxima prioridad!
 
 532
 00:29:14,000 --> 00:29:16,000
-{Asuka}       Eva-08, estás listo, ¿verdad?
+Eva-08, estás listo, ¿verdad?
 
 533
 00:29:16,000 --> 00:29:18,000
-{Mari}        Por supuesto.
+Por supuesto.
 
 534
 00:29:18,000 --> 00:29:19,000
-{Mari}        Estoy justo encima, Princesa.
+Estoy justo encima, Princesa.
 
 535
 00:29:19,000 --> 00:29:22,000
-{Mari}        Por cierto, ¿cómo está el cachorrito?
+Por cierto, ¿cómo está el cachorrito?
 
 536
 00:29:22,000 --> 00:29:24,000
-{Mari}        ¿Sigue allí quieto y obediente como siempre?
+¿Sigue allí quieto y obediente como siempre?
 
 537
 00:29:24,000 --> 00:29:28,000
-{Asuka (Tel)} No ha cambiado su estúpida cara de humilde.
+No ha cambiado su estúpida cara de humilde.
 
 538
 00:29:28,000 --> 00:29:31,000
-{Mari}        Oh, así que fuiste a ver su cara, ¿verdad?
+Oh, así que fuiste a ver su cara, ¿verdad?
 
 539
 00:29:31,000 --> 00:29:32,000
-{Asuka (Tel)} ¡No!
+¡No!
 
 540
 00:29:32,000 --> 00:29:34,000
-{Asuka (Tel)} Fue horrible. Le pegué.
+Fue horrible. Le pegué.
 
 541
 00:29:34,000 --> 00:29:35,000
-{Asuka}       Ahora me siento mucho mejor.
+Ahora me siento mucho mejor.
 
 542
 00:29:35,000 --> 00:29:37,000
-{Shinji}      ¡Misato-san, Ritsuko-san!
+¡Misato-san, Ritsuko-san!
 
 543
 00:29:37,000 --> 00:29:39,000
-{Shinji}      ¿Quién se aproxima?
+¿Quién se aproxima?
 
 544
 00:29:39,000 --> 00:29:41,000
-{Shinji}      ¡¿Es un nuevo Ángel?!
+¡¿Es un nuevo Ángel?!
 
 545
 00:29:41,000 --> 00:29:44,000
-{Rei}         Ikari-kun, ¿dónde estás?
+Ikari-kun, ¿dónde estás?
 
 546
 00:29:44,000 --> 00:29:46,000
-{Shinji}      ¿Ayanami?
+¿Ayanami?
 
 547
 00:29:46,000 --> 00:29:49,000
-{Shinji}      ¡Esa fue la voz de Ayanami! ¡¿Verdad?!
+¡Esa fue la voz de Ayanami! ¡¿Verdad?!
 
 548
 00:29:49,000 --> 00:29:53,000
-{Shinji}      Misa-
+Misa-
 
 549
 00:29:53,000 --> 00:29:55,000
-{Shinji}      ¡¿Qué está pasando?!
+¡¿Qué está pasando?!
 
 550
 00:29:55,000 --> 00:29:56,000
-{Sakura}      ¡Preparativos completos!
+¡Preparativos completos!
 
 551
 00:29:56,000 --> 00:29:58,000
-{Sakura}      ¡Ikari-san, por aquí!
+¡Ikari-san, por aquí!
 
 552
 00:29:58,000 --> 00:30:01,000
-{Rei}         Ikari-kun, ¿dónde estás?
+Ikari-kun, ¿dónde estás?
 
 553
 00:30:01,000 --> 00:30:04,000
-{Shinji}      De verdad es Ayanami.
+De verdad es Ayanami.
 
 554
 00:30:04,000 --> 00:30:06,000
-{Shinji}      ¡Es Ayanami!
+¡Es Ayanami!
 
 555
 00:30:06,000 --> 00:30:11,000
-{Sakura}      ¡Ikari-san! ¡Rápido!
+¡Ikari-san! ¡Rápido!
 
 556
 00:30:11,000 --> 00:30:13,000
-{Shinji}      Ya es suficiente.
+Ya es suficiente.
 
 557
 00:30:13,000 --> 00:30:28,000
-{Shinji}      ¡Ayanami, estoy aquí!
+¡Ayanami, estoy aquí!
 
 558
 00:30:28,000 --> 00:30:30,000
-{Shinji}      EVA... Unidad 00.
+EVA... Unidad 00.
 
 559
 00:30:30,000 --> 00:30:32,000
-{Rei}         Ikari-kun...
+Ikari-kun...
 
 560
 00:30:32,000 --> 00:30:35,000
-{Rei}         Por aquí.
+Por aquí.
 
 561
 00:30:35,000 --> 00:30:37,000
-{Misato}      No lo hagas, Shinji-kun.
+No lo hagas, Shinji-kun.
 
 562
 00:30:37,000 --> 00:30:38,000
-{Misato}      Quédate aquí mismo.
+Quédate aquí mismo.
 
 563
 00:30:38,000 --> 00:30:41,000
-{Shinji}      ¿Qué sucede, Misato-san?
+¿Qué sucede, Misato-san?
 
 564
 00:30:41,000 --> 00:30:43,000
-{Shinji}      ¿No decías hace un momento que no me necesitabas?
+¿No decías hace un momento que no me necesitabas?
 
 565
 00:30:43,000 --> 00:30:45,000
-{Misato}      Aún así, quedarás bajo nuestra custodia.
+Aún así, quedarás bajo nuestra custodia.
 
 566
 00:30:45,000 --> 00:30:53,000
-{Shinji}      ¡Eso es injusto!
+¡Eso es injusto!
 
 567
 00:30:53,000 --> 00:30:53,000
-{Shinji}      ¡Por favor haz que se detenga!
+¡Por favor haz que se detenga!
 
 568
 00:30:53,000 --> 00:30:55,000
-{Shinji}      ¡El objetivo es un EVA!
+¡El objetivo es un EVA!
 
 569
 00:30:55,000 --> 00:30:57,000
-{Misato}      Efectivamente.
+Efectivamente.
 
 570
 00:30:57,000 --> 00:30:59,000
-{Misato}      Todos los EVAs de Nerv serán aniquilados.
+Todos los EVAs de Nerv serán aniquilados.
 
 571
 00:30:59,000 --> 00:31:01,000
-{Shinji}      Nerv...
+Nerv...
 
 572
 00:31:01,000 --> 00:31:02,000
-{Shinji}      ¿Acaso esto no es Nerv también?
+¿Acaso esto no es Nerv también?
 
 573
 00:31:02,000 --> 00:31:07,000
-{Misato}      Somos Wille, una organización cuyo propósito es destruir Nerv.
+Somos Wille, una organización cuyo propósito es destruir Nerv.
 
 574
 00:31:07,000 --> 00:31:09,000
-{Shinji}      Tal como...
+Tal como...
 
 575
 00:31:09,000 --> 00:31:12,000
-{Shinji}      ¡Pero no! ¡Está siendo piloteado por Ayanami!
+¡Pero no! ¡Está siendo piloteado por Ayanami!
 
 576
 00:31:12,000 --> 00:31:13,000
-{Misato}      ¡No es ella!
+¡No es ella!
 
 577
 00:31:13,000 --> 00:31:15,000
-{Misato}      Rei se ha ido, Shinji-kun.
+Rei se ha ido, Shinji-kun.
 
 578
 00:31:15,000 --> 00:31:16,000
-{Shinji}      ¡Mentiras!
+¡Mentiras!
 
 579
 00:31:16,000 --> 00:31:18,000
-{Shinji}      Quiero decir, ella está justo ahí, ¡¿no es así?!
+Quiero decir, ella está justo ahí, ¡¿no es así?!
 
 580
 00:31:18,000 --> 00:31:20,000
-{Shinji}      ¡Ya no entiendo, Misato-san!
+¡Ya no entiendo, Misato-san!
 
 581
 00:31:20,000 --> 00:31:24,000
-{Shinji}      ¡Ya tuve suficiente!
+¡Ya tuve suficiente!
 
 582
 00:31:24,000 --> 00:31:27,000
-{Sakura}      ¡Ikari-san!
+¡Ikari-san!
 
 583
 00:31:27,000 --> 00:31:29,000
-{Sakura}      Estoy de acuerdo,
+Estoy de acuerdo,
 
 584
 00:31:29,000 --> 00:31:31,000
-{Sakura}      ¡Pero por favor no pilotees el EVA!
+¡Pero por favor no pilotees el EVA!
 
 585
 00:31:31,000 --> 00:31:43,000
-{Sakura}      Quiero que me perdones, en serio.
+Quiero que me perdones, en serio.
 
 586
 00:31:43,000 --> 00:31:44,000
-{Asuka}       ¡Anteojos, no lo dejes ir!
+¡Anteojos, no lo dejes ir!
 
 587
 00:31:44,000 --> 00:31:48,000
-{Mari}        ¡Alto y claro!
+¡Alto y claro!
 
 588
 00:31:48,000 --> 00:31:50,000
-{Mari}        ♪ No abandonaré... ♪
+♪ No me rendiré... ♪
 
 589
 00:31:50,000 --> 00:31:55,000
-{Mari}        ♪ debería aspirar a una meta mayor... ♪
+♪ voy aspirar a una meta mayor... ♪
 
 590
 00:31:55,000 --> 00:32:02,000
-{Mari}        ¡Hey, come on!
+¡Hey, come on!
 
 591
 00:32:02,000 --> 00:32:09,000
-{Mari}        ¡Bien!
+¡Bien!
 
 592
 00:32:09,000 --> 00:32:17,000
-{Mari}        ¡Lo sabía! ¿Un recipiente de Adam?
+¡Lo sabía! ¿Un recipiente de Adams?
 
 593
 00:32:17,000 --> 00:32:22,000
-{Mari}        ¡Al menos di "hola" o algo!
+¡Al menos di "hola" o algo!
 
 594
 00:32:22,000 --> 00:32:25,000
-{Ritsuko}     El hecho de que él fuese tomado como prioridad sobre el EVA-01,
+El hecho de que él fuese tomado como prioridad sobre el EVA-01,
 
 595
 00:32:25,000 --> 00:32:27,000
-{Ritsuko}     ¡Quiere decir que todavía tiene potencial como disparador!
+¡Quiere decir que todavía tiene potencial como disparador!
 
 596
 00:32:27,000 --> 00:32:44,000
-{Ritsuko}     ¡Misato! ¡Usa el collar DSS!
+¡Misato! ¡Usa el collar DSS!
 
 597
 00:32:44,000 --> 00:32:46,000
-{Ritsuko}     Misión directiva del Oficial Ejecutivo.
+Misión directiva del Oficial Ejecutivo.
 
 598
 00:32:46,000 --> 00:32:47,000
-{Ritsuko}     Persecución innecesaria.
+Persecución innecesaria.
 
 599
 00:32:47,000 --> 00:32:51,000
-{Ritsuko}     Todo el personal, vuelvan a las operaciones de control de daños y camuflaje.
+Todo el personal, vuelvan a las operaciones de control de daños y camuflaje.
 
 600
 00:32:51,000 --> 00:32:52,000
-{Hombre}      Entendido.
+Entendido.
 
 601
 00:32:52,000 --> 00:32:54,000
-{Hombre}      Persecución innecesaria.
+Persecución innecesaria.
 
 602
 00:32:54,000 --> 00:32:55,000
-{Hombre}      Todo el personal, vuelvan a las operaciones de control de daños y camuflaje.
+Todo el personal, vuelvan a las operaciones de control de daños y camuflaje.
 
 603
 00:32:55,000 --> 00:32:56,000
-{Asuka}       ¿Qué te parece?.
+¿Qué te parece?.
 
 604
 00:32:56,000 --> 00:33:16,000
-{Asuka}       ¡No es ningún idiota, es un malcriado!
+¡No es ningún idiota, es un malcriado!
 
 605
 00:33:16,000 --> 00:33:18,000
-{Shinji}      La he salvado después de todo.
+La he salvado después de todo.
 
 606
 00:33:18,000 --> 00:33:21,000
-{Shinji}      Misato-san es una mentirosa.
+Misato-san es una mentirosa.
 
 607
 00:33:21,000 --> 00:33:48,000
-{Rei}         Por aquí.
+Por aquí.
 
 608
 00:33:48,000 --> 00:34:00,000
-{Shinji}      A pesar de que es el GeoFront, se puede ver el cielo.
+A pesar de que es el GeoFront, se puede ver el cielo.
 
 609
 00:34:00,000 --> 00:34:04,000
-{Shinji}      Esos son... ¿los Cuarteles Generales de Nerv?
+Esos son... ¿los Cuarteles Generales de Nerv?
 
 610
 00:34:04,000 --> 00:34:36,000
-{Shinji}      ¿Qué pasó?
+¿Qué pasó?
 
 611
 00:34:36,000 --> 00:35:15,000
-{Shinji}      De verdad han pasado 14 años.
+De verdad han pasado 14 años.
 
 612
 00:35:15,000 --> 00:35:19,000
-{Rei}         Llegamos.
+Llegamos.
 
 613
 00:35:19,000 --> 00:35:22,000
-{Shinji}      ¿Qué es esto?
+¿Qué es esto?
 
 614
 00:35:22,000 --> 00:35:23,000
-{Shinji}      ¿Un EVA?
+¿Un EVA?
 
 615
 00:35:23,000 --> 00:35:28,000
-{Gendo}       Así es.
+Así es.
 
 616
 00:35:28,000 --> 00:35:30,000
-{Shinji}      Padre...
+Padre...
 
 617
 00:35:30,000 --> 00:35:32,000
-{Gendo}       Evangelion unidad 13.
+Evangelion Unidad 13.
 
 618
 00:35:32,000 --> 00:35:37,000
-{Gendo}       Una Unidad para ti y aquél piloto.
+Una Unidad para ti y aquél piloto.
 
 619
 00:35:37,000 --> 00:35:40,000
-{Shinji}      Aquél, ¿el del piano?
+Aquél, ¿el del piano?
 
 620
 00:35:40,000 --> 00:35:45,000
-{Gendo}       Cuando llegue el momento, pilotearás este EVA junto con el muchacho.
+Cuando llegue el momento, pilotearás este EVA junto con el muchacho.
 
 621
 00:35:45,000 --> 00:35:48,000
-{Gendo}       La conversación ha terminado.
+La conversación ha terminado.
 
 622
 00:35:48,000 --> 00:35:49,000
-{Shinji}      ¡Espera un momento, padre!
+¡Espera un momento, padre!
 
 623
 00:35:49,000 --> 00:35:53,000
-{Shinji}      ¡Todavía tengo muchas preguntas y muchas cosas de qué hablar!
+¡Todavía tengo muchas preguntas y muchas cosas de qué hablar!
 
 624
 00:35:53,000 --> 00:36:04,000
-{Shinji}      ¡Padre!
+¡Padre!
 
 625
 00:36:04,000 --> 00:36:06,000
-{Shinji}      No hay señal.
+No hay señal.
 
 626
 00:36:06,000 --> 00:36:29,000
-{Shinji}      No podré comunicarme con nadie desde aquí.
+No podré comunicarme con nadie desde aquí.
 
 627
 00:36:29,000 --> 00:36:42,000
-{Shinji}      Después de todo, tengo que agradecerle a ella.
+Después de todo, tengo que agradecerle a ella.
 
 628
 00:36:42,000 --> 00:36:46,000
-{Shinji}      ¡Ayanami!
+¡Ayanami!
 
 629
 00:36:46,000 --> 00:36:50,000
-{Shinji}      ¿Dónde estás, Ayanami?
+¿Dónde estás, Ayanami?
 
 630
 00:36:50,000 --> 00:37:26,000
-{Shinji}      ¡Ayanami!
+¡Ayanami!
 
 631
 00:37:26,000 --> 00:37:30,000
-{Shinji}      Qué raro, este lugar es...
+Qué raro, este lugar es...
 
 632
 00:37:30,000 --> 00:37:31,000
-{Shinji}      ¡¿Ayanami?!
+¡¿Ayanami?!
 
 633
 00:37:31,000 --> 00:37:35,000
-{Shinji}      ¡Ahí estás!
+¡Ahí estás!
 
 634
 00:37:35,000 --> 00:37:36,000
-{Shinji}      ¡Ayanami!
+¡Ayanami!
 
 635
 00:37:36,000 --> 00:37:37,000
-{Shinji}      ¡Te estuve buscando!
+¡Te estuve buscando!
 
 636
 00:37:37,000 --> 00:37:40,000
-{Shinji}      Ah, ¡espera!
+Ah, ¡espera!
 
 637
 00:37:40,000 --> 00:37:44,000
-{Shinji}      ¡Tu ropa! ¡Ponte algo de ropa!
+¡Tu ropa! ¡Ponte algo de ropa!
 
 638
 00:37:44,000 --> 00:37:48,000
-{Rei}         Si eso fue una orden, lo haré.
+Si eso fue una orden, lo haré.
 
 639
 00:37:48,000 --> 00:37:53,000
-{Shinji}      Estoy entrando...
+Estoy entrando...
 
 640
 00:37:53,000 --> 00:37:59,000
-{Shinji}      Ayanami, gracias por esto.
+Ayanami, gracias por esto.
 
 641
 00:37:59,000 --> 00:38:09,000
-{Shinji}      Quiero darte las gracias desde hace tiempo.
+Quiero darte las gracias desde hace tiempo.
 
 642
 00:38:09,000 --> 00:38:12,000
-{Shinji}      Han remodelado tu plugsuit.
+Han remodelado tu plugsuit.
 
 643
 00:38:12,000 --> 00:38:21,000
-{Shinji}      Te queda bien. Aunque el negro es un poco...
+Te queda bien. Aunque el negro es un poco...
 
 644
 00:38:21,000 --> 00:38:28,000
-{Shinji}      Los cuarteles de Nerv han cambiado bastante, ¿no?
+Los cuarteles de Nerv han cambiado bastante, ¿no?
 
 645
 00:38:28,000 --> 00:38:33,000
-{Shinji}      ¿Por qué Misato-san está peleando contra Nerv y no contra los Ángeles?
+¿Por qué Misato-san está peleando contra Nerv y no contra los Ángeles?
 
 646
 00:38:33,000 --> 00:38:36,000
-{Shinji}      ¿Qué quiere hacer mi padre aquí?
+¿Qué quiere hacer mi padre aquí?
 
 647
 00:38:36,000 --> 00:38:38,000
-{Shinji}      ¿Qué pasó con todos?
+¿Qué pasó con todos?
 
 648
 00:38:38,000 --> 00:38:42,000
-{Shinji}      Oye, Ayanami, ¿sabes algo?
+Oye, Ayanami, ¿sabes algo?
 
 649
 00:38:42,000 --> 00:38:43,000
-{Rei}         No lo se.
+No lo se.
 
 650
 00:38:43,000 --> 00:38:46,000
-{Shinji}      Ya veo.
+Ya veo.
 
 651
 00:38:46,000 --> 00:38:49,000
-{Shinji}      Si, puede ser.
+Si, puede ser.
 
 652
 00:38:49,000 --> 00:38:59,000
-{Shinji}      Oye, Ayanami, ¿cuándo regresaste del EVA-01?
+Oye, Ayanami, ¿cuándo regresaste del EVA-01?
 
 653
 00:38:59,000 --> 00:39:03,000
-{Shinji}      Este lugar ni siquiera es una habitación.
+Este lugar ni siquiera es una habitación.
 
 654
 00:39:03,000 --> 00:39:06,000
-{Shinji}      Puedes decir que es tu estilo,
+Puedes decir que es tu estilo,
 
 655
 00:39:06,000 --> 00:39:10,000
-{Shinji}      pero parece que tampoco vas al colegio, ¿entonces qué haces todo el tiempo?
+pero parece que tampoco vas al colegio, ¿entonces qué haces todo el tiempo?
 
 656
 00:39:10,000 --> 00:39:15,000
-{Rei}         Esperar. Por órdenes.
+Esperar. Por órdenes.
 
 657
 00:39:15,000 --> 00:39:17,000
-{Shinji}      No hay libros aquí.
+No hay libros aquí.
 
 658
 00:39:17,000 --> 00:39:19,000
-{Shinji}      ¿No estás leyendo libros?
+¿No estás leyendo libros?
 
 659
 00:39:19,000 --> 00:39:21,000
-{Rei}         ¿Libros?
+¿Libros?
 
 660
 00:39:21,000 --> 00:39:24,000
-{Rei}         Si fuese Ayanami Rei, ¿leería libros?
+Si fuese Ayanami Rei, ¿leería libros?
 
 661
 00:39:24,000 --> 00:39:27,000
-{Shinji}      Si. Lees mucho, ¿o no?
+Si. Lees mucho, ¿o no?
 
 662
 00:39:27,000 --> 00:39:29,000
-{Shinji}      Habían libros en mi habitación también.
+Habían libros en mi habitación también.
 
 663
 00:39:29,000 --> 00:39:30,000
-{Rei}         Ya veo...
+Ya veo...
 
 664
 00:39:30,000 --> 00:39:31,000
-{Shinji}      ¡Lo tengo!
+¡Lo tengo!
 
 665
 00:39:31,000 --> 00:39:34,000
-{Shinji}      Voy a ver en la biblioteca aquí y te traeré algunos.
+Voy a ver en la biblioteca aquí y te traeré algunos.
 
 666
 00:39:34,000 --> 00:39:37,000
-{Shinji}      Libros de Inglés están bien, ¿verdad?
+Libros de Inglés están bien, ¿verdad?
 
 667
 00:39:37,000 --> 00:39:40,000
-{Shinji}      Siempre tenías uno contigo, así que creo que te gustaba.
+Siempre tenías uno contigo, así que creo que te gustaba.
 
 668
 00:39:40,000 --> 00:39:41,000
-{Rei}         ¿Gustaba?
+¿Gustaba?
 
 669
 00:39:41,000 --> 00:39:44,000
-{Shinji}      Sí... Al menos, eso creo.
+Sí... Al menos, eso creo.
 
 670
 00:39:44,000 --> 00:39:56,000
-{Rei}         ¿Qué es "gustaba"?
+¿Qué es "gustaba"?
 
 671
 00:39:56,000 --> 00:40:00,000
-{Fuyutsuki}   ¿Entonces Seele sigue en silencio?
+¿Entonces Seele sigue en silencio?
 
 672
 00:40:00,000 --> 00:40:05,000
-{Gendo}       El Proyecto de Instrumentalización Humana será realizado de acuerdo a los Rollos del Mar Muerto.
+El Proyecto de Instrumentalización Humana será realizado de acuerdo a los Rollos del Mar Muerto.
 
 673
 00:40:05,000 --> 00:40:09,000
-{Gendo}       Ya no necesitamos entretejer la historia.
+Ya no necesitamos entretejer la historia.
 
 674
 00:40:09,000 --> 00:40:15,000
-{Fuyutsuki}   Ikari, ¿esta vez intentas usar al EVA-13?
+Ikari, ¿esta vez intentas usar al EVA-13?
 
 675
 00:40:15,000 --> 00:40:21,000
-{Fuyutsuki}   No importa. Voy a seguir con tu plan.
+No importa. Voy a seguir con tu plan.
 
 676
 00:40:21,000 --> 00:40:25,000
-{Fuyutsuki}   Por el bien de Yui.
+Por el bien de Yui.
 
 677
 00:40:25,000 --> 00:40:35,000
-{Shinji}      Es inútil. No sirve.
+Es inútil. No sirve.
 
 678
 00:40:35,000 --> 00:40:36,000
-{Misato}      No hagas nada.
+No hagas nada.
 
 679
 00:40:36,000 --> 00:40:38,000
-{Asuka}       No te incumbe.
+No te incumbe.
 
 680
 00:40:38,000 --> 00:40:40,000
-{Sakura}      ¡Por favor, no pilotees el EVA!
+¡Por favor, no pilotees el EVA!
 
 681
 00:40:40,000 --> 00:40:41,000
-{Gendo}       Pilotea el EVA.
+Pilotea el EVA.
 
 682
 00:40:41,000 --> 00:41:37,000
-{Rei}         No lo sé.
+No lo sé.
 
 683
 00:41:37,000 --> 00:41:39,000
-{Kaworu}      Ven aquí, Ikari-kun.
+Ven aquí, Ikari-kun.
 
 684
 00:41:39,000 --> 00:41:46,000
-{Kaworu}      ¡Hablemos un momento!
+¡Hablemos un momento!
 
 685
 00:41:46,000 --> 00:41:49,000
-{Shinji}      U-Uh, ¿no ibamos a hablar?
+U-Uh, ¿no ibamos a hablar?
 
 686
 00:41:49,000 --> 00:41:52,000
-{Kaworu}      Se puede decir que un dueto de piano es un diálogo de sonidos.
+Se puede decir que un dueto de piano es un diálogo de sonidos.
 
 687
 00:41:52,000 --> 00:41:56,000
-{Kaworu}      ¿Por qué no lo intentamos?
+¿Por qué no lo intentamos?
 
 688
 00:41:56,000 --> 00:41:58,000
-{Shinji}      No, está bien. No puedo tocar.
+Está bien, pero lo veo imposible.
 
 689
 00:41:58,000 --> 00:42:08,000
-{Kaworu}      Si quieres vivir bien, tienes que cambiar e intentar nuevas cosas.
+Si quieres vivir bien, tienes que cambiar e intentar nuevas cosas.
 
 690
 00:42:08,000 --> 00:42:09,000
-{Kaworu}      Mira, es fácil.
+Mira, es fácil.
 
 691
 00:42:09,000 --> 00:42:27,000
-{Kaworu}      Solo tienes que darle a esta tecla.
+Solo tienes que darle a esta tecla.
 
 692
 00:42:27,000 --> 00:42:53,000
-{Kaworu}      Ahora, sígueme.
+Ahora, sígueme.
 
 693
 00:42:53,000 --> 00:42:55,000
-{Kaworu}      ¡Muy bien!
+¡Muy bien!
 
 694
 00:42:55,000 --> 00:43:32,000
-{Kaworu}      Estás tocando bastante bien.
+Estás tocando bastante bien.
 
 695
 00:43:32,000 --> 00:43:35,000
-{Kaworu}      Suena divertido.
+Suena divertido.
 
 696
 00:43:35,000 --> 00:43:42,000
-{Kaworu}      Somos increíbles juntos, ¿no?
+Somos increíbles juntos, ¿no?
 
 697
-00:43:42,000 --> 00:44:44,000
-{Shinji}      Gracias.
+00:43:42,000 --> 00:43:44,000
+Gracias.
 
 698
-00:44:44,000 --> 00:43:46,000
-{Shinji}      Hace mucho que no me divertía tanto.
+00:43:44,000 --> 00:43:46,000
+Hace mucho que no me divertía tanto.
 
 699
 00:43:46,000 --> 00:43:48,000
-{Kaworu}      Yo también.
+Yo también.
 
 700
 00:43:48,000 --> 00:43:49,000
-{Kaworu}      Lo haremos de nuevo.
+Lo haremos de nuevo.
 
 701
 00:43:49,000 --> 00:43:52,000
-{Kaworu}      Puedes venir cuando quieras, Ikari Shinji-kun.
+Puedes venir cuando quieras, Ikari Shinji-kun.
 
 702
 00:43:52,000 --> 00:43:53,000
-{Shinji}      Seguro.
+Seguro.
 
 703
 00:43:53,000 --> 00:43:55,000
-{Shinji}      Ah, por cierto ¿tú eres...?
+Ah, por cierto ¿tú eres...?
 
 704
 00:43:55,000 --> 00:43:59,000
-{Kaworu}      Soy Kaworu, Nagisa Kaworu.
+Soy Kaworu, Nagisa Kaworu.
 
 705
 00:43:59,000 --> 00:44:08,000
-{Kaworu}      Soy igual que tú, un niño elegido por el destino.
+Soy igual que tú, un niño elegido por el destino.
 
 706
 00:44:08,000 --> 00:44:11,000
-{Shinji}      Ella tampoco está aquí esta vez.
+Ella tampoco está aquí esta vez.
 
 707
 00:44:11,000 --> 00:44:29,000
-{Shinji}      Los libros están intactos.
+Los libros están intactos.
 
 708
 00:44:29,000 --> 00:44:33,000
-{Kaworu}      Buenos días, Ikari Shinji-kun.
+Buenos días, Ikari Shinji-kun.
 
 709
 00:44:33,000 --> 00:44:35,000
-{Kaworu}      Hoy llegaste temprano.
+Hoy llegaste temprano.
 
 710
 00:44:35,000 --> 00:45:07,000
-{Shinji}      Realmente no tengo nada más que hacer.
+Realmente no tengo nada más que hacer.
 
 711
 00:45:07,000 --> 00:45:10,000
-{Shinji}      Me pregunto cómo podría mejorar...
+Me pregunto cómo podría mejorar...
 
 712
 00:45:10,000 --> 00:45:13,000
-{Kaworu}      No necesitas ser bueno en esto.
+No necesitas ser bueno en esto.
 
 713
 00:45:13,000 --> 00:45:17,000
-{Kaworu}      Con solo producir un sonido agradable es suficiente.
+Con solo producir un sonido agradable es suficiente.
 
 714
 00:45:17,000 --> 00:45:21,000
-{Shinji}      Entonces si quiero mejorar el sonido, ¿qué debo hacer?
+Entonces si quiero mejorar el sonido, ¿qué debo hacer?
 
 715
 00:45:21,000 --> 00:45:23,000
-{Kaworu}      Requiere mucha práctica.
+Requiere mucha práctica.
 
 716
 00:45:23,000 --> 00:45:30,000
-{Kaworu}      Y haciéndolo muchas veces hasta que sientas que es lo suficientemente bueno para ti.
+Y haciéndolo muchas veces hasta que sientas que es lo suficientemente bueno para ti.
 
 717
 00:45:30,000 --> 00:46:02,000
-{Kaworu}      Esa es la única forma.
+Esa es la única forma.
 
 718
 00:46:02,000 --> 00:46:03,000
-{Kaworu}      Está bien, déjamelo a mi.
+Está bien, déjamelo a mi.
 
 719
 00:46:03,000 --> 00:46:05,000
-{Kaworu}      Puedo hacerlo funcionar.
+Puedo hacerlo funcionar.
 
 720
 00:46:05,000 --> 00:46:07,000
-{Shinji}      Hm, gracias.
+Hm, gracias.
 
 721
 00:46:07,000 --> 00:46:10,000
-{Shinji}      Me siento mal por hacerte hacer mucho por mi.
+Me siento mal por hacerte hacer mucho por mi.
 
 722
 00:46:10,000 --> 00:46:12,000
-{Kaworu}      No tienes que preocuparte por eso.
+No tienes que preocuparte por eso.
 
 723
 00:46:12,000 --> 00:46:18,000
-{Kaworu}      Somos amigos, después de todo.
+Somos amigos, después de todo.
 
 724
 00:46:18,000 --> 00:46:20,000
-{Kaworu}      Se ha puesto un poco oscuro, ¿no?
+Se ha puesto un poco oscuro, ¿no?
 
 725
 00:46:20,000 --> 00:46:23,000
-{Kaworu}      ¿Por qué no regresamos?
+¿Por qué no regresamos?
 
 726
-00:46:23,000 --> 00:45:26,000
-{Shinji}      Oye, ¿no quieres quedarte otro rato más?
+00:46:23,000 --> 00:46:26,000
+Oye, ¿no quieres quedarte otro rato más?
 
 727
-00:45:26,000 --> 00:46:28,000
-{Shinji}      Podríamos ver las estrellas desde aquí.
+00:46:26,000 --> 00:46:28,000
+Podríamos ver las estrellas desde aquí.
 
 728
 00:46:28,000 --> 00:46:31,000
-{Kaworu}      ¿Las estrellas?
+¿Las estrellas?
 
 729
 00:46:31,000 --> 00:46:34,000
-{Kaworu}      ¿Te gustan las estrellas?
+¿Te gustan las estrellas?
 
 730
 00:46:34,000 --> 00:46:36,000
-{Shinji}      Si.
+Si.
 
 731
 00:46:36,000 --> 00:46:39,000
-{Shinji}      Siempre me sorprendió lo grande que es el universo.
+Siempre me sorprendió lo grande que es el universo.
 
 732
 00:46:39,000 --> 00:46:44,000
-{Shinji}      Hay algo en él que me gusta, desde pequeño.
+Hay algo en él que me gusta, desde pequeño.
 
 733
 00:46:44,000 --> 00:46:49,000
-{Shinji}      Supongo que estoy feliz de que no haya cambiado tanto en estos 14 años.
+Supongo que estoy feliz de que no haya cambiado tanto en estos 14 años.
 
 734
 00:46:49,000 --> 00:46:55,000
-{Shinji}      Me tranquiliza, se podría decir.
+Me tranquiliza, se podría decir.
 
 735
 00:46:55,000 --> 00:46:58,000
-{Shinji}      Uh, es difícil expresarlo con palabras.
+Uh, es difícil expresarlo con palabras.
 
 736
 00:46:58,000 --> 00:47:01,000
-{Kaworu}      Tus sentimientos se abren paso.
+Tus sentimientos se abren paso.
 
 737
 00:47:01,000 --> 00:47:06,000
-{Kaworu}      En lugar de buscar el cambio, prefieres un mundo vacío y un abismo salvaje.
+En lugar de buscar el cambio, prefieres un mundo despiadado y un abismo nihilista.
 
 738
 00:47:06,000 --> 00:47:09,000
-{Kaworu}      Es como tú.
+Es como tú.
 
 739
 00:47:09,000 --> 00:47:12,000
-{Kaworu}      Estar tirados aquí juntos es agradable.
+Estar tirados aquí juntos es agradable.
 
 740
 00:47:12,000 --> 00:47:15,000
-{Kaworu}      No sabía que podía ser tan placentero.
+No sabía que podía ser tan placentero.
 
 741
 00:47:15,000 --> 00:47:18,000
-{Kaworu}      Gracias por invitarme.
+Gracias por invitarme.
 
 742
 00:47:18,000 --> 00:47:20,000
-{Shinji}      No tienes por qué agradecerme.
+No tienes por qué agradecerme.
 
 743
 00:47:20,000 --> 00:47:27,000
-{Shinji}      Solo supuse de que sería divertido, si querías intentarlo, y...
+Solo supuse de que sería divertido, si querías intentarlo, y...
 
 744
 00:47:27,000 --> 00:47:30,000
-{Kaworu}      Fue divertido.
+Fue divertido.
 
 745
 00:47:30,000 --> 00:47:44,000
-{Kaworu}      De verdad nací para conocerte.
+De verdad nací para conocerte.
 
 746
 00:47:44,000 --> 00:47:50,000
-{Shinji}      Hm?
+¿Hm?
 
 747
 00:47:50,000 --> 00:47:53,000
-{Shinji}      Parece un poco más grande ahora.
+Parece un poco más grande ahora.
 
 748
 00:47:53,000 --> 00:48:00,000
-{Shinji}      Huh?
+¿Huh?
 
 749
 00:48:00,000 --> 00:48:03,000
-{Kaworu}      Ten, esto debería funcionar.
+Ten, esto debería funcionar.
 
 750
 00:48:03,000 --> 00:48:04,000
-{Shinji}      Gracias.
+Gracias.
 
 751
 00:48:04,000 --> 00:48:06,000
-{Shinji}      Eres increíble, Nagisa-kun.
+Eres increíble, Nagisa-kun.
 
 752
 00:48:06,000 --> 00:48:08,000
-{Shinji}      Puedes hacerlo todo.
+Puedes hacerlo todo.
 
 753
 00:48:08,000 --> 00:48:10,000
-{Kaworu}      Es solo conocimiento.
+Es solo conocimiento.
 
 754
 00:48:10,000 --> 00:48:14,000
-{Kaworu}      Es porque estuve en este mundo un poco más que tu.
+Es porque estuve en este mundo un poco más que tu.
 
 755
 00:48:14,000 --> 00:48:18,000
-{Shinji}      No importa... Eres increíble.
+No importa... Eres increíble.
 
 756
 00:48:18,000 --> 00:48:20,000
-{Kaworu}      No te ves muy bien.
+No te ves muy bien.
 
 757
 00:48:20,000 --> 00:48:25,000
-{Kaworu}      ¿Qué sucede?
+¿Qué sucede?
 
 758
 00:48:25,000 --> 00:48:29,000
-{Shinji}      Me preocupa mis amigos.
+Me preocupa mis amigos.
 
 759
 00:48:29,000 --> 00:48:30,000
-{Kaworu}      ¿Amigos?
+¿Amigos?
 
 760
 00:48:30,000 --> 00:48:32,000
-{Shinji}      Si.
+Si.
 
 761
 00:48:32,000 --> 00:48:35,000
-{Shinji}      Había una ciudad sobre los cuarteles de Nerv.
+Había una ciudad sobre los cuarteles de Nerv.
 
 762
 00:48:35,000 --> 00:48:37,000
-{Shinji}      Ahí es donde todos vivían.
+Ahí es donde todos vivían.
 
 763
 00:48:37,000 --> 00:48:38,000
-{Shinji}      Toji y Kensuke,
+Toji y Kensuke,
 
 764
 00:48:38,000 --> 00:48:41,000
-{Shinji}      el resto de la clase...
+el resto de la clase...
 
 765
 00:48:41,000 --> 00:48:45,000
-{Shinji}      Aparentemente he dormido en el EVA-01 por 14 años.
+Aparentemente he dormido en el EVA-01 por 14 años.
 
 766
 00:48:45,000 --> 00:48:50,000
-{Shinji}      No se qué habrá cambiado en todo ese tiempo.
+No se qué habrá cambiado en todo ese tiempo.
 
 767
 00:48:50,000 --> 00:48:54,000
-{Kaworu}      No conocer la respuesta a eso debe ser doloroso.
+No conocer la respuesta a eso debe ser doloroso.
 
 768
 00:48:54,000 --> 00:48:57,000
-{Shinji}      De todos modos, tengo miedo.
+De todos modos, tengo miedo.
 
 769
 00:48:57,000 --> 00:49:02,000
-{Shinji}      De lo que le sucedió a la ciudad y a todos...
+De lo que le sucedió a la ciudad y a todos...
 
 770
 00:49:02,000 --> 00:49:04,000
-{Shinji}      De alguna manera tengo miedo por eso.
+De alguna manera tengo miedo por eso.
 
 771
 00:49:04,000 --> 00:49:15,000
-{Shinji}      Es así, ¡tengo miedo!
+Es así, ¡tengo miedo!
 
 772
 00:49:15,000 --> 00:49:44,000
-{Kaworu}      ¿Quieres saberlo?
+¿Quieres saberlo?
 
 773
 00:49:44,000 --> 00:49:46,000
-{Shinji}      ¿Nagisa-kun?
+¿Nagisa-kun?
 
 774
 00:49:46,000 --> 00:50:03,000
-{Shinji}      ¡Nagisa-kun!
+¡Nagisa-kun!
 
 775
 00:50:03,000 --> 00:50:22,000
-{Kaworu}      Solo un poco más.
+Solo un poco más.
 
 776
 00:50:22,000 --> 00:50:24,000
-{Kaworu}      Las nubes se disperarán pronto,
+Las nubes se disperarán pronto,
 
 777
 00:50:24,000 --> 00:50:36,000
-{Kaworu}      y verás la verdad que deseas.
+y verás la verdad que deseas.
 
 778
 00:50:36,000 --> 00:50:42,000
-{Shinji}      ¿Qué es esto?
+¿Qué es esto?
 
 779
 00:50:42,000 --> 00:50:51,000
-{Kaworu}      El resultado del Tercer Impacto, que sucedió cuando te fusionaste con el EVA-01.
+El resultado del Tercer Impacto, que sucedió cuando te fusionaste con el EVA-01.
 
 780
 00:50:51,000 --> 00:50:53,000
-{Shinji}      Pero esto es...
+Pero esto es...
 
 781
 00:50:53,000 --> 00:50:55,000
-{Shinji}      ¿Qué pasó con todos en la ciudad?
+¿Qué pasó con todos en la ciudad?
 
 782
 00:50:55,000 --> 00:50:58,000
-{Kaworu}      La extinción masiva no es inusual en este planeta.
+La extinción masiva no es inusual en este planeta.
 
 783
 00:50:58,000 --> 00:51:02,000
-{Kaworu}      Más bien, es uno de los aspectos de la evolución.
+Más bien, es uno de los aspectos de la evolución.
 
 784
 00:51:02,000 --> 00:51:08,000
-{Kaworu}      Porque la vida fundamentalmente es algo que cambia y se ajusta al mundo.
+Porque la vida es algo que cambia y se ajusta al mundo.
 
 785
 00:51:08,000 --> 00:51:15,000
-{Kaworu}      Sin embargo, los Lilin no cambian ellos mismos, sino al mundo.
+Sin embargo, los Lilin no cambian ellos mismos, sino al mundo.
 
 786
 00:51:15,000 --> 00:51:21,000
-{Kaworu}      Así que inventaron un ritual de evolución artificial para ellos mismos.
+Entonces inventaron un ritual de evolución artificial para complacerse.
 
 787
 00:51:21,000 --> 00:51:23,000
-{Kaworu}      La vieja vida es ofrecida en sacrificio,
+La vieja vida es ofrecida en sacrificio,
 
 788
 00:51:23,000 --> 00:51:29,000
-{Kaworu}      para que nuevas criaturas bendecidas con el Fruto de la Vida puedan ser creadas.
+para que nuevas criaturas bendecidas con el Fruto de la Vida puedan ser creadas.
 
 789
 00:51:29,000 --> 00:51:33,000
-{Kaworu}      Todo se debe al instinto de muerte que ha sido programado desd tiempos inmemoriables.
+Todo se debe al instinto de muerte que ha sido programado desde tiempos inmemoriables.
 
 790
 00:51:33,000 --> 00:51:38,000
-{Kaworu}      Nerv lo llama Proyecto de Instrumentalización Humana.
+Nerv lo llama Proyecto de Instrumentalización Humana.
 
 791
 00:51:38,000 --> 00:51:43,000
-{Shinji}      Esto es lo que Nerv...
+Esto es lo que Nerv...
 
 792
 00:51:43,000 --> 00:51:48,000
-{Shinji}      Esto es lo que mi padre estuvo haciendo.
+Esto es lo que mi padre estuvo haciendo.
 
 793
 00:51:48,000 --> 00:51:50,000
-{Kaworu}      Ikari Shinji-kun,
+Ikari Shinji-kun,
 
 794
 00:51:50,000 --> 00:51:55,000
-{Kaworu}      cuando el EVA-01 despertó, abrió la Puerta de Gauf
+cuando el EVA-01 despertó, abrió la Puerta de Guf,
 
 795
 00:51:55,000 --> 00:51:58,000
-{Kaworu}      y se convirtió en el detonante del Tercer Impacto.
+y se convirtió en el detonante del Tercer Impacto.
 
 796
 00:51:58,000 --> 00:52:02,000
-{Kaworu}      Los Lilin lo llaman Casi Tercer Impacto.
+Los Lilin lo llaman Casi Tercer Impacto.
 
 797
 00:52:02,000 --> 00:52:09,000
-{Kaworu}      Y tú lo has iniciado.
+Y tú lo has iniciado.
 
 798
 00:52:09,000 --> 00:52:10,000
-{Shinji}      ¡Te equivocas!
+¡Te equivocas!
 
 799
 00:52:10,000 --> 00:52:16,000
-{Shinji}      ¡Todo lo que hice fue salvar a Ayanami!
+¡Todo lo que hice fue salvar a Ayanami!
 
 800
 00:52:16,000 --> 00:52:21,000
-{Kaworu}      Cierto, pero esa fue la causa...
+Cierto, pero esa fue la causa...
 
 801
 00:52:21,000 --> 00:52:25,000
-{Shinji}      Todo esto...
+Todo esto...
 
 802
 00:52:25,000 --> 00:52:27,000
-{Shinji}      ¡Yo no lo sabía!
+¡Yo no lo sabía!
 
 803
 00:52:27,000 --> 00:52:29,000
-{Shinji}      Me dices todo esto tan rápido,
+Me dices todo esto tan rápido,
 
 804
 00:52:29,000 --> 00:52:30,000
-{Shinji}      ¡y no hay nada que pueda hacer al respecto!
+¡y no hay nada que pueda hacer al respecto!
 
 805
 00:52:30,000 --> 00:52:31,000
-{Kaworu}      En efecto.
+En efecto.
 
 806
 00:52:31,000 --> 00:52:35,000
-{Kaworu}      No hay nada que puedas hacer con tu pasado.
+No hay nada que puedas hacer con tu pasado.
 
 807
 00:52:35,000 --> 00:52:38,000
-{Kaworu}      La verdad que deseaste conocer.
+Es la verdad que deseabas conocer.
 
 808
 00:52:38,000 --> 00:52:43,000
-{Kaworu}      Los Lilin te hacen pagar el precio como resultado de tu pecado.
+Los Lilin te hacen pagar el precio como resultado de tu pecado.
 
 809
 00:52:43,000 --> 00:52:48,000
-{Kaworu}      Para eso es tu collar ¿no?
+¿Qué crees que hace esa cosa en tu cuello?
 
 810
 00:52:48,000 --> 00:52:50,000
-{Shinji}      ¿Cuál pecado?
+¿Cuál pecado?
 
 811
 00:52:50,000 --> 00:52:52,000
-{Shinji}      ¡Yo no hice nada!
+¡Yo no hice nada!
 
 812
 00:52:52,000 --> 00:52:54,000
-{Shinji}      ¡No tuve nada que ver con esto!
+¡No tuve nada que ver con esto!
 
 813
 00:52:54,000 --> 00:52:58,000
-{Kaworu}      Si no fuiste tú, ¿entonces quién fue?
+Si no fuiste tú, ¿entonces quién fue?
 
 814
 00:52:58,000 --> 00:53:02,000
-{Kaworu}      Sin embargo, no hay pecado que no pueda redimirse.
+Sin embargo, no hay pecado que no pueda redimirse.
 
 815
 00:53:02,000 --> 00:53:04,000
-{Kaworu}      Siempre hay esperanza.
+Siempre hay esperanza.
 
 816
 00:53:04,000 --> 00:53:23,000
-{Kaworu}      Siempre.
+Siempre.
 
 817
 00:53:23,000 --> 00:53:27,000
-{Fuyutsuki}   El Elegido de Seele ha contactado al Tercer Chico.
+El Elegido de Seele ha contactado al Tercer Chico.
 
 818
 00:53:27,000 --> 00:53:30,000
-{Fuyutsuki}   Parece que ya le contó todo lo acontecido
+Parece que ya le contó todo lo acontecido
 
 819
 00:53:30,000 --> 00:53:33,000
-{Fuyutsuki}   ¿Reaccionó como tú lo esperabas?
+¿Reaccionó como tú lo esperabas?
 
 820
 00:53:33,000 --> 00:53:35,000
-{Fuyutsuki}   ¿Está bien, Ikari?
+¿Está bien, Ikari?
 
 821
 00:53:35,000 --> 00:53:39,000
-{Gendo}       Estamos reescribiendo el escenario de Seele.
+Estamos reescribiendo el escenario de Seele.
 
 822
 00:53:39,000 --> 00:53:42,000
-{Gendo}       Toda la existencia no es más que una herramienta para tal fin.
+Toda la existencia no es más que una herramienta para tal fin.
 
 823
 00:53:42,000 --> 00:53:48,000
-{Fuyutsuki}   ¿Aún cuando tu hijo conoce el camino que sigues?
+¿Aún cuando tu hijo ya sabe el camino que sigues?
 
 824
 00:53:48,000 --> 00:53:53,000
-{Fuyutsuki}   No estoy de acuerdo con eso.
+No estoy de acuerdo con eso.
 
 825
 00:53:53,000 --> 00:53:56,000
-{Shinji}      Qué es...
+Qué es...
 
 826
 00:53:56,000 --> 00:54:03,000
-{Shinji}      Qué se supone...
+Qué se supone...
 
 827
 00:54:03,000 --> 00:54:06,000
-{Shinji}      Bueno... salvé a Ayanami...
+Bueno... Salvé a Ayanami...
 
 828
 00:54:06,000 --> 00:54:32,000
-{Shinji}      ¿Eso no fue algo bueno?
+¿Eso no fue algo bueno?
 
 829
 00:54:32,000 --> 00:54:34,000
-{Shinji}      Se ha ido de nuevo.
+Se ha ido de nuevo.
 
 830
 00:54:34,000 --> 00:54:38,000
-{Shinji}      Sigue sin haber tocado los libros.
+Sigue sin haber tocado los libros.
 
 831
 00:54:38,000 --> 00:54:40,000
-{Shinji}      ¿Qué sucede?
+¿Qué sucede?
 
 832
 00:54:40,000 --> 00:54:53,000
-{Shinji}      ¡¿Qué le hicieron a Ayanami?!
+¡¿Qué le hicieron a Ayanami?!
 
 833
 00:54:53,000 --> 00:54:57,000
-{Fuyutsuki}   Tercer Elegeido, ¿juegas shogi?
+Tercer Elegido, ¿juegas shogi?
 
 834
 00:54:57,000 --> 00:55:00,000
-{Shinji}      Eh... Solo conozco las reglas.
+Eh... Solo conozco las reglas.
 
 835
 00:55:00,000 --> 00:55:03,000
-{Fuyutsuki}   Está bien. Elige un lado.
+Está bien. Elige un lado.
 
 836
 00:55:03,000 --> 00:55:12,000
-{Fuyutsuki}   Comenzaré sin torre ni generales de oro.
+Comenzaré sin torre.
 
 837
 00:55:12,000 --> 00:55:16,000
-{Fuyutsuki}   Tienes que concentrarte.
+Tienes que concentrarte.
 
 838
 00:55:16,000 --> 00:55:19,000
-{Fuyutsuki}   Es la única forma de ganar.
+Es la única forma de ganar.
 
 839
 00:55:19,000 --> 00:55:24,000
-{Fuyutsuki}   Perderás en treinta y un turnos.
+Perderás en treinta y un turnos.
 
 840
 00:55:24,000 --> 00:55:31,000
-{Fuyutsuki}   Hmm...
+Hmm...
 
 841
 00:55:31,000 --> 00:55:35,000
-{Fuyutsuki}   ¿Es más divertido para tí de esta forma?
+¿Es más divertido para tí de esta forma?
 
 842
 00:55:35,000 --> 00:55:43,000
-{Fuyutsuki}   Gracias por darle el gusto a un anciano con su pasatiempo.
+Gracias por darle el gusto a un anciano con su pasatiempo.
 
 843
 00:55:43,000 --> 00:55:45,000
-{Fuyutsuki}   También soy un cobarde, sabes.
+También soy un cobarde, sabes.
 
 844
 00:55:45,000 --> 00:55:50,000
-{Fuyutsuki}   Usé este juego como pretexto para hablar contigo.
+Usé este juego como pretexto para hablar contigo.
 
 845
 00:55:50,000 --> 00:55:54,000
-{Fuyutsuki}   ¿Recuerdas a tu madre?
+¿Recuerdas a tu madre?
 
 846
 00:55:54,000 --> 00:55:58,000
-{Shinji}      No. Era muy pequeño.
+No. Era muy pequeño.
 
 847
 00:55:58,000 --> 00:56:07,000
-{Shinji}      Mi padre se deshizo de todas sus cosas.
+Mi padre se deshizo de todas sus cosas.
 
 848
 00:56:07,000 --> 00:56:10,000
-{Shinji}      Esa es...
+Esa es...
 
 849
 00:56:10,000 --> 00:56:13,000
-{Shinji}      ¿Ayanami?
+¿Ayanami?
 
 850
 00:56:13,000 --> 00:56:14,000
-{Fuyutsuki}   Es tu madre.
+Es tu madre.
 
 851
 00:56:14,000 --> 00:56:16,000
-{Fuyutsuki}   Nombre de soltera, Ayanami Yui.
+Nombre de soltera, Ayanami Yui.
 
 852
 00:56:16,000 --> 00:56:20,000
-{Fuyutsuki}   Era mi estudiante en la universidad.
+Era mi estudiante en la universidad.
 
 853
 00:56:20,000 --> 00:56:27,000
-{Fuyutsuki}   Ahora es el sistema de control del EVA Unidad 01.
+Ahora es el sistema de control del EVA Unidad 01.
 
 854
 00:56:27,000 --> 00:56:33,000
-{Fuyutsuki}   Finalmente volvió la luz.
+Finalmente volvió la luz.
 
 855
 00:56:33,000 --> 00:56:37,000
-{Fuyutsuki}   Es un tipo muy prematuro de sistema de control de los EVAs.
+Es un tipo muy prematuro de sistema de control de los EVAs.
 
 856
 00:56:37,000 --> 00:56:41,000
-{Fuyutsuki}   Aquí, Yui propuso entrar directamente al núcleo,
+Aquí, Yui propuso entrar directo al núcleo,
 
 857
 00:56:41,000 --> 00:56:45,000
-{Fuyutsuki}   y ella misma realizó la prueba como exprimento.
+y ella misma se convirtió en el objeto del experimento.
 
 858
 00:56:45,000 --> 00:56:55,000
-{Fuyutsuki}   Tú estabas viendo también. Tu memoria debe de haberlo borrado.
+Tú estabas viendo también. Tu memoria debe de haberlo borrado.
 
 859
 00:56:55,000 --> 00:56:59,000
-{Fuyutsuki}   Como resultado, Yui-kun se desvaneció ahí,
+Como resultado, Yui-kun se desvaneció ahí,
 
 860
 00:56:59,000 --> 00:57:03,000
-{Fuyutsuki}   y solo su información fue recuperada en la serie Ayanami.
+y solo su información fue recuperada en la serie Ayanami.
 
 861
 00:57:03,000 --> 00:57:08,000
-{Fuyutsuki}   La Rei que conociste era uno de los clones de Yui.
+La Rei que conociste era uno de los clones de Yui.
 
 862
 00:57:08,000 --> 00:57:13,000
-{Fuyutsuki}   Al igual que tu madre, ella está contenida dentro del EVA-01.
+Al igual que tu madre, ella está contenida dentro del EVA-01.
 
 863
 00:57:13,000 --> 00:57:17,000
-{Fuyutsuki}   Todo esto es el plan de Ikari.
+Todo esto es el plan de Ikari.
 
 864
 00:57:17,000 --> 00:57:20,000
-{Shinji}      No es cierto...
+No es cierto...
 
 865
 00:57:20,000 --> 00:57:24,000
-{Fuyutsuki}   Se puede destruir el mundo con facilidad.
+Se puede destruir el mundo con facilidad.
 
 866
 00:57:24,000 --> 00:57:28,000
-{Fuyutsuki}   Pero no es tan fácil reconstruirlo.
+Pero no es tan fácil reconstruirlo.
 
 867
 00:57:28,000 --> 00:57:32,000
-{Fuyutsuki}   Este mundo no puede ser revertido.
+Este mundo no puede ser revertido.
 
 868
 00:57:32,000 --> 00:57:35,000
-{Fuyutsuki}   Así como tampoco la mente de las personas.
+Así como tampoco la mente de las personas.
 
 869
 00:57:35,000 --> 00:57:38,000
-{Fuyutsuki}   Ahora, con el fin de cumplir sus deseos,
+Ahora, con el fin de cumplir sus deseos,
 
 870
 00:57:38,000 --> 00:57:41,000
-{Fuyutsuki}   Tu padre pagará cualquier costo.
+tu padre pagará cualquier costo.
 
 871
 00:57:41,000 --> 00:57:44,000
-{Fuyutsuki}   Incluso con su propia alma.
+Incluso con su propia alma.
 
 872
 00:57:44,000 --> 00:57:47,000
-{Fuyutsuki}   Quería compartirte un poco de la verdad.
+Quería compartirte un poco de la verdad.
 
 873
 00:57:47,000 --> 00:58:01,000
-{Fuyutsuki}   Sobre tu padre, también...
+Sobre tu padre, también...
 
 874
 00:58:01,000 --> 00:58:04,000
-{Fuyutsuki}   Realmente está en una posición difícil.
+Realmente está en una posición difícil.
 
 875
 00:58:04,000 --> 00:58:15,000
-{Fuyutsuki}   Yui-kun, quizás esto ayude.
+Yui-kun, quizás esto ayude.
 
 876
 00:58:15,000 --> 00:58:20,000
-{Gendo}       El momento del contrato final  ha llegado.
+El momento del contrato final  ha llegado.
 
 877
 00:58:20,000 --> 00:58:31,000
-{Gendo}       Espera un poco más, Yui.
+Espera un poco más, Yui.
 
 878
 00:58:31,000 --> 00:58:36,000
-{Shinji}      ¿Por qué no estás leyendo los libros?
+¿Por qué no estás leyendo los libros?
 
 879
 00:58:36,000 --> 00:58:38,000
-{Rei}         Esa no fue tu orden.
+Esa no fue tu orden.
 
 880
 00:58:38,000 --> 00:58:40,000
-{Shinji}      ¿Orden?
+¿Orden?
 
 881
 00:58:40,000 --> 00:58:45,000
-{Shinji}      ¡Muy bien, ya fue suficiente!
+¡Muy bien, ya fue suficiente!
 
 882
 00:58:45,000 --> 00:58:48,000
-{Shinji}      ¿Eres Ayanami?
+¿Eres Ayanami?
 
 883
 00:58:48,000 --> 00:58:51,000
-{Rei}         Si, Ayanami Rei.
+Si, Ayanami Rei.
 
 884
 00:58:51,000 --> 00:58:55,000
-{Shinji}      Entonces te salvé, ¿verdad?
+Entonces te salvé, ¿verdad?
 
 885
 00:58:55,000 --> 00:59:04,000
-{Rei}         ...No lo sé.
+...No lo sé.
 
 886
 00:59:04,000 --> 00:59:11,000
-{Rei}         ¿Ikari-kun?
+¿Ikari-kun?
 
 887
 00:59:11,000 --> 00:59:15,000
-{Shinji}      Entonces, no la he salvado...
+Entonces, no la he salvado...
 
 888
 00:59:15,000 --> 00:59:17,000
-{Shinji}      Ayanami...
+Ayanami...
 
 889
 00:59:17,000 --> 00:59:21,000
-{Misato}      No hagas nada.
+No hagas nada.
 
 890
 00:59:21,000 --> 00:59:21,000
-{Rei}         No lo sé.
+No lo sé.
 
 891
 00:59:21,000 --> 00:59:23,000
-{Asuka}       No te incumbe.
+No te incumbe.
 
 892
 00:59:23,000 --> 00:59:27,000
-{Gendo}       Pilotea el EVA.
+Pilotea el EVA.
 
 893
 00:59:27,000 --> 00:59:29,000
-{Sakura}      ¡Por favor, no pilotees el EVA!
+¡Por favor, no pilotees el EVA!
 
 894
 00:59:29,000 --> 00:59:32,000
-{Misato}      No hagas nada.
+No hagas nada.
 
 895
 00:59:32,000 --> 00:59:33,000
-{Asuka}       No te incumbe.
+No te incumbe.
 
 896
 00:59:33,000 --> 00:59:34,000
-{Gendo}       Pilotea el EVA.
+Pilotea el EVA.
 
 897
 00:59:34,000 --> 00:59:36,000
-{Asuka}       No te incumbe.
+No te incumbe.
 
 898
 00:59:36,000 --> 00:59:39,000
-{Sakura}      ¡Por favor, no pilotees el EVA!
+¡Por favor, no pilotees el EVA!
 
 899
 00:59:39,000 --> 00:59:40,000
-{Shinji}      Padre...
+Misato-san...
 
 900
 00:59:40,000 --> 00:59:41,000
-{Rei}         No lo sé.
+No lo sé.
 
 901
 00:59:41,000 --> 00:59:42,000
-{Misato}      No hagas nada.
+No hagas nada.
 
 902
 00:59:42,000 --> 00:59:43,000
-{Gendo}       Pilotea el EVA.
+Pilotea el EVA.
 
 903
 00:59:43,000 --> 00:59:44,000
-{Asuka}       No te incumbe.
+No te incumbe.
 
 904
 00:59:44,000 --> 00:59:45,000
-{Sakura}      ¡Por favor, no pilotees el EVA!
+¡Por favor, no pilotees el EVA!
 
 905
 00:59:45,000 --> 00:59:46,000
-{Misato}      No hagas nada.
+No hagas nada.
 
 906
 00:59:46,000 --> 00:59:46,000
-{Gendo}       Pilotea el EVA.
+Pilotea el EVA.
 
 907
 00:59:46,000 --> 00:59:48,000
-{Asuka}       No te incumbe.
+No te incumbe.
 
 908
 00:59:48,000 --> 00:59:48,000
-{Misato}      No hagas nada.
+No hagas nada.
 
 909
 00:59:48,000 --> 00:59:49,000
-{Rei}         No lo sé.
+No lo sé.
 
 910
 00:59:49,000 --> 00:59:51,000
-{Asuka}       No te incumbe
+No te incumbe
 
 911
 00:59:51,000 --> 00:59:52,000
-{Gendo}       Pilotea el EVA.
+Pilotea el EVA.
 
 912
 00:59:52,000 --> 00:59:53,000
-{Misato}      No hagas nada.
+No hagas nada.
 
 913
 00:59:53,000 --> 00:59:53,000
-{Rei}         No lo sé.
+No lo sé.
 
 914
 00:59:53,000 --> 00:59:54,000
-{Asuka}       ...te incumbe.
+...te incumbe.
 
 915
 00:59:54,000 --> 00:59:55,000
-{Rei}         No lo se.
+No lo se.
 
 916
 00:59:55,000 --> 00:59:56,000
-{Asuka}       No te incumbe.
+No te incumbe.
 
 917
 00:59:56,000 --> 00:59:59,000
-{Sakura}      ¡Por favor, no pilotees un EVA!
+¡Por favor, no pilotees un EVA!
 
 918
 00:59:59,000 --> 01:00:00,000
-{Rei}         No lo sé.
+No lo sé.
 
 919
 01:00:00,000 --> 01:00:08,000
-{Gendo}       Pilotea el EVA.
+Pilotea el EVA.
 
 920
 01:00:08,000 --> 01:00:47,000
-{Shinji}      ¿Qué he hecho?
+¿Qué he hecho?
 
 921
 01:00:47,000 --> 01:00:50,000
-{Fuyutsuki}   ¿Finalmente se ha completado el último verdugo?
+¿Finalmente se ha completado el último verdugo?
 
 922
 01:00:50,000 --> 01:00:56,000
-{Gendo}       Si, todo lo que necesitamos está justo aquí.
+Si, todo lo que necesitamos está justo aquí.
 
 923
 01:00:56,000 --> 01:00:59,000
-{Kaworu}      El momento ha llegado.
+El momento ha llegado.
 
 924
 01:00:59,000 --> 01:01:02,000
-{Kaworu}      Es tu turno, Ikari Shinji-kun.
+Es tu turno, Ikari Shinji-kun.
 
 925
 01:01:02,000 --> 01:01:05,000
-{Shinji}      ¡No!
+¡No!
 
 926
 01:01:05,000 --> 01:01:07,000
-{Shinji}      ¡No quiero pilotear al EVA de nuevo!
+¡No quiero pilotear al EVA de nuevo!
 
 927
 01:01:07,000 --> 01:01:10,000
-{Shinji}      ¡Ni siquiera logré rescatar a Ayanami!
+¡Ni siquiera logré rescatar a Ayanami!
 
 928
 01:01:10,000 --> 01:01:13,000
-{Shinji}      ¡Todo sale mal cuando piloteo el EVA!
+¡Todo sale mal cuando piloteo el EVA!
 
 929
 01:01:13,000 --> 01:01:16,000
-{Shinji}      ¡Ya tuve suficiente! ¡No quiero hacer nada!
+¡Ya tuve suficiente! ¡No quiero hacer nada!
 
 930
 01:01:16,000 --> 01:01:24,000
-{Kaworu}      Y así es cómo los recuerdos dolorosos impiden que sucedan cosas buenas.
+Y así es cómo los recuerdos dolorosos impiden que sucedan cosas buenas.
 
 931
 01:01:24,000 --> 01:01:26,000
-{Shinji}      ¡Nada bueno puede suceder!
+¡Nada bueno puede suceder!
 
 932
 01:01:26,000 --> 01:01:29,000
-{Shinji}      Nagisa, tú me lo has demostrado.
+Nagisa, tú me lo has demostrado.
 
 933
 01:01:29,000 --> 01:01:32,000
-{Shinji}      Un mundo donde no puedo hacer nada.
+Un mundo donde no puedo hacer nada.
 
 934
 01:01:32,000 --> 01:01:37,000
-{Kaworu}      Las cosas que han cambiado con el EVA, pueden revertirse con el EVA.
+Las cosas que han cambiado con el EVA, pueden revertirse con el EVA.
 
 935
 01:01:37,000 --> 01:01:39,000
-{Shinji}      Tú dices eso, pero mi padre, el EVA, Misato-san...
+Tú dices eso, pero mi padre, el EVA, Misato-san...
 
 936
 01:01:39,000 --> 01:01:43,000
-{Shinji}      ¡No puedo confiar en nadie!
+¡No puedo confiar en nadie!
 
 937
 01:01:43,000 --> 01:01:46,000
-{Kaworu}      Pero, quiero que creas en mi.
+Pero, quiero que creas en mi.
 
 938
 01:01:46,000 --> 01:01:49,000
-{Shinji}      ¡No puedo!
+¡No puedo!
 
 939
 01:01:49,000 --> 01:01:53,000
-{Shinji}      ¡Misato-san me colocó este collar!
+¡Misato-san me colocó este collar!
 
 940
 01:01:53,000 --> 01:01:55,000
-{Shinji}      Me dijeron que no pilotee más el Eva
+Me dijeron que no pilotee más el Eva
 
 941
 01:01:55,000 --> 01:01:59,000
-{Shinji}      Dijeron que si lo hacía, iba a morir.
+Dijeron que si lo hacía, iba a morir.
 
 942
 01:01:59,000 --> 01:02:09,000
-{Shinji}      Ya no quiero saber nada del EVA.
+Ya no quiero saber nada del EVA.
 
 943
 01:02:09,000 --> 01:02:10,000
-{Kaworu}      Lo sé.
+Lo sé.
 
 944
 01:02:10,000 --> 01:02:21,000
-{Kaworu}      Voy a asumir por ti el peso de la maldición de los Lilin, y el riesgo de despertar el EVA.
+Voy a asumir por ti el peso de la maldición de los Lilin, y el riesgo de despertar el EVA.
 
 945
 01:02:21,000 --> 01:02:24,000
-{Shinji}      Nagisa-kun...
+Nagisa-kun...
 
 946
 01:02:24,000 --> 01:02:26,000
-{Kaworu}      Ya no tienes que preocuparte.
+Ya no tienes que preocuparte.
 
 947
 01:02:26,000 --> 01:02:29,000
-{Kaworu}      Yo fui creado originalmente por los mismos Lilin que me temen.
+Yo fui creado originalmente por los mismos Lilin que me temen.
 
 948
 01:02:29,000 --> 01:02:34,000
-{Kaworu}      Tenía que hacer esto en algún momento.
+Tenía que hacer esto en algún momento.
 
 949
 01:02:34,000 --> 01:02:41,000
-{Kaworu}      Ikari Shinji-kun, tu última esperanza yace en las dos lanzas que quedaron en la zona cero del Dogma.
+Ikari Shinji-kun, tu última esperanza yace en las dos lanzas que quedaron en la zona cero del Dogma.
 
 950
 01:02:41,000 --> 01:02:45,000
-{Kaworu}      Son la clave para activar la Instrumentalización.
+Son la clave para activar la Instrumentalización.
 
 951
 01:02:45,000 --> 01:02:48,000
-{Kaworu}      Todo lo que tenemos que hacer es obtener las lanzas.
+Todo lo que tenemos que hacer es obtener las lanzas.
 
 952
 01:02:48,000 --> 01:02:52,000
-{Kaworu}      Si lo hacemos, Nerv no podrá causar el Cuarto Impacto.
+Si lo hacemos, Nerv no podrá causar el Cuarto Impacto.
 
 953
 01:02:52,000 --> 01:02:58,000
-{Kaworu}      Y si las usamos junto al EVA-13, podremos arreglar el mundo.
+Y si las usamos junto al EVA-13, podremos arreglar el mundo.
 
 954
 01:02:58,000 --> 01:03:03,000
-{Shinji}      Tienes razón.
+Tienes razón.
 
 955
 01:03:03,000 --> 01:03:05,000
-{Shinji}      Sí, es posible gracias a ti.
+Sí, es posible gracias a ti.
 
 956
 01:03:05,000 --> 01:03:07,000
-{Kaworu}      No, es posible gracias a ti.
+No, es posible gracias a ti.
 
 957
 01:03:07,000 --> 01:03:11,000
-{Kaworu}      La unidad 13 tiene dos cápsulas de inserción.
+La unidad 13 tiene dos cápsulas de inserción.
 
 958
 01:03:11,000 --> 01:03:15,000
-{Kaworu}      Nos convertiremos en la esperanza de los Lilin.
+Nos convertiremos en la esperanza de los Lilin.
 
 959
 01:03:15,000 --> 01:03:19,000
-{Kaworu}      Porque lo que más necesitas ahora es esperanza,
+Porque lo que más necesitas ahora es esperanza,
 
 960
 01:03:19,000 --> 01:03:25,000
-{Kaworu}      junto con la purificación y un corazón abierto.
+junto con la purificación y un corazón abierto.
 
 961
 01:03:25,000 --> 01:03:30,000
-{Shinji}      Eres increíble. Lo sabes todo.
+Eres increíble. Lo sabes todo.
 
 962
 01:03:30,000 --> 01:03:35,000
-{Kaworu}      Eso es porque siempre estoy pensando en ti.
+Eso es porque siempre estoy pensando en ti.
 
 963
 01:03:35,000 --> 01:03:38,000
-{Shinji}      Gracias, Nagisa-kun.
+Gracias, Nagisa-kun.
 
 964
 01:03:38,000 --> 01:03:40,000
-{Kaworu}      "Kaworu" está bien.
+"Kaworu" está bien.
 
 965
 01:03:40,000 --> 01:03:43,000
-{Shinji}      Ah, bien.
+Ah, bien.
 
 966
 01:03:43,000 --> 01:03:49,000
-{Shinji}      Llámame Shinji.
+Llámame Shinji.
 
 967
 01:03:49,000 --> 01:03:50,000
-{Kaworu}      Esto es igual que tocar el piano.
+Esto es igual que tocar el piano.
 
 968
 01:03:50,000 --> 01:03:56,000
-{Kaworu}      Todo saldrá bien si lo hacemos juntos.
+Todo saldrá bien si lo hacemos juntos.
 
 969
 01:03:56,000 --> 01:04:38,000
-{Shinji}      Vamos, Kaworu-kun.
+Vamos, Kaworu-kun.
 
 970
 01:04:38,000 --> 01:04:43,000
-{Both}        Evangelion 13, ¡activado!
+Evangelion 13, ¡activado!
 
 971
 01:04:43,000 --> 01:04:44,000
-{Aoba}        ¡Señal entrante!
+¡Señal entrante!
 
 972
 01:04:44,000 --> 01:05:06,000
-{Aoba}        Confirmada la activación de un nuevo tipo de EVA.
+Confirmada la activación de un nuevo tipo de EVA.
 
 973
 01:05:06,000 --> 01:05:08,000
-{Shinji}      No estamos solos.
+No estamos solos.
 
 974
 01:05:08,000 --> 01:05:08,000
-{Kaworu}      ¿Te refieres al Mark.09?
+¿Te refieres al Mark.09?
 
 975
 01:05:08,000 --> 01:05:12,000
-{Kaworu}      Es nuestro refuerzo.
+Es nuestro refuerzo.
 
 976
 01:05:12,000 --> 01:05:15,000
-{Kaworu}      Nos alertará acerca de cualquier actividad de Wille.
+Nos alertará acerca de cualquier actividad de Wille.
 
 977
 01:05:15,000 --> 01:05:18,000
-{Shinji}      Con nosotros dos ya debería ser suficiente.
+Con nosotros dos ya debería ser suficiente.
 
 978
 01:05:18,000 --> 01:05:22,000
-{Shinji}      Ni siquiera es Ayanami...
+Ni siquiera es Ayanami...
 
 979
 01:05:22,000 --> 01:05:28,000
-{Rei}         No soy... ¿Ayanami?
+No soy... ¿Ayanami?
 
 980
 01:05:28,000 --> 01:05:30,000
-{Shinji}      ¿Las paredes?
+¿Las paredes?
 
 981
 01:05:30,000 --> 01:05:38,000
-{Kaworu}      Si, las fallas del infinito.
+Si, las fallas del infinito.
 
 982
 01:05:38,000 --> 01:05:42,000
-{Kaworu}      No dejes que pesen sobre tu mente.
+No dejes que pesen sobre tu mente.
 
 983
 01:05:42,000 --> 01:05:45,000
-{Kaworu}      Estamos cerca de la barrera de Lilith.
+Estamos cerca de la barrera de Lilith.
 
 984
 01:05:45,000 --> 01:05:47,000
-{Kaworu}      El eje principal está bloqueado por completo,
+El eje principal está bloqueado por completo,
 
 985
 01:05:47,000 --> 01:05:56,000
-{Kaworu}      y no dejó pasar a ningún intruso durante los últimos 14 años.
+y no dejó pasar a ningún intruso durante los últimos 14 años.
 
 986
 01:05:56,000 --> 01:06:00,000
-{Shinji}      Es como una cubierta gigante.
+Es como una cubierta gigante.
 
 987
 01:06:00,000 --> 01:06:03,000
-{Kaworu}      Todo está bien. El EVA-13 fue hecho para pasar a través de esto.
+Todo está bien. El EVA-13 fue hecho para pasar a través de esto.
 
 988
 01:06:03,000 --> 01:06:15,000
-{Kaworu}      Los dos podemos hacerlo.
+Los dos podemos hacerlo.
 
 989
 01:06:15,000 --> 01:06:17,000
-{Kaworu}      Trata de sincronizar tempos.
+Trata de sincronizar tempos.
 
 990
 01:06:17,000 --> 01:06:24,000
-{Kaworu}      Recuerda el dueto de piano.
+Recuerda el dueto de piano.
 
 991
 01:06:24,000 --> 01:06:48,000
-{Kaworu}      Vamos, Shinji-kun.
+Vamos, Shinji-kun.
 
 992
 01:06:48,000 --> 01:07:07,000
-{Shinji}      ¡Lo logramos!
+¡Lo logramos!
 
 993
 01:07:07,000 --> 01:07:14,000
-{Kaworu}      Hemos llegado. La parte más profunda del Dogma Central.
+Hemos llegado. La parte más profunda del Dogma Central.
 
 994
 01:07:14,000 --> 01:07:21,000
-{Kaworu}      El epicentro del Tercer Impacto.
+El epicentro del Tercer Impacto.
 
 995
 01:07:21,000 --> 01:07:23,000
-{Shinji}      ¿Ésta es Lilith?
+¿Ésta es Lilith?
 
 996
 01:07:23,000 --> 01:07:25,000
-{Kaworu}      Lo era.
+Lo era.
 
 997
 01:07:25,000 --> 01:07:27,000
-{Kaworu}      Ahora es su cadáver.
+Ahora es su cadáver.
 
 998
 01:07:27,000 --> 01:07:32,000
-{Shinji}      Misato-san, quería que la protegiéramos incluso con nuestras vidas...
+Misato-san, quería que la protegiéramos incluso con nuestras vidas...
 
 999
 01:07:32,000 --> 01:07:35,000
-{Shinji}      Uh... ¿eso es un EVA?
+Uh... ¿Eso es un EVA?
 
 1000
 01:07:35,000 --> 01:07:38,000
-{Kaworu}      Si, el EVA Mark 06.
+Si, el EVA Mark 6.
 
 1001
 01:07:38,000 --> 01:07:40,000
-{Kaworu}      Convertido a un tipo autónomo,
+Convertido a un tipo autónomo,
 
 1002
 01:07:40,000 --> 01:07:48,000
-{Kaworu}      Al ser explotado por los Lilin, la unidad quedó arruinada.
+Al ser explotado por los Lilin, la unidad quedó arruinada.
 
 1003
 01:07:48,000 --> 01:07:52,000
-{Shinji}      Las cosas que la están atravesando... ¿Son nuestros objetivos?
+Las cosas que la están atravesando... ¿Son nuestros objetivos?
 
 1004
 01:07:52,000 --> 01:08:00,000
-{Kaworu}      Si, las lanzas de Longinus y Cassius. Empuñar ambas require de dos almas.
+Si, las lanzas de Longinus y Cassius. Empuñar ambas require de dos almas.
 
 1005
 01:08:00,000 --> 01:08:04,000
-{Kaworu}      Es por eso que tenemos dos cápsulas de inserción.
+Es por eso que tenemos dos cápsulas de inserción.
 
 1006
 01:08:04,000 --> 01:08:08,000
-{Shinji}      Entonces... ¿la otra piloto hubiese servido también?
+Entonces... ¿La otra piloto hubiese servido también?
 
 1007
 01:08:08,000 --> 01:08:10,000
-{Kaworu}      No, no se puede usar una imitación de un Lilin.
+No, no se puede usar una imitación de un Lilin.
 
 1008
 01:08:10,000 --> 01:08:14,000
-{Kaworu}      El lugar donde reside su alma es diferente.
+El lugar donde reside su alma es diferente.
 
 1009
 01:08:14,000 --> 01:08:23,000
-{Kaworu}      Bien, comencemos.
+Bien, comencemos.
 
 1010
 01:08:23,000 --> 01:08:25,000
-{Kaworu}      Espera.
+Espera.
 
 1011
 01:08:25,000 --> 01:08:26,000
-{Kaworu}      Hay algo mal.
+Hay algo mal.
 
 1012
 01:08:26,000 --> 01:08:31,000
-{Shinji}      ¿Qué sucede, Kaworu-kun?
+¿Qué sucede, Kaworu-kun?
 
 1013
 01:08:31,000 --> 01:08:32,000
-{Kaworu}      Esto no está bien...
+Esto no está bien...
 
 1014
 01:08:32,000 --> 01:08:36,000
-{Kaworu}      Las dos lanzas ahora son iguales.
+Las dos lanzas ahora son iguales.
 
 1015
 01:08:36,000 --> 01:08:38,000
-{Shinji}      ¡Rápìdo, quitemos las lanzas!
+¡Rápìdo, quitemos las lanzas!
 
 1016
 01:08:38,000 --> 01:08:44,000
-{Shinji}      Es por eso que vine aquí a piolotear el EVA.
+Es por eso que vine aquí a piolotear el EVA.
 
 1017
 01:08:44,000 --> 01:08:55,000
-{Shinji}      ¡¿Qué está pasando?!
+¡¿Qué está pasando?!
 
 1018
 01:08:55,000 --> 01:08:57,000
-{Shinji}      ¿EVA-02?
+¿EVA-02?
 
 1019
 01:08:57,000 --> 01:09:00,000
-{Shinji}      ¡Asuka!
+¡Asuka!
 
 1020
 01:09:00,000 --> 01:09:05,000
-{Shinji}      ¡¿Qué estás hacienda Asuka?!
+¡¿Qué estás hacienda Asuka?!
 
 1021
 01:09:05,000 --> 01:09:06,000
-{Asuka}       ¡¿Shinji tonto?!
+¡¿Shinji tonto?!
 
 1022
 01:09:06,000 --> 01:09:08,000
-{Asuka}       ¿De verdad estás piloteando el EVA?
+¿De verdad estás piloteando el EVA?
 
 1023
 01:09:08,000 --> 01:09:10,000
-{Shinji}      Así es. Lo estoy piloteando.
+Así es. Lo estoy piloteando.
 
 1024
 01:09:10,000 --> 01:09:13,000
-{Shinji}      ¡Voy a cambiar al mundo con este EVA!
+¡Voy a cambiar al mundo con este EVA!
 
 1025
 01:09:13,000 --> 01:09:15,000
-{Asuka}       Pequeño mocoso...
+Pequeño mocoso...
 
 1026
 01:09:15,000 --> 01:09:25,000
-{Asuka}       Si es así, ¡no lo pilotees!
+Si es así, ¡no lo pilotees!
 
 1027
 01:09:25,000 --> 01:09:26,000
-{Asuka}       ¡Unidad soporte, siempre tarde!
+¡Unidad soporte, siempre tarde!
 
 1028
 01:09:26,000 --> 01:09:28,000
-{Mari}        ¡Perdón, perdón!
+¡Perdón, perdón!
 
 1029
 01:09:28,000 --> 01:09:31,000
-{Mari}        Señor Recipiente de Adams,
+Señor Recipiente de Adams,
 
 1030
 01:09:31,000 --> 01:09:54,000
-{Mari}        permítame detener su plan, al menos...
+al menos permítame detener su plan...
 
 1031
 01:09:54,000 --> 01:09:56,000
-{Shinji}      ¿Por qué interfieres, Asuka?
+¿Por qué interfieres, Asuka?
 
 1032
 01:09:56,000 --> 01:10:01,000
-{Shinji}      ¡Estas sos nuestras lanzas de la esperanza!
+¡Estas sos nuestras lanzas de la esperanza!
 
 1033
 01:10:01,000 --> 01:10:04,000
-{Asuka}       ¡Deja! ... ¡De buscar! ... ¡Problemas!
+¡Deja! ... ¡De buscar! ... ¡Problemas!
 
 1034
 01:10:04,000 --> 01:10:05,000
-{Asuka}       ¡Mocoso Shinji!
+¡Mocoso Shinji!
 
 1035
 01:10:05,000 --> 01:10:07,000
-{Asuka}       ¿Acaso tu plan es iniciar el Tercer Impacto de nuevo?
+¿Acaso tu plan es iniciar el Tercer Impacto de nuevo?
 
 1036
 01:10:07,000 --> 01:10:09,000
-{Shinji}      ¡Te equivocas!
+¡Te equivocas!
 
 1037
 01:10:09,000 --> 01:10:12,000
-{Shinji}      ¡Estoy tratando de arreglar todo!
+¡Estoy tratando de arreglar todo!
 
 1038
 01:10:12,000 --> 01:10:16,000
-{Shinji}      ¡Trato de salvar al mundo!
+¡Trato de salvar al mundo!
 
 1039
 01:10:16,000 --> 01:10:19,000
-{Asuka}       Realmente eres un pequeño imbécil.
+Realmente eres un pequeño imbécil.
 
 1040
 01:10:19,000 --> 01:10:30,000
-{Shinji}      ¡No lo entiendes!
+¡No lo entiendes!
 
 1041
 01:10:30,000 --> 01:10:34,000
-{Shinji}      ¿Kaworu-kun, por qué no estás ayudando?
+¿Kaworu-kun, por qué no estás ayudando?
 
 1042
 01:10:34,000 --> 01:10:39,000
-{Kaworu}      Cassius y Longinus. Se necesitan las dos lanzas...
+Cassius y Longinus. Se necesitan las dos lanzas...
 
 1043
 01:10:39,000 --> 01:10:43,000
-{Kaworu}      Sin embargo las dos lanzas aquí son la misma...
+Sin embargo las dos lanzas aquí son la misma...
 
 1044
 01:10:43,000 --> 01:10:44,000
-{Shinji}      ¡Kaworu-kun!
+¡Kaworu-kun!
 
 1045
 01:10:44,000 --> 01:10:46,000
-{Kaworu}      ¡Ya veo!
+¡Ya veo!
 
 1046
 01:10:46,000 --> 01:10:48,000
-{Kaworu}      Ahora lo entiendo.
+Ahora lo entiendo.
 
 1047
 01:10:48,000 --> 01:10:55,000
-{Kaworu}      ¡Lilin!
+¡Lilin!
 
 1048
 01:10:55,000 --> 01:10:58,000
-{Mari}        Oye, piloto temporal de Seele,
+Oye, piloto temporal de Seele,
 
 1049
 01:10:58,000 --> 01:11:00,000
-{Mari}        puedes oirme, ¿verdad?
+puedes oirme, ¿verdad?
 
 1050
 01:11:00,000 --> 01:11:04,000
-{Mari}        ¿No crees que tienes que irte antes de convertirte en un Recipiente de Adams?
+¿No crees que tienes que irte antes de convertirte en un Recipiente de Adams?
 
 1051
 01:11:04,000 --> 01:11:07,000
-{Rei}         No. Esa no es la orden que recibí.
+No. Esa no es la orden que recibí.
 
 1052
 01:11:07,000 --> 01:11:09,000
-{Mari}        Qué chica necia.
+Qué chica necia, nya.
 
 1053
 01:11:09,000 --> 01:11:12,000
-{Mari}        Tu versión original era mucho más simpática, ¿sabes?
+Tu versión original era mucho más simpática, ¿sabes?
 
 1054
 01:11:12,000 --> 01:11:14,000
-{Rei}         ¿Original?
+¿Original?
 
 1055
 01:11:14,000 --> 01:11:30,000
-{Rei}         La otra yo...
+La otra yo...
 
 1056
 01:11:30,000 --> 01:11:45,000
-{Shinji}      ¿Kaworu-kun? ¿Qué sucede?
+¿Kaworu-kun? ¿Qué sucede?
 
 1057
 01:11:45,000 --> 01:11:46,000
-{Shinji}      Asuka...
+Asuka...
 
 1058
 01:11:46,000 --> 01:11:49,000
-{Shinji}      ¡Por favor! ¡Quítate de mi camino!
+¡Por favor! ¡Quítate de mi camino!
 
 1059
 01:11:49,000 --> 01:11:57,000
-{Asuka}       ¡Silencio, mocoso!
+¡Silencio, mocoso!
 
 1060
 01:11:57,000 --> 01:11:58,000
-{Asuka}       ¡Lo que faltaba!
+¡Lo que faltaba!
 
 1061
 01:11:58,000 --> 01:12:07,000
-{Asuka}       ¡Oye, Anteojos! ¡Necesito una lanza!
+¡Oye, Anteojos! ¡Necesito un repuesto!
 
 1062
 01:12:07,000 --> 01:12:11,000
-{Shinji}      ¡Todavía tenemos una oportunidad! ¡Las lanzas!
+¡Todavía tenemos una oportunidad! ¡Las lanzas!
 
 1063
 01:12:11,000 --> 01:12:13,000
-{Asuka}       Le has levantado la mano a una chica.
+Le has levantado la mano a una chica.
 
 1064
 01:12:13,000 --> 01:12:14,000
-{Asuka}       Eres de lo peor.
+Eres de lo peor.
 
 1065
 01:12:14,000 --> 01:12:28,000
-{Mari}        ¡La lanza se aproxima!
+¡Repuesto en camino!
 
 1066
 01:12:28,000 --> 01:12:30,000
-{Kaworu}      Tenemos que detenernos, Shinji-kun.
+Tenemos que detenernos, Shinji-kun.
 
 1067
 01:12:30,000 --> 01:12:32,000
-{Kaworu}      Tengo un mal presentimiento...
+Tengo un mal presentimiento...
 
 1068
 01:12:32,000 --> 01:12:34,000
-{Shinji}      ¡No podemos, Kaworu-kun!
+¡No podemos, Kaworu-kun!
 
 1069
 01:12:34,000 --> 01:12:37,000
-{Shinji}      ¡Vinimos aquí para hacer algo!
+¡Vinimos aquí para hacer algo!
 
 1070
 01:12:37,000 --> 01:12:38,000
-{Kaworu}      ¡Ya hemos hecho suficiente!
+¡Ya hemos hecho suficiente!
 
 1071
 01:12:38,000 --> 01:12:41,000
-{Kaworu}      ¡Estas no son las lanzas que vinimos a buscar!
+¡Estas no son las lanzas que vinimos a buscar!
 
 1072
 01:12:41,000 --> 01:12:47,000
-{Shinji}      No son... ¿las lanzas que vinimos a buscar?
+No son... ¿Las lanzas que vinimos a buscar?
 
 1073
 01:12:47,000 --> 01:12:50,000
-{Shinji}      Tú fuiste quien dijo que necesitabamos las lanzas..
+Tú fuiste quien dijo que necesitabamos las lanzas..
 
 1074
 01:12:50,000 --> 01:12:57,000
-{Shinji}      ¡Por eso nos metimos en este EVA!
+¡Por eso nos metimos en este EVA!
 
 1075
 01:12:57,000 --> 01:13:02,000
-{Kaworu}      ¿El sistema de control?
+¿El sistema de control?
 
 1076
 01:13:02,000 --> 01:13:05,000
-{Shinji}      Por Kaworu-kun,
+Por Kaworu-kun,
 
 1077
 01:13:05,000 --> 01:13:07,000
-{Shinji}      por todos, ¡obtendré las lanzas!
+por todos, ¡obtendré las lanzas!
 
 1078
 01:13:07,000 --> 01:13:11,000
-{Shinji}      Solo entonces el mundo volverá a como debe ser.
+Solo entonces el mundo volverá a como debe ser.
 
 1079
 01:13:11,000 --> 01:13:15,000
-{Shinji}      Si lo hago, incluso Misato-san podrá...
+Si lo hago, incluso Misato-san podrá...
 
 1080
 01:13:15,000 --> 01:13:16,000
-{Asuka}       ¡Maldición!
+¡Maldición!
 
 1081
 01:13:16,000 --> 01:13:18,000
-{Asuka}       ¡Anteojos! ¡Destruye las barreras!
+¡Anteojos! ¡Destruye las barreras!
 
 1082
 01:13:18,000 --> 01:13:20,000
-{Asuka}       ¡Estas autorizada a usar munición AA!
+¡Estas autorizada a usar munición AA!
 
 1083
 01:13:20,000 --> 01:13:22,000
-{Mari}        Estuve esperando este momento.
+Estuve esperando este momento.
 
 1084
 01:13:22,000 --> 01:13:30,000
-{Mari}        ¡Mira estos bebés!
+¡Mira estos bebés!
 
 1085
 01:13:30,000 --> 01:13:32,000
-{Mari}        ¿No tiene Escudo A.T.?
+¿No tiene Escudo A.T.?
 
 1086
 01:13:32,000 --> 01:13:46,000
-{Mari}        No me digas que esta unidad...
+No me digas que esta unidad...
 
 1087
 01:13:46,000 --> 01:13:48,000
-{Kaworu}      ¡No lo hagas, Shinji-kun!
+¡No lo hagas, Shinji-kun!
 
 1088
 01:13:48,000 --> 01:14:13,000
-{Asuka}       ¡Detente, estúpido mocoso!
+¡Detente, estúpido mocoso!
 
 1089
 01:14:13,000 --> 01:14:22,000
-{Gendo}       Comencemos, Fuyutsuki.
+Comencemos, Fuyutsuki.
 
 1090
 01:14:22,000 --> 01:14:25,000
-{Shinji}      ¿Eva Mark 06?
+¿Eva Mark 6?
 
 1091
 01:14:25,000 --> 01:14:26,000
-{Shinji}      ¿Patrón azul?
+¿Patrón azul?
 
 1092
 01:14:26,000 --> 01:14:30,000
-{Shinji}      ¿Qué está pasando?
+¿Qué está pasando?
 
 1093
 01:14:30,000 --> 01:14:32,000
-{Asuka}       ¡Esto está mal!
+¡Esto está mal!
 
 1094
 01:14:32,000 --> 01:14:35,000
-{Asuka}       ¡El doceavo Ángel todavía está vivo!
+¡El doceavo Ángel todavía está vivo!
 
 1095
 01:14:35,000 --> 01:14:37,000
-{Asuka}       ¡Anteojos! ¡Recipiente No.3!
+¡Anteojos! ¡Recipiente No.3!
 
 1096
 01:14:37,000 --> 01:14:40,000
-{Mari}        ¡Lo tengo!
+¡Lo tengo!
 
 1097
 01:14:40,000 --> 01:14:49,000
-{Asuka}       ¡Voy a encargarme de esto antes de que el Tercer Impacto empiece de nuevo!
+¡Voy a encargarme de esto antes de que el Tercer Impacto empiece de nuevo!
 
 1098
 01:14:49,000 --> 01:15:00,000
-{Rei}         Fueron órdenes.
+Fueron órdenes.
 
 1099
 01:15:00,000 --> 01:15:10,000
-{Shinji}      ¡¿Un Ángel?!
+¡¿Un Ángel?!
 
 1100
 01:15:10,000 --> 01:15:14,000
-{Mari}        Princesa, debes cesar el fuego, es inútil.
+Princesa, debes cesar el fuego, es inútil.
 
 1101
 01:15:14,000 --> 01:15:17,000
-{Mari}        Toda la cosa es un núcleo.
+Toda la cosa es un núcleo.
 
 1102
 01:15:17,000 --> 01:15:21,000
-{Mari}        Nosotras solas no podemos hacerle daño a esa cosa.
+Nosotras solas no podemos hacerle daño.
 
 1103
 01:15:21,000 --> 01:15:24,000
-{Mari}        Aparte de eso, si derrotamos al último Ángel,
+Aparte de eso, si derrotamos al último Ángel,
 
 1104
 01:15:24,000 --> 01:15:26,000
-{Mari}        no sabemos qué clase de mal vendrá después.
+no sabemos qué clase de mal vendrá después.
 
 1105
 01:15:26,000 --> 01:15:32,000
-{Mari}        Estás preocupada, ¿no?
+Estás preocupada, ¿no?
 
 1106
 01:15:32,000 --> 01:15:37,000
-{Rei}         Esa es...
+Esa es...
 
 1107
 01:15:37,000 --> 01:15:41,000
-{Rei}         Esa soy... ¿yo?
+Esa soy... ¿yo?
 
 1108
 01:15:41,000 --> 01:15:46,000
-{Rei}         ¿Qué soy?
+¿Qué soy?
 
 1109
 01:15:46,000 --> 01:15:47,000
-{Shinji}      Los controles no responden.
+Los controles no responden.
 
 1110
 01:15:47,000 --> 01:15:51,000
-{Shinji}      ¿Qué está pasando, Kaworu-kun?
+¿Qué está pasando, Kaworu-kun?
 
 1111
 01:15:51,000 --> 01:15:53,000
-{Shinji}      ¡Kaworu-kun!
+¡Kaworu-kun!
 
 1112
 01:15:53,000 --> 01:15:56,000
-{Kaworu}      Nunca imaginé que yo, el Primer Ángel,
+Nunca imaginé que yo, el Primer Ángel,
 
 1113
 01:15:56,000 --> 01:16:00,000
-{Kaworu}      moriría como el Decimotercer Angel.
+sería recatalogado como el Decimotercer Ángel.
 
 1114
 01:16:00,000 --> 01:16:04,000
-{Shinji}      ¿Qué estás haciendo, Kaworu-kun?
+¿Qué estás haciendo, Kaworu-kun?
 
 1115
 01:16:04,000 --> 01:16:08,000
-{Kaworu}      Así que el principio y el fin son iguales.
+Así que el principio y el fin son iguales.
 
 1116
 01:16:08,000 --> 01:16:11,000
-{Kaworu}      No esperaba más del Rey de los Lilin,
+No esperaba menos del Rey de los Lilin,
 
 1117
 01:16:11,000 --> 01:16:13,000
-{Kaworu}      ¡El padre de Shinji-kun!
+¡El padre de Shinji-kun!
 
 1118
 01:16:13,000 --> 01:16:15,000
-{Mari}        ¿El collar DSS indica patrón azul?
+¿El collar DSS indica patrón azul?
 
 1119
 01:16:15,000 --> 01:16:19,000
-{Mari}        ¿Un Decimotercer ángel? ¡¿El duodécimo no debería de haber sido el último?!
+¿Un Decimotercer Ángel? ¡¿El duodécimo no debería de haber sido el último?!
 
 1120
 01:16:19,000 --> 01:16:24,000
-{Mari}        Así que esto era lo que tramaba Gendo-kun.
+Así que esto era lo que tramaba Gendo-kun.
 
 1121
 01:16:24,000 --> 01:16:29,000
-{Gendo}       Es hora de enmendar el contrato de los Rollos del Mar Muerto.
+Es hora de enmendar el contrato de los Rollos del Mar Muerto.
 
 1122
 01:16:29,000 --> 01:16:33,000
-{Gendo}       Esta es la despedida.
+Esta es la despedida.
 
 1123
 01:16:33,000 --> 01:16:37,000
-{Gendo}       A pesar de que todos ustedes han cambiado la forma de sus almas,
+A pesar de que todos ustedes han cambiado la forma de sus almas,
 
 1124
 01:16:37,000 --> 01:16:41,000
-{Gendo}       siguen siendo formas de vida bendecidas con el Fruto del Conocimiento.
+siguen siendo formas de vida bendecidas con el Fruto del Conocimiento.
 
 1125
 01:16:41,000 --> 01:16:44,000
-{Gendo}       Ustedes eran capaces de vivir para siempre.
+Ustedes eran capaces de vivir para siempre.
 
 1126
 01:16:44,000 --> 01:16:50,000
-{Gendo}       Pero, al igual que nosotros, no pueden escapar de la muerte.
+Pero, al igual que nosotros, no pueden escapar de la muerte.
 
 1127
 01:16:50,000 --> 01:16:54,000
-{Gendo}       Para avanzar con la evolución de las masas cargada por la muerte,
+Para avanzar con la evolución del rebaño a través de la muerte,
 
 1128
 01:16:54,000 --> 01:17:00,000
-{Gendo}       se les ha entregado el don de la civilización.
+se nos ha entregado el don de la civilización.
 
 1129
 01:17:00,000 --> 01:17:04,000
-{Gendo}       Como representante de la humanidad, les doy las gracias.
+Como representante de la humanidad, les doy las gracias.
 
 1130
 01:17:04,000 --> 01:17:12,000
-{Gendo}       A través de la muerte, voy a devolver las almas a donde pertenecen.
+A través de la muerte, voy a devolver las almas a donde pertenecen.
 
 1131
 01:17:12,000 --> 01:17:15,000
-{Gendo}       Por el deseado Proyecto de Instrumentalización Humana,
+Por el deseado Proyecto de Instrumentalización Humana,
 
 1132
 01:17:15,000 --> 01:17:19,000
-{Gendo}       la muerte de los dioses, yo firmo este pacto.
+la muerte de los dioses, yo firmo este pacto.
 
 1133
 01:17:19,000 --> 01:17:21,000
-{Gendo}       Que así sea.
+Que así sea.
 
 1134
 01:17:21,000 --> 01:17:25,000
-{Keel}        Nuestros deseos se han vuelto realidad.
+Nuestros deseos se han vuelto realidad.
 
 1135
 01:17:25,000 --> 01:17:26,000
-{Keel}        Bien.
+Bien.
 
 1136
 01:17:26,000 --> 01:17:29,000
-{Keel}        Todo salió bien.
+Todo salió bien.
 
 1137
 01:17:29,000 --> 01:17:31,000
-{Keel}        Instrumentalización Humana.
+Instrumentalización Humana.
 
 1138
 01:17:31,000 --> 01:18:06,000
-{Keel}        Esperamos la purificación en paz de todas las almas.
+Esperamos la purificación en paz de todas las almas.
 
 1139
 01:18:06,000 --> 01:18:07,000
-{Asuka}       ¡Maldición!
+¡Maldición!
 
 1140
 01:18:07,000 --> 01:18:09,000
-{Asuka}       ¡Está entrando en su forma semidivina!
+¡Está entrando en su forma semidivina!
 
 1141
 01:18:09,000 --> 01:18:12,000
-{Mari}        Creo que está despertando...
+Creo que está despertando...
 
 1142
 01:18:12,000 --> 01:18:49,000
-{Mari}        ¡Es uno de los Adams sobrevivientes!
+¡Es uno de los Adams sobrevivientes!
 
 1143
 01:18:49,000 --> 01:19:04,000
-{Shinji}      ¿Qué es esto?
+¿Qué es esto?
 
 1144
 01:19:04,000 --> 01:19:11,000
-{Shinji}      ¿Qué ES esto?
+¿Qué ES esto?
 
 1145
 01:19:11,000 --> 01:19:14,000
-{Shinji}      ¿Todo es por mi culpa!
+¡Todo es por mi culpa!
 
 1146
 01:19:14,000 --> 01:19:22,000
-{Shinji}      ¡¿Porque quité las lanzas?!
+¡¿Porque quité las lanzas?!
 
 1147
 01:19:22,000 --> 01:19:24,000
-{Shinji}      ¡Esto es...!
+¡Esto es...!
 
 1148
 01:19:24,000 --> 01:19:28,000
-{Kaworu}      Cuarto Impacto.
+Cuarto Impacto.
 
 1149
 01:19:28,000 --> 01:19:45,000
-{Kaworu}      Estas son las ceremonias inaugurales.
+Estas son las ceremonias inaugurales.
 
 1150
 01:19:45,000 --> 01:19:46,000
-{Shinji}      Kaworu-kun...
+Kaworu-kun...
 
 1151
 01:19:46,000 --> 01:19:55,000
-{Shinji}      ¡El collar!
+¡El collar!
 
 1152
 01:19:55,000 --> 01:19:59,000
-{Shinji}      ¡¿Misato-san?!
+¡¿Misato-san?!
 
 1153
 01:19:59,000 --> 01:20:01,000
-{Misato}      ¡Escudo A.T. al máximo!
+¡Escudo A.T. al máximo!
 
 1154
 01:20:01,000 --> 01:20:03,000
-{Misato}      ¡Mantengan al EVA en su estado actual!
+¡Mantengan al EVA en su estado actual!
 
 1155
 01:20:03,000 --> 01:20:06,000
-{Misato}      ¡Preparen el arma de riel principal! ¡Cargando bala en el cañón!
+¡Preparen el arma de riel principal! ¡Cargando bala en el cañón!
 
 1156
 01:20:06,000 --> 01:20:08,000
-{Misato}      ¡Hagan lo que sea para detener el Cuarto Impacto!
+¡Hagan lo que sea para detener el Cuarto Impacto!
 
 1157
 01:20:08,000 --> 01:20:17,000
-{Misato}      ¡Fuego!
+¡Fuego!
 
 1158
 01:20:17,000 --> 01:20:19,000
-{Midori}      ¡Daño recibido! ¡Golpe directo al armamento principal!
+¡Daño recibido! ¡Golpe directo al armamento principal!
 
 1159
 01:20:19,000 --> 01:20:26,000
-{Misato}      ¡¿El Recipiente de Adams?!
+¡¿El Recipiente de Adams?!
 
 1160
 01:20:26,000 --> 01:20:28,000
-{Tama}        ¡Disparos recibidos en la sección principal! ¡Daño desconocido!
+¡Disparos recibidos en la sección principal! ¡Daño desconocido!
 
 1161
 01:20:28,000 --> 01:20:30,000
-{Mujer (BG)}  / ¡El objetivo es el EVA nuevo! ###
+/ ¡El objetivo es el EVA nuevo! ###
 
 1162
 01:20:30,000 --> 01:20:32,000
-{Sumire}      ¡El remo es ineficaz!
+¡El remo es ineficaz!
 
 1163
 01:20:32,000 --> 01:20:43,000
-{Sumire}      ¡Perdemos altitud!
+¡Perdemos altitud!
 
 1164
 01:20:43,000 --> 01:20:46,000
-{Tama}        / 中＃＃＃＃＃＃！
+/ 中＃＃＃＃＃＃！
 
 1165
 01:20:46,000 --> 01:20:48,000
-{Ritsuko}     El Recipiente de Adams... El amo original de Wunder.
+El Recipiente de Adams... El amo original de Wunder.
 
 1166
 01:20:48,000 --> 01:20:57,000
-{Ritsuko}     ¡Está tratando de tomar el control de la nave a través del EVA-01!
+¡Está tratando de tomar el control de la nave a través del EVA-01!
 
 1167
 01:20:57,000 --> 01:21:05,000
-{Rei}         ¿Por qué no puedo restaurar la conexión?
+¿Por qué no puedo restaurar la conexión?
 
 1168
 01:21:05,000 --> 01:21:07,000
-{Mari}        ¡Oh!
+¡Oh!
 
 1169
 01:21:07,000 --> 01:21:10,000
-{Mari}        Estos chicos no están jugando.
+Estos chicos no están jugando.
 
 1170
 01:21:10,000 --> 01:21:12,000
-{Asuka}       ¡Anteojos, encárgate del EVA del mocoso!
+¡Anteojos, encárgate del EVA del mocoso!
 
 1171
 01:21:12,000 --> 01:21:14,000
-{Asuka}       ¡Yo ayudaré a Wunder con el 02'!
+¡Yo ayudaré a Wunder con el 02-kai!
 
 1172
 01:21:14,000 --> 01:21:15,000
-{Mari}        ¡Entendido!
+¡Entendido!
 
 1173
 01:21:15,000 --> 01:21:17,000
-{Midori}      ¡No puedo eyectar el Recipiente de Adams!
+¡No puedo eliminar el Recipiente de Adams!
 
 1174
 01:21:17,000 --> 01:21:19,000
-{Tama}        ¡Datos no identificados se están filtrando por el sistema de control principal!
+¡Datos no identificados se están filtrando por el sistema de control principal!
 
 1175
 01:21:19,000 --> 01:21:43,000
-{Aoba}        ¡Está tomando el control de la nave!
+¡Está tomando el control de la nave!
 
 1176
 01:21:43,000 --> 01:21:53,000
-{Asuka}       ¡Haces trampa! ¡Al estilo Seele!
+¡Haces trampa! ¡Al estilo Seele!
 
 1177
 01:21:53,000 --> 01:21:55,000
-{Asuka}       ¡Cambio de modo!
+¡Cambio de modo!
 
 1178
 01:21:55,000 --> 01:22:04,000
-{Asuka}       ¡Código Triple Siete!
+¡Código Triple Siete!
 
 1179
 01:22:04,000 --> 01:22:05,000
-{Rei}         ¿Quién está ahí?
+¿Quién está ahí?
 
 1180
 01:22:05,000 --> 01:22:24,000
-{Asuka}       ¡¿Quién demonios eres?!
+¡¿Quién demonios eres?!
 
 1181
 01:22:24,000 --> 01:22:26,000
-{Aoba}        Reporte desde el puente inferior.
+Reporte desde el puente inferior.
 
 1182
 01:22:26,000 --> 01:22:27,000
-{Aoba}        ¡EVA-02 ha contactado el Recipiente de Adams!
+¡EVA 02-kai ha contactado el Recipiente de Adams!
 
 1183
 01:22:27,000 --> 01:22:48,000
-{Misato}      Contamos contigo, Asuka.
+Contamos contigo, Asuka.
 
 1184
 01:22:48,000 --> 01:22:51,000
-{Rei}         Si yo fuera Ayanami Rei, ¿qué haría en un momento así?
+Si yo fuera Ayanami Rei, ¿qué haría en un momento así?
 
 1185
 01:22:51,000 --> 01:22:58,000
-{Asuka}       ¡Yo que sé!
+¡Yo que sé!
 
 1186
 01:22:58,000 --> 01:23:09,000
-{Asuka}       ¡Haz lo que quieras!
+¡Haz lo que quieras!
 
 1187
 01:23:09,000 --> 01:23:12,000
-{Asuka}       ¡Oh! ¿Toda la cosa es un núcleo?
+¡Oh! ¿Toda la cosa es un núcleo?
 
 1188
 01:23:12,000 --> 01:23:14,000
-{Asuka}       No hay tiempo...
+No hay tiempo...
 
 1189
 01:23:14,000 --> 01:23:31,000
-{Asuka}       ¡Perdón, EVA-02!
+¡Perdón, EVA-02!
 
 1190
 01:23:31,000 --> 01:23:33,000
-{Sumire}      ¡Sistemas de control restaurados!
+¡Sistemas de control restaurados!
 
 1191
 01:23:33,000 --> 01:23:34,000
-{Misato}      ¡Lanzamiento de emergencia de todas las naves!
+¡Lanzamiento de emergencia de todas las naves!
 
 1192
 01:23:34,000 --> 01:23:36,000
-{Misato}      ¡Persigan al EVA objetivo de inmediato!
+¡Persigan al EVA objetivo de inmediato!
 
 1193
 01:23:36,000 --> 01:23:40,000
-{Ritsuko}     ¡Capitán, no será posible hasta que la unidad principal esté restaurada!
+¡Capitán, no será posible hasta que la unidad principal esté restaurada!
 
 1194
 01:23:40,000 --> 01:24:02,000
-{Misato}      Shinji-kun...
+Shinji-kun...
 
 1195
 01:24:02,000 --> 01:24:06,000
-{Shinji}      Todo esto es mi culpa...
+Todo esto es mi culpa...
 
 1196
 01:24:06,000 --> 01:24:12,000
-{Shinji}      Yo...
+Yo...
 
 1197
 01:24:12,000 --> 01:24:15,000
-{Kaworu}      No es tu culpa.
+No es tu culpa.
 
 1198
 01:24:15,000 --> 01:24:19,000
-{Kaworu}      Es porque me convertí en el Treceavo Ángel.
+Es porque me convertí en el Treceavo Ángel.
 
 1199
 01:24:19,000 --> 01:24:21,000
-{Kaworu}      Soy el detonante.
+Soy el detonante.
 
 1200
 01:24:21,000 --> 01:24:24,000
-{Shinji}      ¿Qué es lo que he hecho?
+¿Qué es lo que he hecho?
 
 1201
 01:24:24,000 --> 01:24:31,000
-{Shinji}      Oye... ¿Qué he hecho?
+Oye... ¿Qué he hecho?
 
 1202
 01:24:31,000 --> 01:24:34,000
-{Shinji}      Kaworu-kun,
+Kaworu-kun,
 
 1203
 01:24:34,000 --> 01:24:37,000
-{Shinji}      dime qué hubiera sido lo correcto.
+dime qué hubiera sido lo correcto.
 
 1204
 01:24:37,000 --> 01:24:43,000
-{Kaworu}      Aún si desparecen las almas, la esperanza y la maldición permanecerán en este mundo.
+Aún si desparecen las almas, la esperanza y la maldición permanecerán en este mundo.
 
 1205
 01:24:43,000 --> 01:24:48,000
-{Kaworu}      Las intenciones han cambiado como la información a lo largo del mundo.
+Así como cambia historia a lo largo del mundo.
 
 1206
 01:24:48,000 --> 01:24:54,000
-{Kaworu}      Con el tiempo, incluso nosotros mismos nos reescribimos.
+Algún día, voy a reescribir la mía también.
 
 1207
 01:24:54,000 --> 01:24:59,000
-{Kaworu}      Lo siento. Esta no es la felicidad que deseabas.
+Lo siento. Esta no es la felicidad que deseabas.
 
 1208
 01:24:59,000 --> 01:25:03,000
-{Kaworu}      Cerraré la Puerta de Guf.
+Cerraré la Puerta de Guf.
 
 1209
 01:25:03,000 --> 01:25:05,000
-{Kaworu}      No tienes que preocuparte por ello, Shinji-kun.
+No tienes que preocuparte por ello, Shinji-kun.
 
 1210
 01:25:05,000 --> 01:25:08,000
-{Shinji}      Kaworu-kun...
+Kaworu-kun...
 
 1211
 01:25:08,000 --> 01:25:11,000
-{Shinji}      ¿Qué dices, Kaworu-kun?
+¿Qué dices, Kaworu-kun?
 
 1212
 01:25:11,000 --> 01:25:18,000
-{Shinji}      ¡No entiendo nada!
+¡No entiendo nada!
 
 1213
 01:25:18,000 --> 01:25:31,000
-{Kaworu}      Shinji-kun, tienes que encontrar un lugar donde haya paz y puedas encontrarte a ti mismo.
+Shinji-kun, tú puedes encontrar la paz y tu lugar en el mundo.
 
 1214
 01:25:31,000 --> 01:25:37,000
-{Kaworu}      Seguramente el destino te guiará.
+Seguramente el destino te guiará.
 
 1215
 01:25:37,000 --> 01:25:41,000
-{Kaworu}      No hagas esa cara.
+No hagas esa cara.
 
 1216
 01:25:41,000 --> 01:25:44,000
-{Kaworu}      Nos volveremos a ver, Shinji-kun.
+Nos volveremos a ver, Shinji-kun.
 
 1217
 01:25:44,000 --> 01:26:04,000
-{Shinji}      ¡Kaworu-kun!
+¡Kaworu-kun!
 
 1218
 01:26:04,000 --> 01:26:06,000
-{Mari}        ¿Aún no se cerraron las Puertas de Gauf?
+¿Aún no se cerraron las Puertas de Guf?
 
 1219
 01:26:06,000 --> 01:26:25,000
-{Mari}        Entonces, ¡el cachorrito de Seele es una medida de seguridad!
+Entonces, ¡el cachorrito de Seele es una medida de seguridad!
 
 1220
 01:26:25,000 --> 01:26:26,000
-{Mari}        ¡Ya terminé de limpiar!
+¡Ya terminé de limpiar!
 
 1221
 01:26:26,000 --> 01:26:30,000
-{Mari}        ¡Aguanta, cachorito!
+¡Aguanta, cachorito!
 
 1222
 01:26:30,000 --> 01:26:31,000
-{Mari}        ¡No te comportes como un bebé!
+¡No te comportes como un bebé!
 
 1223
 01:26:31,000 --> 01:26:33,000
-{Mari}        ¡Ayuda a la princesa al menos!
+¡Ayuda a la princesa al menos!
 
 1224
 01:26:33,000 --> 01:26:36,000
-{Mari}        ¡Compótate como un hombre!
+¡Compótate como un hombre!
 
 1225
 01:26:36,000 --> 01:27:33,000
-{Mari}        ¡Y mientras tanto, conoce un poco más el mundo!
+¡Y mientras tanto, conoce un poco más el mundo!
 
 1226
 01:27:33,000 --> 01:27:35,000
-{Fuyutsuki}   Qué pesadilla.
+Qué pesadilla.
 
 1227
 01:27:35,000 --> 01:27:38,000
-{Fuyutsuki}   Casi todo salió como lo planeaba Seele.
+Casi todo salió como lo planeaba Seele.
 
 1228
 01:27:38,000 --> 01:27:46,000
-{Gendo}       Pero no sólo el chico de Seele fue eliminado, también se ha abierto camino para despertar al EVA-13.
+Pero no sólo el chico de Seele fue eliminado, también se ha abierto camino para despertar al EVA-13.
 
 1229
 01:27:46,000 --> 01:27:49,000
-{Gendo}       Las acciones de la Captain Katsuragi también están dentro de lo pronosticado.
+Las acciones de la Capitán Katsuragi también están dentro de lo pronosticado.
 
 1230
 01:27:49,000 --> 01:27:52,000
-{Gendo}       Bastará con esto por ahora.
+Bastará con esto por ahora.
 
 1231
 01:27:52,000 --> 01:27:55,000
-{Hyuga}       Todas las naves, mantengan organización para retirada Clase 2.
+Todas las naves, mantengan organización para retirada Clase 2.
 
 1232
 01:27:55,000 --> 01:27:57,000
-{Mujer}       No hay lecturas de Patrón Azul.
+No hay lecturas de Patrón Azul.
 
 1233
 01:27:57,000 --> 01:27:59,000
-{Mujer}       No hay naves avistadas en el espacio aéreo de retirada.
+No hay naves avistadas en el espacio aéreo de retirada.
 
 1234
 01:27:59,000 --> 01:28:01,000
-{Hombre}      Las áreas dañanas de la sección media han recibido tratamientos de emergencia.
+Las áreas dañanas de la sección media han recibido tratamientos de emergencia.
 
 1235
 01:28:01,000 --> 01:28:04,000
-{Ritsuko}     El Cuarto Impacto fue detenido, pero no sabemos a quién agradecer.
+El Cuarto Impacto fue detenido, pero no sabemos a quién agradecer.
 
 1236
 01:28:04,000 --> 01:28:06,000
-{Hombre (BG)} / ＃んざい不明＃＃のは水中。（BGの男オペレター）
+/ ＃んざい不明＃＃のは水中。（BGの男オペレター）
 
 1237
 01:28:06,000 --> 01:28:07,000
-{Hombre (BG)} / じごくは不明、とっか、じんき回収＃＃＃＃。
+/ じごくは不明、とっか、じんき回収＃＃＃＃。
 
 1238
 01:28:07,000 --> 01:29:01,000
-{Ritsuko}     Misato, nos marchamos por ahora...
+Misato, nos marchamos por ahora...
 
 1239
 01:29:01,000 --> 01:29:04,000
-{Asuka}       Mocoso Shinji.
+Mocoso Shinji.
 
 1240
 01:29:04,000 --> 01:29:10,000
-{Asuka}       ¿No has venido a ayudarme?
+¿No vas a ayudarme?
 
 1241
 01:29:10,000 --> 01:29:12,000
-{Asuka}       Una vez más, todo se trata de ti.
+Una vez más, todo se trata de ti.
 
 1242
 01:29:12,000 --> 01:29:40,000
-{Asuka}       Crees que puedes escapar a todo lo que ha pasado sin decir una palabra.
+Crees que puedes escapar a todo lo que ha pasado sin decir una palabra.
 
 1243
 01:29:40,000 --> 01:29:43,000
-{Asuka}       ¿Todavía necesitas cariñitos?
+¿Todavía necesitas cariñitos?
 
 1244
 01:29:43,000 --> 01:29:47,000
-{Asuka}       ¡Hasta cuándo vas a ser un mocoso desafiante!
+¡Hasta cuándo vas a ser un mocoso desafiante!
 
 1245
 01:29:47,000 --> 01:29:50,000
-{Asuka}       Toma, ponte esto.
+Toma, ponte esto.
 
 1246
 01:29:50,000 --> 01:29:58,000
-{Asuka}       ¡Dios! ¡¿Puedes pararte por ti mismo, quieres?!
+¡Dios! ¡¿Puedes pararte por ti mismo, quieres?!
 
 1247
 01:29:58,000 --> 01:30:02,000
-{Asuka}       La piloto de antes.
+La piloto de antes.
 
 1248
 01:30:02,000 --> 01:30:11,000
-{Asuka}       ¿Acaso fue un clon de Ayanami?
+¿Acaso fue un clon de Ayanami?
 
 1249
 01:30:11,000 --> 01:30:16,000
-{Asuka}       La densidad de la barrera L es muy fuerte aquí, así que no vendrán a ayudarnos.
+La densidad de la barrera L es muy fuerte aquí, así que no vendrán a ayudarnos.
 
 1250
 01:30:16,000 --> 01:30:23,000
-{Asuka}       Vamos a ir donde están los Lilin.
+Vamos a ir donde están los Lilin.
 
 1251
 01:30:23,000 --> 01:35:10,000
-{Asuka}       ¡Vamos!
+¡Vamos!
 
 1252
 01:35:10,000 --> 01:35:12,000
-{Caption}     ADELANTO
+ADELANTO
 
 1253
 01:35:12,000 --> 01:35:16,000
-{Narrator}    Shinji Ikari continúa vangando, sin voluntad de vivir.
+Shinji Ikari continúa vangando, sin voluntad de vivir.
 
 1254
 01:35:16,000 --> 01:36:19,000
-{Narrator}    Llega a un lugar esperanzador.
+Llega a un lugar esperanzador.
 
 1255
 01:36:19,000 --> 01:36:22,000
-{Narrator}    Finalmente, el Proyecto de Instrumentalización se pone en marcha.
+Finalmente, el Proyecto de Instrumentalización se pone en marcha.
 
 1256
 01:36:22,000 --> 01:36:23,000
-{Narrator}    Para prevenir el Impacto Final,
+Para prevenir el Impacto Final,
 
 1257
 01:36:23,000 --> 01:36:26,000
-{Narrator}    Wille realiza un último intento.
+Wille realiza un último intento.
 
 1258
 01:36:26,000 --> 01:36:27,000
-{Narrator}    ¡Wunder rasga los cielos!
+¡Wunder rasga los cielos!
 
 1259
 01:36:27,000 --> 01:36:32,000
-{Narrator}    ¡EVA Unidad 8+2 carretea sobre la tierra roja!
+¡EVA Unidad 8+2 carretea sobre la tierra roja!
 
 1260
 01:36:32,000 --> 01:36:34,000
-{Narrator}    La próxima vez en "Evangelion Nueva Edición Teatral".
+La próxima vez en "Evangelion Nueva Edición Teatral".
 
 1261
 01:36:34,000 --> 01:36:34,000
-{Narrator}    ¡Habrá más fanservice hasta el final!
+¡Habrá más fanservice hasta el final!
 
