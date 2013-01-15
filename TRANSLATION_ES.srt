@@ -48,7 +48,7 @@ Entendido.
 
 13
 00:01:18,000 --> 00:01:20,000
-Comenzar Operación Spacewalk.
+Comenzar Operación US.
 
 14
 00:01:20,000 --> 00:01:21,000
@@ -588,7 +588,7 @@ Revisando la hoja de ruta para la operación de encubierto.
 
 148
 00:08:53,000 --> 00:08:56,000
-El espécimen DM03 está bajo nuestra custodia.
+El espécimen BM03 está bajo nuestra custodia.
 
 149
 00:08:56,000 --> 00:08:57,000
@@ -720,7 +720,7 @@ Quieren bloquearnos aquí, básicamente.
 
 181
 00:10:43,000 --> 00:10:45,000
-/ ＃＃マル二。＃＃＃消滅確認。
+/ デコイ02（マル二）、そして06（マルロク）が消滅確認。
 
 182
 00:10:45,000 --> 00:10:48,000
@@ -784,7 +784,7 @@ La migración de la tripulación tiene la máxima prioridad
 
 197
 00:11:22,000 --> 00:11:26,000
-/ ＃＃＃＃＃ゼロ、＃てきギリギリまで＃＃たのむ。
+/ 偽装作業は続けろ、会敵ギリギリまで組立をたのむ。
 
 198
 00:11:26,000 --> 00:11:28,000
@@ -876,7 +876,7 @@ Vuelvan a sus puestos.
 
 220
 00:12:10,000 --> 00:12:13,000
-Somos como una mezcla de civiles después de todo.
+Somos un grupo de civiles después de todo.
 
 221
 00:12:13,000 --> 00:12:15,000
@@ -1088,7 +1088,7 @@ Deja de quejarte, jovencita.
 
 273
 00:14:21,000 --> 00:14:25,000
-¡Los viejitos deben de tener más cuidado!
+/ ¡Los viejitos deben de tener más cuidado! ヴァーッ！年寄りなら慎重に行くもんでしょ！？
 
 274
 00:14:25,000 --> 00:14:27,000
@@ -1764,7 +1764,7 @@ Wunder es realmente la nave de la esperanza.
 
 442
 00:25:00,000 --> 00:25:03,000
-Especimen DM03, nombre tentativo: Shinji Ikari...
+Especimen BM03, nombre tentativo: Shinji Ikari...
 
 443
 00:25:03,000 --> 00:25:06,000
@@ -2988,7 +2988,7 @@ Parece un poco más grande ahora.
 
 748
 00:47:53,000 --> 00:48:00,000
-¿Huh?
+¿Huh? / Agregar Toji Suzuhara abajo
 
 749
 00:48:00,000 --> 00:48:03,000
@@ -5015,30 +5015,30 @@ Shinji Ikari continúa vangando, sin voluntad de vivir.
 Llega a un lugar esperanzador.
 
 1255
-01:36:19,000 --> 01:36:22,000
+01:35:19,000 --> 01:36:22,000
 Finalmente, el Proyecto de Instrumentalización se pone en marcha.
 
 1256
-01:36:22,000 --> 01:36:23,000
+01:35:22,000 --> 01:36:23,000
 Para prevenir el Impacto Final,
 
 1257
-01:36:23,000 --> 01:36:26,000
+01:35:23,000 --> 01:36:26,000
 Wille realiza un último intento.
 
 1258
-01:36:26,000 --> 01:36:27,000
+01:35:26,000 --> 01:36:27,000
 ¡Wunder rasga los cielos!
 
 1259
-01:36:27,000 --> 01:36:32,000
+01:35:27,000 --> 01:36:32,000
 ¡EVA Unidad 8+2 carretea sobre la tierra roja!
 
 1260
-01:36:32,000 --> 01:36:34,000
+01:35:32,000 --> 01:36:34,000
 La próxima vez en "Evangelion Nueva Edición Teatral".
 
 1261
-01:36:34,000 --> 01:36:34,000
+01:35:34,000 --> 01:36:34,000
 ¡Habrá más fanservice hasta el final!
 
