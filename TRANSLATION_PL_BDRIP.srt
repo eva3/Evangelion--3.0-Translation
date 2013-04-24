@@ -1,0 +1,435 @@
+1
+00:11:01,000 --> 00:11:03,000
+{Mężczyzna}   Zespół wywiadowczy, raportuj o pozycji obu jednostek.
+
+2
+00:11:04,000 --> 00:11:06,000
+{Kobieta}     Jednostka 02-Dash osiągnęła wysokość operacyjną.
+
+3
+00:11:07,000 --> 00:11:09,000
+{Kobieta}     Umieszczony na wyznaczonej orbicie.
+
+4
+00:11:09,000 --> 00:11:11,000
+{Mężczyzna}   Jednostka 08 nie była w stanie przekroczyć planowanej orbity z uwagi na niedostateczną wysokość.
+
+5
+00:11:13,000 --> 00:11:15,000
+{Aoba}        Odbiór.
+
+6
+00:11:15,000 --> 00:11:17,000
+{Aoba}        Jednostka 02-Dash sama przeprowadzi operację. 
+
+7
+00:11:17,000 --> 00:11:18,000
+{Mężczyzna}   Zrozumiano.
+
+6
+00:11:15,000 --> 00:11:17,000
+{Mężczyzna}   Jednostka 08 funkcjonuje jako wsparcie.
+
+9
+00:11:20,000 --> 00:11:21,000
+{Ritsuko}     Jednostka 02-Dash jest poza punktem odzysku.
+
+11
+00:11:21,000 --> 00:11:23,000
+{Ritsuko}     Naruszenie Strefy 88.
+
+12
+00:11:26,000 --> 00:11:27,000   
+{Misato}      Odbiór.
+
+13
+00:11:27,000 --> 00:11:29,000
+{Misato}      Rozpoczęcie Operacji Spacewalk.
+
+14
+00:11:29,000 --> 00:11:30,000
+{Kobieta}     Odbiór.
+
+15
+00:11:30,000 --> 00:11:32,000
+{Kobieta}     Jednostka 02-Dash wkracza na końcową orbitę operacyjną.
+
+16
+00:11:34,000 --> 00:11:35,000
+{Kobieta}     Zmniejszanie prędkości.
+
+17
+00:11:35,000 --> 00:11:37,000
+{Mężczyzna}   Faza 1, start wszystkich silników.
+
+18
+00:11:38,000 --> 00:11:40,000
+{Mężczyzna}   Nadciągający moment spalania.
+
+19
+00:11:43,000 --> 00:11:45,000
+{Kobieta}     Spalanie S1C zakończone.
+
+20
+00:11:45,000 --> 00:11:46,000
+{Kobieta}     Zmniejszanie prędkości zakończone.
+
+21
+00:11:46,000 --> 00:11:48,000
+{Mężczyzna}   Odłączanie jednostki dopalacza, faza 1.
+
+22
+00:11:50,000 --> 00:11:52,000
+{Kobieta}     Odłączanie zakończone.
+
+23
+00:11:52,000 --> 00:11:54,000
+{Kobieta}     Systemy spalania oczyszczone. Nie wykryto problemów.
+
+24
+00:11:54,000 --> 00:11:55,000
+{Mężczyzna}   Odbiór.
+
+25
+00:11:55,000 --> 00:11:57,000
+{Mężczyzna}   Automatyzacja czasu zapłonu.
+
+26
+00:11:57,000 --> 00:11:59,000
+{Mężczyzna}   Zapłon wszystkich silników, faza 2.
+
+27
+00:12:02,000 --> 00:12:04,000
+{Kobieta}     Spalanie S1C zakończone.
+
+28
+00:12:05,000 --> 00:12:06,000
+{Kobieta}     Blokada zaworów ciśnieniowych.
+
+29
+00:12:06,000 --> 00:12:08,000
+{Mężczyzna}   Odłączanie jednostki dopalacza, faza 2.
+
+30
+00:12:09,000 --> 00:12:11,000
+{Kobieta}     Zmniejszanie prędkości zakończone.
+
+
+31
+00:12:11,000 --> 00:12:13,000
+{Mężczyzna}   Przygotowanie do wkroczenia na końcową orbitę operacyjną.
+
+32
+00:12:13,000 --> 00:12:15,000
+{Mężczyzna}   Obrót głowy jednostki.
+
+33
+00:12:15,000 --> 00:12:16,000
+{Mężczyzna}   Rozpoczynanie rotacji.
+
+34
+00:12:16,000 --> 00:12:18,000
+{Mężczyzna}   Kąt spadania potwierdzony.
+
+35
+00:12:18,000 --> 00:12:19,000
+{Mężczyzna}   Z akceptowalnym marginesem błędu.
+
+36
+00:12:19,000 --> 00:12:21,000
+{Kobieta}     Ponowne obliczanie relatywnej prędkości.
+
+37
+00:12:21,000 --> 00:12:23,000
+{Kobieta}     Ponowne potwierdzanie koordynat wysokości.
+
+38
+00:12:23,000 --> 00:12:25,000
+{Kobieta}     Brak problemów.
+
+39
+00:12:25,000 --> 00:12:27,000
+{Kobieta}     Finalne korekcje orbity.
+
+40
+00:02:18,000 --> 00:02:20,000
+{Kobieta}     180-stopniowy obrót zakończony.
+
+182
+00:20:54,000 --> 00:20:56,000
+{Misato}      Nie możemy sobie teraz pozwolić na ruch.
+ 
+183
+00:20:57,000 --> 00:20:59,000
+{Misato}      Kontynuować tylko działania głównego silnika.
+ 
+184
+00:20:59,000 --> 00:21:01,000
+{Misato}      Cała flota do drugiej stacji bitewnej.
+ 
+185
+00:21:02,000 --> 00:21:04,000
+{Misato}      Cel: jednostki serii Nemesis.
+ 
+186
+00:21:04,000 --> 00:21:05,000
+{Ritsuko}     Zrozumiałem.
+ 
+187
+00:21:05,000 --> 00:21:07,000
+{Ritsuko}     Cała flota do drugiej stacji bitewnej.
+ 
+188
+00:21:07,000 --> 00:21:09,000
+{Hyuga}       Przygotować się na bitwę przeciw-powietrzną, przeciw wodną i podwodną.
+ 
+189
+00:21:11,000 --> 00:21:12,000
+{Aoba}        Przerwać transport surowców.
+ 
+190
+00:21:12,000 --> 00:21:14,000
+{Aoba}        Najważniejszy jest transport personelu do innego statku.
+ 
+191
+00:21:14,000 --> 00:21:16,000
+{Kobieta}     Wszystkie floty, przerywanie transportu zasobów.
+ 
+192
+00:21:16,000 --> 00:21:18,000
+{Kobieta}     Do wszystkich, transfer statków jest priorytetem.
+ 
+193
+00:21:22,000 --> 00:21:24,000
+{Kobieta}     Flota zdolna do wycofania się z obecnej lokacji. >?
+ 
+194
+00:21:25,000 --> 00:21:27,000
+{Kobieta}     Szybko do drugiego Punktu Spotkania >?
+ 
+195
+00:21:27,000 --> 00:21:29,000
+{Mężczyzna}   Porzucić jakiekolwiek ostatki ładunku.
+ 
+196
+00:21:29,000 --> 00:21:31,000
+{Mężczyzna}   Wycofanie załogi jest największym priorytetem
+ 
+197
+00:21:31,000 --> 00:21:33,000
+{Mężczyzna}   / ＃＃＃＃＃ゼロ、＃tekiギリギリmaで＃＃たnomu。
+ 
+198
+00:21:35,000 --> 00:21:37,000
+{Mężczyzna}   / 最優先tsutaemonoha、＃＃＃＃shitekure。
+ 
+199
+00:21:37,000 --> 00:21:39,000
+{Kobieta}     Przygotować wszystkie działa do strzału.
+ 
+200
+00:21:39,000 --> 00:21:41,000
+{Kobieta}     Aktywacja zdalnej kontroli i systemu szczepiania. >?
+ 
+201
+00:21:44,000 --> 00:21:46,000
+{Kobieta}     Przygotowanie systemów.
+ 
+202
+00:21:44,000 --> 00:21:46,000
+{Koji}        Inicjowanie wszczepiania głównego systemu mocy >?
+ 
+203
+00:21:47,000 --> 00:21:48,000
+{Koji}        Szybko.
+ 
+204
+00:21:52,000 --> 00:21:53,000
+{Mężczyzna}   Reaktor N2 pracuje na 99% mocy.
+ 
+205
+00:21:52,000 --> 00:21:53,000
+{Kobieta}     Inicjowanie wszczepiania głównego systemu mocy >?
+ 
+206
+00:21:53,000 --> 00:21:55,000
+{Kobieta}     Otwieranie zaworów do numeru 90.
+ 
+207
+00:21:55,000 --> 00:21:57,000
+{Kobieta}     Przewód Transmisyjny podłączony.
+ 
+208
+00:21:57,000 --> 00:21:59,000
+{Kobieta}     Nie wykryto problemów w bramie, trzeciej oraz czwartej "cargo cage" >? 
+ 
+209
+00:22:00,000 --> 00:22:01,000
+{Mężczyzna}   Zrozumiałem.
+ 
+210
+00:22:01,000 --> 00:22:03,000
+{Mężczyzna}   Otwieranie zaworów do numeru 90.
+ 
+211
+00:22:03,000 --> 00:22:05,000
+{Mężczyzna}   Rozpoczynanie iniekcji energii.
+ 
+212
+00:22:05,000 --> 00:22:07,000
+{Kobieta}     Wprowadzanie energii do reaktora N2 
+ 
+213
+00:22:07,000 --> 00:22:07,800
+{Kobieta}     Nominalnie.
+ 
+214
+00:22:07,000 --> 00:22:09,000
+{Kobieta}     Weryfikowanie wnętrza kapsuły LCL.
+ 
+215
+00:22:10,000 --> 00:22:12,000
+{Kobieta}     System filtracji aktywny.
+ 
+216
+00:22:12,000 --> 00:22:13,000
+{Maya}        Stanowiska bojowe!
+ 
+217
+00:22:13,000 --> 00:22:15,000
+{Maya}        Wracaj do swojego działu.
+ 
+218
+00:22:15,000 --> 00:22:17,000
+{Maya}        Ty tam! Nie opierdalaj się.
+ 
+219
+00:22:17,000 --> 00:22:19,000
+{Pracownik}   Żąda Pani niemożliwego!
+ 
+220
+00:22:19,000 --> 00:22:21,000
+{Pracownik}   Mimo wszystko, jesteśmy grupą zmieszaną razem z cywilami.
+ 
+221
+00:22:22,000 --> 00:22:24,000
+Nie szukaj wymówek!
+
+222
+00:22:24,000 --> 00:22:26,000
+¡Zapierdalaj!
+
+223
+00:22:26,000 --> 00:22:28,000
+Ugh?, Dlatego nie znoszę modszych facetów.
+
+224
+00:22:30,000 --> 00:22:32,000
+Uhm, przerywa połączenie w tym miejscu.
+
+
+225
+00:22:33,000 --> 00:22:35,000
+Rozpocząć blokadę ścian bariery... o to chodzi?    >?
+
+
+226
+00:22:36,000 --> 00:22:38,000
+El sonar está en dirección con la proa del buque anti aéreo como referencia.
+
+227
+00:22:40,000 --> 00:22:41,000
+Kitakami!
+
+228
+00:22:41,000 --> 00:22:43,000
+Jak wygląda sytuacja na pokładzie?
+
+229
+00:22:43,000 --> 00:22:45,000
+Czy to moja broszka?
+
+230
+00:22:45,000 --> 00:22:47,000
+Oczywiście! To twój teren.
+
+231
+00:22:47,000 --> 00:22:49,000
+Cooo? Serio?
+
+232
+00:22:52,000 --> 00:22:54,000
+Start jest niebezpieczny.
+
+233
+00:22:54,000 --> 00:22:56,000
+Zostańmy tutaj!
+
+234
+00:22:56,000 --> 00:22:58,000
+{Kobieta} Przygotowania wszystkich przepiwpowietrznych jednostek rozpoczęte, w tym rakiet samonaprowadzających statku wojennego.
+
+
+235
+00:22:58,000 --> 00:23:00,000
+Mając stację bojową na mostku...
+
+236
+00:23:01,000 --> 00:23:01,800
+Odbiór.
+
+237
+00:23:01,000 --> 00:23:02,000
+Strasznie denerwujące.
+
+238
+00:23:02,000 --> 00:23:04,000
+Aktywować wszystkie systemy obrony przeciwpowietrznej.
+
+239
+00:23:04,000 --> 00:23:06,000
+Obrona Eva-01 jest naszym obecnym priorytetem.
+
+240
+00:23:06,000 --> 00:23:08,000
+...Eva-01?
+
+241
+00:23:16,000 --> 00:23:17,000
+Jest tutaj!
+
+242
+00:23:17,000 --> 00:23:19,000
+Confirmando pilar de luz del objetivo.
+
+243
+00:23:19,000 --> 00:23:21,000
+To... Zmienne urosły w jakiś sposób.
+
+244
+00:23:22,000 --> 00:23:24,000
+Nie możemy dostać się do rdzenia celu.
+
+245
+00:23:24,000 --> 00:23:26,000
+Prawdopodobnie jest ukryte na zewnątrz kokonu.
+
+246
+00:23:27,000 --> 00:23:29,000
+To niedobrze.
+
+247
+00:23:29,000 --> 00:23:31,000
+W tym tepie, będziemy w miejscu docelowym nasycenia bombardowaniem   >*(Saturation bombing??)//saturacyjne bombardowanie?
+
+248
+00:23:31,000 --> 00:23:33,000
+600 sekund do kontaktu.
+
+249
+00:23:33,000 --> 00:23:34,000
+Kapitanie Katsuragi,
+
+250
+00:23:34,000 --> 00:23:36,000
+Proponuję natychmiast rozproszyć flotę.
