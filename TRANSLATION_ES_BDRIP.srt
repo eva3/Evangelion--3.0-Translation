@@ -1,0 +1,5052 @@
+1
+00:11:01,000 --> 00:11:03,000
+Equipo de rastreo, reporte las posiciones actuales de las dos unidades.
+
+2
+00:11:04,000 --> 00:11:06,000
+La Unidad 02-Dash ha alcanzado la altitud operacional.
+
+3
+00:11:07,000 --> 00:11:09,000
+Se ha establecido en la órbita designada.
+
+4
+00:11:09,000 --> 00:11:11,000
+La Unidad 08 experimentó problemas al entrar en órbita debido a la falta de altitud.
+
+5
+00:11:13,000 --> 00:11:15,000
+Recibido.
+
+6
+00:11:15,000 --> 00:11:17,000
+02-Dash llevará a cabo esta operación sola.
+
+7
+00:11:17,000 --> 00:11:18,000
+Entendido.
+
+8
+00:11:18,000 --> 00:11:20,000
+La Unidad 08 actuará como soporte.
+
+9
+00:11:20,000 --> 00:11:21,000
+Cambio de transición a 7.
+
+10
+00:11:21,000 --> 00:11:23,000
+La Unidad 02-Dash está más allá del punto de recuperación.
+
+11
+00:11:24,000 --> 00:11:26,000
+Está alcanzando el Área 88.
+
+12
+00:11:26,000 --> 00:11:27,000
+Entendido.
+
+13
+00:11:27,000 --> 00:11:29,000
+Comenzar Operación US.
+
+14
+00:11:29,000 --> 00:11:30,000
+Entendido.
+
+15
+00:11:30,000 --> 00:11:32,000
+La Unidad 02-Dash entrará en la órbita de operación final.
+
+16
+00:11:34,000 --> 00:11:35,000
+Cambiando a desaceleración.
+
+17
+00:11:35,000 --> 00:11:37,000
+Encendiendo todos los motores, etapa 1.
+
+18
+00:11:38,000 --> 00:11:40,000
+Combustion inminente.
+
+19
+00:11:43,000 --> 00:11:45,000
+Combustión S1C completa.
+
+20
+00:11:45,000 --> 00:11:46,000
+Desaceleración confirmada.
+
+21
+00:11:46,000 --> 00:11:48,000
+Desechando unidad de propulsión, etapa 1.
+
+22
+00:11:50,000 --> 00:11:52,000
+Separación confirmada.
+
+23
+00:11:52,000 --> 00:11:54,000
+Sistemas de combustión despejados. No hay problemas.
+
+24
+00:11:54,000 --> 00:11:55,000
+Entendido.
+
+25
+00:11:55,000 --> 00:11:57,000
+Automatizando tiempos de ignición.
+
+26
+00:11:57,000 --> 00:11:59,000
+Encendiendo todos los motores, etapa 2.
+
+27
+00:12:02,000 --> 00:12:04,000
+Combustión S1C completa.
+
+28
+00:12:05,000 --> 00:12:06,000
+Cerrando válvulas de presión.
+
+29
+00:12:06,000 --> 00:12:08,000
+Desechando unidad de propulsión, etapa 2.
+
+30
+00:12:09,000 --> 00:12:11,000
+Desaceleración completa.
+
+31
+00:12:11,000 --> 00:12:13,000
+Preparándose para entrar en la órbita de operación final.
+
+32
+00:12:13,000 --> 00:12:15,000
+Volteando la cabeza de la Unidad.
+
+33
+00:12:15,000 --> 00:12:16,000
+Comenzando rotación.
+
+34
+00:12:16,000 --> 00:12:18,000
+Ángulo de descenso confirmado.
+
+35
+00:12:18,000 --> 00:12:19,000
+Se encuentra dentro del márgen de error.
+
+36
+00:12:19,000 --> 00:12:21,000
+Recalculando velocidad relativa.
+
+37
+00:12:21,000 --> 00:12:23,000
+Reconfirmando coordenadas de altitud.
+
+38
+00:12:23,000 --> 00:12:25,000
+Sin problemas.
+
+39
+00:12:25,000 --> 00:12:27,000
+Correcciones de orbita final, completas.
+
+40
+00:12:27,000 --> 00:12:29,000
+Rotación de 180 grados completa.
+
+41
+00:12:29,000 --> 00:12:30,000
+Bien.
+
+42
+00:12:30,000 --> 00:12:32,000
+La Unidad 02-Dash comenzará la transición a la órbita de intersección.
+
+43
+00:12:33,000 --> 00:12:35,000
+Comenzando la operación.
+
+44
+00:12:35,000 --> 00:12:37,000
+Todas las guías remotas serán cortadas.
+
+45
+00:12:37,000 --> 00:12:39,000
+La Unidad será controlada manualmente.
+
+46
+00:12:39,000 --> 00:12:41,000
+Buena suerte.
+
+47
+00:12:41,000 --> 00:12:43,000
+La unidad está en camino para interceptar al objetivo.
+
+48
+00:12:43,000 --> 00:12:45,000
+Ocho millas hasta hacer contacto.
+
+49
+00:12:46,000 --> 00:12:47,000
+Confirmando objetivo.
+
+50
+00:12:47,000 --> 00:12:49,000
+Punto de contacto sin cambios.
+
+51
+00:12:49,000 --> 00:12:51,000
+Manteniendo Shift-M. Sin problemas.
+
+52
+00:12:52,000 --> 00:12:54,000
+02-Dash, prepárese para el encuentro.
+
+53
+00:12:54,000 --> 00:12:56,000
+La Unidad 08 está perdiendo altitud, sólo podrá asistirte durante 96 segundos hasta el reingreso.
+
+54
+00:12:59,000 --> 00:13:01,000
+Termínalo para entonces.
+
+55
+00:13:02,000 --> 00:13:04,000
+Ondas reflectantes detectadas cerca del objetivo.
+
+56
+00:13:04,000 --> 00:13:05,000
+¡Nos está bloqueando!
+
+57
+00:13:05,000 --> 00:13:07,000
+Es sólo un arma masiva de auto-defensa del sistema.
+
+58
+00:13:07,000 --> 00:13:09,000
+No hay de qué preocuparse.
+
+59
+00:13:10,000 --> 00:13:12,000
+¡Generados flujos de la explosión!
+
+60
+00:13:12,000 --> 00:13:14,000
+Llegando en 3... 2... 1...
+
+61
+00:13:19,000 --> 00:13:20,000
+Segunda onda en camino.
+
+62
+00:13:20,000 --> 00:13:21,000
+Patrón Azul.
+
+63
+00:13:21,000 --> 00:13:22,000
+Parece que nos va a traer problemas...
+
+64
+00:13:22,000 --> 00:13:24,000
+Identificando cuerpo próximo.
+
+65
+00:13:24,000 --> 00:13:26,000
+Confirmado, código 04A.
+
+66
+00:13:34,000 --> 00:13:36,000
+¡Un Escudo Anti-AT!
+
+67
+00:13:41,000 --> 00:13:43,000
+¡Esto apesta!
+
+68
+00:13:43,000 --> 00:13:45,000
+¡Solo me entorpece el camino!
+
+69
+00:13:46,000 --> 00:13:48,000
+¡Anteojos, favorita! ¡Cúbreme!
+
+70
+00:13:53,000 --> 00:13:55,000
+¡Tu fuego de apoyo fue 2 segundos tarde!
+
+71
+00:13:58,000 --> 00:14:00,000
+Y tú estas 3 segundos por delante de tu posición.
+
+72
+00:14:01,000 --> 00:14:03,000
+Se llama adaptarse a la situación. ¡Mantén mi ritmo!
+
+73
+00:14:04,000 --> 00:14:06,000
+Como usted ordene,
+
+74
+00:14:06,000 --> 00:14:08,000
+¡Princesa!
+
+75
+00:14:14,000 --> 00:14:16,000
+Llegó a través de Fraury Shift.
+
+76
+00:14:16,000 --> 00:14:18,000
+Va a entrar en la última defensa del Area 89.
+
+77
+00:14:19,000 --> 00:14:21,000
+¡El objetivo se está moviendo!
+
+78
+00:14:25,000 --> 00:14:26,000
+¡No hay tiempo para corregir mi órbita!
+
+79
+00:14:26,000 --> 00:14:28,000
+¡Voy a entrar!
+
+80
+00:14:49,000 --> 00:14:51,000
+¡Desaceleración!
+
+81
+00:14:55,000 --> 00:14:56,000
+¡Ocho!
+
+82
+00:14:56,000 --> 00:14:57,000
+¡Siete!
+
+83
+00:14:57,000 --> 00:14:58,000
+¡Seis!
+
+84
+00:14:58,000 --> 00:14:59,000
+¡Cinco!
+
+85
+00:14:59,000 --> 00:15:00,000
+¡Cuatro!
+
+86
+00:15:00,000 --> 00:15:02,000
+¡Tres!
+
+87
+00:15:02,000 --> 00:15:03,000
+¡Dos!
+
+88
+00:15:03,000 --> 00:15:04,000
+¡Uno!
+
+89
+00:15:04,000 --> 00:15:06,000
+¡Terminando combustión!
+
+90
+00:15:12,000 --> 00:15:14,000
+02-Dash ha desechado los últimos propulsores.
+
+91
+00:15:15,000 --> 00:15:17,000
+Asegurando distancia segura para el reingreso.
+
+92
+00:15:18,000 --> 00:15:20,000
+Objetivo capturado satisfactoriamente.
+
+93
+00:15:20,000 --> 00:15:22,000
+Regresando a la base.
+
+94
+00:15:22,000 --> 00:15:23,000
+Entendido.
+
+95
+00:15:23,000 --> 00:15:25,000
+Esperaremos en el punto de recuperación.
+
+96
+00:15:25,000 --> 00:15:26,000
+El código de combinación es Saturn 5.
+
+97
+00:15:26,000 --> 00:15:28,000
+Entendido.
+
+98
+00:15:28,000 --> 00:15:29,000
+¿Patrón Azul?
+
+99
+00:15:29,000 --> 00:15:31,000
+¡¿Dónde?!
+
+100
+00:15:34,000 --> 00:15:36,000
+El objeto desencadenante es código 04B.
+
+101
+00:15:36,000 --> 00:15:38,000
+Está desplegando indo-hashamas.
+
+102
+00:15:38,000 --> 00:15:39,000
+¡Descarado!
+
+103
+00:15:39,000 --> 00:15:41,000
+¡Y justo antes del reingreso!
+
+104
+00:15:42,000 --> 00:15:44,000
+¡Anteojos, cúbreme!
+
+105
+00:15:44,000 --> 00:15:46,000
+¡Perdón!
+
+106
+00:15:46,000 --> 00:15:48,000
+No tengo suficiente altitud, ¡nos vemos!
+
+107
+00:15:48,000 --> 00:15:50,000
+Te dejo el resto a t...
+
+108
+00:15:51,000 --> 00:15:53,000
+¡Ugh, es una inútil!
+
+109
+00:15:53,000 --> 00:15:55,000
+¡Maldita sea! ¡Esta cosa es terca!
+
+110
+00:15:55,000 --> 00:15:57,000
+¡Nadie me dijo de esto!
+
+111
+00:16:08,000 --> 00:16:10,000
+¡¿Qué es esta luz!?
+
+112
+00:16:10,000 --> 00:16:12,000
+¡El Escudo A.T. no la está neutralizando!
+
+113
+00:16:12,000 --> 00:16:14,000
+¡Tengo que bloquear el núcleo!
+
+114
+00:16:15,000 --> 00:16:17,000
+¡No escaparás!
+
+115
+00:16:19,000 --> 00:16:21,000
+¡Mierda! ¡No puedo mantener mi ángulo de descenso!
+
+116
+00:16:21,000 --> 00:16:23,000
+¡A este ritmo mi unidad se hará pedazos!
+
+117
+00:16:23,000 --> 00:16:25,000
+¡02-Dash, completar la mision es la máxima prioridad!
+
+118
+00:16:27,000 --> 00:16:29,000
+No sueltes el objeto, incluso si esto significa perder la unidad.
+
+119
+00:16:29,000 --> 00:16:31,000
+¡Ya lo sé!
+
+120
+00:16:50,000 --> 00:16:52,000
+¡Haz algo, Shinji idiota!
+
+121
+00:17:32,000 --> 00:17:34,000
+Bienvenido de nuevo, Ikari Shinji-kun.
+
+122
+00:17:35,000 --> 00:17:36,000
+Te he estado esperando.
+
+123
+00:17:36,000 --> 00:17:38,000
+Evangelion Nueva Versión Teatral
+
+124
+00:17:38,000 --> 00:17:40,000
+(Q) Quickening
+
+125
+00:17:51,000 --> 00:17:53,000
+La función cardiopulmonar es normal.
+
+126
+00:17:53,000 --> 00:17:55,000
+No se percibe parálisis en las extremidades.
+
+127
+00:17:55,000 --> 00:17:57,000
+Si. Sus ojos están abriéndose.
+
+128
+00:17:59,000 --> 00:18:01,000
+¿Puedes oírme?
+
+129
+00:18:04,000 --> 00:18:06,000
+¿Dónde estoy?
+
+130
+00:18:07,000 --> 00:18:08,000
+Está reaccionando.
+
+131
+00:18:08,000 --> 00:18:10,000
+Parece que recobró la consciencia.
+
+132
+00:18:12,000 --> 00:18:14,000
+Estoy seguro que rescaté a Ayanami...
+
+133
+00:18:15,000 --> 00:18:17,000
+Bien, la continuidad de la memoria es aceptable.
+
+134
+00:18:19,000 --> 00:18:21,000
+Em, ¿dónde está Ayanami?
+
+135
+00:18:22,000 --> 00:18:24,000
+¿Conoces a esta persona?
+
+136
+00:18:27,000 --> 00:18:29,000
+Soy... Yo.
+
+137
+00:18:30,000 --> 00:18:31,000
+Puede reconocerse a sí mismo también.
+
+138
+00:18:31,000 --> 00:18:33,000
+Parece no haber problemas.
+
+139
+00:18:33,000 --> 00:18:35,000
+¿Qué es esto?
+
+140
+00:18:36,000 --> 00:18:38,000
+Lista de instalaciones para operaciones de recarga completa en un 86%.
+
+141
+00:18:39,000 --> 00:18:41,000
+Reactor N2 en línea manteniendo una salida de 90%.
+
+142
+00:18:43,000 --> 00:18:45,000
+No hay navíos visibles en un perímetro de 1200.
+
+143
+00:18:45,000 --> 00:18:47,000
+Tampoco pueden confirmarse objetos voladores no identificados.
+
+144
+00:18:47,000 --> 00:18:49,000
+Prioricen barcos en el bloque D para la transferencia de la tripulación.
+
+145
+00:18:49,000 --> 00:18:51,000
+¡No tenemos suficiente personal para la operación de transferencia!
+
+146
+00:18:52,000 --> 00:18:54,000
+Ha habido un cambio en la condición!
+
+147
+00:18:55,000 --> 00:18:57,000
+Revisando la hoja de ruta para la operación de encubierto.
+
+148
+00:19:02,000 --> 00:19:04,000
+El espécimen BM03 está bajo nuestra custodia.
+
+149
+00:19:05,000 --> 00:19:06,000
+Entendido.
+
+150
+00:19:06,000 --> 00:19:08,000
+Liberen los sujetadores.
+
+151
+00:19:09,000 --> 00:19:11,000
+Puedes bajar.
+
+152
+00:19:34,000 --> 00:19:36,000
+Misato-san...
+
+153
+00:19:37,000 --> 00:19:39,000
+Es Ikari Shinji-kun, ¿no es así?
+
+154
+00:19:40,000 --> 00:19:41,000
+Eso parece.
+
+155
+00:19:41,000 --> 00:19:43,000
+Su información física es idéntica al código del Tercer Elegido.
+
+156
+00:19:46,000 --> 00:19:48,000
+El tejido corporal, tal como sus registros dentales se replicaron perfectamente.
+
+157
+00:19:52,000 --> 00:19:54,000
+Estamos analizando en profundidad los resultados del test de sincronización.
+
+158
+00:19:55,000 --> 00:19:57,000
+¿Qué información hay sobre el collar DSS?
+
+159
+00:19:58,000 --> 00:20:00,000
+Ya fue instalado. Capitán Katsuragi.
+
+160
+00:20:01,000 --> 00:20:03,000
+¿Capitán Katsuragi?
+
+161
+00:20:03,000 --> 00:20:05,000
+¡Eres tú, Misato!
+
+162
+00:20:12,000 --> 00:20:13,000
+Activación óptima.
+
+163
+00:20:13,000 --> 00:20:15,000
+La contraseña es exclusiva para el Capitán.
+
+164
+00:20:16,000 --> 00:20:18,000
+Entendido.
+
+165
+00:20:20,000 --> 00:20:22,000
+¿¡Qué es esto!?
+
+166
+00:20:23,000 --> 00:20:25,000
+Por favor, ¡quítenmelo!
+
+167
+00:20:27,000 --> 00:20:29,000
+Eso no se puede quitar.
+
+168
+00:20:31,000 --> 00:20:33,000
+Entrevista finalizada.
+
+169
+00:20:33,000 --> 00:20:35,000
+Llévenlo a cuarentena.
+
+170
+00:20:37,000 --> 00:20:39,000
+Señuelos 01 y 05 destruídos.
+
+171
+00:20:39,000 --> 00:20:40,000
+La longitud de onda es insuficiente.
+
+172
+00:20:40,000 --> 00:20:42,000
+¿Qué demonios es esto?
+
+173
+00:20:42,000 --> 00:20:43,000
+Patrón Azul.
+
+174
+00:20:43,000 --> 00:20:45,000
+Objetivo identificado.
+
+175
+00:20:45,000 --> 00:20:46,000
+Code 4C.
+
+176
+00:20:46,000 --> 00:20:48,000
+Son Nemesis Series.
+
+177
+00:20:48,000 --> 00:20:49,000
+Están de vuelta...
+
+178
+00:20:49,000 --> 00:20:49,800
+Objetivos son todos Code 4C.
+
+179
+00:20:49,000 --> 00:20:51,000
+Están avanzando por todos lados.
+
+180
+00:20:51,000 --> 00:20:52,000
+Quieren bloquearnos aquí, básicamente.
+
+181
+00:20:52,000 --> 00:20:54,000
+Mark 2, Mark 6, se confirma destrucción.
+
+182
+00:20:54,000 --> 00:20:56,000
+No podemos movernos de aquí ahora.
+
+183
+00:20:57,000 --> 00:20:59,000
+Continuemos operando solamente con el motor principal.
+
+184
+00:20:59,000 --> 00:21:01,000
+Todas las flotas, a estaciones de batalla secundarias.
+
+185
+00:21:02,000 --> 00:21:04,000
+Objetivo: los Nemesis Series.
+
+186
+00:21:04,000 --> 00:21:05,000
+Entendido.
+
+187
+00:21:05,000 --> 00:21:07,000
+Todas las flotas a estaciones de batalla secundarias.
+
+188
+00:21:07,000 --> 00:21:09,000
+Preparase para una batalla anti-submarina, anti-aérea y bajo el agua.
+
+189
+00:21:11,000 --> 00:21:12,000
+Interrumpan la transferencia predeterminada.
+
+190
+00:21:12,000 --> 00:21:14,000
+Priorizar el traspaso de toda la tripulación a otro buque.
+
+191
+00:21:14,000 --> 00:21:16,000
+Todas las flotas, abandonen la transferencia predeterminada.
+
+192
+00:21:16,000 --> 00:21:18,000
+¡Todo el personal, trasbordar busques es la máxima prioridad!
+
+193
+00:21:22,000 --> 00:21:24,000
+Todas las aeronaves deben retirarse de nuestro espacio aéreo actual.
+
+194
+00:21:25,000 --> 00:21:27,000
+¡De prisa al punto de encuentro 2!
+
+195
+00:21:27,000 --> 00:21:29,000
+Abandonen toda la carga sobrante.
+
+196
+00:21:29,000 --> 00:21:31,000
+La evacuación de la tripulación tiene la máxima prioridad
+
+197
+00:21:31,000 --> 00:21:33,000
+Termina el intercambio, ultimo minuto para montar el enemigo
+
+198
+00:21:35,000 --> 00:21:37,000
+La propagación es la máxima prioridad
+
+199
+00:21:37,000 --> 00:21:39,000
+Preparen todos los cañones para disparar.
+
+200
+00:21:39,000 --> 00:21:41,000
+Control remoto y sistemas de bloqueo, activados.
+
+201
+00:21:42,000 --> 00:21:44,000
+Sistemas preparados.
+
+202
+00:21:44,000 --> 00:21:46,000
+Iniciar inyección del sistema de eléctrico principal.
+
+203
+00:21:47,000 --> 00:21:48,000
+Rápido.
+
+204
+00:21:48,000 --> 00:21:50,000
+Reactor N2 operando al 99%.
+
+205
+00:21:52,000 --> 00:21:53,000
+Iniciando inyección del sistema de eléctrico principal.
+
+206
+00:21:53,000 --> 00:21:55,000
+Abriendo válvulas hasta la número 90.
+
+207
+00:21:55,000 --> 00:21:57,000
+Tubería de transmisión conectada.
+
+208
+00:21:57,000 --> 00:21:59,000
+No se han detectado problemas en el puerto ni en las bahías de carga 3 y 4.
+
+209
+00:22:00,000 --> 00:22:01,000
+Entendido.
+
+210
+00:22:01,000 --> 00:22:03,000
+Abriendo válvulas hasta la 90.
+
+211
+00:22:03,000 --> 00:22:05,000
+Iniciar inyección de energía.
+
+212
+00:22:05,000 --> 00:22:07,000
+Inyectando energía al reactor N2.
+
+213
+00:22:07,000 --> 00:22:07,800
+Todo normal.
+
+214
+00:22:07,000 --> 00:22:09,000
+Comprobando bomba de circulación de LCL.
+
+215
+00:22:10,000 --> 00:22:12,000
+Sistema de filtrado listo.
+
+216
+00:22:12,000 --> 00:22:13,000
+¡Estaciones de batalla!
+
+217
+00:22:13,000 --> 00:22:15,000
+Vuelvan a sus puestos.
+
+218
+00:22:15,000 --> 00:22:17,000
+¡Tu ahí! ¡De prisa!
+
+219
+00:22:17,000 --> 00:22:19,000
+¡Está pidiéndome algo imposible, Jefa de Mantenimiento!
+
+220
+00:22:19,000 --> 00:22:21,000
+Somos un grupo de civiles después de todo.
+
+221
+00:22:22,000 --> 00:22:24,000
+¡Sin excusas!
+
+222
+00:22:24,000 --> 00:22:26,000
+¡A trabajar!
+
+223
+00:22:26,000 --> 00:22:28,000
+Este es el problema con los jóvenes.
+
+224
+00:22:30,000 --> 00:22:32,000
+Umm... interrumpiendo la transferencia aquí.
+
+225
+00:22:33,000 --> 00:22:35,000
+Comenzando el bloqueo de las barricadas... ¿Será éste?
+
+226
+00:22:36,000 --> 00:22:38,000
+El sonar está en dirección con la proa del buque anti aéreo como referencia.
+
+227
+00:22:40,000 --> 00:22:41,000
+¡Kitakami!
+
+228
+00:22:41,000 --> 00:22:43,000
+¿Cuál es el estado de los procedimientos en el puente?
+
+229
+00:22:43,000 --> 00:22:45,000
+¿Estoy a cargo de eso?
+
+230
+00:22:45,000 --> 00:22:47,000
+¡Este es tu puesto! ¡Por supuesto!
+
+231
+00:22:47,000 --> 00:22:49,000
+¿Qué? ¿De verdad?
+
+232
+00:22:52,000 --> 00:22:54,000
+La puesta en marcha es peligrosa.
+
+233
+00:22:54,000 --> 00:22:56,000
+¡Quedémonos aquí!
+
+234
+00:22:56,000 --> 00:22:58,000
+Todo el buque, defensa aérea, misiles tierra-aire listos.
+
+235
+00:22:58,000 --> 00:23:00,000
+Estableciendo puestos de batalla en el puente...
+
+236
+00:23:01,000 --> 00:23:01,800
+Entendido.
+
+237
+00:23:01,000 --> 00:23:02,000
+¡Es muy estresante!
+
+238
+00:23:02,000 --> 00:23:04,000
+Activar todos los sistemas anti aéreos.
+
+239
+00:23:04,000 --> 00:23:06,000
+Asegurar al EVA-01 es nuestra prioridad número uno.
+
+240
+00:23:06,000 --> 00:23:08,000
+¿EVA-01?
+
+241
+00:23:16,000 --> 00:23:17,000
+¡Está aquí!
+
+242
+00:23:17,000 --> 00:23:19,000
+Confirmando pilar de luz del objetivo.
+
+243
+00:23:19,000 --> 00:23:21,000
+Está... ¡Está incrementando en número!
+
+244
+00:23:22,000 --> 00:23:24,000
+No podemos confirmar el núcleo del objetivo.
+
+245
+00:23:24,000 --> 00:23:26,000
+Es probable que esté oculto fuera de la fase de capullo.
+
+246
+00:23:27,000 --> 00:23:29,000
+Esto es malo.
+
+247
+00:23:29,000 --> 00:23:31,000
+A este ritmo, estaremos en el extremo receptor de un bombardeo saturador.
+
+248
+00:23:31,000 --> 00:23:33,000
+600 segundos para el contacto.
+
+249
+00:23:33,000 --> 00:23:34,000
+Capitán Katsuragi,
+
+250
+00:23:34,000 --> 00:23:36,000
+Propongo la dispersión inmediata de las flotas.
+
+251
+00:23:38,000 --> 00:23:40,000
+Tenemos personal insuficiente y recursos limitados.
+
+252
+00:23:41,000 --> 00:23:43,000
+Empeorando el problema, el equipo de camuflaje de esta nave está incompleto.
+
+253
+00:23:43,000 --> 00:23:45,000
+Además de eso, no podemos identificar el núcleo del objetivo.
+
+254
+00:23:47,000 --> 00:23:49,000
+En otras palabras, nuestras chances de ganar son cero.
+
+255
+00:23:50,000 --> 00:23:52,000
+Llegados a este punto, debemos retirarnos como solemos hacerlo.
+
+256
+00:23:52,000 --> 00:23:54,000
+No hay manera.
+
+257
+00:23:54,000 --> 00:23:56,000
+¡Capitán Katsuragi!
+
+258
+00:23:56,000 --> 00:23:58,000
+Es por eso que voy a cambiar la situación actual para neutralizar cualqueir posible ansiedad.
+
+259
+00:24:01,000 --> 00:24:03,000
+Vice Capitán, vamos a volar.
+
+260
+00:24:03,000 --> 00:24:04,000
+¡¿Volar?!
+
+261
+00:24:04,000 --> 00:24:06,000
+¿No estarás pensando en usar la nave principal?
+
+262
+00:24:06,000 --> 00:24:08,000
+¡Todos, prepárense para el lanzamiento!
+
+263
+00:24:09,000 --> 00:24:11,000
+¡Preparen la ignición de los motores principales!
+
+264
+00:24:12,000 --> 00:24:14,000
+¡Es muy imprudente usar la nave principal, Capitán Katsuragi!
+
+265
+00:24:15,000 --> 00:24:16,000
+¡Estoy de acuerdo!
+
+266
+00:24:16,000 --> 00:24:18,000
+Ni siquiera hemos ejecutado vuelos de prueba. ¡Es muy peligroso!
+
+267
+00:24:18,000 --> 00:24:20,000
+La Anti-gravedad tampoco ha sido probada.
+
+268
+00:24:20,000 --> 00:24:22,000
+No confío en eso.
+
+269
+00:24:22,000 --> 00:24:24,000
+No quiero pelear batallas que no puedo ganar.
+
+270
+00:24:24,000 --> 00:24:26,000
+No quiero morir aún.
+
+271
+00:24:26,000 --> 00:24:28,000
+Te mueres cuando te mueres. Eso es todo.
+
+272
+00:24:28,000 --> 00:24:30,000
+Deja de quejarte, jovencita.
+
+273
+00:24:30,000 --> 00:24:32,000
+¡Los viejitos deben de tener más cuidado!
+
+274
+00:24:34,000 --> 00:24:36,000
+Soy consciente de la imprudencia.
+
+275
+00:24:36,000 --> 00:24:38,000
+Vamos a usar esta nave como señuelo y arrastrarlo hacia la superficie.
+
+276
+00:24:39,000 --> 00:24:41,000
+El poder de matar dioses, veremos cómo resulta.
+
+277
+00:24:42,000 --> 00:24:44,000
+Pero el sistema de ignición más importante no ha sido instalado.
+
+278
+00:24:45,000 --> 00:24:47,000
+¿No me digas que usarán los EVAs?
+
+279
+00:24:48,000 --> 00:24:49,000
+¡Mari!
+
+280
+00:24:49,000 --> 00:24:50,000
+EVA-08 aún no está listo.
+
+281
+00:24:50,000 --> 00:24:51,000
+¡Asuka!
+
+282
+00:24:51,000 --> 00:24:53,000
+¿Asuka?
+
+283
+00:24:55,000 --> 00:24:56,000
+¡Estoy en eso!
+
+284
+00:24:56,000 --> 00:24:58,000
+Solo tengo que empujar el motor de encendido, ¿verdad?
+
+285
+00:24:59,000 --> 00:25:00,000
+Cuento contigo.
+
+286
+00:25:00,000 --> 00:25:02,000
+Pero hay un problema con la densidad de la barrera alrededor de la nave.
+
+287
+00:25:03,000 --> 00:25:05,000
+Además, ¿no se está trabajando en el puente?
+
+288
+00:25:05,000 --> 00:25:07,000
+Bien, "prorizar el objetivo, vida humana prescindible" es un lema de Capitán, después de todo.
+
+289
+00:25:09,000 --> 00:25:10,000
+¡Ahí voy!
+
+290
+00:25:10,000 --> 00:25:12,000
+EVA Unidad 02-kai, ¡activado!
+
+291
+00:25:15,000 --> 00:25:16,000
+Lanzamiento de Unidad 02-kai.
+
+292
+00:25:16,000 --> 00:25:17,000
+Entendido.
+
+293
+00:25:17,000 --> 00:25:18,000
+Preparando el EVA 02-kai para el lanzamiento.
+
+294
+00:25:18,000 --> 00:25:20,000
+Motor de la nave y propulsión jet, pasando por el número 1.
+
+295
+00:25:29,000 --> 00:25:31,000
+La verdad, qué entrada aburrida para mostrar el nuevo aspecto de mi Unidad.
+
+296
+00:25:41,000 --> 00:25:42,000
+En verdad es el EVA Unidad 02.
+
+297
+00:25:42,000 --> 00:25:44,000
+Qué bien, Asuka está bien.
+
+298
+00:25:49,000 --> 00:25:51,000
+Misato, yo...
+
+299
+00:25:52,000 --> 00:25:54,000
+Todas las flotas, a estaciones de batalla primarias.
+
+300
+00:25:56,000 --> 00:25:57,000
+Todas las flotas a estaciones de batalla primarias.
+
+301
+00:25:57,000 --> 00:25:59,000
+Repito, todas las flotas a estaciones de batalla primarias.
+
+302
+00:26:00,000 --> 00:26:02,000
+Cambiando el sistema de comando de batalla.
+
+303
+00:26:03,000 --> 00:26:05,000
+Tripulación principal, al pruente principal.
+
+304
+00:26:05,000 --> 00:26:06,000
+Preparar lastre gravitacional.
+
+305
+00:26:06,000 --> 00:26:07,000
+Entendido.
+
+306
+00:26:07,000 --> 00:26:09,000
+Comprobar rendijas de ventilación.
+
+307
+00:26:09,000 --> 00:26:11,000
+Centralizar los controles primarios de la nave en la clavija del ancla.
+
+308
+00:26:11,000 --> 00:26:12,000
+Entendido.
+
+309
+00:26:12,000 --> 00:26:13,000
+Prepárense para el descenso.
+
+310
+00:26:13,000 --> 00:26:14,000
+Inductor, confirmado.
+
+311
+00:26:14,000 --> 00:26:16,000
+Comenzando cuenta regresiva.
+
+312
+00:26:18,000 --> 00:26:20,000
+¡Misato!
+
+313
+00:26:20,000 --> 00:26:22,000
+EVA-01 está aquí, ¿verdad?
+
+314
+00:26:23,000 --> 00:26:24,000
+¡Voy a pilotearlo!
+
+315
+00:26:24,000 --> 00:26:26,000
+¡Ayudaré a Asuka!
+
+316
+00:26:29,000 --> 00:26:31,000
+¿No me necesitas para pilotear al EVA-01?
+
+317
+00:26:32,000 --> 00:26:34,000
+¿¡Misato!?
+
+318
+00:26:35,000 --> 00:26:36,000
+Correcto.
+
+319
+00:26:36,000 --> 00:26:38,000
+No hay necesidad de que pilotees al EVA.
+
+320
+00:26:38,000 --> 00:26:40,000
+Comienza la secuencia
+
+321
+00:26:41,000 --> 00:26:43,000
+Sistema de comando está siendo transferido al puente de batalla de la nave.
+
+322
+00:26:45,000 --> 00:26:45,800
+Repito, sistema de comando está siendo transferido al puente de batalla de la nave.
+
+323
+00:26:45,000 --> 00:26:47,000
+¿No me necesitan?
+
+324
+00:26:48,000 --> 00:26:50,000
+Entonces... ¿Qué hago?
+
+325
+00:26:53,000 --> 00:26:55,000
+¡Misato!
+
+326
+00:26:56,000 --> 00:26:58,000
+Shinji Ikari...
+
+327
+00:26:59,000 --> 00:27:01,000
+Ya no harás nada más.
+
+328
+00:27:15,000 --> 00:27:16,000
+LCL siendo rellenado con gas.
+
+329
+00:27:16,000 --> 00:27:17,000
+Densidad de electrificación alcanzada.
+
+330
+00:27:17,000 --> 00:27:19,000
+Inicio de inserción.
+
+331
+00:27:19,000 --> 00:27:21,000
+Estado de carga eléctrica de LCL es normal.
+
+332
+00:27:21,000 --> 00:27:23,000
+Iniciando todos los sistemas operativos.
+
+333
+00:27:23,000 --> 00:27:24,000
+¿Cuál es nuestro estado?
+
+334
+00:27:24,000 --> 00:27:26,000
+Censo de todo el personal, completo.
+
+335
+00:27:26,000 --> 00:27:27,000
+Todos confirmados a bordo.
+
+336
+00:27:27,000 --> 00:27:29,000
+Primer listado, confirmado.
+
+337
+00:27:29,000 --> 00:27:31,000
+Confirmado el cierre de todas las barreras.
+
+338
+00:27:31,000 --> 00:27:32,000
+Finalizando chequeo de resistencia de presión.
+
+339
+00:27:32,000 --> 00:27:34,000
+La salida de componentes auxiliares está aumentando.
+
+340
+00:27:34,000 --> 00:27:36,000
+Inyectando energía para la activación inicial del sistema.
+
+341
+00:27:37,000 --> 00:27:39,000
+5% para llegar al punto crítico.
+
+342
+00:27:39,000 --> 00:27:40,000
+Iniciando giro-compás.
+
+343
+00:27:40,000 --> 00:27:42,000
+Estabilizador normal.
+
+344
+00:27:42,000 --> 00:27:44,000
+Iniciando procesamiento de datos visuales.
+
+345
+00:27:44,000 --> 00:27:46,000
+Encendiendo monitor principal.
+
+346
+00:27:46,000 --> 00:27:48,000
+El objetivo continúa aproximándose.
+
+347
+00:27:48,000 --> 00:27:50,000
+Asumiendo una formación circular.
+
+348
+00:27:50,000 --> 00:27:52,000
+EVA 02-kai, desplegando propulsores.
+
+349
+00:27:52,000 --> 00:27:54,000
+Restableciendo brazo izquierdo.
+
+350
+00:27:54,000 --> 00:27:56,000
+¡Aquí vamos!
+
+351
+00:28:03,000 --> 00:28:05,000
+¡Bien!
+
+352
+00:28:05,000 --> 00:28:07,000
+¡Hagámoslo!
+
+353
+00:28:13,000 --> 00:28:15,000
+Desplegando Escudo A.T.
+
+354
+00:28:18,000 --> 00:28:20,000
+Se ha transformado en un pilar de luz.
+
+355
+00:28:21,000 --> 00:28:22,000
+¡Su energía se está disparando!
+
+356
+00:28:22,000 --> 00:28:24,000
+Todos los objetivos están comenzando a moverse.
+
+357
+00:28:27,000 --> 00:28:28,000
+Las naves aliadas se han evaporado.
+
+358
+00:28:28,000 --> 00:28:30,000
+Es un ataque de saturacíón.
+
+359
+00:28:30,000 --> 00:28:32,000
+Si esta nave es capturada, será el fin.
+
+360
+00:28:33,000 --> 00:28:35,000
+¡360 segundos hasta el contacto!
+
+361
+00:28:43,000 --> 00:28:45,000
+¡Aquí vamos!
+
+362
+00:28:47,000 --> 00:28:49,000
+EVA 02-kai ha comenzado la operación.
+
+363
+00:28:49,000 --> 00:28:51,000
+Potencia al 300%!
+
+364
+00:28:51,000 --> 00:28:52,000
+¡No importa!
+
+365
+00:28:52,000 --> 00:28:54,000
+¡Transfieran toda la energía al timón de mando!
+
+366
+00:28:54,000 --> 00:28:56,000
+¡Dénle prioridad a eso!
+
+367
+00:29:06,000 --> 00:29:06,800
+Primeros 80 incendiados. No puede ser!
+
+368
+00:29:06,000 --> 00:29:08,000
+¡El grupo electrógeno No. 7 ha explotado!
+
+369
+00:29:08,000 --> 00:29:10,000
+¡Olvídense de las líneas caídas!
+
+370
+00:29:10,000 --> 00:29:12,000
+¡Continúen la inyección forzada!
+
+371
+00:29:12,000 --> 00:29:13,000
+¡Ignoren todos los medidores de presión!
+
+372
+00:29:13,000 --> 00:29:15,000
+Desbloqueando el enganche del timón.
+
+373
+00:29:16,000 --> 00:29:18,000
+¡Comenzando rotación!
+
+374
+00:29:25,000 --> 00:29:27,000
+Iniciando bombeo de energía principal.
+
+375
+00:29:28,000 --> 00:29:30,000
+La producción de componentes auxiliares alcanzó un 80%.
+
+376
+00:29:30,000 --> 00:29:32,000
+¡Fuercen la inserción del catalizador!
+
+377
+00:29:48,000 --> 00:29:50,000
+Entonces ahora es...
+
+378
+00:29:51,000 --> 00:29:53,000
+¡Quedan 39 segundos!
+
+379
+00:29:53,000 --> 00:29:55,000
+¡Velocidad rotacional en incremento!
+
+380
+00:29:55,000 --> 00:29:57,000
+¡La presión en el Eva 02-kai es crítica!
+
+381
+00:29:57,000 --> 00:29:58,000
+¡Estamos ahí!
+
+382
+00:29:58,000 --> 00:30:00,000
+¡Timón cargado al 102, sobre el nivel crítico!
+
+383
+00:30:01,000 --> 00:30:03,000
+Etapa final de activación.
+
+384
+00:30:03,000 --> 00:30:04,000
+Entendido.
+
+385
+00:30:04,000 --> 00:30:05,000
+Cambio a controles de vuelo.
+
+386
+00:30:05,000 --> 00:30:06,000
+Entendido.
+
+387
+00:30:06,000 --> 00:30:07,000
+Comenzando regulación tierra-aire.
+
+388
+00:30:07,000 --> 00:30:09,000
+Transfiriendo a dirección tridimensional.
+
+389
+00:30:11,000 --> 00:30:13,000
+¡Enciendan los motores y desplieguen el Escudo A.T.!
+
+390
+00:30:13,000 --> 00:30:15,000
+Velocidad de giro 36000. Sistemas en orden.
+
+391
+00:30:16,000 --> 00:30:18,000
+¡Iniciando contacto!
+
+392
+00:30:18,000 --> 00:30:19,000
+Omitan la cuenta regresiva.
+
+393
+00:30:19,000 --> 00:30:20,000
+Contacto principal.
+
+394
+00:30:20,000 --> 00:30:22,000
+¡Contacto!
+
+395
+00:30:25,000 --> 00:30:27,000
+¡Ignición!
+
+396
+00:30:43,000 --> 00:30:44,000
+Obstáculos despejados.
+
+397
+00:30:44,000 --> 00:30:45,000
+Confirmando todas las divisiones.
+
+398
+00:30:45,000 --> 00:30:45,800
+Decimosexta.
+
+399
+00:30:45,000 --> 00:30:47,000
+Las naves aliadas se han retirado.
+
+400
+00:30:47,000 --> 00:30:48,000
+Aquí vamos.
+
+401
+00:30:48,000 --> 00:30:50,000
+Wunder, ¡despegue!
+
+402
+00:31:39,000 --> 00:31:41,000
+¡Alas principales penetradas! ¡Daño desconocido!
+
+403
+00:31:41,000 --> 00:31:42,000
+¡Tranquilos!
+
+404
+00:31:42,000 --> 00:31:43,000
+Prepárense para un contra ataque a gran escala.
+
+405
+00:31:43,000 --> 00:31:44,000
+¡Volteen la nave!
+
+406
+00:31:44,000 --> 00:31:45,000
+¡Todos a popa!
+
+407
+00:31:45,000 --> 00:31:47,000
+¡A popa! ¡Hacia delante!
+
+408
+00:31:53,000 --> 00:31:55,000
+¡Saquen los restos del capullo del núcleo central!
+
+409
+00:32:02,000 --> 00:32:04,000
+¡Se ha abierto una grieta en el extremo del ala principal!
+
+410
+00:32:04,000 --> 00:32:05,000
+¡Mantengan el timón firme!
+
+411
+00:32:05,000 --> 00:32:07,000
+¡Motores principales a toda máquina!
+
+412
+00:32:07,000 --> 00:32:09,000
+¡Ámbos lados al máximo!
+
+413
+00:32:09,000 --> 00:32:11,000
+¡Potencia al máximo!
+
+414
+00:32:37,000 --> 00:32:39,000
+¡El núcleo está expuesto!
+
+415
+00:32:39,000 --> 00:32:40,000
+¡Ahora!
+
+416
+00:32:40,000 --> 00:32:41,000
+¡Timón a babor!
+
+417
+00:32:41,000 --> 00:32:42,000
+¡Giren!
+
+418
+00:32:42,000 --> 00:32:44,000
+¡Entendido!
+
+419
+00:33:09,000 --> 00:33:10,000
+¡Propulsores a toda potencia!
+
+420
+00:33:10,000 --> 00:33:12,000
+¡Freno de emergencia!
+
+421
+00:33:21,000 --> 00:33:22,000
+¡El objetivo dejó de moverse!
+
+422
+00:33:22,000 --> 00:33:24,000
+¡Todos los cañones prepárense para disparar!
+
+423
+00:33:24,000 --> 00:33:26,000
+Carguen artilleria.
+
+424
+00:33:26,000 --> 00:33:28,000
+Conecten todos los cañones a la nave principal.
+
+425
+00:33:28,000 --> 00:33:29,000
+¡Abran los circuitos de suministro de municiones!
+
+426
+00:33:29,000 --> 00:33:31,000
+Entendido. Abriendo circuitos.
+
+427
+00:33:32,000 --> 00:33:34,000
+¡Aplicando las correcciones finales a las trayectorias computadas del enemigo!
+
+428
+00:33:34,000 --> 00:33:36,000
+Sistemas de artillería entrelazados.
+
+429
+00:33:36,000 --> 00:33:38,000
+Mira directa y persecución manual, listo para todos los cañones.
+
+430
+00:33:39,000 --> 00:33:40,000
+Entonces ya estamos listos.
+
+431
+00:33:40,000 --> 00:33:42,000
+¡FUEGO!
+
+432
+00:34:05,000 --> 00:34:07,000
+¡Objetivo destruído!
+
+433
+00:34:07,000 --> 00:34:09,000
+Todas las flotas, estado de alerta secundaria.
+
+434
+00:34:09,000 --> 00:34:11,000
+Preparándose para recuperar al EVA 02-kai.
+
+435
+00:34:11,000 --> 00:34:13,000
+Dense prisa con los procedimientos de emergencia para las alas principales.
+
+436
+00:34:15,000 --> 00:34:16,000
+¡Fantástico!
+
+437
+00:34:16,000 --> 00:34:18,000
+Ganamos.
+
+438
+00:34:18,000 --> 00:34:20,000
+Totalmente imprudente.
+
+439
+00:34:21,000 --> 00:34:23,000
+Bueno, es una Capitán mucho más interesante de lo que comentó Kaji.
+
+440
+00:34:24,000 --> 00:34:26,000
+Así que este es el poder para matar dioses.
+
+441
+00:34:26,000 --> 00:34:28,000
+Wunder es realmente la nave de la esperanza.
+
+442
+00:35:09,000 --> 00:35:11,000
+Especimen BM03, nombre tentativo: Shinji Ikari...
+
+443
+00:35:12,000 --> 00:35:14,000
+El oficial al mando tiene algo que decirte.
+
+444
+00:35:15,000 --> 00:35:17,000
+¿Este es el EVA-01?
+
+445
+00:35:17,000 --> 00:35:19,000
+Si. EVA-01 está siendo usado como el motor principal de esta nave.
+
+446
+00:35:22,000 --> 00:35:24,000
+Ya no será necesario que cumplas tu función de piloto.
+
+447
+00:35:25,000 --> 00:35:27,000
+O sea, que ya no me necesitan.
+
+448
+00:35:28,000 --> 00:35:30,000
+Además, nos han entregado los resultados de tu prueba de sincronización.
+
+449
+00:35:32,000 --> 00:35:34,000
+Tu nivel es de 0.00%.
+
+450
+00:35:35,000 --> 00:35:37,000
+Incluso si ingresas de nuevo al EVA, no se activará.
+
+451
+00:35:39,000 --> 00:35:40,000
+¿Eso es cierto?
+
+452
+00:35:40,000 --> 00:35:42,000
+¿No son grandes noticias, Ikari-san?
+
+453
+00:35:42,000 --> 00:35:44,000
+Aún así, no podemos descartar el hecho de que anteriormente el Eva 01 estuvo despierto por 12 segundos.
+
+454
+00:35:48,000 --> 00:35:50,000
+Es por eso que te colocamos el collar DSS.
+
+455
+00:35:53,000 --> 00:35:54,000
+¿Qué es eso?
+
+456
+00:35:54,000 --> 00:35:56,000
+Es por nuestra seguridad.
+
+457
+00:35:57,000 --> 00:35:59,000
+Es un dispositivo de seguridad física para evitar que el Eva despierte.
+
+458
+00:36:00,000 --> 00:36:02,000
+Y también es un símbolo de tu castigo.
+
+459
+00:36:04,000 --> 00:36:05,000
+¿Y qué se supone que hace?
+
+460
+00:36:05,000 --> 00:36:07,000
+En caso de que pierdas el control de tus emociones cuando pilotees el Eva y corras el riesgo de despertar a la unidad,
+
+461
+00:36:13,000 --> 00:36:15,000
+esto se encargará de terminar con tu vida.
+
+462
+00:36:17,000 --> 00:36:19,000
+Quiere decir que... ¿Moriré?
+
+463
+00:36:22,000 --> 00:36:24,000
+No voy a negarlo.
+
+464
+00:36:25,000 --> 00:36:27,000
+No es posible...
+
+465
+00:36:27,000 --> 00:36:29,000
+Misato, ¿de qué se trata todo esto?
+
+466
+00:36:31,000 --> 00:36:33,000
+¡Esto es extraño, Misato!
+
+467
+00:36:33,000 --> 00:36:35,000
+¡Es todo tan confuso que no logro entender nada!
+
+468
+00:36:36,000 --> 00:36:37,000
+Es inevitable que te sientas confundido.
+
+469
+00:36:37,000 --> 00:36:38,000
+¡Segunda Teniente!
+
+470
+00:36:38,000 --> 00:36:39,000
+¡Si, señora!
+
+471
+00:36:39,000 --> 00:36:40,000
+Preséntate.
+
+472
+00:36:40,000 --> 00:36:42,000
+¡Si, señora!
+
+473
+00:36:42,000 --> 00:36:44,000
+Eh, ya es tarde, pero soy la oficial médico a cargo,
+
+474
+00:36:47,000 --> 00:36:49,000
+2da. Teniente, Suzuhara Sakura.
+
+475
+00:36:50,000 --> 00:36:52,000
+Encantada en conocerte.
+
+476
+00:36:52,000 --> 00:36:54,000
+Ah, lo... mismo.
+
+477
+00:36:55,000 --> 00:36:57,000
+Pero, Suzuhara...
+
+478
+00:36:57,000 --> 00:36:59,000
+¿la hermana de Tuoji?
+
+479
+00:36:59,000 --> 00:37:00,000
+Ah, si.
+
+480
+00:37:00,000 --> 00:37:02,000
+Tú ayudaste a mi hermano mayor.
+
+481
+00:37:02,000 --> 00:37:04,000
+Soy su hermana menor, Sakura.
+
+482
+00:37:04,000 --> 00:37:05,000
+¿Hermana menor?
+
+483
+00:37:05,000 --> 00:37:06,000
+¿No querrás decir hermana mayor?
+
+484
+00:37:06,000 --> 00:37:08,000
+No, hermana menor.
+
+485
+00:37:10,000 --> 00:37:12,000
+¿Hermana menor? ¿Cómo?
+
+486
+00:37:13,000 --> 00:37:15,000
+Han pasado 14 años.
+
+487
+00:37:16,000 --> 00:37:18,000
+Shinji idiota.
+
+488
+00:37:18,000 --> 00:37:20,000
+Ah, ¡Asuka!
+
+489
+00:37:24,000 --> 00:37:25,000
+¡Qué bien!
+
+490
+00:37:25,000 --> 00:37:27,000
+¡Sabía que estabas bien después de todo, Asuka!
+
+491
+00:37:32,000 --> 00:37:34,000
+No puedo.
+
+492
+00:37:34,000 --> 00:37:36,000
+No puedo soportarlo. Tuve que aguantar mucho.
+
+493
+00:37:43,000 --> 00:37:45,000
+¿Qué es todo esto?
+
+494
+00:37:45,000 --> 00:37:47,000
+Acumulé ira y dolor.
+
+495
+00:37:48,000 --> 00:37:50,000
+¿A qué te refieres?
+
+496
+00:37:50,000 --> 00:37:52,000
+Uh, Asuka, tu ojo izquierdo...
+
+497
+00:37:53,000 --> 00:37:55,000
+No te incumbe.
+
+498
+00:37:55,000 --> 00:37:57,000
+Asuka, dijiste que han pasado catorce años,
+
+499
+00:37:58,000 --> 00:38:00,000
+pero no ha cambiado nada excepto tu parche.
+
+500
+00:38:01,000 --> 00:38:03,000
+Así es. Es la maldición del EVA.
+
+501
+00:38:04,000 --> 00:38:06,000
+¿La maldición del EVA?
+
+502
+00:38:08,000 --> 00:38:09,000
+¡Espera!
+
+503
+00:38:09,000 --> 00:38:11,000
+¡Asuka, quizás sepas!
+
+504
+00:38:11,000 --> 00:38:13,000
+¡¿Dónde está Ayanami?!
+
+505
+00:38:14,000 --> 00:38:15,000
+No lo sé.
+
+506
+00:38:15,000 --> 00:38:17,000
+¿No lo sabes?
+
+507
+00:38:17,000 --> 00:38:19,000
+¡Pero si yo la rescaté aquella vez!
+
+508
+00:38:19,000 --> 00:38:21,000
+Todo este alboroto por una sola persona.
+
+509
+00:38:21,000 --> 00:38:23,000
+El mundo no tiene tiempo para atender tu ego.
+
+510
+00:38:25,000 --> 00:38:27,000
+¿No es así, Capitán Katsuragi?
+
+511
+00:38:31,000 --> 00:38:32,000
+¡Asuka!
+
+512
+00:38:32,000 --> 00:38:34,000
+¡Misato! ¡¿Dónde está Ayanami?!
+
+513
+00:38:35,000 --> 00:38:36,000
+¡Por favor, dimelo!
+
+514
+00:38:36,000 --> 00:38:38,000
+Shinji, Ayanami Rei ya no existe.
+
+515
+00:38:40,000 --> 00:38:42,000
+No, la he salvado, sé que lo hice.
+
+516
+00:38:43,000 --> 00:38:45,000
+Todavía debe estar adentro de la cápsula del Eva-01.
+
+517
+00:38:46,000 --> 00:38:47,000
+¡Búsquenla, por favor!
+
+518
+00:38:47,000 --> 00:38:49,000
+Ya hemos realizado una inspección completa del EVA-01.
+
+519
+00:38:51,000 --> 00:38:53,000
+Solo te hemos encontrado a ti.
+
+520
+00:38:54,000 --> 00:38:56,000
+Y por alguna razón, también encontramos esto.
+
+521
+00:38:57,000 --> 00:38:59,000
+Los resultados de la inspección no mostraron ningún problema. Te lo devolveremos.
+
+522
+00:39:01,000 --> 00:39:03,000
+Esto era de mi padre...
+
+523
+00:39:04,000 --> 00:39:06,000
+Ayanami lo tenía en sus manos.
+
+524
+00:39:07,000 --> 00:39:09,000
+Entonces la salvé, ¿o no?
+
+525
+00:39:10,000 --> 00:39:12,000
+¡¿Qué?!
+
+526
+00:39:13,000 --> 00:39:15,000
+Diga.
+
+527
+00:39:15,000 --> 00:39:16,000
+El objetivo está en la cubierta trasera.
+
+528
+00:39:16,000 --> 00:39:18,000
+¡De repente se ha acercado a nosotros!
+
+529
+00:39:18,000 --> 00:39:19,000
+¡Ahora sí empezó la pelea!
+
+530
+00:39:19,000 --> 00:39:21,000
+Todas las flotas a estaciones de batalla primarias.
+
+531
+00:39:21,000 --> 00:39:23,000
+¡Proteger al EVA-01 es nuestra máxima prioridad!
+
+532
+00:39:23,000 --> 00:39:25,000
+Eva-08, estás listo, ¿verdad?
+
+533
+00:39:25,000 --> 00:39:27,000
+Por supuesto.
+
+534
+00:39:27,000 --> 00:39:28,000
+Estoy justo encima, Princesa.
+
+535
+00:39:28,000 --> 00:39:30,000
+Por cierto, ¿cómo está el cachorrito?
+
+536
+00:39:31,000 --> 00:39:33,000
+¿Sigue allí quieto y obediente como siempre?
+
+537
+00:39:33,000 --> 00:39:35,000
+No ha cambiado su estúpida cara de humilde.
+
+538
+00:39:37,000 --> 00:39:39,000
+Oh, así que fuiste a ver su cara, ¿verdad?
+
+539
+00:39:40,000 --> 00:39:41,000
+¡No!
+
+540
+00:39:41,000 --> 00:39:43,000
+Fue horrible. Le pegué.
+
+541
+00:39:43,000 --> 00:39:44,000
+Ahora me siento mucho mejor.
+
+542
+00:39:44,000 --> 00:39:46,000
+¡Misato-san, Ritsuko-san!
+
+543
+00:39:46,000 --> 00:39:48,000
+¿Quién se aproxima?
+
+544
+00:39:48,000 --> 00:39:50,000
+¡¿Es un nuevo Ángel?!
+
+545
+00:39:50,000 --> 00:39:52,000
+Ikari-kun, ¿dónde estás?
+
+546
+00:39:53,000 --> 00:39:55,000
+¿Ayanami?
+
+547
+00:39:55,000 --> 00:39:57,000
+¡Esa fue la voz de Ayanami! ¡¿Verdad?!
+
+548
+00:39:58,000 --> 00:40:00,000
+Misa-
+
+549
+00:40:02,000 --> 00:40:04,000
+¡¿Qué está pasando?!
+
+550
+00:40:04,000 --> 00:40:05,000
+¡Preparativos completos!
+
+551
+00:40:05,000 --> 00:40:07,000
+¡Ikari-san, por aquí!
+
+552
+00:40:07,000 --> 00:40:09,000
+Ikari-kun, ¿dónde estás?
+
+553
+00:40:10,000 --> 00:40:12,000
+De verdad es Ayanami.
+
+554
+00:40:13,000 --> 00:40:15,000
+¡Es Ayanami!
+
+555
+00:40:15,000 --> 00:40:17,000
+¡Ikari-san! ¡Rápido!
+
+556
+00:40:20,000 --> 00:40:22,000
+Ya es suficiente.
+
+557
+00:40:22,000 --> 00:40:24,000
+¡Ayanami, estoy aquí!
+
+558
+00:40:37,000 --> 00:40:39,000
+EVA... Unidad 00.
+
+559
+00:40:39,000 --> 00:40:41,000
+Ikari-kun...
+
+560
+00:40:41,000 --> 00:40:43,000
+Por aquí.
+
+561
+00:40:44,000 --> 00:40:46,000
+No lo hagas, Shinji-kun.
+
+562
+00:40:46,000 --> 00:40:47,000
+Quédate aquí mismo.
+
+563
+00:40:47,000 --> 00:40:49,000
+¿Qué sucede, Misato-san?
+
+564
+00:40:50,000 --> 00:40:52,000
+¿No decías hace un momento que no me necesitabas?
+
+565
+00:40:52,000 --> 00:40:54,000
+Aún así, quedarás bajo nuestra custodia.
+
+566
+00:40:54,000 --> 00:40:56,000
+¡Eso es injusto!
+
+567
+00:41:02,000 --> 00:41:02,800
+¡Por favor haz que se detenga!
+
+568
+00:41:02,000 --> 00:41:04,000
+¡El objetivo es un EVA!
+
+569
+00:41:04,000 --> 00:41:06,000
+Efectivamente.
+
+570
+00:41:06,000 --> 00:41:08,000
+Todos los EVAs de Nerv serán aniquilados.
+
+571
+00:41:08,000 --> 00:41:10,000
+Nerv...
+
+572
+00:41:10,000 --> 00:41:11,000
+¿Acaso esto no es Nerv también?
+
+573
+00:41:11,000 --> 00:41:13,000
+Somos Wille, una organización cuyo propósito es destruir Nerv.
+
+574
+00:41:16,000 --> 00:41:18,000
+Tal como...
+
+575
+00:41:18,000 --> 00:41:20,000
+¡Pero no! ¡Está siendo piloteado por Ayanami!
+
+576
+00:41:21,000 --> 00:41:22,000
+¡No es ella!
+
+577
+00:41:22,000 --> 00:41:24,000
+Rei se ha ido, Shinji-kun.
+
+578
+00:41:24,000 --> 00:41:25,000
+¡Mentiras!
+
+579
+00:41:25,000 --> 00:41:27,000
+Quiero decir, ella está justo ahí, ¡¿no es así?!
+
+580
+00:41:27,000 --> 00:41:29,000
+¡Ya no entiendo, Misato-san!
+
+581
+00:41:29,000 --> 00:41:31,000
+¡Ya tuve suficiente!
+
+582
+00:41:33,000 --> 00:41:35,000
+¡Ikari-san!
+
+583
+00:41:36,000 --> 00:41:38,000
+Estoy de acuerdo,
+
+584
+00:41:38,000 --> 00:41:40,000
+¡Pero por favor no pilotees el EVA!
+
+585
+00:41:40,000 --> 00:41:42,000
+De verdad... Necesito un descanso de todo esto.
+
+586
+00:41:52,000 --> 00:41:53,000
+¡Anteojos, no lo dejes ir!
+
+587
+00:41:53,000 --> 00:41:55,000
+¡Alto y claro!
+
+588
+00:41:57,000 --> 00:41:59,000
+No me rendiré...
+
+589
+00:41:59,000 --> 00:42:01,000
+voy aspirar a una meta mayor...
+
+590
+00:42:04,000 --> 00:42:06,000
+¡Hey, come on!
+
+591
+00:42:11,000 --> 00:42:13,000
+¡Te tengo!
+
+592
+00:42:18,000 --> 00:42:20,000
+¡Lo sabía! ¿Un recipiente de Adam?
+
+593
+00:42:26,000 --> 00:42:28,000
+¡Al menos di "hola" o algo!
+
+594
+00:42:31,000 --> 00:42:33,000
+El hecho de que él fuese tomado como prioridad sobre el EVA-01,
+
+595
+00:42:34,000 --> 00:42:36,000
+¡Quiere decir que todavía tiene potencial como disparador!
+
+596
+00:42:36,000 --> 00:42:38,000
+¡Misato! ¡Usa el collar DSS!
+
+597
+00:42:53,000 --> 00:42:55,000
+Misión directiva del Oficial Ejecutivo.
+
+598
+00:42:55,000 --> 00:42:56,000
+Persecución innecesaria.
+
+599
+00:42:56,000 --> 00:42:58,000
+Todo el personal, vuelvan a las operaciones de control de daños y camuflaje.
+
+600
+00:43:00,000 --> 00:43:01,000
+Entendido.
+
+601
+00:43:01,000 --> 00:43:03,000
+Persecución innecesaria.
+
+602
+00:43:03,000 --> 00:43:04,000
+Todo el personal, vuelvan a las operaciones de control de daños y camuflaje.
+
+603
+00:43:04,000 --> 00:43:05,000
+¿Qué te parece?.
+
+604
+00:43:05,000 --> 00:43:07,000
+¡No es ningún idiota, es un malcriado!
+
+605
+00:43:25,000 --> 00:43:27,000
+La he salvado después de todo.
+
+606
+00:43:27,000 --> 00:43:29,000
+Misato-san es una mentirosa.
+
+607
+00:43:30,000 --> 00:43:32,000
+Por aquí.
+
+608
+00:43:57,000 --> 00:43:59,000
+A pesar de que es el GeoFront, se puede ver el cielo.
+
+609
+00:44:09,000 --> 00:44:11,000
+Esos son... ¿los Cuarteles Generales de Nerv?
+
+610
+00:44:13,000 --> 00:44:15,000
+¿Qué pasó?
+
+611
+00:44:45,000 --> 00:44:47,000
+De verdad han pasado 14 años.
+
+612
+00:45:24,000 --> 00:45:26,000
+Llegamos.
+
+613
+00:45:28,000 --> 00:45:30,000
+¿Qué es esto?
+
+614
+00:45:31,000 --> 00:45:32,000
+¿Un EVA?
+
+615
+00:45:32,000 --> 00:45:34,000
+Así es.
+
+616
+00:45:37,000 --> 00:45:39,000
+Padre...
+
+617
+00:45:39,000 --> 00:45:41,000
+Evangelion Unidad 13.
+
+618
+00:45:41,000 --> 00:45:43,000
+Una Unidad para ti y aquél piloto.
+
+619
+00:45:46,000 --> 00:45:48,000
+Aquél, ¿el del piano?
+
+620
+00:45:49,000 --> 00:45:51,000
+Cuando llegue el momento, pilotearás este EVA junto con el muchacho.
+
+621
+00:45:54,000 --> 00:45:56,000
+La conversación ha terminado.
+
+622
+00:45:57,000 --> 00:45:58,000
+¡Espera un momento, padre!
+
+623
+00:45:58,000 --> 00:46:00,000
+¡Todavía tengo muchas preguntas y muchas cosas de qué hablar!
+
+624
+00:46:02,000 --> 00:46:04,000
+¡Padre!
+
+625
+00:46:13,000 --> 00:46:15,000
+No hay señal.
+
+626
+00:46:15,000 --> 00:46:17,000
+No podré comunicarme con nadie desde aquí.
+
+627
+00:46:38,000 --> 00:46:40,000
+Después de todo, tengo que agradecerle a ella.
+
+628
+00:46:51,000 --> 00:46:53,000
+¡Ayanami!
+
+629
+00:46:55,000 --> 00:46:57,000
+¿Dónde estás, Ayanami?
+
+630
+00:46:59,000 --> 00:47:01,000
+¡Ayanami!
+
+631
+00:47:35,000 --> 00:47:37,000
+Qué raro, este lugar es...
+
+632
+00:47:39,000 --> 00:47:40,000
+¡¿Ayanami?!
+
+633
+00:47:40,000 --> 00:47:42,000
+¡Ahí estás!
+
+634
+00:47:44,000 --> 00:47:45,000
+¡Ayanami!
+
+635
+00:47:45,000 --> 00:47:46,000
+¡Te estuve buscando!
+
+636
+00:47:46,000 --> 00:47:48,000
+Ah, ¡espera!
+
+637
+00:47:49,000 --> 00:47:51,000
+¡Tu ropa! ¡Ponte algo de ropa!
+
+638
+00:47:53,000 --> 00:47:55,000
+Si eso fue una orden, lo haré.
+
+639
+00:47:57,000 --> 00:47:59,000
+Estoy entrando...
+
+640
+00:48:02,000 --> 00:48:04,000
+Ayanami, gracias por esto.
+
+641
+00:48:08,000 --> 00:48:10,000
+Quiero darte las gracias desde hace tiempo.
+
+642
+00:48:18,000 --> 00:48:20,000
+Han remodelado tu plugsuit.
+
+643
+00:48:21,000 --> 00:48:23,000
+Te queda bien. Aunque el negro es un poco...
+
+644
+00:48:30,000 --> 00:48:32,000
+Los cuarteles de Nerv han cambiado bastante, ¿no?
+
+645
+00:48:37,000 --> 00:48:39,000
+¿Por qué Misato-san está peleando contra Nerv y no contra los Ángeles?
+
+646
+00:48:42,000 --> 00:48:44,000
+¿Qué quiere hacer mi padre aquí?
+
+647
+00:48:45,000 --> 00:48:47,000
+¿Qué pasó con todos?
+
+648
+00:48:47,000 --> 00:48:49,000
+Oye, Ayanami, ¿sabes algo?
+
+649
+00:48:51,000 --> 00:48:52,000
+No lo se.
+
+650
+00:48:52,000 --> 00:48:54,000
+Ya veo.
+
+651
+00:48:55,000 --> 00:48:57,000
+Si, puede ser.
+
+652
+00:48:58,000 --> 00:49:00,000
+Oye, Ayanami, ¿cuándo regresaste del EVA-01?
+
+653
+00:49:08,000 --> 00:49:10,000
+Este lugar ni siquiera es una habitación.
+
+654
+00:49:12,000 --> 00:49:14,000
+Puedes decir que es tu estilo,
+
+655
+00:49:15,000 --> 00:49:17,000
+pero parece que tampoco vas al colegio, ¿entonces qué haces todo el tiempo?
+
+656
+00:49:19,000 --> 00:49:21,000
+Esperar. Por órdenes.
+
+657
+00:49:24,000 --> 00:49:26,000
+No hay libros aquí.
+
+658
+00:49:26,000 --> 00:49:28,000
+¿No estás leyendo libros?
+
+659
+00:49:28,000 --> 00:49:30,000
+¿Libros?
+
+660
+00:49:30,000 --> 00:49:32,000
+Si fuese Ayanami Rei, ¿leería libros?
+
+661
+00:49:33,000 --> 00:49:35,000
+Si. Lees mucho, ¿o no?
+
+662
+00:49:36,000 --> 00:49:38,000
+Habían libros en mi habitación también.
+
+663
+00:49:38,000 --> 00:49:39,000
+Ya veo...
+
+664
+00:49:39,000 --> 00:49:40,000
+¡Lo tengo!
+
+665
+00:49:40,000 --> 00:49:42,000
+Voy a ver en la biblioteca aquí y te traeré algunos.
+
+666
+00:49:43,000 --> 00:49:45,000
+Libros de Inglés están bien, ¿verdad?
+
+667
+00:49:46,000 --> 00:49:48,000
+Siempre tenías uno contigo, así que creo que te gustaba.
+
+668
+00:49:49,000 --> 00:49:50,000
+¿Gustaba?
+
+669
+00:49:50,000 --> 00:49:52,000
+Sí... Al menos, eso creo.
+
+670
+00:49:53,000 --> 00:49:55,000
+¿Qué es "gustaba"?
+
+671
+00:50:05,000 --> 00:50:07,000
+¿Entonces Seele sigue en silencio?
+
+672
+00:50:09,000 --> 00:50:11,000
+El Proyecto de Instrumentalización Humana será realizado de acuerdo a los Rollos del Mar Muerto.
+
+673
+00:50:14,000 --> 00:50:16,000
+Ya no necesitamos entretejer la historia.
+
+674
+00:50:18,000 --> 00:50:20,000
+Ikari, ¿esta vez intentas usar al EVA-13?
+
+675
+00:50:24,000 --> 00:50:26,000
+No importa. Voy a seguir con tu plan.
+
+676
+00:50:30,000 --> 00:50:32,000
+Por el bien de Yui.
+
+677
+00:50:34,000 --> 00:50:36,000
+Es inútil. No sirve.
+
+678
+00:50:44,000 --> 00:50:45,000
+No hagas nada.
+
+679
+00:50:45,000 --> 00:50:47,000
+No te incumbe.
+
+680
+00:50:47,000 --> 00:50:49,000
+¡Por favor, no pilotees el EVA!
+
+681
+00:50:49,000 --> 00:50:50,000
+Pilotea el EVA.
+
+682
+00:50:50,000 --> 00:50:52,000
+No lo sé.
+
+683
+00:51:46,000 --> 00:51:48,000
+Ven aquí, Ikari-kun.
+
+684
+00:51:48,000 --> 00:51:50,000
+¡Hablemos un momento!
+
+685
+00:51:55,000 --> 00:51:57,000
+U-Uh, ¿no ibamos a hablar?
+
+686
+00:51:58,000 --> 00:52:00,000
+Se puede decir que un dueto de piano es un diálogo de sonidos.
+
+687
+00:52:01,000 --> 00:52:03,000
+¿Por qué no lo intentamos?
+
+688
+00:52:05,000 --> 00:52:07,000
+Está bien, pero lo veo imposible.
+
+689
+00:52:07,000 --> 00:52:09,000
+Si quieres vivir bien, tienes que cambiar e intentar nuevas cosas.
+
+690
+00:52:17,000 --> 00:52:18,000
+Mira, es fácil.
+
+691
+00:52:18,000 --> 00:52:20,000
+Solo tienes que darle a esta tecla.
+
+692
+00:52:36,000 --> 00:52:38,000
+Ahora, sígueme.
+
+693
+00:53:02,000 --> 00:53:04,000
+¡Muy bien!
+
+694
+00:53:04,000 --> 00:53:06,000
+Estás tocando bastante bien.
+
+695
+00:53:41,000 --> 00:53:43,000
+Suena divertido.
+
+696
+00:53:44,000 --> 00:53:46,000
+Somos increíbles juntos, ¿no?
+
+697
+00:53:51,000 --> 00:53:53,000
+Gracias.
+
+698
+00:53:53,000 --> 00:53:55,000
+Hace mucho que no me divertía tanto.
+
+699
+00:53:55,000 --> 00:53:57,000
+Yo también.
+
+700
+00:53:57,000 --> 00:53:58,000
+Lo haremos de nuevo.
+
+701
+00:53:58,000 --> 00:54:00,000
+Puedes venir cuando quieras, Ikari Shinji-kun.
+
+702
+00:54:01,000 --> 00:54:02,000
+Seguro.
+
+703
+00:54:02,000 --> 00:54:04,000
+Ah, por cierto ¿tú eres...?
+
+704
+00:54:04,000 --> 00:54:06,000
+Soy Kaworu, Nagisa Kaworu.
+
+705
+00:54:08,000 --> 00:54:10,000
+Soy igual que tú, un niño elegido por el destino.
+
+706
+00:54:17,000 --> 00:54:19,000
+Ella tampoco está aquí esta vez.
+
+707
+00:54:20,000 --> 00:54:22,000
+Los libros están intactos.
+
+708
+00:54:38,000 --> 00:54:40,000
+Buenos días, Ikari Shinji-kun.
+
+709
+00:54:42,000 --> 00:54:44,000
+Hoy llegaste temprano.
+
+710
+00:54:44,000 --> 00:54:46,000
+Realmente no tengo nada más que hacer.
+
+711
+00:55:16,000 --> 00:55:18,000
+Me pregunto cómo podría mejorar...
+
+712
+00:55:19,000 --> 00:55:21,000
+No necesitas ser bueno en esto.
+
+713
+00:55:22,000 --> 00:55:24,000
+Con solo producir un sonido agradable es suficiente.
+
+714
+00:55:26,000 --> 00:55:28,000
+Entonces si quiero mejorar el sonido, ¿qué debo hacer?
+
+715
+00:55:30,000 --> 00:55:32,000
+Requiere mucha práctica.
+
+716
+00:55:32,000 --> 00:55:34,000
+Y haciéndolo muchas veces hasta que sientas que es lo suficientemente bueno para ti.
+
+717
+00:55:39,000 --> 00:55:41,000
+Esa es la única forma.
+
+718
+00:56:11,000 --> 00:56:12,000
+Está bien, déjamelo a mi.
+
+719
+00:56:12,000 --> 00:56:14,000
+Puedo hacerlo funcionar.
+
+720
+00:56:14,000 --> 00:56:16,000
+Hm, gracias.
+
+721
+00:56:16,000 --> 00:56:18,000
+Me siento mal por hacerte hacer mucho por mi.
+
+722
+00:56:19,000 --> 00:56:21,000
+No tienes que preocuparte por eso.
+
+723
+00:56:21,000 --> 00:56:23,000
+Somos amigos, después de todo.
+
+724
+00:56:27,000 --> 00:56:29,000
+Se ha puesto un poco oscuro, ¿no?
+
+725
+00:56:29,000 --> 00:56:31,000
+¿Por qué no regresamos?
+
+726
+00:56:32,000 --> 00:56:34,000
+Oye, ¿no quieres quedarte otro rato más?
+
+727
+00:56:35,000 --> 00:56:37,000
+Podríamos ver las estrellas desde aquí.
+
+728
+00:56:37,000 --> 00:56:39,000
+¿Las estrellas?
+
+729
+00:56:40,000 --> 00:56:42,000
+¿Te gustan las estrellas?
+
+730
+00:56:43,000 --> 00:56:45,000
+Si.
+
+731
+00:56:45,000 --> 00:56:47,000
+Siempre me sorprendió lo grande que es el universo.
+
+732
+00:56:48,000 --> 00:56:50,000
+Hay algo en él que me gusta, desde pequeño.
+
+733
+00:56:53,000 --> 00:56:55,000
+Supongo que estoy feliz de que no haya cambiado tanto en estos 14 años.
+
+734
+00:56:58,000 --> 00:57:00,000
+Me tranquiliza, se podría decir.
+
+735
+00:57:04,000 --> 00:57:06,000
+Uh, es difícil expresarlo con palabras.
+
+736
+00:57:07,000 --> 00:57:09,000
+Tus sentimientos se abren paso.
+
+737
+00:57:10,000 --> 00:57:12,000
+En lugar de buscar el cambio, prefieres un mundo despiadado y un abismo nihilista.
+
+738
+00:57:15,000 --> 00:57:17,000
+Es como tú.
+
+739
+00:57:18,000 --> 00:57:20,000
+Estar tirados aquí juntos es agradable.
+
+740
+00:57:21,000 --> 00:57:23,000
+No sabía que podía ser tan placentero.
+
+741
+00:57:24,000 --> 00:57:26,000
+Gracias por invitarme.
+
+742
+00:57:27,000 --> 00:57:29,000
+No tienes por qué agradecerme.
+
+743
+00:57:29,000 --> 00:57:31,000
+Solo supuse de que sería divertido, si querías intentarlo, y...
+
+744
+00:57:36,000 --> 00:57:38,000
+Fue divertido.
+
+745
+00:57:39,000 --> 00:57:41,000
+De verdad nací para conocerte.
+
+746
+00:57:53,000 --> 00:57:55,000
+¿Hm?
+
+747
+00:57:59,000 --> 00:58:01,000
+Parece un poco más grande ahora.
+
+748
+00:58:02,000 --> 00:58:04,000
+¿Huh?
+
+749
+00:58:04,000 --> 00:58:06,000
+Suzuhara Toji
+
+750
+00:58:09,000 --> 00:58:11,000
+Ten, esto debería funcionar.
+
+751
+00:58:12,000 --> 00:58:13,000
+Gracias.
+
+752
+00:58:13,000 --> 00:58:15,000
+Eres increíble, Nagisa-kun.
+
+753
+00:58:15,000 --> 00:58:17,000
+Puedes hacerlo todo.
+
+754
+00:58:17,000 --> 00:58:19,000
+Es solo conocimiento.
+
+755
+00:58:19,000 --> 00:58:21,000
+Es porque estuve en este mundo un poco más que tu.
+
+756
+00:58:23,000 --> 00:58:25,000
+No importa... Eres increíble.
+
+757
+00:58:27,000 --> 00:58:29,000
+No te ves muy bien.
+
+758
+00:58:29,000 --> 00:58:31,000
+¿Qué sucede?
+
+759
+00:58:34,000 --> 00:58:36,000
+Me preocupa mis amigos.
+
+760
+00:58:38,000 --> 00:58:39,000
+¿Amigos?
+
+761
+00:58:39,000 --> 00:58:41,000
+Si.
+
+762
+00:58:41,000 --> 00:58:43,000
+Había una ciudad sobre los cuarteles de Nerv.
+
+763
+00:58:44,000 --> 00:58:46,000
+Ahí es donde todos vivían.
+
+764
+00:58:46,000 --> 00:58:47,000
+Toji y Kensuke,
+
+765
+00:58:47,000 --> 00:58:49,000
+el resto de la clase...
+
+766
+00:58:50,000 --> 00:58:52,000
+Aparentemente he dormido en el EVA-01 por 14 años.
+
+767
+00:58:54,000 --> 00:58:56,000
+No se qué habrá cambiado en todo ese tiempo.
+
+768
+00:58:59,000 --> 00:59:01,000
+No conocer la respuesta a eso debe ser doloroso.
+
+769
+00:59:03,000 --> 00:59:05,000
+De todos modos, tengo miedo.
+
+770
+00:59:06,000 --> 00:59:08,000
+De lo que le sucedió a la ciudad y a todos...
+
+771
+00:59:11,000 --> 00:59:13,000
+De alguna manera tengo miedo por eso.
+
+772
+00:59:13,000 --> 00:59:15,000
+Es así, ¡tengo miedo!
+
+773
+00:59:24,000 --> 00:59:26,000
+¿Quieres saberlo?
+
+774
+00:59:53,000 --> 00:59:55,000
+¿Nagisa-kun?
+
+775
+00:59:55,000 --> 00:59:57,000
+¡Nagisa-kun!
+
+776
+01:00:12,000 --> 01:00:14,000
+Solo un poco más.
+
+777
+01:00:31,000 --> 01:00:33,000
+Las nubes se disperarán pronto,
+
+778
+01:00:33,000 --> 01:00:35,000
+y verás la verdad que deseas.
+
+779
+01:00:45,000 --> 01:00:47,000
+¿Qué es esto?
+
+780
+01:00:51,000 --> 01:00:53,000
+El resultado del Tercer Impacto, que sucedió cuando te fusionaste con el EVA-01.
+
+781
+01:01:00,000 --> 01:01:02,000
+Pero esto es...
+
+782
+01:01:02,000 --> 01:01:04,000
+¿Qué pasó con todos en la ciudad?
+
+783
+01:01:04,000 --> 01:01:06,000
+La extinción masiva no es inusual en este planeta.
+
+784
+01:01:07,000 --> 01:01:09,000
+Más bien, es uno de los aspectos de la evolución.
+
+785
+01:01:11,000 --> 01:01:13,000
+Porque la vida es algo que cambia y se ajusta al mundo.
+
+786
+01:01:17,000 --> 01:01:19,000
+Sin embargo, los Lilin no cambian ellos mismos, sino al mundo.
+
+787
+01:01:24,000 --> 01:01:26,000
+Entonces inventaron un ritual de evolución artificial para complacerse.
+
+788
+01:01:30,000 --> 01:01:32,000
+La vieja vida es ofrecida en sacrificio,
+
+789
+01:01:32,000 --> 01:01:34,000
+para que nuevas criaturas bendecidas con el Fruto de la Vida puedan ser creadas.
+
+790
+01:01:38,000 --> 01:01:40,000
+Todo se debe al instinto de muerte que ha sido programado desde tiempos inmemoriables.
+
+791
+01:01:42,000 --> 01:01:44,000
+Nerv lo llama Proyecto de Instrumentalización Humana.
+
+792
+01:01:47,000 --> 01:01:49,000
+Esto es lo que Nerv...
+
+793
+01:01:52,000 --> 01:01:54,000
+Esto es lo que mi padre estuvo haciendo.
+
+794
+01:01:57,000 --> 01:01:59,000
+Ikari Shinji-kun,
+
+795
+01:01:59,000 --> 01:02:01,000
+cuando el EVA-01 despertó, abrió la Puerta de Guf,
+
+796
+01:02:04,000 --> 01:02:06,000
+y se convirtió en el detonante del Tercer Impacto.
+
+797
+01:02:07,000 --> 01:02:09,000
+Los Lilin lo llaman Casi Tercer Impacto.
+
+798
+01:02:11,000 --> 01:02:13,000
+Y tú lo has iniciado.
+
+799
+01:02:18,000 --> 01:02:19,000
+¡Te equivocas!
+
+800
+01:02:19,000 --> 01:02:21,000
+¡Todo lo que hice fue salvar a Ayanami!
+
+801
+01:02:25,000 --> 01:02:27,000
+Cierto, pero esa fue la causa...
+
+802
+01:02:30,000 --> 01:02:32,000
+Todo esto...
+
+803
+01:02:34,000 --> 01:02:36,000
+¡Yo no lo sabía!
+
+804
+01:02:36,000 --> 01:02:38,000
+Me dices todo esto tan rápido,
+
+805
+01:02:38,000 --> 01:02:39,000
+¡y no hay nada que pueda hacer al respecto!
+
+806
+01:02:39,000 --> 01:02:40,000
+En efecto.
+
+807
+01:02:40,000 --> 01:02:42,000
+No hay nada que puedas hacer con tu pasado.
+
+808
+01:02:44,000 --> 01:02:46,000
+Es la verdad que deseabas conocer.
+
+809
+01:02:47,000 --> 01:02:49,000
+Los Lilin te hacen pagar el precio como resultado de tu pecado.
+
+810
+01:02:52,000 --> 01:02:54,000
+¿Qué crees que hace esa cosa en tu cuello?
+
+811
+01:02:57,000 --> 01:02:59,000
+¿Cuál pecado?
+
+812
+01:02:59,000 --> 01:03:01,000
+¡Yo no hice nada!
+
+813
+01:03:01,000 --> 01:03:03,000
+¡No tuve nada que ver con esto!
+
+814
+01:03:03,000 --> 01:03:05,000
+Si no fuiste tú, ¿entonces quién fue?
+
+815
+01:03:07,000 --> 01:03:09,000
+Sin embargo, no hay pecado que no pueda redimirse.
+
+816
+01:03:11,000 --> 01:03:13,000
+Siempre hay esperanza.
+
+817
+01:03:13,000 --> 01:03:15,000
+Siempre.
+
+818
+01:03:32,000 --> 01:03:34,000
+El Elegido de Seele ha contactado al Tercer Chico.
+
+819
+01:03:36,000 --> 01:03:38,000
+Parece que ya le contó todo lo acontecido
+
+820
+01:03:39,000 --> 01:03:41,000
+¿Reaccionó como tú lo esperabas?
+
+821
+01:03:42,000 --> 01:03:44,000
+¿Está bien, Ikari?
+
+822
+01:03:44,000 --> 01:03:46,000
+Estamos reescribiendo el escenario de Seele.
+
+823
+01:03:48,000 --> 01:03:50,000
+Toda la existencia no es más que una herramienta para tal fin.
+
+824
+01:03:51,000 --> 01:03:53,000
+¿Aún cuando tu hijo ya sabe el camino que sigues?
+
+825
+01:03:57,000 --> 01:03:59,000
+No estoy de acuerdo con eso.
+
+826
+01:04:02,000 --> 01:04:04,000
+Qué es...
+
+827
+01:04:05,000 --> 01:04:07,000
+Qué se supone...
+
+828
+01:04:12,000 --> 01:04:14,000
+Bueno... Salvé a Ayanami...
+
+829
+01:04:15,000 --> 01:04:17,000
+¿Eso no fue algo bueno?
+
+830
+01:04:41,000 --> 01:04:43,000
+Se ha ido de nuevo.
+
+831
+01:04:43,000 --> 01:04:45,000
+Sigue sin haber tocado los libros.
+
+832
+01:04:47,000 --> 01:04:49,000
+¿Qué sucede?
+
+833
+01:04:49,000 --> 01:04:51,000
+¡¿Qué le hicieron a Ayanami?!
+
+834
+01:05:02,000 --> 01:05:04,000
+Tercer Elegido, ¿juegas shogi?
+
+835
+01:05:06,000 --> 01:05:08,000
+Eh... Solo conozco las reglas.
+
+836
+01:05:09,000 --> 01:05:11,000
+Está bien. Elige un lado.
+
+837
+01:05:12,000 --> 01:05:14,000
+Comenzaré sin torre.
+
+838
+01:05:21,000 --> 01:05:23,000
+Tienes que concentrarte.
+
+839
+01:05:25,000 --> 01:05:27,000
+Es la única forma de ganar.
+
+840
+01:05:28,000 --> 01:05:30,000
+Perderás en treinta y un turnos.
+
+841
+01:05:33,000 --> 01:05:35,000
+Hmm...
+
+842
+01:05:40,000 --> 01:05:42,000
+¿Es más divertido para tí de esta forma?
+
+843
+01:05:44,000 --> 01:05:46,000
+Gracias por darle el gusto a un anciano con su pasatiempo.
+
+844
+01:05:52,000 --> 01:05:54,000
+También soy un cobarde, sabes.
+
+845
+01:05:54,000 --> 01:05:56,000
+Usé este juego como pretexto para hablar contigo.
+
+846
+01:05:59,000 --> 01:06:01,000
+¿Recuerdas a tu madre?
+
+847
+01:06:03,000 --> 01:06:05,000
+No. Era muy pequeño.
+
+848
+01:06:07,000 --> 01:06:09,000
+Mi padre se deshizo de todas sus cosas.
+
+849
+01:06:16,000 --> 01:06:18,000
+Esa es...
+
+850
+01:06:19,000 --> 01:06:21,000
+¿Ayanami?
+
+851
+01:06:22,000 --> 01:06:23,000
+Es tu madre.
+
+852
+01:06:23,000 --> 01:06:25,000
+Nombre de soltera, Ayanami Yui.
+
+853
+01:06:25,000 --> 01:06:27,000
+Era mi estudiante en la universidad.
+
+854
+01:06:29,000 --> 01:06:31,000
+Ahora es el sistema de control del EVA Unidad 01.
+
+855
+01:06:36,000 --> 01:06:38,000
+Finalmente volvió la luz.
+
+856
+01:06:42,000 --> 01:06:44,000
+Es un tipo muy prematuro de sistema de control de los EVAs.
+
+857
+01:06:46,000 --> 01:06:48,000
+Aquí, Yui propuso entrar directo al núcleo,
+
+858
+01:06:50,000 --> 01:06:52,000
+y ella misma se convirtió en el objeto del experimento.
+
+859
+01:06:54,000 --> 01:06:56,000
+Tú estabas viendo también. Tu memoria debe de haberlo borrado.
+
+860
+01:07:04,000 --> 01:07:06,000
+Como resultado, Yui-kun se desvaneció ahí,
+
+861
+01:07:08,000 --> 01:07:10,000
+y solo su información fue recuperada en la serie Ayanami.
+
+862
+01:07:12,000 --> 01:07:14,000
+La Rei que conociste era uno de los clones de Yui.
+
+863
+01:07:17,000 --> 01:07:19,000
+Al igual que tu madre, ella está contenida dentro del EVA-01.
+
+864
+01:07:22,000 --> 01:07:24,000
+Todo esto es el plan de Ikari.
+
+865
+01:07:26,000 --> 01:07:28,000
+No es cierto...
+
+866
+01:07:29,000 --> 01:07:31,000
+Se puede destruir el mundo con facilidad.
+
+867
+01:07:33,000 --> 01:07:35,000
+Pero no es tan fácil reconstruirlo.
+
+868
+01:07:37,000 --> 01:07:39,000
+Este mundo no puede ser revertido.
+
+869
+01:07:41,000 --> 01:07:43,000
+Así como tampoco la mente de las personas.
+
+870
+01:07:44,000 --> 01:07:46,000
+Ahora, con el fin de cumplir sus deseos,
+
+871
+01:07:47,000 --> 01:07:49,000
+tu padre pagará cualquier costo.
+
+872
+01:07:50,000 --> 01:07:52,000
+Incluso con su propia alma.
+
+873
+01:07:53,000 --> 01:07:55,000
+Quería compartirte un poco de la verdad.
+
+874
+01:07:56,000 --> 01:07:58,000
+Sobre tu padre, también...
+
+875
+01:08:10,000 --> 01:08:12,000
+Realmente está en una posición difícil.
+
+876
+01:08:13,000 --> 01:08:15,000
+Yui-kun, quizás esto ayude.
+
+877
+01:08:24,000 --> 01:08:26,000
+El momento del contrato final  ha llegado.
+
+878
+01:08:29,000 --> 01:08:31,000
+Espera un poco más, Yui.
+
+879
+01:08:40,000 --> 01:08:42,000
+¿Por qué no estás leyendo los libros?
+
+880
+01:08:45,000 --> 01:08:47,000
+Esa no fue tu orden.
+
+881
+01:08:47,000 --> 01:08:49,000
+¿Orden?
+
+882
+01:08:49,000 --> 01:08:51,000
+¡Muy bien, ya fue suficiente!
+
+883
+01:08:54,000 --> 01:08:56,000
+¿Eres Ayanami?
+
+884
+01:08:57,000 --> 01:08:59,000
+Si, Ayanami Rei.
+
+885
+01:09:00,000 --> 01:09:02,000
+Entonces te salvé, ¿verdad?
+
+886
+01:09:04,000 --> 01:09:06,000
+...No lo sé.
+
+887
+01:09:13,000 --> 01:09:15,000
+¿Ikari-kun?
+
+888
+01:09:20,000 --> 01:09:22,000
+Entonces, no la he salvado...
+
+889
+01:09:24,000 --> 01:09:26,000
+Ayanami...
+
+890
+01:09:26,000 --> 01:09:28,000
+No hagas nada.
+
+891
+01:09:30,000 --> 01:09:30,800
+No lo sé.
+
+892
+01:09:30,000 --> 01:09:32,000
+No te incumbe.
+
+893
+01:09:32,000 --> 01:09:34,000
+Pilotea el EVA.
+
+894
+01:09:36,000 --> 01:09:38,000
+¡Por favor, no pilotees el EVA!
+
+895
+01:09:38,000 --> 01:09:40,000
+No hagas nada.
+
+896
+01:09:41,000 --> 01:09:42,000
+No te incumbe.
+
+897
+01:09:42,000 --> 01:09:43,000
+Pilotea el EVA.
+
+898
+01:09:43,000 --> 01:09:45,000
+No te incumbe.
+
+899
+01:09:45,000 --> 01:09:47,000
+¡Por favor, no pilotees el EVA!
+
+900
+01:09:48,000 --> 01:09:49,000
+Misato-san...
+
+901
+01:09:49,000 --> 01:09:50,000
+No lo sé.
+
+902
+01:09:50,000 --> 01:09:51,000
+No hagas nada.
+
+903
+01:09:51,000 --> 01:09:52,000
+Pilotea el EVA.
+
+904
+01:09:52,000 --> 01:09:53,000
+No te incumbe.
+
+905
+01:09:53,000 --> 01:09:54,000
+¡Por favor, no pilotees el EVA!
+
+906
+01:09:54,000 --> 01:09:55,000
+No hagas nada.
+
+907
+01:09:55,000 --> 01:09:55,800
+Pilotea el EVA.
+
+908
+01:09:55,000 --> 01:09:57,000
+No te incumbe.
+
+909
+01:09:57,000 --> 01:09:57,800
+No hagas nada.
+
+910
+01:09:57,000 --> 01:09:58,000
+No lo sé.
+
+911
+01:09:58,000 --> 01:10:00,000
+No te incumbe
+
+912
+01:10:00,000 --> 01:10:01,000
+Pilotea el EVA.
+
+913
+01:10:01,000 --> 01:10:02,000
+No hagas nada.
+
+914
+01:10:02,000 --> 01:10:02,800
+No lo sé.
+
+915
+01:10:02,000 --> 01:10:03,000
+...te incumbe.
+
+916
+01:10:03,000 --> 01:10:04,000
+No lo se.
+
+917
+01:10:04,000 --> 01:10:05,000
+No te incumbe.
+
+918
+01:10:05,000 --> 01:10:07,000
+¡Por favor, no pilotees un EVA!
+
+919
+01:10:08,000 --> 01:10:09,000
+No lo sé.
+
+920
+01:10:09,000 --> 01:10:11,000
+Pilotea el EVA.
+
+921
+01:10:17,000 --> 01:10:19,000
+¿Qué he hecho?
+
+922
+01:10:56,000 --> 01:10:58,000
+¿Finalmente se ha completado el último verdugo?
+
+923
+01:10:59,000 --> 01:11:01,000
+Si, todo lo que necesitamos está justo aquí.
+
+924
+01:11:05,000 --> 01:11:07,000
+El momento ha llegado.
+
+925
+01:11:08,000 --> 01:11:10,000
+Es tu turno, Ikari Shinji-kun.
+
+926
+01:11:11,000 --> 01:11:13,000
+¡No!
+
+927
+01:11:14,000 --> 01:11:16,000
+¡No quiero pilotear al EVA de nuevo!
+
+928
+01:11:16,000 --> 01:11:18,000
+¡Ni siquiera logré rescatar a Ayanami!
+
+929
+01:11:19,000 --> 01:11:21,000
+¡Todo sale mal cuando piloteo el EVA!
+
+930
+01:11:22,000 --> 01:11:24,000
+¡Ya tuve suficiente! ¡No quiero hacer nada!
+
+931
+01:11:25,000 --> 01:11:27,000
+Y así es cómo los recuerdos dolorosos impiden que sucedan cosas buenas.
+
+932
+01:11:33,000 --> 01:11:35,000
+¡Nada bueno puede suceder!
+
+933
+01:11:35,000 --> 01:11:37,000
+Nagisa, tú me lo has demostrado.
+
+934
+01:11:38,000 --> 01:11:40,000
+Un mundo donde no puedo hacer nada.
+
+935
+01:11:41,000 --> 01:11:43,000
+Las cosas que han cambiado con el EVA, pueden revertirse con el EVA.
+
+936
+01:11:46,000 --> 01:11:48,000
+Tú dices eso, pero mi padre, el EVA, Misato-san...
+
+937
+01:11:48,000 --> 01:11:50,000
+¡No puedo confiar en nadie!
+
+938
+01:11:52,000 --> 01:11:54,000
+Pero, quiero que creas en mi.
+
+939
+01:11:55,000 --> 01:11:57,000
+¡No puedo!
+
+940
+01:11:58,000 --> 01:12:00,000
+¡Misato-san me colocó este collar!
+
+941
+01:12:02,000 --> 01:12:04,000
+Me dijeron que no pilotee más el Eva
+
+942
+01:12:04,000 --> 01:12:06,000
+Dijeron que si lo hacía, iba a morir.
+
+943
+01:12:08,000 --> 01:12:10,000
+Ya no quiero saber nada del EVA.
+
+944
+01:12:18,000 --> 01:12:19,000
+Lo sé.
+
+945
+01:12:19,000 --> 01:12:21,000
+Voy a asumir por ti el peso de la maldición de los Lilin, y el riesgo de despertar el EVA.
+
+946
+01:12:30,000 --> 01:12:32,000
+Nagisa-kun...
+
+947
+01:12:33,000 --> 01:12:35,000
+Ya no tienes que preocuparte.
+
+948
+01:12:35,000 --> 01:12:37,000
+Yo fui creado originalmente por los mismos Lilin que me temen.
+
+949
+01:12:38,000 --> 01:12:40,000
+Tenía que hacer esto en algún momento.
+
+950
+01:12:43,000 --> 01:12:45,000
+Ikari Shinji-kun, tu última esperanza yace en las dos lanzas que quedaron en la zona cero del Dogma.
+
+951
+01:12:50,000 --> 01:12:52,000
+Son la clave para activar la Instrumentalización.
+
+952
+01:12:54,000 --> 01:12:56,000
+Todo lo que tenemos que hacer es obtener las lanzas.
+
+953
+01:12:57,000 --> 01:12:59,000
+Si lo hacemos, Nerv no podrá causar el Cuarto Impacto.
+
+954
+01:13:01,000 --> 01:13:03,000
+Y si las usamos junto al EVA-13, podremos arreglar el mundo.
+
+955
+01:13:07,000 --> 01:13:09,000
+Tienes razón.
+
+956
+01:13:12,000 --> 01:13:14,000
+Sí, es posible gracias a ti.
+
+957
+01:13:14,000 --> 01:13:16,000
+No, es posible gracias a ti.
+
+958
+01:13:16,000 --> 01:13:18,000
+La unidad 13 tiene dos cápsulas de inserción.
+
+959
+01:13:20,000 --> 01:13:22,000
+Nos convertiremos en la esperanza de los Lilin.
+
+960
+01:13:24,000 --> 01:13:26,000
+Porque lo que más necesitas ahora es esperanza,
+
+961
+01:13:28,000 --> 01:13:30,000
+junto con la purificación y un corazón abierto.
+
+962
+01:13:34,000 --> 01:13:36,000
+Eres increíble. Lo sabes todo.
+
+963
+01:13:39,000 --> 01:13:41,000
+Eso es porque siempre estoy pensando en ti.
+
+964
+01:13:44,000 --> 01:13:46,000
+Gracias, Nagisa-kun.
+
+965
+01:13:47,000 --> 01:13:49,000
+"Kaworu" está bien.
+
+966
+01:13:49,000 --> 01:13:51,000
+Ah, bien.
+
+967
+01:13:52,000 --> 01:13:54,000
+Llámame Shinji.
+
+968
+01:13:58,000 --> 01:13:59,000
+Esto es igual que tocar el piano.
+
+969
+01:13:59,000 --> 01:14:01,000
+Todo saldrá bien si lo hacemos juntos.
+
+970
+01:14:05,000 --> 01:14:07,000
+Vamos, Kaworu-kun.
+
+971
+01:14:47,000 --> 01:14:49,000
+Evangelion 13, ¡activado!
+
+972
+01:14:52,000 --> 01:14:53,000
+¡Señal entrante!
+
+973
+01:14:53,000 --> 01:14:55,000
+Confirmada la activación de un nuevo tipo de EVA.
+
+974
+01:15:15,000 --> 01:15:17,000
+No estamos solos.
+
+975
+01:15:17,000 --> 01:15:17,800
+¿Te refieres al Mark.09?
+
+976
+01:15:17,000 --> 01:15:19,000
+Es nuestro refuerzo.
+
+977
+01:15:21,000 --> 01:15:23,000
+Nos alertará acerca de cualquier actividad de Wille.
+
+978
+01:15:24,000 --> 01:15:26,000
+Con nosotros dos ya debería ser suficiente.
+
+979
+01:15:27,000 --> 01:15:29,000
+Ni siquiera es Ayanami...
+
+980
+01:15:31,000 --> 01:15:33,000
+No soy... ¿Ayanami?
+
+981
+01:15:37,000 --> 01:15:39,000
+¿Las paredes?
+
+982
+01:15:39,000 --> 01:15:41,000
+Si, las fallas del infinito.
+
+983
+01:15:47,000 --> 01:15:49,000
+No dejes que pesen sobre tu mente.
+
+984
+01:15:51,000 --> 01:15:53,000
+Estamos cerca de la barrera de Lilith.
+
+985
+01:15:54,000 --> 01:15:56,000
+El eje principal está bloqueado por completo,
+
+986
+01:15:56,000 --> 01:15:58,000
+y no dejó pasar a ningún intruso durante los últimos 14 años.
+
+987
+01:16:05,000 --> 01:16:07,000
+Es como una cubierta gigante.
+
+988
+01:16:09,000 --> 01:16:11,000
+Todo está bien. El EVA-13 fue hecho para pasar a través de esto.
+
+989
+01:16:12,000 --> 01:16:14,000
+Los dos podemos hacerlo.
+
+990
+01:16:24,000 --> 01:16:26,000
+Trata de sincronizar tempos.
+
+991
+01:16:26,000 --> 01:16:28,000
+Recuerda el dueto de piano.
+
+992
+01:16:33,000 --> 01:16:35,000
+Vamos, Shinji-kun.
+
+993
+01:16:57,000 --> 01:16:59,000
+¡Lo logramos!
+
+994
+01:17:16,000 --> 01:17:18,000
+Hemos llegado. La parte más profunda del Dogma Central.
+
+995
+01:17:23,000 --> 01:17:25,000
+El epicentro del Tercer Impacto.
+
+996
+01:17:30,000 --> 01:17:32,000
+¿Ésta es Lilith?
+
+997
+01:17:32,000 --> 01:17:34,000
+Lo era.
+
+998
+01:17:34,000 --> 01:17:36,000
+Ahora es su cadáver.
+
+999
+01:17:36,000 --> 01:17:38,000
+Misato-san, quería que la protegiéramos incluso con nuestras vidas...
+
+1000
+01:17:41,000 --> 01:17:43,000
+Uh... ¿Eso es un EVA?
+
+1001
+01:17:44,000 --> 01:17:46,000
+Si, el EVA Mark 6.
+
+1002
+01:17:47,000 --> 01:17:49,000
+Fue remodelado como modelo independiente.
+
+1003
+01:17:49,000 --> 01:17:51,000
+Al ser explotado por los Lilin, la unidad quedó arruinada.
+
+1004
+01:17:57,000 --> 01:17:59,000
+Las cosas que la están atravesando... ¿Son nuestros objetivos?
+
+1005
+01:18:01,000 --> 01:18:03,000
+Si, las lanzas de Longinus y Cassius. Empuñar ambas require de dos almas.
+
+1006
+01:18:09,000 --> 01:18:11,000
+Es por eso que tenemos dos cápsulas de inserción.
+
+1007
+01:18:13,000 --> 01:18:15,000
+Entonces... ¿La otra piloto hubiese servido también?
+
+1008
+01:18:17,000 --> 01:18:19,000
+No, no se puede usar una imitación de un Lilin.
+
+1009
+01:18:19,000 --> 01:18:21,000
+El lugar donde reside su alma es diferente.
+
+1010
+01:18:23,000 --> 01:18:25,000
+Bien, comencemos.
+
+1011
+01:18:32,000 --> 01:18:34,000
+Espera.
+
+1012
+01:18:34,000 --> 01:18:35,000
+Hay algo mal.
+
+1013
+01:18:35,000 --> 01:18:37,000
+¿Qué sucede, Kaworu-kun?
+
+1014
+01:18:40,000 --> 01:18:41,000
+Esto no está bien...
+
+1015
+01:18:41,000 --> 01:18:43,000
+Las dos lanzas ahora son iguales.
+
+1016
+01:18:45,000 --> 01:18:47,000
+¡Rápìdo, quitemos las lanzas!
+
+1017
+01:18:47,000 --> 01:18:49,000
+Es por eso que vine aquí a piolotear el EVA.
+
+1018
+01:18:53,000 --> 01:18:55,000
+¡¿Qué está pasando?!
+
+1019
+01:19:04,000 --> 01:19:06,000
+¿EVA-02?
+
+1020
+01:19:06,000 --> 01:19:08,000
+¡Asuka!
+
+1021
+01:19:09,000 --> 01:19:11,000
+¡¿Qué estás hacienda Asuka?!
+
+1022
+01:19:14,000 --> 01:19:15,000
+¡¿Shinji tonto?!
+
+1023
+01:19:15,000 --> 01:19:17,000
+¿De verdad estás piloteando el EVA?
+
+1024
+01:19:17,000 --> 01:19:19,000
+Así es. Lo estoy piloteando.
+
+1025
+01:19:19,000 --> 01:19:21,000
+¡Voy a cambiar al mundo con este EVA!
+
+1026
+01:19:22,000 --> 01:19:24,000
+Pequeño mocoso...
+
+1027
+01:19:24,000 --> 01:19:26,000
+Si es así, ¡no lo pilotees!
+
+1028
+01:19:34,000 --> 01:19:35,000
+¡Unidad soporte, siempre tarde!
+
+1029
+01:19:35,000 --> 01:19:37,000
+¡Perdón, perdón!
+
+1030
+01:19:37,000 --> 01:19:39,000
+Señor Recipiente de Adam,
+
+1031
+01:19:40,000 --> 01:19:42,000
+al menos permítame detener su plan...
+
+1032
+01:20:03,000 --> 01:20:05,000
+¿Por qué interfieres, Asuka?
+
+1033
+01:20:05,000 --> 01:20:07,000
+¡Estas sos nuestras lanzas de la esperanza!
+
+1034
+01:20:10,000 --> 01:20:12,000
+¡Deja! ... ¡De buscar! ... ¡Problemas!
+
+1035
+01:20:13,000 --> 01:20:14,000
+¡Mocoso Shinji!
+
+1036
+01:20:14,000 --> 01:20:16,000
+¿Acaso tu plan es iniciar el Tercer Impacto de nuevo?
+
+1037
+01:20:16,000 --> 01:20:18,000
+¡Te equivocas!
+
+1038
+01:20:18,000 --> 01:20:20,000
+¡Estoy tratando de arreglar todo!
+
+1039
+01:20:21,000 --> 01:20:23,000
+¡Trato de salvar al mundo!
+
+1040
+01:20:25,000 --> 01:20:27,000
+Realmente eres un pequeño imbécil.
+
+1041
+01:20:28,000 --> 01:20:30,000
+¡No lo entiendes!
+
+1042
+01:20:39,000 --> 01:20:41,000
+¿Kaworu-kun, por qué no estás ayudando?
+
+1043
+01:20:43,000 --> 01:20:45,000
+Cassius y Longinus. Se necesitan las dos lanzas...
+
+1044
+01:20:48,000 --> 01:20:50,000
+Sin embargo las dos lanzas aquí son la misma...
+
+1045
+01:20:52,000 --> 01:20:53,000
+¡Kaworu-kun!
+
+1046
+01:20:53,000 --> 01:20:55,000
+¡Ya veo!
+
+1047
+01:20:55,000 --> 01:20:57,000
+Ahora lo entiendo.
+
+1048
+01:20:57,000 --> 01:20:59,000
+¡Lilin!
+
+1049
+01:21:04,000 --> 01:21:06,000
+Oye, piloto temporal de Seele,
+
+1050
+01:21:07,000 --> 01:21:09,000
+puedes oirme, ¿verdad?
+
+1051
+01:21:09,000 --> 01:21:11,000
+¿No crees que tienes que irte antes de convertirte en un Recipiente de Adam?
+
+1052
+01:21:13,000 --> 01:21:15,000
+No. Esa no es la orden que recibí.
+
+1053
+01:21:16,000 --> 01:21:18,000
+Qué chica necia, nya.
+
+1054
+01:21:18,000 --> 01:21:20,000
+Tu versión original era mucho más simpática, ¿sabes?
+
+1055
+01:21:21,000 --> 01:21:23,000
+¿Original?
+
+1056
+01:21:23,000 --> 01:21:25,000
+La otra yo...
+
+1057
+01:21:39,000 --> 01:21:41,000
+¿Kaworu-kun? ¿Qué sucede?
+
+1058
+01:21:54,000 --> 01:21:55,000
+Asuka...
+
+1059
+01:21:55,000 --> 01:21:57,000
+¡Por favor! ¡Quítate de mi camino!
+
+1060
+01:21:58,000 --> 01:22:00,000
+¡Silencio, mocoso!
+
+1061
+01:22:06,000 --> 01:22:07,000
+¡Lo que faltaba!
+
+1062
+01:22:07,000 --> 01:22:09,000
+¡Oye, Anteojos! ¡Necesito un repuesto!
+
+1063
+01:22:16,000 --> 01:22:18,000
+¡Todavía tenemos una oportunidad! ¡Las lanzas!
+
+1064
+01:22:20,000 --> 01:22:22,000
+Le has levantado la mano a una chica.
+
+1065
+01:22:22,000 --> 01:22:23,000
+Eres de lo peor.
+
+1066
+01:22:23,000 --> 01:22:25,000
+¡Repuesto en camino!
+
+1067
+01:22:37,000 --> 01:22:39,000
+Tenemos que detenernos, Shinji-kun.
+
+1068
+01:22:39,000 --> 01:22:41,000
+Tengo un mal presentimiento...
+
+1069
+01:22:41,000 --> 01:22:43,000
+¡No podemos, Kaworu-kun!
+
+1070
+01:22:43,000 --> 01:22:45,000
+¡Vinimos aquí para hacer algo!
+
+1071
+01:22:46,000 --> 01:22:47,000
+¡Ya hemos hecho suficiente!
+
+1072
+01:22:47,000 --> 01:22:49,000
+¡Estas no son las lanzas que vinimos a buscar!
+
+1073
+01:22:50,000 --> 01:22:52,000
+No son... ¿Las lanzas que vinimos a buscar?
+
+1074
+01:22:56,000 --> 01:22:58,000
+Tú fuiste quien dijo que necesitabamos las lanzas..
+
+1075
+01:22:59,000 --> 01:23:01,000
+¡Por eso nos metimos en este EVA!
+
+1076
+01:23:06,000 --> 01:23:08,000
+¿El sistema de control?
+
+1077
+01:23:11,000 --> 01:23:13,000
+Por Kaworu-kun,
+
+1078
+01:23:14,000 --> 01:23:16,000
+por todos, ¡obtendré las lanzas!
+
+1079
+01:23:16,000 --> 01:23:18,000
+Solo entonces el mundo volverá a como debe ser.
+
+1080
+01:23:20,000 --> 01:23:22,000
+Si lo hago, incluso Misato-san podrá...
+
+1081
+01:23:24,000 --> 01:23:25,000
+¡Maldición!
+
+1082
+01:23:25,000 --> 01:23:27,000
+¡Anteojos! ¡Destruye las barreras!
+
+1083
+01:23:27,000 --> 01:23:29,000
+¡Estas autorizada a usar munición AA!
+
+1084
+01:23:29,000 --> 01:23:31,000
+Estuve esperando este momento.
+
+1085
+01:23:31,000 --> 01:23:33,000
+¡Mira estos bebés!
+
+1086
+01:23:39,000 --> 01:23:41,000
+¿No tiene Escudo A.T.?
+
+1087
+01:23:41,000 --> 01:23:43,000
+No me digas que esta unidad...
+
+1088
+01:23:55,000 --> 01:23:57,000
+¡No lo hagas, Shinji-kun!
+
+1089
+01:23:57,000 --> 01:23:59,000
+¡Detente, estúpido mocoso!
+
+1090
+01:24:22,000 --> 01:24:24,000
+Comencemos, Fuyutsuki.
+
+1091
+01:24:31,000 --> 01:24:33,000
+¿Eva Mark 6?
+
+1092
+01:24:34,000 --> 01:24:35,000
+¿Patrón azul?
+
+1093
+01:24:35,000 --> 01:24:37,000
+¿Qué está pasando?
+
+1094
+01:24:39,000 --> 01:24:41,000
+¡Esto está mal!
+
+1095
+01:24:41,000 --> 01:24:43,000
+¡El 12º Ángel todavía está vivo!
+
+1096
+01:24:44,000 --> 01:24:46,000
+¡Anteojos! ¡Recipiente No.3!
+
+1097
+01:24:46,000 --> 01:24:48,000
+¡Lo tengo!
+
+1098
+01:24:49,000 --> 01:24:51,000
+¡Deshazte de esa cosa... Antes que el Tercer Impacto empiece de nuevo!
+
+1099
+01:24:58,000 --> 01:25:00,000
+Fueron órdenes.
+
+1100
+01:25:09,000 --> 01:25:11,000
+¡¿Un Ángel?!
+
+1101
+01:25:19,000 --> 01:25:21,000
+Princesa, debes cesar el fuego, es inútil.
+
+1102
+01:25:23,000 --> 01:25:25,000
+Toda la cosa es un núcleo.
+
+1103
+01:25:26,000 --> 01:25:28,000
+Nosotras solas no podemos hacerle daño.
+
+1104
+01:25:30,000 --> 01:25:32,000
+Aparte de eso, si derrotamos al último Ángel,
+
+1105
+01:25:33,000 --> 01:25:35,000
+no sabemos qué clase de mal vendrá después.
+
+1106
+01:25:35,000 --> 01:25:37,000
+Estás preocupada, ¿no?
+
+1107
+01:25:41,000 --> 01:25:43,000
+Esa es...
+
+1108
+01:25:46,000 --> 01:25:48,000
+Esa soy... ¿yo?
+
+1109
+01:25:50,000 --> 01:25:52,000
+¿Qué soy?
+
+1110
+01:25:55,000 --> 01:25:56,000
+Los controles no responden.
+
+1111
+01:25:56,000 --> 01:25:58,000
+¿Qué está pasando, Kaworu-kun?
+
+1112
+01:26:00,000 --> 01:26:02,000
+¡Kaworu-kun!
+
+1113
+01:26:02,000 --> 01:26:04,000
+Nunca imaginé que yo, el Primer Ángel,
+
+1114
+01:26:05,000 --> 01:26:07,000
+sería recatalogado como el Decimotercer Ángel.
+
+1115
+01:26:09,000 --> 01:26:11,000
+¿Qué estás haciendo, Kaworu-kun?
+
+1116
+01:26:13,000 --> 01:26:15,000
+Así que el principio y el fin son iguales.
+
+1117
+01:26:17,000 --> 01:26:19,000
+No esperaba menos del Rey de los Lilin,
+
+1118
+01:26:20,000 --> 01:26:22,000
+¡El padre de Shinji-kun!
+
+1119
+01:26:22,000 --> 01:26:24,000
+¿El collar DSS indica patrón azul?
+
+1120
+01:26:24,000 --> 01:26:26,000
+¿Un treceavo Ángel? ¡¿El doceavo no debería de haber sido el último?!
+
+1121
+01:26:28,000 --> 01:26:30,000
+Así que esto era lo que tramaba Gendo-kun.
+
+1122
+01:26:33,000 --> 01:26:35,000
+Es hora de enmendar el contrato de los Rollos del Mar Muerto.
+
+1123
+01:26:38,000 --> 01:26:40,000
+Esta es la despedida.
+
+1124
+01:26:42,000 --> 01:26:44,000
+A pesar de que todos ustedes han cambiado la forma de sus almas,
+
+1125
+01:26:46,000 --> 01:26:48,000
+siguen siendo formas de vida bendecidas con el Fruto del Conocimiento.
+
+1126
+01:26:50,000 --> 01:26:52,000
+Ustedes eran capaces de vivir para siempre.
+
+1127
+01:26:53,000 --> 01:26:55,000
+Pero, al igual que nosotros, no pueden escapar de la muerte.
+
+1128
+01:26:59,000 --> 01:27:01,000
+Para avanzar con la evolución del rebaño a través de la muerte,
+
+1129
+01:27:03,000 --> 01:27:05,000
+se nos ha entregado el don de la civilización.
+
+1130
+01:27:09,000 --> 01:27:11,000
+Como representante de la humanidad, les doy las gracias.
+
+1131
+01:27:13,000 --> 01:27:15,000
+A través de la muerte, voy a devolver las almas a donde pertenecen.
+
+1132
+01:27:21,000 --> 01:27:23,000
+Por el deseado Proyecto de Instrumentalización Humana,
+
+1133
+01:27:24,000 --> 01:27:26,000
+la muerte de los dioses, yo firmo este pacto.
+
+1134
+01:27:28,000 --> 01:27:30,000
+Que así sea.
+
+1135
+01:27:30,000 --> 01:27:32,000
+Nuestros deseos se han vuelto realidad.
+
+1136
+01:27:34,000 --> 01:27:35,000
+Bien.
+
+1137
+01:27:35,000 --> 01:27:37,000
+Todo salió bien.
+
+1138
+01:27:38,000 --> 01:27:40,000
+Instrumentalización Humana.
+
+1139
+01:27:40,000 --> 01:27:42,000
+Esperamos la purificación en paz de todas las almas.
+
+1140
+01:28:15,000 --> 01:28:16,000
+¡Maldición!
+
+1141
+01:28:16,000 --> 01:28:18,000
+¡Está entrando en su forma semidivina!
+
+1142
+01:28:18,000 --> 01:28:20,000
+Creo que está despertando...
+
+1143
+01:28:21,000 --> 01:28:23,000
+¡Es uno de los Adam sobrevivientes!
+
+1144
+01:28:58,000 --> 01:29:00,000
+¿Qué es esto?
+
+1145
+01:29:13,000 --> 01:29:15,000
+¿Qué ES esto?
+
+1146
+01:29:20,000 --> 01:29:22,000
+¡Todo es por mi culpa!
+
+1147
+01:29:23,000 --> 01:29:25,000
+¡¿Porque quité las lanzas?!
+
+1148
+01:29:31,000 --> 01:29:33,000
+¡Esto es...!
+
+1149
+01:29:33,000 --> 01:29:35,000
+Cuarto Impacto.
+
+1150
+01:29:37,000 --> 01:29:39,000
+Estas son las ceremonias inaugurales.
+
+1151
+01:29:54,000 --> 01:29:55,000
+Kaworu-kun...
+
+1152
+01:29:55,000 --> 01:29:57,000
+¡El collar!
+
+1153
+01:30:04,000 --> 01:30:06,000
+¡¿Misato-san?!
+
+1154
+01:30:08,000 --> 01:30:10,000
+¡Escudo A.T. al máximo!
+
+1155
+01:30:10,000 --> 01:30:12,000
+¡Mantengan al EVA en su estado actual!
+
+1156
+01:30:12,000 --> 01:30:14,000
+¡Preparen el arma de riel principal! ¡Cargando bala en el cañón!
+
+1157
+01:30:15,000 --> 01:30:17,000
+¡Hagan lo que sea para detener el Cuarto Impacto!
+
+1158
+01:30:17,000 --> 01:30:19,000
+¡Fuego!
+
+1159
+01:30:26,000 --> 01:30:28,000
+¡Daño recibido! ¡Golpe directo al armamento principal!
+
+1160
+01:30:28,000 --> 01:30:30,000
+¡¿El Recipiente de Adam?!
+
+1161
+01:30:35,000 --> 01:30:37,000
+¡Disparos recibidos en la sección principal! ¡Daño desconocido!
+
+1162
+01:30:37,000 --> 01:30:39,000
+¡El objetivo es el EVA nuevo!
+
+1163
+01:30:39,000 --> 01:30:41,000
+¡El remo es ineficaz!
+
+1164
+01:30:41,000 --> 01:30:43,000
+¡Perdemos altitud!
+
+1165
+01:30:52,000 --> 01:30:54,000
+Daños en la sección principal!
+
+1166
+01:30:55,000 --> 01:30:57,000
+El Recipiente de Adam... El amo original de Wunder.
+
+1167
+01:30:57,000 --> 01:30:59,000
+¡Está tratando de tomar el control de la nave a través del EVA-01!
+
+1168
+01:31:06,000 --> 01:31:08,000
+¿Por qué no puedo restaurar la conexión?
+
+1169
+01:31:14,000 --> 01:31:16,000
+¡Oh!
+
+1170
+01:31:16,000 --> 01:31:18,000
+Estos chicos no están jugando.
+
+1171
+01:31:19,000 --> 01:31:21,000
+¡Anteojos, encárgate del EVA del mocoso!
+
+1172
+01:31:21,000 --> 01:31:23,000
+¡Yo ayudaré a Wunder con el 02-kai!
+
+1173
+01:31:23,000 --> 01:31:24,000
+¡Entendido!
+
+1174
+01:31:24,000 --> 01:31:26,000
+¡No puedo eliminar el Recipiente de Adam!
+
+1175
+01:31:26,000 --> 01:31:28,000
+¡Datos no identificados se están filtrando por el sistema de control principal!
+
+1176
+01:31:28,000 --> 01:31:30,000
+¡Está tomando el control de la nave!
+
+1177
+01:31:52,000 --> 01:31:54,000
+¡Haces trampa! ¡Al estilo Seele!
+
+1178
+01:32:02,000 --> 01:32:04,000
+¡Cambio de modo!
+
+1179
+01:32:04,000 --> 01:32:06,000
+¡Código Triple Siete!
+
+1180
+01:32:13,000 --> 01:32:14,000
+¿Quién está ahí?
+
+1181
+01:32:14,000 --> 01:32:16,000
+¡¿Quién demonios eres?!
+
+1182
+01:32:33,000 --> 01:32:35,000
+Reporte desde el puente inferior.
+
+1183
+01:32:35,000 --> 01:32:36,000
+¡EVA 02-kai ha contactado el Recipiente de Adam!
+
+1184
+01:32:36,000 --> 01:32:38,000
+Contamos contigo, Asuka.
+
+1185
+01:32:57,000 --> 01:32:59,000
+Si yo fuera Ayanami Rei, ¿qué haría en un momento así?
+
+1186
+01:33:00,000 --> 01:33:02,000
+¡Yo que sé!
+
+1187
+01:33:07,000 --> 01:33:09,000
+¡Haz lo que quieras!
+
+1188
+01:33:18,000 --> 01:33:20,000
+¡Oh! ¿Toda la cosa es un núcleo?
+
+1189
+01:33:21,000 --> 01:33:23,000
+No hay tiempo...
+
+1190
+01:33:23,000 --> 01:33:25,000
+¡Perdón, EVA-02!
+
+1191
+01:33:40,000 --> 01:33:42,000
+¡Sistemas de control restaurados!
+
+1192
+01:33:42,000 --> 01:33:43,000
+¡Lanzamiento de emergencia de todas las naves!
+
+1193
+01:33:43,000 --> 01:33:45,000
+¡Persigan al EVA objetivo de inmediato!
+
+1194
+01:33:45,000 --> 01:33:47,000
+¡Capitán, no será posible hasta que la unidad principal esté restaurada!
+
+1195
+01:33:49,000 --> 01:33:51,000
+Shinji-kun...
+
+1196
+01:34:11,000 --> 01:34:13,000
+Todo esto es mi culpa...
+
+1197
+01:34:15,000 --> 01:34:17,000
+Yo...
+
+1198
+01:34:21,000 --> 01:34:23,000
+No es tu culpa.
+
+1199
+01:34:24,000 --> 01:34:26,000
+Es porque me convertí en el Treceavo Ángel.
+
+1200
+01:34:28,000 --> 01:34:30,000
+Soy el detonante.
+
+1201
+01:34:30,000 --> 01:34:32,000
+¿Qué es lo que he hecho?
+
+1202
+01:34:33,000 --> 01:34:35,000
+Oye... ¿Qué he hecho?
+
+1203
+01:34:40,000 --> 01:34:42,000
+Kaworu-kun,
+
+1204
+01:34:43,000 --> 01:34:45,000
+dime qué hubiera sido lo correcto.
+
+1205
+01:34:46,000 --> 01:34:48,000
+Aún si desparecen las almas, la esperanza y la maldición permanecerán en este mundo.
+
+1206
+01:34:52,000 --> 01:34:54,000
+Así como cambia historia a lo largo del mundo.
+
+1207
+01:34:57,000 --> 01:34:59,000
+Algún día, voy a reescribir la mía también.
+
+1208
+01:35:03,000 --> 01:35:05,000
+Lo siento. Esta no es la felicidad que deseabas.
+
+1209
+01:35:08,000 --> 01:35:10,000
+Cerraré la Puerta de Guf.
+
+1210
+01:35:12,000 --> 01:35:14,000
+No tienes que preocuparte por ello, Shinji-kun.
+
+1211
+01:35:14,000 --> 01:35:16,000
+Kaworu...
+
+1212
+01:35:17,000 --> 01:35:19,000
+¿Qué dices, Kaworu-kun?
+
+1213
+01:35:20,000 --> 01:35:22,000
+¡No entiendo nada!
+
+1214
+01:35:27,000 --> 01:35:29,000
+Shinji-kun, tú puedes encontrar la paz y tu lugar en el mundo.
+
+1215
+01:35:40,000 --> 01:35:42,000
+Seguramente el destino te guiará.
+
+1216
+01:35:46,000 --> 01:35:48,000
+No hagas esa cara.
+
+1217
+01:35:50,000 --> 01:35:52,000
+Nos volveremos a ver, Shinji-kun.
+
+1218
+01:35:53,000 --> 01:35:55,000
+¡Kaworu-kun!
+
+1219
+01:36:13,000 --> 01:36:15,000
+¿Aún no se cerraron las Puertas de Guf?
+
+1220
+01:36:15,000 --> 01:36:17,000
+Entonces, ¡el cachorrito de Seele es una medida de seguridad!
+
+1221
+01:36:34,000 --> 01:36:35,000
+¡Ya terminé de limpiar!
+
+1222
+01:36:35,000 --> 01:36:37,000
+¡Aguanta, cachorito!
+
+1223
+01:36:39,000 --> 01:36:40,000
+¡No te comportes como un bebé!
+
+1224
+01:36:40,000 --> 01:36:42,000
+¡Ayuda a la princesa al menos!
+
+1225
+01:36:42,000 --> 01:36:44,000
+¡Compótate como un hombre!
+
+1226
+01:36:45,000 --> 01:36:47,000
+¡Y mientras tanto, conoce un poco más el mundo!
+
+1227
+01:37:42,000 --> 01:37:44,000
+Qué pesadilla.
+
+1228
+01:37:44,000 --> 01:37:46,000
+Casi todo salió como lo planeaba Seele.
+
+1229
+01:37:47,000 --> 01:37:49,000
+Pero no sólo el chico de Seele fue eliminado, también se ha abierto camino para despertar al EVA-13.
+
+1230
+01:37:55,000 --> 01:37:57,000
+Las acciones de la Capitán Katsuragi también están dentro de lo pronosticado.
+
+1231
+01:37:58,000 --> 01:38:00,000
+Bastará con esto por ahora.
+
+1232
+01:38:01,000 --> 01:38:03,000
+Todas las naves, mantengan organización para retirada Clase 2.
+
+1233
+01:38:04,000 --> 01:38:06,000
+No hay lecturas de Patrón Azul.
+
+1234
+01:38:06,000 --> 01:38:08,000
+No hay naves avistadas en el espacio aéreo de retirada.
+
+1235
+01:38:08,000 --> 01:38:10,000
+Las áreas dañanas de la sección media han recibido tratamientos de emergencia.
+
+1236
+01:38:10,000 --> 01:38:12,000
+El Cuarto Impacto fue detenido, pero no sabemos a quién agradecer.
+
+1237
+01:38:13,000 --> 01:38:15,000
+Corriente desconocida alrededor de la nave
+
+1238
+01:38:15,000 --> 01:38:16,000
+Nivel de recuperación desconocido, informe especial.
+
+1239
+01:38:16,000 --> 01:38:18,000
+Misato, nos marchamos por ahora...
+
+1240
+01:39:10,000 --> 01:39:12,000
+Mocoso Shinji.
+
+1241
+01:39:13,000 --> 01:39:15,000
+¿No vas a ayudarme?
+
+1242
+01:39:19,000 --> 01:39:21,000
+Una vez más, todo se trata de ti.
+
+1243
+01:39:21,000 --> 01:39:23,000
+Crees que puedes escapar a todo lo que ha pasado sin decir una palabra.
+
+1244
+01:39:49,000 --> 01:39:51,000
+¿Todavía necesitas cariñitos?
+
+1245
+01:39:52,000 --> 01:39:54,000
+¡Hasta cuándo vas a ser un mocoso desafiante!
+
+1246
+01:39:56,000 --> 01:39:58,000
+Toma, ponte esto.
+
+1247
+01:39:59,000 --> 01:40:01,000
+¡Dios! ¡¿Puedes pararte por ti mismo, quieres?!
+
+1248
+01:40:07,000 --> 01:40:09,000
+La piloto de antes.
+
+1249
+01:40:11,000 --> 01:40:13,000
+¿Acaso fue un clon de Ayanami?
+
+1250
+01:40:20,000 --> 01:40:22,000
+La densidad de la barrera L es muy fuerte aquí, así que no vendrán a ayudarnos.
+
+1251
+01:40:25,000 --> 01:40:27,000
+Vamos a ir donde están los Lilin.
+
+1252
+01:40:32,000 --> 01:40:34,000
+¡Vamos!
+
+1253
+01:45:19,000 --> 01:45:21,000
+ADELANTO
+
+1254
+01:45:21,000 --> 01:45:23,000
+Shinji Ikari continúa vangando, sin voluntad de vivir.
+
+1255
+01:45:25,000 --> 01:45:27,000
+Llega a un lugar esperanzador.
+
+1256
+01:45:28,000 --> 01:45:30,000
+Finalmente, el Proyecto de Instrumentalización se pone en marcha.
+
+1257
+01:45:31,000 --> 01:45:33,000
+Para prevenir el Impacto Final,
+
+1258
+01:45:32,000 --> 01:45:34,000
+Wille realiza un último intento.
+
+1259
+01:45:35,000 --> 01:45:37,000
+¡Wunder rasga los cielos!
+
+1260
+01:45:36,000 --> 01:45:38,000
+¡EVA Unidad 8+2 carretea sobre la tierra roja!
+
+1261
+01:45:41,000 --> 01:45:43,000
+La próxima vez en "Evangelion Nueva Edición Teatral".
+
+1262
+01:45:43,000 --> 01:45:45,000
+¡Habrá más fanservice hasta el final!
+
+1263
+01:45:50,000 --> 01:45:54,000
+Subtítulos al Español por la Comunidad Evangelion 2015.
+
