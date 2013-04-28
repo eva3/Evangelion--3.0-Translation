@@ -1,56 +1,69 @@
-00:00:52 {Man}         Tracking team, report on both units' current positions.
-00:00:55 {Woman}       Pod 02-Dash has achieved operational altitude.
+00:00:52 {Aoba}        Tracking team, report on both units' current positions.
+00:00:55 {Woman}       Pod 02-Dash has reached operation altitude.
 00:00:58 {Woman}       It has settled into the targeted orbit.
-00:01:00 {Man}         Pod 08 was unable to breach target orbital range due to insufficient altitude.
+00:01:00 {Man}         Due to insufficient altitude, Pod 08 was unable to breach target orbital range.
 00:01:04 {Aoba}        Copy that.
 00:01:06 {Aoba}        02-Dash will conduct a solo operation.
 00:01:08 {Man}         Roger.
 00:01:09 {Man}         Pod 08 will act as support.
-00:01:11 {Man}         Transition shift to 7.
-00:01:12 {Ritsuko}     Pod 02-Dash is beyond the point of recovery.
-00:01:15 {Ritsuko}     Breaching Area 88.
+00:01:11 {Man}         Transition shift to seven.
+00:01:12 {Ritsuko}     Pod 02-Dash has passed the point of no return.
+00:01:15 {Ritsuko}     It is entering Area 88.
 00:01:17 {Misato}      Roger.
 00:01:18 {Misato}      Commence Operation US.
 00:01:20 {Woman}       Roger.
-00:01:21 {Woman}       Pod 02-Dash will enter the final operational orbit.
-00:01:25 {Woman}       Deceleration in progress.
-00:01:26 {Man}         Stage 1, ignite all engines.
-00:01:29 {Man}         Combustion imminent.
-00:01:34 {Woman}       S1C combustion complete.
+00:01:21 {Woman}       Pod 02-Dash is entering the final operation orbit.
+00:01:2X {Midori}      Tuning RCS. Activation confirmed.
+00:01:25 {Woman}       Switching to deceleration.
+00:01:26 {Man}         Igniting all engines, stage one.
+00:01:2X {Midori}      Orientation controls are nominal.
+00:01:29 {Man}         Beginning combustion.
+00:01:3X {Midori}      Contact ring ready for separation.
+00:01:34 {Woman}       S-1C combustion complete.
+00:01:3X {Midori}      RCS tuning confirmed.
 00:01:36 {Woman}       Deceleration confirmed.
-00:01:37 {Man}         Jettisoning booster unit, stage 1.
+00:01:37 {Man}         Jettisoning booster unit, stage one.
+00:01:XX {Midori}      Inputting mass variation factors.
 00:01:41 {Woman}       Separation confirmed.
-00:01:43 {Woman}       Combustion systems cleared. No problems detected.
+00:01:4X {Man}         Opening drain valves. #Not in UTW#
+00:01:43 {Woman}       Checking power systems. 
+00:01:4X {Man}         Discarding propellant. #Not in UTW#
+00:01:4X {Woman}       No problems detected.
 00:01:45 {Man}         Roger.
 00:01:46 {Man}         Automating ignition timing.
-00:01:48 {Man}         Igniting all engines, stage 2.
-00:01:53 {Woman}       S1C combustion complete.
+00:01:48 {Man}         Igniting all engines, stage two.
+00:01:XX {Midori}      Second contact ring ready for separation.
+00:01:53 {Woman}       S-1C combustion complete.
 00:01:56 {Woman}       Closing pressure valves.
+00:01:5X {Midori}      RCS tuning reconfirmed.
 00:01:57 {Man}         Jettisoning booster unit, stage 2.
 00:02:00 {Woman}       Deceleration complete.
-00:02:02 {Man}         Preparing to enter final operational orbit.
+00:02:XX {Midori}      Separation of all units confirmed. #Not in UTW#
+00:02:02 {Man}         Preparing to enter final operation orbit.
 00:02:04 {Man}         Flipping unit head.
 00:02:06 {Man}         Commencing rotation.
-00:02:07 {Man}         Descent angle confirmed.
-00:02:09 {Man}         Within an acceptable margin of error.
+00:02:XX {Woman}       Opening drain valves. Discarding propellant. #Not in UTW#
+00:02:07 {Man}         Descent angle confirmed to be within error ranges.
+00:02:XX {Man}         No changes in contact airspace.
 00:02:10 {Woman}       Recalculating relative velocity.
 00:02:12 {Woman}       Reconfirming coordinate altitude.
+00:02:1X {Man}         Timetable requires no correction.
 00:02:14 {Woman}       No problems.
 00:02:16 {Woman}       Final orbit corrections complete.
 00:02:18 {Woman}       180-degree rotation complete.
 00:02:20 {Hyuga}       Roger.
-00:02:21 {Hyuga}       Pod 02-Dash will transition to the intersection orbit.
+00:02:21 {Hyuga}       Pod 02-Dash will begin transition to the intercept orbit.
 00:02:24 {Hyuga}       Now commencing the operation.
 00:02:26 {Aoba}        All remote guiding will now be cut.
 00:02:28 {Aoba}        Unit will be controlled manually.
 00:02:30 {Hyuga}       Good luck.
-00:02:32 {Woman}       Unit is on course to intersect with the target.
-00:02:34 {Woman}       Eight miles remaining until contact.
+00:02:32 {Woman}       Unit is on intercept course with the target.
+00:02:34 {Woman}       Eighty measures until contact.
 00:02:37 {Woman}       Confirming target.
 00:02:38 {Man}         Contact point is unchanged.
 00:02:40 {Woman}       Maintaining Shift-M. No problems.
 00:02:43 {Misato}      02-Dash, prepare to rendezvous.
-00:02:45 {Misato}      08 is lacking altitude, so it can only assist you in the 96 seconds until re-entry.
+00:02:45 {Misato}      08 is lacking altitude, so it can only assist you in the ninety-six seconds until re-entry.
 00:02:50 {Misato}      Finish this by then.
 00:02:53 {Hyuga}       Reflective waves detected in target space.
 00:02:55 {Hyuga}       It's jamming us!
@@ -72,7 +85,7 @@
 00:03:52 {Asuka}       It's called adapting to the situation. Keep up with me!
 00:03:55 {Mari}        As you command,
 00:03:57 {Mari}        Princess!
-00:04:05 {Asuka}       It got through the Fraury Shift.
+00:04:05 {Asuka}       It got through the Fullerene Shift.
 00:04:07 {Asuka}       It'll break into Final Defense Area 89.
 00:04:10 {Asuka}       The target is moving!
 00:04:16 {Asuka}       No time to correct my orbit!
@@ -93,12 +106,12 @@
 00:05:11 {Asuka}       Returning to base.
 00:05:13 {Misato}      Roger.
 00:05:14 {Misato}      We'll be waiting at the retrieval point.
-00:05:16 {Misato}      The join code is Saturn 5.
+00:05:16 {Misato}      The join code is Saturn V.
 00:05:17 {Asuka}       Roger.
 00:05:19 {Asuka}       Blood type blue?
 00:05:20 {Asuka}       Where?!
-00:05:25 {Woman}       The triggering object is Mk. 04B.
-00:05:27 {Woman}       It is deploying indo-hashamas.
+00:05:25 {Woman}       The interfering object is Mk. 04B.
+00:05:27 {Woman}       It is deploying a field-reflective coating.
 00:05:29 {Asuka}       The nerve!
 00:05:30 {Asuka}       Right before re-entry, too.
 00:05:33 {Asuka}       Glasses, back-up!
@@ -106,14 +119,14 @@
 00:05:37 {Mari}        I don't have enough altitude, so see ya!
 00:05:39 {Mari}        I'll leave the rest to y-...
 00:05:42 {Asuka}       Ugh! She's useless!
-00:05:44 {Asuka}       Damn, this thing is stubborn!
+00:05:44 {Asuka}       Damn, this thing's stubborn!
 00:05:46 {Asuka}       Nobody told me about this!
 00:05:59 {Asuka}       What's with this light?!
 00:06:01 {Asuka}       The A.T. Field isn't neutralizing it!
-00:06:05 {Asuka}       I can't get at the core block!
+00:06:05 {Asuka}       I gotta take out the core block!
 00:06:06 {Asuka}       You're not getting away!
 00:06:10 {Asuka}       Crap! I can't maintain my descent angle!
-00:06:12 {Asuka}       My unit will break apart at this rate!
+00:06:12 {Asuka}       My unit will fall apart at this rate!
 00:06:14 {Misato}      02-Dash, completing the mission takes top priority!
 00:06:18 {Misato}      Don't let go of the target object, even if it means sacrificing the unit.
 00:06:20 {Asuka}       I already know that!
@@ -151,10 +164,10 @@
 00:09:28 {Misato}      It is Ikari Shinji-kun, isn't it?
 00:09:31 {Ritsuko}     So it would seem.
 00:09:32 {Ritsuko}     His physical data is identical to Code Third Boy.
-00:09:37 {Ritsuko}     / Post birth dental treatment scars and body composition are reproduced perfectly by(?) Near Surge.
+00:09:37 {Ritsuko}     Post birth dental treatment scars and body composition are perfectly reproduced from Near Third Impact.
 00:09:43 {Ritsuko}     We are now analyzing his deep level sync test results.
 00:09:46 {Misato}      And the application of the DSS Choker?
-00:09:49 {Ritsuko}     Its installation has already been arranged, Captain Katsuragi.
+00:09:49 {Ritsuko}     It has already been installed, Captain Katsuragi.
 00:09:52 {Shinji}      Captain Katsuragi...?
 00:09:54 {Shinji}      It is you after all!
 00:10:03 {Ritsuko}     Activation nominal.
@@ -167,7 +180,7 @@
 00:10:24 {Misato}      Take him to quarantine.
 00:10:28 {Midori}      Decoys 01 and 05 destroyed.
 00:10:30 {Midori}      Insufficiency in wave's length.
-00:10:31 {Misato}      The hell's this?
+00:10:31 {Midori}      The hell's this?
 00:10:33 {Hyuga}       It's Pattern Blue.
 00:10:34 {Hyuga}       Target identified.
 00:10:36 {Hyuga}       Mk. 4C.
@@ -179,10 +192,10 @@
 00:10:43 {Midori (BG)} / デコイ02（マル二）、そして06（マルロク）が消滅確認。
 00:10:45 {Misato}      We can't afford to move from here yet.
 00:10:48 {Misato}      Continue only with main engine's operations.
-00:10:50 {Misato}      All fleets to Second Battle Stations.
+00:10:50 {Misato}      All fleets to Battle Stations Two.
 00:10:53 {Misato}      Target: All Nemesis Series.
 00:10:55 {Ritsuko}     Roger.
-00:10:56 {Ritsuko}     All fleets to Second Battle Stations.
+00:10:56 {Ritsuko}     All fleets to Battle Stations Two.
 00:10:58 {Hyuga}       Prepare for anti-air, anti-water, and underwater battle.
 00:11:02 {Aoba}        Abandon stock transfer.
 00:11:03 {Aoba}        Prioritize the transferring of all personnel to another vessel.
@@ -226,7 +239,7 @@
 00:12:32 {Aoba}        What's the status of the procedures on deck?
 00:12:34 {Midori}      Am I in charge of that?
 00:12:36 {Aoba}        That's your post! Of course!
-00:12:38 {Midori}      Whaat? For real?
+00:12:38 {Midori}      What? For real?
 00:12:43 {Sakura}      The start-up is dangerous. 
 00:12:45 {Sakura}      Let's stay here!
 00:12:47 {Woman (BG)}  Preparations for all anti-air defenses concluded, including the guided missiles of the battle ship.
@@ -237,9 +250,9 @@
 00:12:55 {Misato}      Safeguarding Eva-01 is our number-one priority.
 00:12:57 {Shinji}      ...Eva-01?
 00:13:07 {Midori}      It's here!
-00:13:08 {Midori}      Confirming the target's pillar of light.
+00:13:08 {Midori}      Confirming the targets' pillars of light.
 00:13:10 {Midori}      Its... numbers are increasing somehow!
-00:13:13 {Aoba}        We can't grasp the target's core block.
+00:13:13 {Aoba}        We can't grasp the targets' core blocks.
 00:13:15 {Aoba}        It is probably being concealed on the outside of a phased cocoon.
 00:13:18 {Ritsuko}     This is bad.
 00:13:20 {Ritsuko}     At this rate, we'll be on the receiving end of a saturation bombing.
@@ -248,12 +261,12 @@
 00:13:25 {Ritsuko}     I propose an immediate dispersal of the fleets.
 00:13:29 {Ritsuko}     We have insufficient crew and limited resources.
 00:13:32 {Ritsuko}     Compounding the problem, this main ship's camouflage equipment is incomplete.
-00:13:34 {Ritsuko}     On top of that, we cannot attack to capture the target's core blocks.
+00:13:34 {Ritsuko}     On top of that, we cannot attack to capture the targets' core blocks.
 00:13:38 {Ritsuko}     In other words, our chance of winning is zero.
 00:13:41 {Ritsuko}     At this point, we should retreat like we usually do. 
 00:13:43 {Ritsuko}     There is no way.
 00:13:45 {Ritsuko}     Captain Katsuragi!
-00:13:47 {Misato}      This is why I will change the current situation to neutralize any possibly anxiety.
+00:13:47 {Misato}      And that's why I will change the status quo and bring our anxieties to an end.
 00:13:52 {Misato}      Vice Captain, we're going to fly.
 00:13:54 {Ritsuko}     Fly?! 
 00:13:55 {Ritsuko}     You can't be thinking of using the main ship?
@@ -262,8 +275,8 @@
 00:14:03 {Ritsuko}     It's too reckless to use the main ship all of a sudden, Captain Katsuragi!
 00:14:06 {Tama}        I agree! 
 00:14:07 {Tama}        We haven't even run a test flight. It's too dangerous.
-00:14:09 {Sumire}      Anti-gravity also hasn't been tested. 
-00:14:11 {Sumire}      I don't have confidence in it.
+00:14:09 {Sumire}      The anti-gravity also hasn't been tested. 
+00:14:11 {Sumire}      I can't vouche for it. 
 00:14:13 {Midori}      I don't want to fight battles that can't be won. 
 00:14:15 {Midori}      I don't want to die just yet.
 00:14:17 {Koji}        You die when you die. That's all there is to it. 
@@ -443,7 +456,7 @@
 00:25:08 {Ritsuko}     Yes. Eva-01 is being used as the main engine of this ship. 
 00:25:13 {Ritsuko}     Consequently, you serve no function as a pilot. 
 00:25:16 {Shinji}      Ah, so I really am not needed. 
-00:25:19 {Ritsuko}     Also, your sync test results have come back. 
+00:25:19 {Ritsuko}     Also, your sync test results are in. 
 00:25:23 {Ritsuko}     The sync rate is 0.00%.
 00:25:26 {Ritsuko}     Even if you were to get in the Eva, it wouldn't activate.
 00:25:30 {Sakura}      Really?
@@ -478,13 +491,13 @@
 00:26:51 {Sakura}      I owe everything to my big brother. 
 00:26:53 {Sakura}      I'm his little sister Sakura.
 00:26:55 {Shinji}      Little sister?
-00:26:56 {Shinji}      Don't you mean big sister?
+00:26:56 {Shinji}      Don't you mean older sister?
 00:26:57 {Sakura}      No, little sister.
 00:27:01 {Shinji}      Little sister...? How?
 00:27:04 {Asuka}       Fourteen years have passed since then. 
 00:27:07 {Asuka}       Stupid Shinji.
 00:27:09 {Shinji}      Huh? Ah, Asuka!
-00:27:15 {Shinji}      Thank god. 
+00:27:15 {Shinji}      Thank goodness. 
 00:27:16 {Shinji}      You really are safe, Asuka!
 00:27:23 {Asuka}       I can't stand it. 
 00:27:25 {Asuka}       I've been holding this in.
@@ -525,7 +538,7 @@
 00:29:06 {Hyuga}       Target is on the rear deck! 
 00:29:07 {Hyuga}       It suddenly closed in on us!
 00:29:09 {Misato}      So the champion is on the scene... 
-00:29:10 {Misato}      All fleets to Primary Battle Stations. 
+00:29:10 {Misato}      All fleets to Battle Stations One. 
 00:29:12 {Misato}      Safeguarding Eva-01 is top priority!
 00:29:14 {Asuka}       Eva-08, you're ready to go, right?
 00:29:16 {Mari}        But of course.
@@ -535,7 +548,7 @@
 00:29:24 {Asuka}       Nothing's changed about his stupid lowly face.
 00:29:28 {Mari}        Oh, so you went to go see his face, did you?
 00:29:31 {Asuka}       No!
-00:29:32 {Asuka}       I just threw a punch at him!
+00:29:32 {Asuka}       I went to throw a punch at it!
 00:29:34 {Asuka}       I feel much better now.
 00:29:35 {Shinji}      Misato-san, Ritsuko-san!
 00:29:37 {Shinji}      Just who is coming?
@@ -575,7 +588,7 @@
 00:31:13 {Misato}      Rei is gone, Shinji-kun.
 00:31:15 {Shinji}      Liar! 
 00:31:16 {Shinji}      I mean, she's right here, isn't she?!
-00:31:18 {Shinji}      You're just daft, Misato-san! 
+00:31:18 {Shinji}      You're just dense, Misato-san! 
 00:31:20 {Shinji}      I've had enough!
 00:31:24 {Sakura}      Ikari-san!
 00:31:27 {Sakura}      It's okay if you go back, but...
@@ -601,7 +614,7 @@
 00:32:54 {Man}         All personnel, resume emergency damage control and camouflage operations.
 00:32:55 {Asuka}       What do you know. 
 00:32:56 {Asuka}       He's not an idiot, just a brat!
-00:32:58 {Title}       Evangelion New Theatrical Edition: Q
+00:32:58 {Title}       Evangelion New Theatrical Edition: Quickening
 00:33:16 {Shinji}      I did save her after all. 
 00:33:18 {Shinji}      Misato-san lied to me.
 00:33:21 {Rei}         This way.
@@ -644,7 +657,7 @@
 00:38:12 {Shinji}      It suits you. Though black is a little...
 00:38:21 {Shinji}      Nerv HQ has really changed a lot, hasn't it?
 00:38:28 {Shinji}      Why is Misato-san fighting against Nerv and not the Angels?
-00:38:33 {Shinji}      What does Father intend to do here? 
+00:38:33 {Shinji}      What does Father plan on doing here? 
 00:38:36 {Shinji}      What's happened to everyone?
 00:38:38 {Shinji}      Hey, Ayanami, do you know anything?
 00:38:42 {Rei}         I do not.
@@ -705,7 +718,7 @@
 00:43:55 {Kaworu}      I'm Kaworu, Nagisa Kaworu. 
 00:43:59 {Kaworu}      I'm a child chosen by fate, the same as you.
 00:44:08 {Shinji}      She's not here this time, either. 
-00:44:11 {Shinji}      The books haven't been touched, either.
+00:44:11 {Shinji}      And the books still haven't been touched.
 00:44:29 {Kaworu}      Good morning, Ikari Shinji-kun. 
 00:44:33 {Kaworu}      You're here early today.
 00:44:35 {Shinji}      I don't really have anything else to do.
@@ -723,7 +736,7 @@
 00:46:10 {Kaworu}      You don't need to worry about that. 
 00:46:12 {Kaworu}      We're friends, after all.
 00:46:18 {Kaworu}      It's gotten quite dark, hasn't it? 
-00:46:20 {Kaworu}      Why don't we head back for today?
+00:46:20 {Kaworu}      Why don't we call it a day?
 00:46:23 {Shinji}      Hey, why don't we stay here for a little longer?
 00:45:26 {Shinji}      We could watch the stars from here.
 00:46:28 {Kaworu}      The stars?
@@ -763,7 +776,7 @@
 00:48:32 {Shinji}      There was a city above Nerv HQ. 
 00:48:35 {Shinji}      That's where everyone lived.
 00:48:37 {Shinji}      Toji, Kensuke, 
-00:48:38 {Shinji}      Prez, the rest of the class...
+00:48:38 {Shinji}      the class rep, my other classmates...
 00:48:41 {Shinji}      Apparently I'd been sleeping in Eva-01 for fourteen years.
 00:48:45 {Shinji}      I don't know what's changed in that time.
 00:48:50 {Kaworu}      Not knowing the answer to that must be painful.
@@ -782,7 +795,7 @@
 00:50:51 {Shinji}      But this is... 
 00:50:53 {Shinji}      What happened to everyone in the city?
 00:50:55 {Kaworu}      Mass extinction is not unusual on this planet.
-00:50:58 {Kaworu}      Rather, it is the aspect that drives evolution.
+00:50:58 {Kaworu}      Rather, it is an aspect that drives evolution.
 00:51:02 {Kaworu}      Because life is fundamentally something that adjusts to the world and changes itself.
 00:51:08 {Kaworu}      However, Lilin do not change themselves, but the world.
 00:51:15 {Kaworu}      So they brought the rite of artificial evolution unto themselves.
@@ -808,7 +821,7 @@
 00:52:31 {Kaworu}      There's nothing you can do about your past.
 00:52:35 {Kaworu}      The truth you desired to know.
 00:52:38 {Kaworu}      The Lilin are providing you reparation for your sin as a result.
-00:52:43 {Kaworu}      That's what your neck device is, no?
+00:52:43 {Kaworu}      That's what the thing on your neck is, no?
 00:52:48 {Shinji}      What sin? 
 00:52:50 {Shinji}      I didn't do anything!
 00:52:52 {Shinji}      I had nothing to do with it!
@@ -822,7 +835,7 @@
 00:53:33 {Fuyutsuki}   Are you okay with all of this, Ikari?
 00:53:35 {Gendo}       Seele's scenario is being rewritten by us.
 00:53:39 {Gendo}       All existence is nothing more than a tool to that end.
-00:53:42 {Fuyutsuki}   You assume that your son wouldn't benefit even from seeing how you live?
+00:53:42 {Fuyutsuki}   You assume that your son wouldn't even benefit from seeing how you live?
 00:53:48 {Fuyutsuki}   I don't agree with that.
 00:53:53 {Shinji}      What is...
 00:53:56 {Shinji}      What am I supposed--
@@ -1263,4 +1276,4 @@
 01:35:27 {Narrator}    Eva Unit 8+2 races across the red earth!
 01:35:32 {Narrator}    Next time in "New Evangelion Theatrical Edition".
 01:35:34 {Title}       New Evangelion Theatrical Edition: ||
-01:35:34 {Narrator}    There'll be fan service all the way up to the end!
+01:35:34 {Narrator}    There'll be fan service up until the end!
