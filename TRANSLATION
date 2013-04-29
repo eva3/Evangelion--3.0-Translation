@@ -1,62 +1,62 @@
-00:00:52 {Aoba}        Tracking team, report on both units' current positions.
-00:00:55 {Woman}       Pod 02-Dash has reached operation altitude.
-00:00:58 {Woman}       It has settled into the targeted orbit.
-00:01:00 {Man}         Due to insufficient altitude, Pod 08 was unable to breach target orbital range.
-00:01:04 {Aoba}        Copy that.
-00:01:06 {Aoba}        02-Dash will conduct a solo operation.
-00:01:08 {Man}         Roger.
-00:01:09 {Man}         Pod 08 will act as support.
-00:01:11 {Man}         Transition shift to seven.
-00:01:12 {Ritsuko}     Pod 02-Dash has passed the point of no return.
-00:01:15 {Ritsuko}     It is entering Area 88.
-00:01:17 {Misato}      Roger.
-00:01:18 {Misato}      Commence Operation US.
-00:01:20 {Woman}       Roger.
-00:01:21 {Woman}       Pod 02-Dash is entering the final operation orbit.
-00:01:2X {Midori}      Tuning RCS. Activation confirmed.
-00:01:25 {Woman}       Switching to deceleration.
-00:01:26 {Man}         Igniting all engines, stage one.
-00:01:2X {Midori}      Orientation controls are nominal.
-00:01:29 {Man}         Beginning combustion.
-00:01:3X {Midori}      Contact ring ready for separation.
-00:01:34 {Woman}       S-1C combustion complete.
-00:01:3X {Midori}      RCS tuning confirmed.
-00:01:36 {Woman}       Deceleration confirmed.
-00:01:37 {Man}         Jettisoning booster unit, stage one.
-00:01:XX {Midori}      Inputting mass variation factors.
-00:01:41 {Woman}       Separation confirmed.
-00:01:4X {Man}         Opening drain valves. #Not in UTW#
-00:01:43 {Woman}       Checking power systems. 
-00:01:4X {Man}         Discarding propellant. #Not in UTW#
-00:01:4X {Woman}       No problems detected.
-00:01:45 {Man}         Roger.
-00:01:46 {Man}         Automating ignition timing.
-00:01:48 {Man}         Igniting all engines, stage two.
-00:01:XX {Midori}      Second contact ring ready for separation.
-00:01:53 {Woman}       S-1C combustion complete.
-00:01:56 {Woman}       Closing pressure valves.
-00:01:5X {Midori}      RCS tuning reconfirmed.
-00:01:57 {Man}         Jettisoning booster unit, stage 2.
-00:02:00 {Woman}       Deceleration complete.
-00:02:XX {Midori}      Separation of all units confirmed. #Not in UTW#
-00:02:02 {Man}         Preparing to enter final operation orbit.
-00:02:04 {Man}         Flipping unit head.
-00:02:06 {Man}         Commencing rotation.
-00:02:XX {Woman}       Opening drain valves. Discarding propellant. #Not in UTW#
-00:02:07 {Man}         Descent angle confirmed to be within error ranges.
-00:02:XX {Man}         No changes in contact airspace.
-00:02:10 {Woman}       Recalculating relative velocity.
-00:02:12 {Woman}       Reconfirming coordinate altitude.
-00:02:1X {Man}         Timetable requires no correction.
-00:02:14 {Woman}       No problems.
-00:02:16 {Woman}       Final orbit corrections complete.
-00:02:18 {Woman}       180-degree rotation complete.
-00:02:20 {Hyuga}       Roger.
-00:02:21 {Hyuga}       Pod 02-Dash will begin transition to the intercept orbit.
-00:02:24 {Hyuga}       Now commencing the operation.
-00:02:26 {Aoba}        All remote guiding will now be cut.
-00:02:28 {Aoba}        Unit will be controlled manually.
-00:02:30 {Hyuga}       Good luck.
+00:11:00 {Aoba}        Tracking team, report on both units' current positions.
+00:11:03 {Woman}       Pod 02-Dash has reached operation altitude.
+00:11:07 {Woman}       It has settled into the targeted orbit.
+00:11:08 {Man}         Due to insufficient altitude, Pod 08 was unable to breach target orbital range.
+00:11:13 {Aoba}        Copy that.
+00:11:14 {Aoba}        02-Dash will conduct a solo operation.
+00:11:16 {Man}         Roger.
+00:11:17 {Man}         Pod 08 will act as support.
+00:11:19 {Man}         Transition shift to seven.
+00:11:21 {Ritsuko}     Pod 02-Dash has passed the point of no return.
+00:11:24 {Ritsuko}     It is entering Area 88.
+00:11:25 {Misato}      Roger.
+00:11:26 {Misato}      Commence Operation US.
+00:11:29 {Woman}       Roger.
+00:11:30 {Woman}       Pod 02-Dash is entering the final operation orbit.
+00:11:33 {Midori}      Tuning RCS. Activation confirmed.
+00:11:34 {Woman}       Switching to deceleration.
+00:11:35 {Man}         Igniting all engines, stage one.
+00:11:36 {Midori}      Orientation controls are nominal.
+00:11:37 {Man}         Beginning combustion.
+00:11:42 {Midori}      Contact ring ready for separation.
+00:11:42 {Woman}       S-1C combustion complete.
+00:11:44 {Midori}      RCS tuning confirmed.
+00:11:45 {Woman}       Deceleration confirmed.
+00:11:46 {Man}         Jettisoning booster unit, stage one.
+00:11:46 {Midori}      Inputting mass variation factors.
+00:11:50 {Midori}      Separation confirmed.
+00:11:51 {Midori}      Checking power systems. No problems detected.
+00:11:51 {Man}         Opening drain valves. Discarding propellant. #Not in UTW#
+00:11:54 {Man}         Roger.
+00:11:55 {Man}         Automating ignition timing.
+00:11:56 {Man}         Igniting all engines, stage two.
+00:12:02 {Woman}       S-1C combustion complete.
+00:12:02 {Midori}      Second contact ring ready for separation.
+00:12:03 {Woman}       Closing pressure valves.
+00:12:05 {Midori}      RCS tuning reconfirmed.
+00:12:05 {Tama}        Jettisoning booster unit, stage 2.
+00:12:09 {Woman}       Deceleration complete.
+00:12:10 {Midori}      Separation of all units confirmed. #Not in UTW#
+00:12:10 {Man}         Preparing to enter final operation orbit.
+00:12:12 {Woman}       Opening drain valves. Discarding propellant. #Not in UTW#
+00:12:13 {Man}         Flipping unit head.
+00:12:14 {Man}         Commencing rotation.
+00:12:16 {Man}         Descent angle confirmed to be within error ranges.
+00:12:18 {Man}         No changes in contact airspace. 
+00:12:18 {Woman}       Recalculating relative velocity.
+00:12:19 {Man}         Timetable requires no correction.
+00:12:19 {Woman}       Reconfirming coordinate altitude.
+00:12:22 {Woman}       No problems.
+00:12:22 {Man}         Values reconfirmed, all clear.
+00:12:?? {Midori}      Orbital corrections and drops in power pose no problems.
+00:12:24 {Woman}       Final orbit corrections complete.
+00:12:27 {Woman}       180-degree rotation complete.
+00:12:28 {Hyuga}       Roger.
+00:12:29 {Hyuga}       Pod 02-Dash will start transitioning to the intercept orbit.
+00:12:32 {Hyuga}       Now commencing the operation.
+00:12:34 {Aoba}        All remote guiding will now be cut.
+00:12:36 {Aoba}        Unit will be controlled manually.
+00:12:38 {Hyuga}       Good luck.
 00:02:32 {Woman}       Unit is on intercept course with the target.
 00:02:34 {Woman}       Eighty measures until contact.
 00:02:37 {Woman}       Confirming target.
@@ -64,32 +64,32 @@
 00:02:40 {Woman}       Maintaining Shift-M. No problems.
 00:02:43 {Misato}      02-Dash, prepare to rendezvous.
 00:02:45 {Misato}      08 is lacking altitude, so it can only assist you in the ninety-six seconds until re-entry.
-00:02:50 {Misato}      Finish this by then.
-00:02:53 {Hyuga}       Reflective waves detected in target space.
-00:02:55 {Hyuga}       It's jamming us!
-00:02:56 {Aoba}        It's just the auto-defense system's mass weapon.
-00:02:58 {Aoba}        No need to worry.
-00:03:01 {Man}         Burst flows generated!
-00:03:03 {Man}         Incoming in 3... 2... 1...
-00:03:10 {Aoba}        Second wave incoming.
-00:03:11 {Aoba}        Blood type: blue.
-00:03:12 {Aoba}        They're a pesky bunch.
-00:03:13 {Man}         Identifying approaching body...
+00:12:59 {Misato}      Finish this by then.
+00:13:01 {Hyuga}       Reflective waves detected in target space.
+00:13:03 {Hyuga}       It's jamming us!
+00:13:04 {Aoba}        It's just the auto-defense system's mass weapon.
+00:13:06 {Aoba}        No need to worry.
+00:13:10 {Man}         Burst shockwaves emanating!
+00:13:11 {Man}         Incoming in three... two... one...
+00:13:19 {Aoba}        Second wave incoming. Blood type blue.
+00:13:20 {Aoba}        They're a pesky bunch.
+00:13:22 {Man}         Identifying the approaching body...
 00:03:15 {Man}         Confirmed to be Mk. 04A.
 00:03:25 {Asuka}       An Anti-A.T. Field!
-00:03:32 {Asuka}       This sucks!
+00:13:39 {Asuka}       This thing's useless!
 00:03:34 {Asuka}       It's just getting in my way!
-00:03:37 {Asuka}       Hey, Glasses! Some backup here!
-00:03:44 {Asuka}       Support fire was two seconds late!
-00:03:49 {Mari}        And you're three seconds ahead of position.
-00:03:52 {Asuka}       It's called adapting to the situation. Keep up with me!
-00:03:55 {Mari}        As you command,
-00:03:57 {Mari}        Princess!
-00:04:05 {Asuka}       It got through the Fullerene Shift.
-00:04:07 {Asuka}       It'll break into Final Defense Area 89.
+00:13:45 {Asuka}       Glasses, stop the damn singing!
+00:13:48 {Asuka}       It's annoying as hell!
+00:13:52 {Asuka}       Support fire was two seconds late!
+00:13:58 {Mari}        And you're three seconds ahead of position.
+00:14:00 {Asuka}       It's called adapting to the situation. Keep up with me!
+00:14:03 {Mari}        As you command,
+00:14:05 {Mari}        Princess!
+00:14:14 {Asuka}       Got through the Fullerene Shift.
+00:04:07 {Asuka}       Breaking into Final Defense Area 89.
 00:04:10 {Asuka}       The target is moving!
 00:04:16 {Asuka}       No time to correct my orbit!
-00:04:17 {Asuka}       I'm going in!
+00:04:17 {Asuka}       I'll just have to brute this!
 00:04:40 {Asuka}       Decelerate!
 00:04:46 {Asuka}       Eight!
 00:04:47 {Asuka}       Seven!
@@ -100,8 +100,9 @@
 00:04:53 {Asuka}       Two!
 00:04:54 {Asuka}       One!
 00:04:55 {Asuka}       Terminating combustion!
-00:05:03 {Woman}       02-Dash has jettisoned the last boosters.
-00:05:06 {Woman}       Ensuring safe distance for re-entry.
+00:15:12 {Midori}      02-Dash has jettisoned the last boosters.
+00:15:14 {Midori}      Ensuring safe distance for re-entry.
+00:15:16 {Man}         Orbital errors are within correctable ranges. Recalculating angle of entry.
 00:05:09 {Asuka}       Successfully seized the target.
 00:05:11 {Asuka}       Returning to base.
 00:05:13 {Misato}      Roger.
@@ -126,7 +127,7 @@
 00:06:05 {Asuka}       I gotta take out the core block!
 00:06:06 {Asuka}       You're not getting away!
 00:06:10 {Asuka}       Crap! I can't maintain my descent angle!
-00:06:12 {Asuka}       My unit will fall apart at this rate!
+00:06:12 {Asuka}       My unit'll fall apart at this rate!
 00:06:14 {Misato}      02-Dash, completing the mission takes top priority!
 00:06:18 {Misato}      Don't let go of the target object, even if it means sacrificing the unit.
 00:06:20 {Asuka}       I already know that!
@@ -893,8 +894,8 @@
 00:58:31 {Shinji}      Why aren't you reading the books?
 00:58:36 {Rei}         That wasn't your order.
 00:58:38 {Shinji}      "Order"...?
-00:58:40 {Shinji}      Alright, that's enough!
-00:58:45 {Shinji}      Are you Ayanami...?
+00:58:40 {Shinji}      Alright, enough of that!
+00:58:45 {Shinji}      You are Ayanami, right...?
 00:58:48 {Rei}         Yes, Ayanami Rei.
 00:58:51 {Shinji}      Then I did save you, right...?
 00:58:55 {Rei}         ...I don't know.
@@ -940,7 +941,7 @@
 01:01:02 {Shinji}      No!
 01:01:05 {Shinji}      I don't want to pilot an Eva anymore!
 01:01:07 {Shinji}      I didn't save Ayanami after all!
-01:01:10 {Shinji}      Nothing good came out of me piloting the Eva!
+01:01:10 {Shinji}      Nothing good came out of me piloting an Eva!
 01:01:13 {Shinji}      I've had enough! I don't want to do anything!
 01:01:16 {Kaworu}      And so, the refrain of bitter memories will keep good things from happening.
 01:01:24 {Shinji}      Nothing is ever good!
@@ -952,15 +953,15 @@
 01:01:43 {Kaworu}      Still, I want you to believe in me.
 01:01:46 {Shinji}      I can't!
 01:01:49 {Shinji}      Misato-san had this thing put on me!
-01:01:53 {Shinji}      They said to never pilot Eva again.
+01:01:53 {Shinji}      They said to never pilot an Eva again.
 01:01:55 {Shinji}      They said if I pilot, I'll die.
 01:01:59 {Shinji}      I don't care about Eva anymore.
 01:02:09 {Kaworu}      I understand.
-01:02:10 {Kaworu}      I will shoulder the burden of the Lilin's curse, and the risk of Eva's Awakening, for you.
+01:02:10 {Kaworu}      For you, I will shoulder the burden of the Lilin's curse and the risk of Eva's Awakening.
 01:02:21 {Shinji}      Nagisa-kun...
-01:02:24 {Kaworu}      You don't have to worry.
-01:02:26 {Kaworu}      Because I was originally something created by the very Lilin who fear me.
-01:02:29 {Kaworu}      I had intended to do this at some point.
+01:02:24 {Kaworu}      No need to worry.
+01:02:26 {Kaworu}      The Lilin originally created this due to their fear of me.
+01:02:29 {Kaworu}      I intended to take it from you at some point.
 01:02:34 {Kaworu}      Ikari Shinji-kun, your only hope lies with the two Spears left at the Impact epicenter in Dogma.
 01:02:41 {Kaworu}      They are the key to activating Instrumentality.
 01:02:45 {Kaworu}      All we have to do is obtain those Spears.
@@ -1126,13 +1127,13 @@
 01:15:47 {Shinji}      What's going on, Kaworu-kun?
 01:15:51 {Shinji}      Kaworu-kun!
 01:15:53 {Kaworu}      I never imagined that I, the First Angel,
-01:15:56 {Kaworu}      would be cast down to the 13th.
+01:15:56 {Kaworu}      would be cast down to the Thirteenth.
 01:16:00 {Shinji}      What are you doing, Kaworu-kun?
 01:16:04 {Kaworu}      So the beginning and the end are the same.
 01:16:08 {Kaworu}      I'd expected as much from the King of the Lilin,
 01:16:11 {Kaworu}      Shinji-kun's father!
 01:16:13 {Mari}        DSS Choker, pattern blue?
-01:16:15 {Mari}        A thirteenth? Even though the 12th should've been the last?!
+01:16:15 {Mari}        A thirteenth? Even though the Twelfth should be the last?!
 01:16:19 {Mari}        So this is what Gendo-kun is aiming for.
 01:16:24 {Gendo}       It is time to amend the Dead Sea Scrolls' contract.
 01:16:29 {Gendo}       This is farewell.
@@ -1245,26 +1246,24 @@
 01:27:38 {Gendo}       But not only was Seele's boy eliminated, the path was forged for Eva-13's Awakening.
 01:27:46 {Gendo}       Captain Katsuragi's actions are within predictions, as well.
 01:27:49 {Gendo}       This will do for now.
-01:27:52 {Hyuga}       All ships, maintain organization for Class 2 withdrawal.
+01:27:52 {Hyuga}       All ships, maintain organization for Class Two withdrawal.
 01:27:55 {Woman}       No pattern blue readings.
 01:27:57 {Woman}       No ships sighted in withdrawal airspace.
 01:27:59 {Man}         Damaged areas of the midsection have received emergency treatment.
 01:28:01 {Ritsuko}     Fourth Impact was stopped, but we don't know whom to thank.
-01:28:04 {Man (BG)}    / ＃んざい不明＃＃のは水中。
-01:28:06 {Man (BG)}    / じごくは不明、とっか、じんき回収＃＃＃＃。
 01:28:07 {Ritsuko}     Misato, let's leave it for now...
 01:29:01 {Asuka}       You brat, Shinji.
 01:29:04 {Asuka}       You didn't come to help me?
 01:29:10 {Asuka}       Yet again, it's all about you.
 01:29:12 {Asuka}       You think you can just get away with what's happened by not saying a thing.
-01:29:40 {Asuka}       You still need pampering?
+01:29:40 {Asuka}       You still need babying?
 01:29:43 {Asuka}       No matter how much time passes... you're always such a brat!
 01:29:47 {Asuka}       Here, put this on.
 01:29:50 {Asuka}       Jeez! You can stand on your own, can't you?!
 01:29:58 {Asuka}       You're the pilot from before.
-01:30:02 {Asuka}       From an early lot of Ayanami Types, are you?
+01:30:02 {Asuka}       From an early lot of Ayanami types, are you?
 01:30:11 {Asuka}       The L Barrier's density is too strong here, so they won't come to help us.
-01:30:16 {Asuka}       We're going to where the Lilin are.
+01:30:16 {Asuka}       We're going to where the Lilin can pick us up.
 01:30:23 {Asuka}       Come on!
 01:35:11 {Caption}     Preview
 01:35:12 {Narrator}    Shinji Ikari continues to wander, still lacking the will to live.
