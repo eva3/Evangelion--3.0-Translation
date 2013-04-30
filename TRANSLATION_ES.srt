@@ -576,11 +576,13 @@ Prioricen barcos en el bloque D para la transferencia de la tripulación.
 
 145
 00:08:40,000 --> 00:08:43,000
-/ ¡No tenemos suficiente personal para la operación de transferencia!{＃＃転入作業の人手がまるで足りない (日向の台詞)}
+- No tenemos suficiente personal para la operación de transferencia!
+- Comprobando girocompaces 3 y 5 en babor y estribor.
 
 146
 00:08:43,000 --> 00:08:46,000
-/ ＃＃＃＃＃にずれがあり
+- ¿Más rápido!
+- Los relojes son imprecisos. Debo recalibrar.
 
 147
 00:08:46,000 --> 00:08:53,000
