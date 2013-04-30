@@ -622,7 +622,8 @@ Su información física es idéntica al código del Tercer Elegido.
 
 156
 00:09:37,000 --> 00:09:43,000
-El tejido corporal, tal como sus registros dentales se replicaron perfectamente.
+Los datos del tejido corporal y sus tratamientos dentales 
+coinciden con los del Casi Tercer Impacto
 
 157
 00:09:43,000 --> 00:09:46,000
@@ -650,7 +651,7 @@ Activación óptima.
 
 163
 00:10:04,000 --> 00:10:07,000
-La contraseña es exclusiva para el Capitán.
+La contraseña está configurada para uso personal, Capitán.
 
 164
 00:10:07,000 --> 00:10:11,000
@@ -722,7 +723,7 @@ Quieren bloquearnos aquí, básicamente.
 
 181
 00:10:43,000 --> 00:10:45,000
-/ デコイ02（マル二）、そして06（マルロク）が消滅確認。
+Destrucción de los señuelo 02 y 06 confirmada. #not in UTW# 
 
 182
 00:10:45,000 --> 00:10:48,000
