@@ -78,7 +78,7 @@
 00:03:25 {Asuka}       An Anti-A.T. Field!
 00:13:39 {Asuka}       This thing's useless!
 00:03:34 {Asuka}       It's just getting in my way!
-00:13:45 {Asuka}       You butt-kissing four-eyes, enough with the damn singing!
+00:13:45 {Asuka}       Glasses, enough with the damn singing!
 00:13:48 {Asuka}       It's annoying as hell!
 00:13:52 {Asuka}       Support fire was two seconds late!
 00:13:58 {Mari}        And you're three seconds ahead of position.
@@ -161,7 +161,7 @@
 00:18:50 {Sumire}      Checking port and starboard gyrocompasses three and five.
 00:18:51 {Hyuga}       Expedite this, on the double!
 00:18:53 {Sumire}      The gauges are inaccurate. Requesting recalibration.
-00:18:54 {Tama}        Checking the ships' outfitting and roadmap.
+00:18:54 {Tama}        Checking the ships' outfitting and roadmaps.
 00:18:56 {Tama}        Armament linkage is 3% behind schedule.
 00:08:53 {Sakura}      Specimen BM03 is in our custody.
 00:08:56 {Misato}      Understood.
@@ -171,57 +171,61 @@
 00:09:28 {Misato}      It is Ikari Shinji-kun, isn't it?
 00:09:31 {Ritsuko}     So it would seem.
 00:09:32 {Ritsuko}     His physical data is identical to Code Third Boy.
-00:09:37 {Ritsuko}     Post birth dental treatment scars and body composition are perfectly reproduced from Near Third Impact.
+00:09:37 {Ritsuko}     Post-natal dental work and body composition perfectly match those from Near Third Impact.
 00:09:43 {Ritsuko}     We are now analyzing his deep level sync test results.
-00:09:46 {Misato}      And the application of the DSS Choker?
+00:09:46 {Misato}      And the DSS Choker on his neck?
 00:09:49 {Ritsuko}     It has already been installed, Captain Katsuragi.
 00:09:52 {Shinji}      Captain Katsuragi...?
-00:09:54 {Shinji}      So it really is you, Misato-san.
+00:09:54 {Shinji}      So it really is you, Misato-san?
 00:20:06 {Shinji}      Huh?
 00:10:03 {Ritsuko}     Activation nominal.
-00:10:04 {Ritsuko}     Passcode is set exclusive to the Captain.
+00:10:04 {Ritsuko}     Passcode is set for your personal use, Captain.
 00:10:07 {Misato}      Understood.
 00:10:11 {Shinji}      What is this thing?!
 00:10:14 {Shinji}      Please, take it off already!
-00:10:18 {Sakura}      That's never going to be taken off.
-00:10:22 {Misato}      Interview complete.
+00:10:18 {Sakura}      There's no way that's ever coming off.
+00:10:22 {Misato}      We're done with him.
 00:10:24 {Misato}      Take him to quarantine.
 00:10:28 {Midori}      Decoys 01 and 05 destroyed.
-00:10:30 {Midori}      Insufficiency in wave's length.
-00:10:31 {Midori}      The hell's this?
-00:10:33 {Hyuga}       It's Pattern Blue.
+00:10:30 {Midori}      Wavelength acquired.
+00:10:31 {Midori}      What could this be?
+00:10:33 {Hyuga}       It's blood type blue.
 00:10:34 {Hyuga}       Target identified.
 00:10:36 {Hyuga}       Mk. 4C.
 00:10:37 {Hyuga}       It's the Nemesis Series.
-00:10:39 {Misato}      They're back...
-00:10:40 {Midori (BG)} Targets are all Mk. 4C.
-00:10:40 {Ritsuko}     They're advancing on all sides.
-00:10:42 {Ritsuko}     They intend to cordon us here, to start with.
-00:10:43 {Midori (BG)} / デコイ02（マル二）、そして06（マルロク）が消滅確認。
+00:20:47 {Misato}      They're back...
+00:20:48 {Midori (BG)} Targets identified as Mk. 04C.
+00:20:48 {Ritsuko}     They're advancing on all sides.
+00:20:50 {Ritsuko}     They intend to cordon us here, to start with.
+00:20:51 {Midori (BG)} Destruction of decoys 02 and 06 confirmed. #not in UTW#
 00:10:45 {Misato}      We can't afford to move from here yet.
-00:10:48 {Misato}      Continue only with main engine's operations.
-00:10:50 {Misato}      All fleets to Battle Stations Two.
-00:10:53 {Misato}      Target: All Nemesis Series.
+00:10:48 {Misato}      Stop work on everything except the main engine.
+00:10:50 {Misato}      All ships to Battle Stations Two!
+00:10:53 {Misato}      Target the entire Nemesis Series!
 00:10:55 {Ritsuko}     Roger.
-00:10:56 {Ritsuko}     All fleets to Battle Stations Two.
-00:10:58 {Hyuga}       Prepare for anti-air, anti-water, and underwater battle.
-00:11:02 {Aoba}        Abandon stock transfer.
-00:11:03 {Aoba}        Prioritize the transferring of all personnel to another vessel.
-00:11:05 {Woman}       All fleets, abandoning stock transfer.
-00:11:07 {Woman}       All personnel, transferring vessels is top priority!
-00:11:13 {Woman}       All aircraft are to withdraw from our current air space.
-00:11:16 {Woman}       Hurry to Meeting Point 2.
-00:11:18 {Man}         Abandon any leftover cargo.
-00:11:20 {Man}         Migration of crew takes top priority.
-00:11:22 {Man}         / 偽装作業は続けろ、会敵ギリギリまで組立をたのむ。
-00:11:26 {Man}         / 最優先つたえものは、＃＃＃＃してくれ。
-00:11:28 {Woman}       Prepare all cannons to shoot.
-00:11:30 {Woman}       Remote control and interlock systems, activating.
-00:11:33 {Woman}       / ＃＃＃＃＃＃＃ {Couldn't hear this}
-00:11:35 {Koji}        Initiate main power system injection.
-00:11:38 {Koji}        Hurry.
-00:11:39 {Man}         N2 reactor operating at 99%.
-00:11:43 {Woman}       Initiating main power system injection.
+00:10:56 {Ritsuko}     All ships to Battle Stations Two.
+00:10:58 {Hyuga}       Prepare for aerial, sea, and underwater battle!
+00:11:02 {Aoba}        Abandon transfer of supplies.
+00:21:11 {Aoba}        Prioritize transfer of personnel!
+00:21:12 {Woman}       All fleets, abandon transfer of supplies. Prioritize transfer of personnel.
+00:21:14 {Man}         Prepare for aerial, sea, and underwater battle.
+00:21:16 {Woman}       Continue work on the main engine.
+00:21:17 {Man}         Prepare long-range cannons for torpedo warfare.
+00:21:18 {Man}         Prepare switching of all power supply lines.
+00:21:22 {Woman}       All aircraft are to withdraw from our current air space at once.
+00:21:25 {Woman}       Hurry to Meeting Point Two.
+00:21:27 {Man}         Abandon all remaining cargo.
+00:21:28 {Man}         Transfer of personnel takes top priority.
+00:21:30 {Man}         Continue outfitting the ships!
+00:21:31 {Man}         Keep the work going until the very last minute!
+00:21:33 {Man}         All who can help with the power lines, assemble during launch.
+00:21:36 {Woman}       Prepare all gun turrets for individual firing.
+00:21:38 {Woman}       Activate all remote control and interlocking systems.
+00:21:41 {Woman}       Please be ready for unforeseen hostilities. 
+00:21:42 {Koji}        Keep working on the injection of the main engine transmission system.
+00:21:45 {Koji}        Hurry!
+00:21:47 {Man}         N2 reactor operating at 99% output.
+00:21:50 {Woman}       Initiating main power system injection.
 00:11:44 {Woman}       Opening valves up to number 90.
 00:11:46 {Woman}       Transmission pipe connected.
 00:11:48 {Woman}       No problems detected in the port, and 3rd and 4th cargo cage.
