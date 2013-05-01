@@ -4115,11 +4115,11 @@ Si es así, ¡no lo pilotees!
 
 1029
 01:09:28,000 --> 01:09:31,000
-Señor Recipiente de Adams,
+Señor Contenedor de Adams,
 
 1030
 01:09:31,000 --> 01:09:54,000
-al menos permítame detener su plan...
+por lo menos déjeme detenerlo...
 
 1031
 01:09:54,000 --> 01:09:56,000
@@ -4139,7 +4139,7 @@ al menos permítame detener su plan...
 
 1035
 01:10:05,000 --> 01:10:07,000
-¿Acaso tu plan es iniciar el Tercer Impacto de nuevo?
+¿Acaso planeas iniciar el Tercer Impacto de nuevo?
 
 1036
 01:10:07,000 --> 01:10:09,000
@@ -4191,7 +4191,7 @@ Ahora lo entiendo.
 
 1048
 01:10:55,000 --> 01:10:58,000
-Oye, piloto temporal de Seele,
+Oye, piloto arrepentido de Seele,
 
 1049
 01:10:58,000 --> 01:11:00,000
@@ -4199,7 +4199,7 @@ puedes oirme, ¿verdad?
 
 1050
 01:11:00,000 --> 01:11:04,000
-¿No crees que tienes que irte antes de convertirte en un Recipiente de Adams?
+¿No crees que sería mejor retirarse antes de convertirse en un Contenedor de Adams?
 
 1051
 01:11:04,000 --> 01:11:07,000
@@ -4239,7 +4239,7 @@ Asuka...
 
 1060
 01:11:57,000 --> 01:11:58,000
-¡Lo que faltaba!
+¡¿Justo ahora?!
 
 1061
 01:11:58,000 --> 01:12:07,000
@@ -4299,7 +4299,7 @@ Tú fuiste quien dijo que necesitabamos las lanzas..
 
 1075
 01:12:57,000 --> 01:13:02,000
-¿El sistema de control?
+¡¿El sistema de control?!
 
 1076
 01:13:02,000 --> 01:13:05,000
@@ -4327,11 +4327,11 @@ Si lo hago, incluso Misato-san podrá...
 
 1082
 01:13:18,000 --> 01:13:20,000
-¡Estas autorizada a usar munición AA!
+¡Estás autorizada a usar munición AA!
 
 1083
 01:13:20,000 --> 01:13:22,000
-Estuve esperando este momento.
+Estaba esperando este momento.
 
 1084
 01:13:22,000 --> 01:13:30,000
@@ -4379,7 +4379,7 @@ Comencemos, Fuyutsuki.
 
 1095
 01:14:35,000 --> 01:14:37,000
-¡Anteojos! ¡Recipiente No.3!
+¡Anteojos! ¡Contenedor No.3!
 
 1096
 01:14:37,000 --> 01:14:40,000
@@ -4391,7 +4391,7 @@ Comencemos, Fuyutsuki.
 
 1098
 01:14:49,000 --> 01:15:00,000
-Fueron órdenes.
+Era una órden.
 
 1099
 01:15:00,000 --> 01:15:10,000
@@ -4399,7 +4399,7 @@ Fueron órdenes.
 
 1100
 01:15:10,000 --> 01:15:14,000
-Princesa, debes cesar el fuego, es inútil.
+Princesa, no deberías seguir disparando, es inútil.
 
 1101
 01:15:14,000 --> 01:15:17,000
@@ -4451,7 +4451,7 @@ Nunca imaginé que yo, el Primer Ángel,
 
 1113
 01:15:56,000 --> 01:16:00,000
-sería recatalogado como el Decimotercer Ángel.
+sería renombrado como el Decimotercer Ángel.
 
 1114
 01:16:00,000 --> 01:16:04,000
@@ -4511,7 +4511,7 @@ Para avanzar con la evolución del rebaño a través de la muerte,
 
 1128
 01:16:54,000 --> 01:17:00,000
-se nos ha entregado el don de la civilización.
+ustedes nos han entregado el don de la civilización.
 
 1129
 01:17:00,000 --> 01:17:04,000
@@ -4523,15 +4523,16 @@ A través de la muerte, voy a devolver las almas a donde pertenecen.
 
 1131
 01:17:12,000 --> 01:17:15,000
-Por el deseado Proyecto de Instrumentalización Humana,
+Yo me encargaré de llevar a cabo 
+el deseado Proyecto de Instrumentalización Humana,
 
 1132
 01:17:15,000 --> 01:17:19,000
-la muerte de los dioses, yo firmo este pacto.
+y la pactada muerte de los dioses
 
 1133
 01:17:19,000 --> 01:17:21,000
-Que así sea.
+Quédense tranquilos.
 
 1134
 01:17:21,000 --> 01:17:25,000
@@ -4539,7 +4540,7 @@ Nuestros deseos se han vuelto realidad.
 
 1135
 01:17:25,000 --> 01:17:26,000
-Bien.
+Está bien.
 
 1136
 01:17:26,000 --> 01:17:29,000
@@ -4583,7 +4584,7 @@ Creo que está despertando...
 
 1146
 01:19:14,000 --> 01:19:22,000
-¡¿Porque quité las lanzas?!
+Porque quité las lanzas
 
 1147
 01:19:22,000 --> 01:19:24,000
@@ -4591,7 +4592,7 @@ Creo que está despertando...
 
 1148
 01:19:24,000 --> 01:19:28,000
-Cuarto Impacto.
+El Cuarto Impacto.
 
 1149
 01:19:28,000 --> 01:19:45,000
@@ -4635,7 +4636,7 @@ Kaworu-kun...
 
 1159
 01:20:19,000 --> 01:20:26,000
-¡¿El Recipiente de Adams?!
+¡¿El Contenedor de Adams?!
 
 1160
 01:20:26,000 --> 01:20:28,000
@@ -4659,7 +4660,7 @@ Kaworu-kun...
 
 1165
 01:20:46,000 --> 01:20:48,000
-El Recipiente de Adams... El amo original de Wunder.
+El Contenedor de Adams... El amo original de Wunder.
 
 1166
 01:20:48,000 --> 01:20:57,000
@@ -4691,11 +4692,11 @@ Estos chicos no están jugando.
 
 1173
 01:21:15,000 --> 01:21:17,000
-¡No puedo eliminar el Recipiente de Adams!
+¡Imposible rechazar al Contenedor de Adams!
 
 1174
 01:21:17,000 --> 01:21:19,000
-¡Datos no identificados se están filtrando por el sistema de control principal!
+¡Se están filtrando datos desconocidos por el sistema de control principal!
 
 1175
 01:21:19,000 --> 01:21:43,000
@@ -4727,7 +4728,7 @@ Reporte desde el puente inferior.
 
 1182
 01:22:26,000 --> 01:22:27,000
-¡EVA 02-kai ha contactado el Recipiente de Adams!
+¡EVA 02-kai ha contactado el Conetendor de Adams!
 
 1183
 01:22:27,000 --> 01:22:48,000
@@ -4799,11 +4800,11 @@ Soy el detonante.
 
 1200
 01:24:21,000 --> 01:24:24,000
-¿Qué es lo que he hecho?
+¿Qué debo hacer?
 
 1201
 01:24:24,000 --> 01:24:31,000
-Oye... ¿Qué he hecho?
+¿Qué debemos hacer?
 
 1202
 01:24:31,000 --> 01:24:34,000
@@ -4811,7 +4812,7 @@ Kaworu-kun,
 
 1203
 01:24:34,000 --> 01:24:37,000
-dime qué hubiera sido lo correcto.
+dime qué es lo que debo hacer.
 
 1204
 01:24:37,000 --> 01:24:43,000
@@ -4819,7 +4820,7 @@ Aún si desparecen las almas, la esperanza y la maldición permanecerán en este
 
 1205
 01:24:43,000 --> 01:24:48,000
-Así como cambia historia a lo largo del mundo.
+Así como cambia la historia a lo largo del mundo.
 
 1206
 01:24:48,000 --> 01:24:54,000
@@ -4835,7 +4836,7 @@ Cerraré la Puerta de Guf.
 
 1209
 01:25:03,000 --> 01:25:05,000
-No tienes que preocuparte por ello, Shinji-kun.
+No te preocupes por eso, Shinji-kun.
 
 1210
 01:25:05,000 --> 01:25:08,000
@@ -4859,7 +4860,7 @@ Seguramente el destino te guiará.
 
 1215
 01:25:37,000 --> 01:25:41,000
-No hagas esa cara.
+No pongas esa cara.
 
 1216
 01:25:41,000 --> 01:25:44,000
@@ -4875,7 +4876,7 @@ Nos volveremos a ver, Shinji-kun.
 
 1219
 01:26:06,000 --> 01:26:25,000
-Entonces, ¡el cachorrito de Seele es una medida de seguridad!
+Entonces, ¡están usando como respaldo al cachorrito de Seele!
 
 1220
 01:26:25,000 --> 01:26:26,000
@@ -4911,7 +4912,8 @@ Casi todo salió como lo planeaba Seele.
 
 1228
 01:27:38,000 --> 01:27:46,000
-Pero no sólo el chico de Seele fue eliminado, también se ha abierto camino para despertar al EVA-13.
+Pero no sólo el chico de Seele fue eliminado, 
+también se ha abierto camino para el despertar del EVA-13.
 
 1229
 01:27:46,000 --> 01:27:49,000
