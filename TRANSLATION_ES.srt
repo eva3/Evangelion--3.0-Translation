@@ -787,7 +787,7 @@ La migración de la tripulación tiene la máxima prioridad
 
 197
 00:11:22,000 --> 00:11:26,000
-/ 偽装作業は続けろ、会敵ギリギリまで組立をたのむ。
+Continuen el equipamiento de los barcos
 
 198
 00:11:26,000 --> 00:11:28,000
