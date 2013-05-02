@@ -366,83 +366,86 @@
 00:27:23 {Midori}      Personnel roll-call complete. 
 00:27:24 {Woman (BG)}  No problems with initial contact.
 00:27:25 {Midori}      Confirming stations.
-00:17:18 {Woman (BG)}  First list has cleared.
-00:17:20 {Tama}        Closure of all barrier walls confirmed.
-00:17:22 {Tama}        Terminating pressure resistance check.
-00:17:23 {Woman (BG)}  Output of auxiliary components is currently climbing.
-00:17:25 {Koji}        Injecting power for initial system activation.
-00:17:28 {Koji}        5% until it hits critical.
-00:17:30 {Sumire}      Initiating gyro-compass.
+00:27:27 {Woman (BG)}  First list has cleared.
+00:27:28 {Tama}        Confirming the closure of all barrier walls.
+00:27:30 {Tama}        Terminating pressure resistance check.
+00:27:31 {Woman (BG)}  Auxiliary engine output currently climbing.
+00:17:25 {Koji}        Now infusing power for ignition of the main engine system.
+00:17:28 {Koji}        Another 5% until it hits critical.
+00:17:30 {Sumire}      Initiating the gyrocompass.
 00:17:31 {Sumire}      Stabilizer nominal.
 00:17:33 {Woman (BG)}  Commencing visual data processing.
 00:17:35 {Woman (BG)}  Turning on the main monitor.
-00:17:37 {Hyuga}       Target is still closing in.
+00:17:37 {Hyuga}       Targets are still closing in.
 00:17:39 {Hyuga}       Currently taking on an encircling formation.
-00:17:41 {Aoba}        Eva-02' deploying propellors.
-00:17:43 {Aoba}        Left arm is being switched out.
+00:17:41 {Aoba}        Eva-02' discarding propellers.
+00:17:43 {Aoba}        Now switching out the left arm.
 00:17:45 {Asuka}       Here we go!
-00:17:54 {Asuka}       Well then!
-00:17:56 {Asuka}       Let's do it!
-00:18:04 {Asuka}       Spreading A.T. Field.
-00:18:09 {Aoba}        They changed into pillars of light.
-00:18:12 {Midori}      Their energy is rocketing!
-00:18:13 {Hyuga}       All targets are starting to move.
-00:18:18 {Aoba}        Ally ships have been evaporated!
-00:18:19 {Ritsuko}     It's a saturation attack.
-00:18:21 {Ritsuko}     If this ship gets caught too, it's all over.
+00:28:01 {Asuka}       Yep.
+00:17:54 {Asuka}       Now then...
+00:17:56 {Asuka}       Let's do this!
+00:18:04 {Asuka}       Deploy A.T. Field.
+00:18:09 {Aoba}        The pillars of light are changing!
+00:18:12 {Midori}      Their energy is skyrocketing!
+00:18:13 {Hyuga}       All targets are mobilizing.
+00:18:18 {Aoba}        Allied cruiser has been vaporized!
+00:18:19 {Ritsuko}     A saturated attack.
+00:18:21 {Ritsuko}     If it hits this ship, we're done for.
 00:18:24 {Midori (BG)} Another 360 seconds until contact!
-00:18:34 {Asuka}       Here we go!
+00:18:34 {Asuka}       Here we go! #not in UTW#
 00:18:38 {Aoba}        Eva-02' has commenced operations. 
-00:18:40 {Man (BG)}    / ＃＃＃＃＃＃300%!
-00:18:42 {Koji}        No matter! 
+00:18:40 {Man (BG)}    Influent pressure at 300%!
+00:18:42 {Koji}        Doesn't matter! 
 00:18:43 {Koji}        Transfer all energy to the flywheel! 
-00:18:45 {Koji}        Give that top priority!
-00:18:57 {Woman (BG)}  / 第８０＃＃＃炎上中、＃＃出来ません！
-00:18:57 {Tama}        Converter Group No. 7 has exploded!
-00:18:59 {Koji}        Disregard the downed lines! 
-00:19:01 {Koji}        Continue the forced injection! 
-00:19:03 {Koji}        Ignore all pressure meters!
-00:19:04 {Tama}        Releasing the lock on the flywheel crimp.
+00:18:45 {Koji}        Make that top priority!
+00:18:57 {Woman (BG)}  The 83rd line is ablaze! Extinguishing the fire is impossible!
+00:18:57 {Tama}        The 7th converter cluster has exploded!
+00:18:59 {Koji}        Disregard the broken lines! 
+00:19:01 {Koji}        Proceed with the forced injection! 
+00:19:03 {Koji}        Ignore all the pressure gauges!
+00:19:04 {Tama}        Releasing locks on the flywheel crimp.
 00:19:07 {Tama}        Beginning rotation!
-00:19:16 {Man (BG)}    Initiating main energy pump.
-00:19:19 {Tama}        Auxiliary component output has reached 80%.
+00:19:16 {Man (BG)}    Main engine's energy pump has been initiated.
+00:19:19 {Tama}        Auxiliary engine output has reached 80%!
 00:19:21 {Koji}        Force insert the catalyst!
-00:19:39 {Asuka}       So now there's...
-00:19:42 {Midori}      39 seconds remaining!
-00:19:44 {Man (BG)}    Rotational speed currently climbing!
-00:19:46 {Aoba}        Eva-02' maintaining critical pressure.
-00:19:48 {Tama}        We're there! 
-00:19:49 {Tama}        Fly wheel charged to 102%, over critical!
-00:19:52 {Koji}        We're in the final stage of activation. 
+00:19:39 {Asuka}       Next up...
+00:19:42 {Midori}      Thirty-five seconds remaining!
+00:19:44 {Man (BG)}    Rotational speed increasing!
+00:29:54 {Aoba}        Eva-02' in place for ignition. #not in UTW#
+00:29:54 {Woman (BG)}  10,000 turns... 12,000 turns...
+00:29:56 {Tama}        We're there! 
+00:29:57 {Tama}        Fly wheel 102% charged! 
+00:29:59 {Tama}        Critical point exceeded!
+00:19:52 {Koji}        We're in the final start-up phase!
 00:19:54 {Misato}      Roger. 
-00:19:55 {Misato}      Switch to flight controls.
+00:19:55 {Misato}      Switch to flight mode.
 00:19:56 {Sumire}      Roger. 
-00:19:57 {Sumire}      Starting ground to air regulation. 
-00:19:58 {Sumire}      Transferring to 3D-type steering.
-00:20:02 {Misato}      Deploy the A.T. Field at the same time we fire up.
-00:20:04 {Tama}        Rotation rate 36000. All green.
-00:20:07 {Koji}        Coming into contact!
-00:20:09 {Misato}      Omit countdown. 
-00:20:10 {Misato}      Main contact.
-00:20:11 {Koji}        Contact!
+00:19:57 {Sumire}      Starting spatiotemporal control.
+00:19:58 {Sumire}      Transferring to 3D control of vessel.
+00:20:02 {Misato}      Deploy the A.T. Field at the moment of ignition.
+00:30:12 {Tama}        Rotational speed at 36,000 turns! 
+00:30:14 {Tama}        All parameters are green!
+00:20:07 {Koji}        Contact imminent!
+00:20:09 {Misato}      Skip the countdown!
+00:20:10 {Misato}      Connect the main engine!
+00:20:11 {Koji}        Connecting!
 00:20:16 {Misato}      Ignite!
-00:20:34 {Midori}      Obstacles cleared.
-00:20:35 {Ritsuko}     Confirming all divisions. 
-00:20:36 {Misato}      / １６番＃＃＃。
-00:20:36 {Ritsuko}     Consort ships have all retreated.
-00:20:38 {Misato}      Here we go. 
+00:20:34 {Midori}      Obstacles cleared!
+00:20:35 {Ritsuko}     Check every department!
+00:20:36 {Ritsuko}     Pull back all consort ships!
+00:20:38 {Misato}      Here we go.
 00:20:39 {Misato}      Wunder, launch!
-00:21:30 {Tama}        Main wings penetrated! Damage unknown!
+00:21:30 {Tama}        Main wings penetrated! Extent of damage unknown!
 00:21:32 {Misato}      Don't sweat it!
-00:21:33 {Misato}      Prepare for a full-scale counterattack.
+00:21:33 {Misato}      Prepare to eliminate the target!
 00:21:34 {Misato}      Upend the ship!
 00:21:35 {Misato}      Go astern!
-00:21:36 {Sumire}      Go astern! Forward, ho!
-00:21:44 {Misato}      Pull out the remains of the core blocks from the phased cocoon.
-00:21:53 {Tama}        Cracks have been sustained on the ends of the main wings!
+00:21:36 {Sumire}      Go astern! Keeping her steady!
+00:21:44 {Misato}      Now drag the core blocks out of the cloaking cocoon!
+00:21:53 {Tama}        Cracks are appearing in the main wing beams!
 00:21:55 {Misato}      Keep the rudder steady!
-00:21:56 {Misato}      Run main engines at full power!
-00:21:58 {Koji}        Both sides at maximum! 
+00:21:56 {Misato}      Run main engine at full power!
+00:21:58 {Koji}        Maximum power to both sides! 
 00:22:00 {Sumire}      Full throttle!
 00:22:28 {Midori}      The core blocks are out!
 00:22:30 {Misato}      Now! 
