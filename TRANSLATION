@@ -727,7 +727,7 @@
 00:41:37 {Kaworu}      Come down here, Ikari-kun. 
 00:41:39 {Kaworu}      Let's talk.
 00:41:46 {Shinji}      U-Uh... Weren't we going to talk?
-00:41:49 {Kaworu}      A piano duet is a dialogue of sounds, you could say. 
+00:41:49 {Kaworu}      A piano duet is a musical dialogue, you could say. 
 00:41:52 {Kaworu}      Why don't you try it?
 00:41:56 {Shinji}      I'll pass. I can't play.
 00:41:58 {Kaworu}      If you want to live well, you have to change and try new things.
@@ -752,86 +752,87 @@
 00:44:29 {Kaworu}      Good morning, Ikari Shinji-kun. 
 00:44:33 {Kaworu}      You're here early today.
 00:44:35 {Shinji}      I didn't have anything else to do.
-00:45:07 {Shinji}      I wonder how I could play better...
-00:45:10 {Kaworu}      You don't need to be good at playing it. 
-00:45:13 {Kaworu}      Just producing a pleasing sound will suffice.
-00:45:17 {Shinji}      So if I want to improve the sound I'm making, what should I do?
-00:45:21 {Kaworu}      It takes repeated practice.
-00:45:23 {Kaworu}      Doing it over and over, until it feels good enough to you.
-00:45:30 {Kaworu}      That's the only way.
-00:46:02 {Kaworu}      It's okay, leave it to me. 
-00:46:03 {Kaworu}      You just need it to work, right?
+00:45:07 {Shinji}      How can I get better at playing piano?
+00:45:10 {Kaworu}      You don't have to be good at it. 
+00:45:13 {Kaworu}      Just make music that feels good.
+00:45:17 {Shinji}      Well, how do I make music that sounds even better?
+00:45:21 {Kaworu}      Practice and more practice.
+00:55:32 {Kaworu}      Do the same thing over and over. 
+00:55:34 {Kaworu}      Keep going until you're happy with it.
+00:55:38 {Kaworu}      That's the only way.
+00:46:02 {Kaworu}      Sure, leave it to me. 
+00:46:03 {Kaworu}      I just need to get it working again, right?
 00:46:05 {Shinji}      Yeah. Thank you. 
-00:46:07 {Shinji}      I feel bad for making you do so much for me.
-00:46:10 {Kaworu}      You don't need to worry about that. 
+00:46:07 {Shinji}      Sorry for asking so much of you.
+00:46:10 {Kaworu}      Don't need to worry about it. 
 00:46:12 {Kaworu}      We're friends, after all.
-00:46:18 {Kaworu}      It's gotten quite dark, hasn't it? 
-00:46:20 {Kaworu}      Why don't we call it a day?
-00:46:23 {Shinji}      Hey, why don't we stay here for a little longer?
+00:46:18 {Kaworu}      It's getting dark.
+00:46:20 {Kaworu}      Let's call it a day.
+00:46:23 {Shinji}      Hey, why don't we stay here a little longer?
 00:45:26 {Shinji}      We could watch the stars from here.
 00:46:28 {Kaworu}      The stars?
-00:46:31 {Kaworu}      Do you like the stars?
+00:46:31 {Kaworu}      So you like the stars?
 00:46:34 {Shinji}      Yeah. 
-00:46:36 {Shinji}      It's always struck me how large the universe is.
-00:46:39 {Shinji}      There's something about it that's put my mind completely at ease, ever since I was little.
-00:46:44 {Shinji}      I guess I'm glad that it hasn't changed at all these past fourteen years. 
-00:46:49 {Shinji}      Or maybe it makes me feel marginalized, but in a good way, if that makes sense.
+00:46:36 {Shinji}      Whenever I think about how vast the universe is,
+00:46:39 {Shinji}      it would always put my mind completely at ease, ever since I was little.
+00:46:44 {Shinji}      I guess I'm happy that it hasn't changed at all these past fourteen years. 
+00:46:49 {Shinji}      It makes me feel like I can stop worrying about myself and really calm down.
 00:46:55 {Shinji}      Uh, it's hard to put into words.
 00:46:58 {Kaworu}      Your feelings came through.
-00:47:01 {Kaworu}      Instead of seeking change, you prefer a world of nothingness and brutal abyss.
-00:47:06 {Kaworu}      It's like you.
+00:47:01 {Kaworu}      Instead of seeking change, you prefer a void, merciless abyss of a world.
+00:47:06 {Kaworu}      It's just like you.
 00:47:09 {Kaworu}      Lying here together is nice.
-00:47:12 {Kaworu}      I didn't know it could be so pleasant.
+00:47:12 {Kaworu}      I didn't know it would feel so good.
 00:47:15 {Kaworu}      Thanks for inviting me.
-00:47:18 {Shinji}      No, you don't need to.
-00:47:20 {Shinji}      I just thought that it'd be fun, if you wanted to try it, and...
+00:47:18 {Shinji}      Oh, it's no big deal.
+00:47:20 {Shinji}      I just thought it'd be fun to watch the stars with you, and—
 00:47:27 {Kaworu}      It is fun.
 00:47:30 {Kaworu}      I really was born to meet you.
 00:47:44 {Shinji}      Hm?
-00:47:50 {Shinji}      Seems a little big this time.
+00:47:50 {Shinji}      This one's a little big.
 00:47:53 {Shinji}      Huh?
 00:47:55 {Tag}         Suzuhara Toji
-00:48:00 {Kaworu}      Here, it should work now.
+00:48:00 {Kaworu}      Here, it should work just fine now.
 00:48:03 {Shinji}      Thanks. 
 00:48:04 {Shinji}      You're amazing, Nagisa-kun. 
-00:48:06 {Shinji}      You can do everything.
-00:48:08 {Kaworu}      This is just knowledge. 
-00:48:10 {Kaworu}      It's because I've stayed in this world for a little longer than you.
-00:48:14 {Shinji}      Still... you're incredible.
-00:48:18 {Kaworu}      You don't look too well. 
+00:48:06 {Shinji}      There's nothing you can't do.
+00:48:08 {Kaworu}      Knowledge is all this is. 
+00:48:10 {Kaworu}      It's only because I've been in this world a little longer than you have.
+00:48:14 {Shinji}      You're still amazing, though.
+00:48:18 {Kaworu}      You seem down.
 00:48:20 {Kaworu}      What's wrong?
 00:48:25 {Shinji}      I'm worried about my friends.
-00:48:29 {Kaworu}      Friends?
+00:48:29 {Kaworu}      Your friends?
 00:48:30 {Shinji}      Yeah. 
 00:48:32 {Shinji}      There was a city above Nerv HQ. 
-00:48:35 {Shinji}      That's where everyone lived.
-00:48:37 {Shinji}      Toji, Kensuke, 
-00:48:38 {Shinji}      the class rep, my other classmates...
-00:48:41 {Shinji}      Apparently I'd been sleeping in Eva-01 for fourteen years.
-00:48:45 {Shinji}      I don't know what's changed in that time.
-00:48:50 {Kaworu}      Not knowing the answer to that must be painful.
-00:48:54 {Shinji}      Somehow, I'm scared.
-00:48:57 {Shinji}      Of what's happened to the city and everybody...
-00:49:02 {Shinji}      I'm scared of it for some reason.
-00:49:04 {Shinji}      That's right, I'm scared!
+00:48:35 {Shinji}      We all used to live there.
+00:48:37 {Shinji}      Toji, Kensuke. 
+00:48:38 {Shinji}      The class rep, my other classmates...
+00:48:41 {Shinji}      Apparently I slept in Eva-01 for fourteen years.
+00:48:45 {Shinji}      So much has changed since then.
+00:48:50 {Kaworu}      More change than you can bear at once is painful.
+00:48:54 {Shinji}      I'm kind of scared.
+00:48:57 {Shinji}      I don't know... what happened to the city and everyone.
+00:49:02 {Shinji}      Nothing makees sense, and it scares me.
+00:49:04 {Shinji}      That's right! I'm scared!
 00:49:15 {Kaworu}      Do you want to know?
 00:49:44 {Shinji}      Nagisa-kun?
 00:49:46 {Shinji}      Nagisa-kun!
-00:50:03 {Kaworu}      Just a little longer now.
-00:50:22 {Kaworu}      The clouds will disperse soon, 
+00:50:03 {Kaworu}      Just a little further now.
+00:50:22 {Kaworu}      The clouds will soon disperse, 
 00:50:24 {Kaworu}      and you will see the truth you desire.
 00:50:36 {Shinji}      What is this...?
 00:50:42 {Kaworu}      The outcome of Third Impact, which came to pass while you were merged with Eva-01.
-00:50:51 {Shinji}      But this is... 
+00:50:51 {Shinji}      But then... 
 00:50:53 {Shinji}      What happened to everyone in the city?
-00:50:55 {Kaworu}      Mass extinction is not unusual on this planet.
-00:50:58 {Kaworu}      Rather, it is an aspect that drives evolution.
-00:51:02 {Kaworu}      Because life is fundamentally something that adjusts to the world and changes itself.
+00:50:55 {Kaworu}      Mass extinctions are not unusual on this planet.
+00:50:58 {Kaworu}      In fact, they help drive evolution.
+00:51:02 {Kaworu}      Life has always changed itself to adapt to the world around it.
 00:51:08 {Kaworu}      However, Lilin do not change themselves, but the world.
 00:51:15 {Kaworu}      So they brought the rite of artificial evolution unto themselves.
 00:51:21 {Kaworu}      Old life is offered in sacrifice, 
 00:51:23 {Kaworu}      so that new beings blessed with the Fruit of Life may be created.
-00:51:29 {Kaworu}      All this is due to the death instinct that's been programmed since time immemorial.
+00:51:29 {Kaworu}      All this is an act of extinction that has been programmed since time immemorial.
 00:51:33 {Kaworu}      Nerv call it the Human Instrumentality Project.
 00:51:38 {Shinji}      This is Nerv's...
 00:51:43 {Shinji}      This is what my father was doing.
@@ -841,85 +842,85 @@
 00:51:58 {Kaworu}      Lilin call it Near Third Impact. 
 00:52:02 {Kaworu}      It was all initiated by you.
 00:52:09 {Shinji}      You're wrong! 
-00:52:10 {Shinji}      All I did was save Ayanami!
-00:52:16 {Kaworu}      True, but that was the catalyst...
-00:52:21 {Shinji}      All this... 
-00:52:25 {Shinji}      I didn't know! 
+00:52:10 {Shinji}      All I wanted to do was save Ayanami!
+00:52:16 {Kaworu}      True, but that was the catalyst.
+00:52:21 {Shinji}      No...
+00:52:25 {Shinji}      This can't be right!
 00:52:27 {Shinji}      You're telling me all of this so fast, 
 00:52:29 {Shinji}      and there's nothing I can do about it!
 00:52:30 {Kaworu}      Indeed. 
 00:52:31 {Kaworu}      There's nothing you can do about your past.
-00:52:35 {Kaworu}      The truth you desired to know.
-00:52:38 {Kaworu}      The Lilin are providing you reparation for your sin as a result.
+00:52:35 {Kaworu}      This is the truth you desired to know.
+00:52:38 {Kaworu}      As a result, the Lilin are letting you pay for your sin.
 00:52:43 {Kaworu}      That's what the thing on your neck is, no?
 00:52:48 {Shinji}      What sin? 
 00:52:50 {Shinji}      I didn't do anything!
 00:52:52 {Shinji}      I had nothing to do with it!
-00:52:54 {Kaworu}      If it wasn't you, then who was it?
+00:52:54 {Kaworu}      You may deny it, but humanity thinks otherwise.
 00:52:58 {Kaworu}      However, no sin is beyond redemption.
 00:53:02 {Kaworu}      There is always hope. 
 00:53:04 {Kaworu}      Always.
 00:53:23 {Fuyutsuki}   Seele's boy has contacted the Third Boy.
 00:53:27 {Fuyutsuki}   He showed him the conditions outside, it seems.
-00:53:30 {Fuyutsuki}   Was his reaction as you anticipated?
-00:53:33 {Fuyutsuki}   Are you okay with all of this, Ikari?
-00:53:35 {Gendo}       Seele's scenario is being rewritten by us.
-00:53:39 {Gendo}       All existence is nothing more than a tool to that end.
-00:53:42 {Fuyutsuki}   You assume that your son wouldn't even benefit from seeing how you live?
-00:53:48 {Fuyutsuki}   I don't agree with that.
-00:53:53 {Shinji}      What is...
-00:53:56 {Shinji}      What am I supposed--
+00:53:30 {Fuyutsuki}   I wonder how he'll cope with it.
+00:53:33 {Fuyutsuki}   Are you sure about this, Ikari?
+00:53:35 {Gendo}       We'll rewrite Seele's scenario.
+00:53:39 {Gendo}       Everything in existence is but a tool for that purpose.
+00:53:42 {Fuyutsuki}   So you're saying that your son wouldn't benefit from seeing how you live?
+00:53:48 {Fuyutsuki}   I'll have to disagree.
+00:53:53 {Shinji}      I don't get it.
+00:53:56 {Shinji}      How did everything end up this way?
 00:54:03 {Shinji}      Right... I saved Ayanami.
-00:54:06 {Shinji}      Wasn't that the right thing?
+00:54:06 {Shinji}      Isn't that good enough?
 00:54:32 {Shinji}      She's gone again. 
 00:54:34 {Shinji}      She still hasn't touched the books.
-00:54:38 {Shinji}      What's going on...? 
+00:54:38 {Shinji}      What's going on? 
 00:54:40 {Shinji}      What's wrong with Ayanami?!
 00:54:53 {Fuyutsuki}   Third Boy, do you play shogi?
-00:54:57 {Shinji}      Eh... I only sort of know the rules.
-00:55:00 {Fuyutsuki}   That's fine. Choose a side.
-00:55:03 {Fuyutsuki}   I'll start without a castle, bishop, and golden general.
+00:54:57 {Shinji}      Eh... I only know the rules.
+00:55:00 {Fuyutsuki}   Good enough. Let's have a game.
+00:55:03 {Fuyutsuki}   I'll start without a castle, bishop, and golden generals.
 00:55:12 {Fuyutsuki}   Let your mind be still.
 00:55:16 {Fuyutsuki}   It's the only way to achieve victory.
-00:55:19 {Fuyutsuki}   You'll lose in another thirty-one turns.
+00:55:19 {Fuyutsuki}   You'll lose in another thirty-one moves.
 00:55:24 {Fuyutsuki}   Hmm... 
 00:55:31 {Fuyutsuki}   Is it more fun for you this way?
 00:55:35 {Fuyutsuki}   Thank you for indulging an old man his hobby.
 00:55:43 {Fuyutsuki}   I'm a coward too, you know. 
 00:55:45 {Fuyutsuki}   I used this game as a pretext to talk to you.
 00:55:50 {Fuyutsuki}   Do you remember your mother?
-00:55:54 {Shinji}      No. I was too small. 
+00:55:54 {Shinji}      No. I was very young. 
 00:55:58 {Shinji}      Father got rid of everything that was hers.
 00:56:07 {Shinji}      Is this... 
-00:56:10 {Shinji}      Ayanami?
+00:56:10 {Shinji}      ...Ayanami?
 00:56:13 {Fuyutsuki}   Your mother. 
 00:56:14 {Fuyutsuki}   Maiden name, Ayanami Yui.
 00:56:16 {Fuyutsuki}   She was my student at the university.
 00:56:20 {Fuyutsuki}   Now, she is the control system of Eva Unit 01.
-00:56:27 {Fuyutsuki}   Hm. The power was finally restored.
-00:56:33 {Fuyutsuki}   The control system from very early in the Evas' development.
+00:56:27 {Fuyutsuki}   Hm. The power's finally back.
+00:56:33 {Fuyutsuki}   That is a very early prototype of the Eva control system.
 00:56:37 {Fuyutsuki}   Here, Yui-kun proposed direct entry into cores,
 00:56:41 {Fuyutsuki}   and tested it with herself as the experimentee.
-00:56:45 {Fuyutsuki}   You were watching, too. Your memory must have been erased.
-00:56:55 {Fuyutsuki}   The result was that Yui-kun vanished here,
-00:56:59 {Fuyutsuki}   and only her data was recovered, in the Ayanami Series.
-00:57:03 {Fuyutsuki}   The Rei you know is one of Yui-kun's clones.
+00:56:45 {Fuyutsuki}   You were watching, too, but your memories have been erased.
+00:56:55 {Fuyutsuki}   In the end, Yui-kun vanished here,
+00:56:59 {Fuyutsuki}   and only her data was left behind for the Ayanami Series.
+00:57:03 {Fuyutsuki}   The Ayanami Rei you know is one of Yui-kun's clones.
 00:57:08 {Fuyutsuki}   She is preserved within Eva-01, the same as your mother.
-00:57:13 {Fuyutsuki}   All of it is Ikari's plan.
+00:57:13 {Fuyutsuki}   It is all part of Ikari's plan.
 00:57:17 {Shinji}      No way...
-00:57:20 {Fuyutsuki}   Breaking the world is not difficult.
+00:57:20 {Fuyutsuki}   Destroying the world is a simple matter.
 00:57:24 {Fuyutsuki}   But rebuilding it, that isn't so easy.
 00:57:28 {Fuyutsuki}   The world can be reversed no more than time.
-00:57:32 {Fuyutsuki}   Nor even the human heart...
+00:57:32 {Fuyutsuki}   Nor can the human heart.
 00:57:35 {Fuyutsuki}   And thus, so that his wish might be granted,
 00:57:38 {Fuyutsuki}   Ikari is paying every price there is.
 00:57:41 {Fuyutsuki}   Even his very soul.
-00:57:44 {Fuyutsuki}   I've imparted to you a little of the truth.
-00:57:47 {Fuyutsuki}   About your father, as well...
-00:58:01 {Fuyutsuki}   I could have been given a more pleasant part to play.
-00:58:04 {Fuyutsuki}   Yui-kun, this should do.
+00:57:44 {Fuyutsuki}   I just wanted to tell you some of the truth,
+00:57:47 {Fuyutsuki}   and about your father.
+00:58:01 {Fuyutsuki}   'Tis a wretched role I'm playing.
+00:58:04 {Fuyutsuki}   Yui-kun, I hope this will suffice.
 00:58:15 {Gendo}       The time of the final contract is upon us.
-00:58:20 {Gendo}       We shall meet soon, Yui.
+00:58:20 {Gendo}       We soon meet again, Yui.
 00:58:31 {Shinji}      Why aren't you reading the books?
 00:58:36 {Rei}         That wasn't your order.
 00:58:38 {Shinji}      "Order"...?
