@@ -268,7 +268,7 @@
 00:23:18 {Midori}      Um...
 00:23:19 {Midori}      Their numbers are somehow increasing!
 00:13:13 {Aoba}        Identification of the targets' core blocks impossible.
-00:13:15 {Aoba}        It may be hiding inside a cloaking cocoon.
+00:13:15 {Aoba}        They may be hiding inside a cloaking cocoon.
 00:13:18 {Ritsuko}     This is bad.
 00:13:20 {Ritsuko}     At this rate, we'll be on the receiving end of a saturated attack.
 00:13:22 {Midori}      Six hundred seconds until contact!
@@ -437,7 +437,7 @@
 00:20:39 {Misato}      Wunder, launch!
 00:21:30 {Tama}        Main wings penetrated! Extent of damage unknown!
 00:21:32 {Misato}      Don't sweat it!
-00:21:33 {Misato}      Prepare to eliminate the target!
+00:21:33 {Misato}      Prepare to eliminate the targets!
 00:21:34 {Misato}      Upend the ship!
 00:21:35 {Misato}      Go astern!
 00:21:36 {Sumire}      Go astern! Keeping her steady!
@@ -615,7 +615,7 @@
 00:31:12 {Misato}      It's not her! 
 00:31:13 {Misato}      Rei's no more, Shinji-kun.
 00:31:15 {Shinji}      Liar! 
-00:31:16 {Shinji}      But she's right there, isn't she?!
+00:31:16 {Shinji}      I mean, she's right there, isn't she?!
 00:31:18 {Shinji}      Misato-san, you're clueless!
 00:31:20 {Shinji}      I'm done here!
 00:31:24 {Sakura}      Ikari-san!
@@ -774,7 +774,7 @@
 00:46:31 {Kaworu}      So you like the stars?
 00:46:34 {Shinji}      Yeah. 
 00:46:36 {Shinji}      Whenever I think about how vast the universe is,
-00:46:39 {Shinji}      it would always put my mind completely at ease, ever since I was little.
+00:46:39 {Shinji}      it's always put my mind completely at ease, ever since I was little.
 00:46:44 {Shinji}      I guess I'm happy that it hasn't changed at all these past fourteen years. 
 00:46:49 {Shinji}      It makes me feel like I can stop worrying about myself and really calm down.
 00:46:55 {Shinji}      Uh, it's hard to put into words.
@@ -813,7 +813,7 @@
 00:48:50 {Kaworu}      More change than you can bear at once is painful.
 00:48:54 {Shinji}      I'm kind of scared.
 00:48:57 {Shinji}      I don't know... what happened to the city and everyone.
-00:49:02 {Shinji}      Nothing makees sense, and it scares me.
+00:49:02 {Shinji}      Nothing makes sense, and it scares me.
 00:49:04 {Shinji}      That's right! I'm scared!
 00:49:15 {Kaworu}      Do you want to know?
 00:49:44 {Shinji}      Nagisa-kun?
@@ -828,7 +828,7 @@
 00:50:55 {Kaworu}      Mass extinctions are not unusual on this planet.
 00:50:58 {Kaworu}      In fact, they help drive evolution.
 00:51:02 {Kaworu}      Life has always changed itself to adapt to the world around it.
-00:51:08 {Kaworu}      However, Lilin do not change themselves, but the world.
+00:51:08 {Kaworu}      However, Lilin change not themselves, but the world.
 00:51:15 {Kaworu}      So they brought the rite of artificial evolution unto themselves.
 00:51:21 {Kaworu}      Old life is offered in sacrifice, 
 00:51:23 {Kaworu}      so that new beings blessed with the Fruit of Life may be created.
@@ -900,7 +900,7 @@
 00:56:27 {Fuyutsuki}   Hm. The power's finally back.
 00:56:33 {Fuyutsuki}   That is a very early prototype of the Eva control system.
 00:56:37 {Fuyutsuki}   Here, Yui-kun proposed direct entry into cores,
-00:56:41 {Fuyutsuki}   and tested it with herself as the experimentee.
+00:56:41 {Fuyutsuki}   and tested it using herself as the subject.
 00:56:45 {Fuyutsuki}   You were watching, too, but your memories have been erased.
 00:56:55 {Fuyutsuki}   In the end, Yui-kun vanished here,
 00:56:59 {Fuyutsuki}   and only her data was left behind for the Ayanami Series.
@@ -914,169 +914,208 @@
 00:57:32 {Fuyutsuki}   Nor can the human heart.
 00:57:35 {Fuyutsuki}   And thus, so that his wish might be granted,
 00:57:38 {Fuyutsuki}   Ikari is paying every price there is.
-00:57:41 {Fuyutsuki}   Even his very soul.
+00:57:41 {Fuyutsuki}   Including his very soul.
 00:57:44 {Fuyutsuki}   I just wanted to tell you some of the truth,
 00:57:47 {Fuyutsuki}   and about your father.
 00:58:01 {Fuyutsuki}   'Tis a wretched role I'm playing.
 00:58:04 {Fuyutsuki}   Yui-kun, I hope this will suffice.
 00:58:15 {Gendo}       The time of the final contract is upon us.
-00:58:20 {Gendo}       We soon meet again, Yui.
+00:58:20 {Gendo}       We will soon meet again, Yui.
 00:58:31 {Shinji}      Why aren't you reading the books?
-00:58:36 {Rei}         That wasn't your order.
-00:58:38 {Shinji}      "Order"...?
-00:58:40 {Shinji}      Alright, enough of that!
-00:58:45 {Shinji}      You are Ayanami, right...?
+00:58:36 {Rei}         Because I wasn't ordered to.
+00:58:38 {Shinji}      "Ordered", huh?
+00:58:40 {Shinji}      Alright, I've had enough!
+00:58:45 {Shinji}      You are Ayanami, right?
 00:58:48 {Rei}         Yes, Ayanami Rei.
-00:58:51 {Shinji}      Then I did save you, right...?
-00:58:55 {Rei}         ...I don't know.
+00:58:51 {Shinji}      Then I did save you, didn't I?
+00:58:55 {Rei}         I don't know.
 00:59:04 {Rei}         Ikari-kun...?
-00:59:11 {Shinji}      So, I didn't actually save her...
-00:59:15 {Shinji}      Ayanami...
-00:59:17 {Misato}      Do nothing.
-00:59:21 {Rei}         I don't know.
-00:59:21 {Asuka}       None of your business.
-00:59:23 {Gendo}       Pilot the Eva.
-00:59:27 {Sakura}      Whatever you do, don't pilot an Eva!
-00:59:29 {Misato}      Do nothing.
-00:59:32 {Asuka}       None of your business.
-00:59:33 {Gendo}       Pilot the Eva.
-00:59:34 {Asuka}       None of your business.
-00:59:36 {Sakura}      Whatever you do, don't pilot an Eva!
-00:59:39 {Shinji}      Father...
-00:59:40 {Rei}         I don't know.
-00:59:41 {Misato}      Do nothing.
-00:59:42 {Gendo}       Pilot the Eva.
-00:59:43 {Asuka}       None of your business.
-00:59:44 {Sakura}      Whatever you do, don't pilot an Eva!
-00:59:45 {Misato}      Do nothing.
-00:59:46 {Gendo}       Pilot the Eva.
-00:59:46 {Asuka}       None of your business.
-00:59:48 {Misato}      Do nothing.
-00:59:48 {Rei}         I don't know.
-00:59:49 {Asuka}       None of your business.
-00:59:51 {Gendo}       Pilot the Eva.
-00:59:52 {Misato}      Do nothing.
-00:59:53 {Rei}         I don't know.
-00:59:53 {Asuka}       ...your business.
-00:59:54 {Rei}         I don't know.
-00:59:55 {Asuka}       None of your business.
-00:59:56 {Sakura}      Whatever you do, don't pilot an Eva!
-00:59:59 {Rei}         I don't know.
-01:00:00 {Gendo}       Pilot the Eva.
-01:00:08 {Shinji}      What did I do?
-01:00:47 {Fuyutsuki}   Has the final executor been completed?
-01:00:50 {Gendo}       Yes, everything we need is right here.
+01:09:20 {Shinji}      So, I didn't actually save her...
+01:09:24 {Shinji}      Ayanami...
+01:09:26 {Misato}      Do nothing.
+01:09:26 {Voice}　　　 What an idiot. I hate you.
+01:09:27 {Voice}　　　 Stay away from me.
+01:09:28 {Voice}　　　 To be honest, I don't just dislike you.
+01:09:28 {Voice}　　　 I wish you didn't exist.
+01:09:29 {Voice}　　　 There's no way I'd fall for you.
+01:09:29 {Voice}　　　 Have a good think.
+01:09:29 {Rei}         I don't know.
+01:09:30 {Shinji}      Father...
+01:09:30 {Asuka}       None of your business.
+01:09:31 {Voice}　　　 I hate people like you the most.
+01:09:31 {Voice}　　　 Just get lost.
+01:09:31 {Asuka}       None of your business.
+01:09:32 {Gendo}       Pilot that Eva.
+01:09:33 {Asuka}       None of your business.
+01:09:33 {Gendo}       Pilot that Eva.
+01:09:35 {Sakura}      Please just don't pilot an Eva!
+01:09:38 {Misato}      Do nothing.
+01:09:38 {Shinji}      Mother...
+01:09:38 {Misato}      Do nothing.
+01:09:39 {Sakura}      Please just don't pilot an Eva!
+01:09:39 {Misato}      Do nothing.
+01:09:41 {Asuka}       None of your business.
+01:09:41 {Gendo}       Pilot that Eva.
+01:09:43 {Voice}　　　 Your existence means nothing to me.
+01:09:43 {Gendo}       Pilot that Eva.
+01:09:43 {Asuka}       None of your business.
+01:09:44 {Gendo}       Pilot that Eva.
+01:09:45 {Rei}         I don't know.
+01:09:45 {Sakura}      Please just don't pilot an Eva!
+01:09:45 {Rei}         I don't know.
+01:09:45 {Voice}　　　 Just disappear already.
+01:09:45 {Sakura}      Please just don't pilot an Eva!
+01:09:46 {Rei}         I don't know.
+01:09:47 {Sakura}      Please just don't pilot an Eva!
+01:09:47 {Voice}　　　 You'd burden me as a friend.
+01:09:47 {Sakura}      Please just don't pilot an Eva!
+01:09:48 {Shinji}      Misato-san...
+01:09:49 {Rei}         I don't know.
+01:09:50 {Voice}　　　 To be honest, I don't just dislike you.
+01:09:50 {Misato}      Do nothing.
+01:09:50 {Gendo}       Pilot that Eva.
+01:09:51 {Asuka}       None of your business.
+01:09:52 {Voice}　　　 I hate people like you the most.
+01:09:52 {Sakura}      Please just don't pilot an Eva!
+01:09:53 {Rei}         I don't know.
+01:09:53 {Misato}      Do nothing.
+01:09:54 {Gendo}       Pilot that Eva.
+01:09:55 {Asuka}       None of your business.
+01:09:55 {Voice}　　　 Bye-bye!
+01:09:56 {Misato}      Do nothing.
+01:09:56 {Sakura}      Please just don't pilot an Eva!
+01:09:57 {Rei}         I don't know.
+01:09:57 {Gendo}       Pilot that Eva.
+01:09:57 {Asuka}       None of your business.
+01:09:58 {Sakura}      Please just don't pilot an Eva!
+01:09:58 {Asuka}       None of your business.
+01:09:58 {Misato}      Do nothing.
+01:09:59 {Rei}         I don't know.
+01:09:59 {Gendo}       Pilot that Eva.
+01:10:00 {Sakura}      Please just don't pilot an Eva!
+01:10:00 {Misato}      Do nothing.
+01:10:01 {Asuka}       None of your business.
+01:10:02 {Misato}      Do nothing.
+01:10:03 {Asuka}       None of your business.
+01:10:05 {Sakura}      Please just don't pilot an Eva!
+01:10:07 {Rei}         I don't know.
+01:10:08 {Gendo}       Pilot that Eva.
+01:10:16 {Shinji}      What was I doing?
+01:00:47 {Fuyutsuki}   The final executor is complete at last.
+01:00:50 {Gendo}       Yes. Everything we need is right here.
 01:00:56 {Kaworu}      The time has come.
 01:00:59 {Kaworu}      This is it, Ikari Shinji-kun.
 01:01:02 {Shinji}      No!
-01:01:05 {Shinji}      I don't want to pilot an Eva anymore!
+01:01:05 {Shinji}      I never want to pilot an Eva again!
 01:01:07 {Shinji}      I didn't save Ayanami after all!
-01:01:10 {Shinji}      Nothing good came out of me piloting an Eva!
+01:01:10 {Shinji}      Nothing good ever came out of piloting an Eva!
 01:01:13 {Shinji}      I've had enough! I don't want to do anything!
-01:01:16 {Kaworu}      And so, the refrain of bitter memories will keep good things from happening.
+01:01:16 {Kaworu}      And nothing good comes from replaying your painful memories either.
 01:01:24 {Shinji}      Nothing is ever good!
-01:01:26 {Shinji}      You were the one who showed me that, Nagisa-kun.
-01:01:29 {Shinji}      A world where I can't do anything!
-01:01:32 {Kaworu}      That which was changed by Eva can be changed back by Eva in turn.
-01:01:37 {Shinji}      You say that, but my father, Eva, Misato-san...
-01:01:39 {Shinji}      I can't believe in anyone, or anything!
+01:01:26 {Shinji}      You showed me it yourself, Nagisa-kun.
+01:01:29 {Shinji}      The blood-red world I can't do anything about...
+01:01:32 {Kaworu}      That which was changed by Eva can be restored by Eva in turn.
+01:11:45 {Shinji}      You say that, but my father, Evas, Misato-san...
+01:11:48 {Shinji}      I can't believe in anyone, or anything!
 01:01:43 {Kaworu}      Still, I want you to believe in me.
 01:01:46 {Shinji}      I can't!
-01:01:49 {Shinji}      Misato-san had this thing put on me!
-01:01:53 {Shinji}      They said to never pilot an Eva again.
-01:01:55 {Shinji}      They said if I pilot, I'll die.
-01:01:59 {Shinji}      I don't care about Eva anymore.
+01:01:49 {Shinji}      Misato-san had this thing put on me.
+01:01:53 {Shinji}      They told me to never pilot an Eva again.
+01:01:55 {Shinji}      They threatened to kill me if I did.
+01:01:59 {Shinji}      I don't care about Evas anymore.
 01:02:09 {Kaworu}      I understand.
-01:02:10 {Kaworu}      For you, I will shoulder the burden of the Lilin's curse and the risk of Eva's Awakening.
+01:02:10 {Kaworu}      I will shoulder the burden of the Lilin's curse and the risk of Eva's Awakening.
 01:02:21 {Shinji}      Nagisa-kun...
 01:02:24 {Kaworu}      No need to worry.
 01:02:26 {Kaworu}      The Lilin originally created this due to their fear of me.
 01:02:29 {Kaworu}      I intended to take it from you at some point.
 01:02:34 {Kaworu}      Ikari Shinji-kun, your only hope lies with the two Spears left at the Impact epicenter in Dogma.
-01:02:41 {Kaworu}      They are the key to activating Instrumentality.
-01:02:45 {Kaworu}      All we have to do is obtain those Spears.
-01:02:48 {Kaworu}      If we do that, Nerv will not be able to cause Fourth Impact.
-01:02:52 {Kaworu}      And if we use them together with Eva-13, it becomes possible to fix the world.
-01:02:58 {Shinji}      I see...
-01:03:03 {Shinji}      Yes. It is possible for you.
-01:03:05 {Kaworu}      It is possible WITH you.
+01:02:41 {Kaworu}      They are the keys to invoking the Instrumentality Project.
+01:02:45 {Kaworu}      We should take those Spears for ourselves.
+01:02:48 {Kaworu}      That way, Nerv can no longer trigger the Fourth Impact,
+01:02:52 {Kaworu}      And if we use them together with Eva-13, we can even repair the world.
+01:02:58 {Shinji}      I guess so.
+01:03:03 {Shinji}      Yeah, I'm sure you can do it.
+01:03:05 {Kaworu}      *We* can do it, you mean.
 01:03:07 {Kaworu}      Eva-13 uses a double entry system.
-01:03:11 {Kaworu}      Let the two of us become the hope of the Lilin.
-01:03:15 {Kaworu}      Because what you need the most right now is hope,
-01:03:19 {Kaworu}      along with atonement and an open heart.
+01:03:11 {Kaworu}      Let's become the hope of Lilin together.
+01:03:15 {Kaworu}      What you need most of all right now is hope,
+01:03:19 {Kaworu}      along with atonement and serenity.
 01:03:25 {Shinji}      You're amazing. You know everything.
-01:03:30 {Kaworu}      That's because I am always thinking about you.
+01:03:30 {Kaworu}      Only because I'm always thinking about you.
 01:03:35 {Shinji}      Thank you, Nagisa-kun.
-01:03:38 {Kaworu}      "Kaworu" is fine.
-01:03:40 {Shinji}      Ah, okay. 
-01:03:43 {Shinji}      "Shinji" is fine for me, too.
+01:03:38 {Kaworu}      Just call me Kaworu.
+01:03:40 {Shinji}      Well, uh...
+01:03:43 {Shinji}      You can call me Shinji, then. 
 01:03:49 {Kaworu}      It is the same as playing piano. 
-01:03:50 {Kaworu}      Good things will come if we do it together.
+01:03:50 {Kaworu}      Good things will happen if we're together, Shinji-kun.
+01:14:03 {Shinji}      Yeah.
 01:03:56 {Shinji}      Let's go, Kaworu-kun.
 01:04:38 {Both}        Evangelion 13, start up!
-01:04:43 {Aoba}        Incoming signal! 
-01:04:44 {Aoba}        Activation of a new type of Eva confirmed.
+01:04:43 {Aoba}        Signal detected!
+01:04:44 {Aoba}        Activation of a new Eva confirmed!
 01:05:06 {Shinji}      We're not alone.
 01:05:08 {Kaworu}      You mean the Mark.09? 
 01:05:08 {Kaworu}      It's here as our backup.
-01:05:12 {Kaworu}      It will warn us of any Wille activity.
-01:05:15 {Shinji}      The two of us should be enough for all that.
-01:05:18 {Shinji}      She isn't even Ayanami...
+01:05:12 {Kaworu}      It'll look out for any signs of Wille activity.
+01:05:15 {Shinji}      Just the two of us would've been enough.
+01:05:18 {Shinji}      She's not Ayanami anyway...
 01:05:22 {Rei}         Not... Ayanami?
-01:05:28 {Shinji}      The walls...?
+01:05:28 {Shinji}      The walls are...
 01:05:30 {Kaworu}      Yes, all failures of infinity.
 01:05:38 {Kaworu}      Don't let them weigh upon your mind.
 01:05:42 {Kaworu}      We're nearly at Lilith's barrier.
 01:05:45 {Kaworu}      The Main Shaft is completely blocked,
-01:05:47 {Kaworu}      keeping anyone from intruding over the past fourteen years.
-01:05:56 {Shinji}      It's like one big lid.
-01:06:00 {Kaworu}      It's all right. Eva-13 was made for breaking through this.
-01:06:03 {Kaworu}      The two of us can do it.
+01:05:47 {Kaworu}      keeping anyone from intruding during the past fourteen years.
+01:05:56 {Shinji}      It's just like a huge lid.
+01:06:00 {Kaworu}      Don't worry. Eva-13 was designed to break through it.
+01:06:03 {Kaworu}      We can do it together.
+01:16:14 {Shinji}      Right.
 01:06:15 {Kaworu}      Try to join tempos. 
-01:06:17 {Kaworu}      Remember the piano duet.
+01:06:17 {Kaworu}      Think about our piano duets.
 01:06:24 {Kaworu}      Let's go, Shinji-kun.
 01:06:48 {Shinji}      We did it!
-01:07:07 {Kaworu}      We've arrived. The deepest part of Central Dogma.
+01:07:07 {Kaworu}      Here we are. The deepest level of Central Dogma.
 01:07:14 {Kaworu}      The epicenter of Third Impact.
-01:07:21 {Shinji}      Is this Lilith?
-01:07:23 {Kaworu}      It once was. 
+01:07:21 {Shinji}      Is that Lilith?
+01:07:23 {Kaworu}      It *used* to be. 
 01:07:25 {Kaworu}      Now, it is her corpse.
-01:07:27 {Shinji}      Misato-san, even though we tried to protect it with our lives...
-01:07:32 {Shinji}      Uh... That's an Eva?
+01:07:27 {Shinji}      Misato-san... even though we risked our lives to protect it...
+01:07:32 {Shinji}      Huh? Is that an Eva?
 01:07:35 {Kaworu}      Yes, the Eva Mark.06.
 01:07:38 {Kaworu}      Remodeled into an autonomous type, 
-01:07:40 {Kaworu}      exploitation by the Lilin brought the unit to a state of ruin.
+01:07:40 {Kaworu}      exploitation by the Lilin brought the unit to this state of ruin.
 01:07:48 {Shinji}      The things that are piercing them... are our targets?
 01:07:52 {Kaworu}      Yes, the Spears of Longinus and Cassius. 
 01:07:55 {Kaworu}      Wielding both requires two souls.
-01:08:00 {Kaworu}      That is why we have the double entry system.
-01:08:04 {Shinji}      Then... wouldn't that pilot have been just as good for this as me?
-01:08:08 {Kaworu}      No, a Lilin imitation cannot be used.
-01:08:10 {Kaworu}      Their souls' placement is different.
+01:08:00 {Kaworu}      That's why we have the double entry system.
+01:08:04 {Shinji}      Then... wouldn't *that* pilot have been just as good for this as me?
+01:08:08 {Kaworu}      No, a replica Lilin won't do.
+01:08:10 {Kaworu}      Her soul is somewhere else.
 01:08:14 {Kaworu}      Well, let's begin.
 01:08:23 {Kaworu}      Hold on. 
-01:08:25 {Kaworu}      Something is wrong.
+01:08:25 {Kaworu}      Something's wrong.
 01:08:26 {Shinji}      What is it, Kaworu-kun?
-01:08:31 {Kaworu}      This is not right... 
-01:08:32 {Kaworu}      Both of the Spears have changed to a similar shape.
-01:08:36 {Shinji}      Let's just pull the Spears quickly!
-01:08:38 {Shinji}      That's why we came here in this Eva.
+01:08:31 {Kaworu}      This is odd... 
+01:08:32 {Kaworu}      Both Spears have morphed into the same shape.
+01:08:36 {Shinji}      We should hurry and pull the Spears out.
+01:08:38 {Shinji}      It's the only reason I'm piloting this Eva.
 01:08:44 {Shinji}      What's going on?!
 01:08:55 {Shinji}      Eva-02?
 01:08:57 {Shinji}      Asuka!
 01:09:00 {Shinji}      What are you doing, Asuka?!
 01:09:05 {Asuka}       Stupid Shinji?!
-01:09:06 {Asuka}       You can't seriously be piloting an Eva?
+01:09:06 {Asuka}       You can't seriously be piloting an Eva?!
 01:09:08 {Shinji}      I am. 
-01:09:10 {Shinji}      I'm going to change the world with this Eva!
-01:09:13 {Asuka}       You little brat...
+01:09:10 {Shinji}      And I'm going to change the world doing it!
+01:09:13 {Asuka}       You damned brat...
 01:09:15 {Asuka}       If that's how it is, don't pilot!
-01:09:25 {Asuka}       Support fire, you're always late!
+01:09:25 {Asuka}       Your support fire is always late!
 01:09:26 {Mari}        Sorry, sorry!
 01:09:28 {Mari}        Adams' Vessel-san,
-01:09:31 {Mari}        the least I can do is get you to stick around. 
-01:09:54 {Shinji}      Why are you interfering, Asuka?
-01:09:56 {Shinji}      Those are our Spears of Hope!
+01:09:31 {Mari}        at least I'll stop *you* in your tracks.
+01:09:54 {Shinji}      Why are you getting in our way, Asuka?
+01:09:56 {Shinji}      Those are our Spears of hope!
 01:10:01 {Asuka}       Stop!... looking!... for trouble!
 01:10:04 {Asuka}       You brat, Shinji!
 01:10:05 {Asuka}       Are you planning to start Third Impact again?
