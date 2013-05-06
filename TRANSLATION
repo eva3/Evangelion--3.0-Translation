@@ -933,17 +933,17 @@
 01:09:20 {Shinji}      So, I didn't actually save her...
 01:09:24 {Shinji}      Ayanami...
 01:09:26 {Misato}      Do nothing.
-01:09:26 {Voice}　　　 What an idiot. I hate you.
-01:09:27 {Voice}　　　 Stay away from me.
-01:09:28 {Voice}　　　 To be honest, I don't just dislike you.
-01:09:28 {Voice}　　　 I wish you didn't exist.
-01:09:29 {Voice}　　　 There's no way I'd fall for you.
-01:09:29 {Voice}　　　 Have a good think.
+01:09:26 {Voice}       What an idiot. I hate you.
+01:09:27 {Voice}       Stay away from me.
+01:09:28 {Voice}       To be honest, I don't just dislike you.
+01:09:28 {Voice}       I wish you didn't exist.
+01:09:29 {Voice}       There's no way I'd fall for you.
+01:09:29 {Voice}       Have a good think.
 01:09:29 {Rei}         I don't know.
 01:09:30 {Shinji}      Father...
 01:09:30 {Asuka}       None of your business.
-01:09:31 {Voice}　　　 I hate people like you the most.
-01:09:31 {Voice}　　　 Just get lost.
+01:09:31 {Voice}       I hate people like you the most.
+01:09:31 {Voice}       Just get lost.
 01:09:31 {Asuka}       None of your business.
 01:09:32 {Gendo}       Pilot that Eva.
 01:09:33 {Asuka}       None of your business.
@@ -956,26 +956,26 @@
 01:09:39 {Misato}      Do nothing.
 01:09:41 {Asuka}       None of your business.
 01:09:41 {Gendo}       Pilot that Eva.
-01:09:43 {Voice}　　　 Your existence means nothing to me.
+01:09:43 {Voice}       Your existence means nothing to me.
 01:09:43 {Gendo}       Pilot that Eva.
 01:09:43 {Asuka}       None of your business.
 01:09:44 {Gendo}       Pilot that Eva.
 01:09:45 {Rei}         I don't know.
 01:09:45 {Sakura}      Please just don't pilot an Eva!
 01:09:45 {Rei}         I don't know.
-01:09:45 {Voice}　　　 Just disappear already.
+01:09:45 {Voice}       Just disappear already.
 01:09:45 {Sakura}      Please just don't pilot an Eva!
 01:09:46 {Rei}         I don't know.
 01:09:47 {Sakura}      Please just don't pilot an Eva!
-01:09:47 {Voice}　　　 You'd burden me as a friend.
+01:09:47 {Voice}       You'd burden me as a friend.
 01:09:47 {Sakura}      Please just don't pilot an Eva!
 01:09:48 {Shinji}      Misato-san...
 01:09:49 {Rei}         I don't know.
-01:09:50 {Voice}　　　 To be honest, I don't just dislike you.
+01:09:50 {Voice}       To be honest, I don't just dislike you.
 01:09:50 {Misato}      Do nothing.
 01:09:50 {Gendo}       Pilot that Eva.
 01:09:51 {Asuka}       None of your business.
-01:09:52 {Voice}　　　 I hate people like you the most.
+01:09:52 {Voice}       I hate people like you the most.
 01:09:52 {Sakura}      Please just don't pilot an Eva!
 01:09:53 {Rei}         I don't know.
 01:09:53 {Misato}      Do nothing.
@@ -1257,7 +1257,7 @@
 01:21:15 {Midori}      Unable to reject the Adams' Vessel!
 01:21:17 {Tama}        Unidentified data is infiltrating the main control system!
 01:21:19 {Aoba}        It's hijacking control of the ship!
-01:21:43 {Asuka}       Talk about cheap! That's Seele's style, all right.
+01:21:43 {Asuka}       No fair! That reeks of Seele.
 01:21:53 {Asuka}       Mode change!
 01:21:55 {Asuka}       Code 777!
 01:22:04 {Rei}         Who's there?
@@ -1277,69 +1277,70 @@
 01:23:34 {Misato}      Pursue the target Eva immediately!
 01:23:36 {Ritsuko}     Captain, we must wait until the main engine recovers.
 01:23:40 {Misato}      Shinji-kun...
-01:24:02 {Shinji}      This is all because of me...
-01:24:06 {Shinji}      I...
+01:24:02 {Shinji}      This is all because of me...?
+01:24:06 {Shinji}      I... I...
 01:24:12 {Kaworu}      It's not your fault.
-01:24:15 {Kaworu}      It's because I became the Thirteenth Angel.
-01:24:19 {Kaworu}      I'm the trigger.
-01:24:21 {Shinji}      What do I do?
-01:24:24 {Shinji}      Hey, what are we going to do?
+01:24:15 {Kaworu}      It happened because I became the Thirteenth Angel.
+01:24:19 {Kaworu}      I was the trigger.
+01:24:21 {Shinji}      What should I do?
+01:24:24 {Shinji}      Tell me, what should I do?
 01:24:31 {Shinji}      Kaworu-kun,
-01:24:34 {Shinji}      tell me what the right thing would be.
-01:24:37 {Kaworu}      Even if souls disappear, hopes and curses will remain in this world.
-01:24:43 {Kaworu}      Intent is imparted to the world as information and goes on to change.
-01:24:48 {Kaworu}      In time, even one's very self is being rewritten.
-01:24:54 {Kaworu}      I'm sorry. This isn't the happiness you wished for.
-01:24:59 {Kaworu}      I will close the Door of Guf.
-01:25:03 {Kaworu}      You don't need to worry about it, Shinji-kun.
+01:24:34 {Shinji}      what would tbe he right thing to do?
+01:24:37 {Kaworu}      Even if your soul disappears, your hopes and curses remain in this world.
+01:24:43 {Kaworu}      Your will roams the world as information and gradually changes.
+01:24:48 {Kaworu}      In time, even your very self is altered.
+01:24:54 {Kaworu}      I'm sorry. This wasn't the happiness you desired.
+01:24:59 {Kaworu}      I'll close the Door of Guf.
+01:25:03 {Kaworu}      You don't need to worry, Shinji-kun.
 01:25:05 {Shinji}      Kaworu-kun...
-01:25:08 {Shinji}      What are you saying, Kaworu-kun?
-01:25:11 {Shinji}      I don't get any of it!
-01:25:18 {Kaworu}      Shinji-kun, you should find a place of peace and self.
+01:25:08 {Shinji}      What are you talking about, Kaworu-kun?
+01:25:11 {Shinji}      I don't get it at all!
+01:25:18 {Kaworu}      Shinji-kun, you just need to find peace and a place to call your own.
 01:25:31 {Kaworu}      Fate will surely guide you.
-01:25:37 {Kaworu}      Don't make that face.
+01:25:37 {Kaworu}      Don't look at me like that.
 01:25:41 {Kaworu}      We'll meet again, Shinji-kun.
 01:25:44 {Shinji}      Kaworu-kun!
-01:26:04 {Mari}        The Door of Guf hasn't closed yet?
-01:26:06 {Mari}        So, Puppy Boy is Seele's backup measure!
-01:26:25 {Mari}        I'm done cleaning up! 
-01:26:26 {Mari}        Hang in there, Puppy Boy!
-01:26:30 {Mari}        Don't be such a baby! 
-01:26:31 {Mari}        Help out the Princess, at least! 
-01:26:33 {Mari}        Be a man! 
+01:26:04 {Mari}        The Door of Guf still hasn't closed!
+01:26:06 {Mari}        So, Puppy Boy was Seele's backup!
+01:26:25 {Mari}        Everything's settled!
+01:26:26 {Mari}        Get a grip on yourself, Puppy Boy!
+01:26:30 {Mari}        Stop being such a baby!
+01:26:31 {Mari}        At least save the Princess!
+01:26:33 {Mari}        You're a man, aren't you?!
 01:26:36 {Mari}        And while you're at it, get to know the world a little!
-01:27:33 {Fuyutsuki}   What a nightmare. 
-01:27:35 {Fuyutsuki}   Nearly all went as Seele intended. 
-01:27:38 {Gendo}       But not only was Seele's boy eliminated, the path was forged for Eva-13's Awakening.
-01:27:46 {Gendo}       Captain Katsuragi's actions are within predictions, as well.
+01:27:33 {Fuyutsuki}   Look at this mess.
+01:27:35 {Fuyutsuki}   Nearly everything went as Seele had intended. 
+01:27:38 {Gendo}       Even so, we eliminated Seele's boy and guided Eva-13 to its Awakening.
+01:27:46 {Gendo}       Captain Katsuragi's actions are also within expectations.
 01:27:49 {Gendo}       This will do for now.
-01:27:52 {Hyuga}       All ships, maintain organization for Class Two withdrawal.
-01:27:55 {Woman}       No pattern blue readings.
-01:27:57 {Woman}       No ships sighted in withdrawal airspace.
-01:27:59 {Man}         Damaged areas of the midsection have received emergency treatment.
-01:28:01 {Ritsuko}     Fourth Impact was stopped, but we don't know whom to thank.
-01:28:07 {Ritsuko}     Misato, let's leave it for now...
+01:27:52 {Hyuga}       All ships, remain in secondary state of alert.
+01:27:55 {Midori}      No blood type blue readings.
+01:27:57 {Midori}      No units detected in the monitored airspace.
+01:27:59 {Tama}        Emergency repairs to the central hull completed.
+01:28:01 {Ritsuko}     I don't know who did it, but Fourth Impact was stopped.
+01:28:07 {Ritsuko}     Misato, this should be good enough for now.
 01:29:01 {Asuka}       You brat, Shinji.
-01:29:04 {Asuka}       You didn't come to help me?
-01:29:10 {Asuka}       Yet again, it's all about you.
-01:29:12 {Asuka}       You think you can just get away with what's happened by not saying a thing.
-01:29:40 {Asuka}       You still need babying?
-01:29:43 {Asuka}       No matter how much time passes... you're always such a brat!
+01:29:04 {Asuka}       You didn't come to help me.
+01:29:10 {Asuka}       Only thinking about yourself, as usual.
+01:29:12 {Asuka}       You think you can get away with everything if you don't say a word.
+01:29:40 {Asuka}       You're still such a baby.
+01:39:52 {Asuka}       Even after all this time,
+01:39:53 {Asuka}       you're nothing but an irksome brat!
 01:29:47 {Asuka}       Here, put this on.
-01:29:50 {Asuka}       Jeez! You can stand on your own, can't you?!
+01:29:50 {Asuka}       Jeez! You can't even *stand* on your own?!
 01:29:58 {Asuka}       You're the pilot from before.
 01:30:02 {Asuka}       From an early lot of Ayanami types, are you?
-01:30:11 {Asuka}       The L Barrier's density is too strong here, so they won't come to help us.
-01:30:16 {Asuka}       We're going to where the Lilin can pick us up.
+01:30:11 {Asuka}       The L Barrier density is too high here, so they won't be able to come for us.
+01:30:16 {Asuka}       We'll go someplace where the Lilin can pick us up.
 01:30:23 {Asuka}       Come on!
+01:41:00 {Captain}     To Be Continued
 01:35:11 {Caption}     Preview
-01:35:12 {Narrator}    Shinji Ikari continues to wander, still lacking the will to live.
-01:35:16 {Narrator}    He reaches a place where he learns hope.
+01:35:12 {Narrator}    Shinji Ikari is still adrift after losing his will to live.
+01:35:16 {Narrator}    He'll discover hope at the place he ends up.
 01:35:19 {Narrator}    Finally the Instrumentality Project is set in motion.
-01:35:22 {Narrator}    To prevent Final Impact,
-01:35:23 {Narrator}    Wille make one last grueling stand.
-01:35:26 {Narrator}    Wunder tears through the skies!
+01:35:22 {Narrator}    Wille make one last grueling stand to prevent Final Impact.
+01:35:26 {Narrator}    The Wunder tears through the sky!
 01:35:27 {Narrator}    Eva Unit 8+2 races across the red earth!
 01:35:32 {Narrator}    Next time in "New Evangelion Theatrical Edition".
-01:35:34 {Title}       New Evangelion Theatrical Edition: ||
-01:35:34 {Narrator}    There'll be fan service up until the end!
+01:35:34 {Title}       Next Time  New Evangelion Theatrical Edition: ||
+01:35:34 {Narrator}    There'll be plenty of fan service all the way to the end!
