@@ -2115,7 +2115,7 @@ Diga.
 
 529
 00:29:09,000 --> 00:29:10,000
-¡Ahora sí que empezó la pelea!
+¡Ahora sí empezó la pelea!
 
 530
 00:29:10,000 --> 00:29:12,000
@@ -2255,7 +2255,7 @@ Quédate aquí mismo.
 
 564
 00:30:41,000 --> 00:30:43,000
-¿No decías hace un momento que no me necesitabas?
+¿No decías hace un momento que no me necesitaban?
 
 565
 00:30:43,000 --> 00:30:45,000
@@ -2267,11 +2267,11 @@ Aún así, quedarás bajo nuestra custodia.
 
 567
 00:30:53,000 --> 00:30:53,000
-¡Por favor haz que se detenga!
+¡Por favor haz que se detengan!
 
 568
 00:30:53,000 --> 00:30:55,000
-¡El objetivo es un EVA!
+¡Están atacando a un EVA!
 
 569
 00:30:55,000 --> 00:30:57,000
@@ -2295,11 +2295,11 @@ Somos Wille, una organización cuyo propósito es destruir Nerv.
 
 574
 00:31:07,000 --> 00:31:09,000
-Tal como...
+Entonces...
 
 575
 00:31:09,000 --> 00:31:12,000
-¡Pero no! ¡Está siendo piloteado por Ayanami!
+¡Un momentp! ¡Ayanami lo está piloteando!
 
 576
 00:31:12,000 --> 00:31:13,000
@@ -2319,11 +2319,11 @@ Quiero decir, ella está justo ahí, ¡¿no es así?!
 
 580
 00:31:18,000 --> 00:31:20,000
-¡Ya no entiendo, Misato-san!
+¡No lo entiendes Misato-san!
 
 581
 00:31:20,000 --> 00:31:24,000
-¡Ya tuve suficiente!
+¡Ya fue suficiente!
 
 582
 00:31:24,000 --> 00:31:27,000
@@ -2331,7 +2331,7 @@ Quiero decir, ella está justo ahí, ¡¿no es así?!
 
 583
 00:31:27,000 --> 00:31:29,000
-Estoy de acuerdo,
+Haz lo que quieras,
 
 584
 00:31:29,000 --> 00:31:31,000
@@ -2339,7 +2339,7 @@ Estoy de acuerdo,
 
 585
 00:31:31,000 --> 00:31:43,000
-De verdad... Necesito un descanso de todo esto.
+De verdad... Queremos estar tranquilos.
 
 586
 00:31:43,000 --> 00:31:44,000
@@ -2367,19 +2367,19 @@ De verdad... Necesito un descanso de todo esto.
 
 592
 00:32:09,000 --> 00:32:17,000
-¡Lo sabía! ¿Un recipiente de Adams?
+¿Un contenedor de Adams?
 
 593
 00:32:17,000 --> 00:32:22,000
-¡Al menos di "hola" o algo!
+¡Al menos saluda, maldita sea!
 
 594
 00:32:22,000 --> 00:32:25,000
-El hecho de que él fuese tomado como prioridad sobre el EVA-01,
+Si vinieron a buscar a él y no al Eva-01,
 
 595
 00:32:25,000 --> 00:32:27,000
-¡Quiere decir que todavía tiene potencial como disparador!
+¡significa que todavía es capaz de causar otro impacto!
 
 596
 00:32:27,000 --> 00:32:44,000
